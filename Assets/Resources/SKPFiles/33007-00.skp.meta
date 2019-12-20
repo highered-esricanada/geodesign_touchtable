@@ -1,0 +1,2231 @@
+fileFormatVersion: 2
+guid: a8e732dcccc711943978e615e54eaabe
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ee020000ef020000f1020000f2020000f4020000f5020000f7020000f8020000fa020000fb020000fd020000fe020000000300000103000003030000040300000603000007030000090300000a0300000c0300000d0300000f030000100300001203000013030000150300001603000018030000190300001b0300001c0300001e0300001f0300002103000022030000240300002503000027030000280300002a0300002b0300002d0300002e030000300300003103000033030000340300003603000037030000390300003a0300003c0300003d0300003f03000040030000420300004303000045030000460300004803000049030000
+  assetHash:
+    serializedVersion: 2
+    Hash: 37ebd95c0ece96ec48408894614d8800
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 42.16613, y: 54.9306, z: -90.834526}
+      lookAt: {x: 2.032845, y: -0.7068585, z: -2.9797719}
+      up: {x: -0.20740008, y: 0.8665197, z: 0.45401424}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 1.112107, y: 139.34818, z: -2.724074}
+        lookAt: {x: 1.112107, y: 7.2330384, z: -2.724074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3359.3462
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 42.16613, y: 54.9306, z: -90.834526}
+        lookAt: {x: 2.032845, y: -0.7068585, z: -2.9797719}
+        up: {x: -0.20740008, y: 0.8665197, z: 0.45401424}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 42.16613, y: 54.9306, z: -90.834526}
+        lookAt: {x: 2.032845, y: -0.7068585, z: -2.9797719}
+        up: {x: -0.20740008, y: 0.8665197, z: 0.45401424}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33007_3d_building
+    100004: 33007_3d_site
+    100006: bldg_half
+    100008: bldg_half 1
+    100010: Door_glass_1.0x2.18#1
+    100012: Door_glass_1.0x2.18#1 1
+    100014: Door_glass_1.0x2.18#1 10
+    100016: Door_glass_1.0x2.18#1 11
+    100018: Door_glass_1.0x2.18#1 12
+    100020: Door_glass_1.0x2.18#1 13
+    100022: Door_glass_1.0x2.18#1 2
+    100024: Door_glass_1.0x2.18#1 3
+    100026: Door_glass_1.0x2.18#1 4
+    100028: Door_glass_1.0x2.18#1 5
+    100030: Door_glass_1.0x2.18#1 6
+    100032: Door_glass_1.0x2.18#1 7
+    100034: Door_glass_1.0x2.18#1 8
+    100036: Door_glass_1.0x2.18#1 9
+    100038: Door_glass_1.0x2.18#2
+    100040: Door_glass_1.0x2.18#2 1
+    100042: Door_glass_slider_1.8x.2.08
+    100044: Door_glass_slider_1.8x.2.08 1
+    100046: Door_glass_slider_1.8x.2.08 2
+    100048: Door_glass_slider_1.8x.2.08 3
+    100050: Door_glass_slider_1.8x.2.08 4
+    100052: Door_glass_slider_1.8x.2.08 5
+    100054: Door_glass_slider_1.8x.2.08 6
+    100056: Door_glass_slider_1.8x.2.08 7
+    100058: Door_lite_1.15x2.2#1
+    100060: Door_lite_1.15x2.2#1 1
+    100062: Door_lite_1.15x2.2#1 2
+    100064: Door_lite_1.15x2.2#1 3
+    100066: Door_plain_1.0x2.1#1
+    100068: Door_plain_1.0x2.1#1 1
+    100070: Door_plain_1.0x2.1#1 2
+    100072: Door_plain_1.0x2.1#1 3
+    100074: fantree-sm
+    100076: fantree-sm 1
+    100078: fantree-sm 2
+    100080: fantree-sm 3
+    100082: fantree-sm 4
+    100084: fantree-sm 5
+    100086: Image 1
+    100088: roof
+    100090: roof 1
+    100092: rounded-sm#1
+    100094: rounded-sm#1 1
+    100096: rounded-sm#1 10
+    100098: rounded-sm#1 11
+    100100: rounded-sm#1 12
+    100102: rounded-sm#1 13
+    100104: rounded-sm#1 14
+    100106: rounded-sm#1 15
+    100108: rounded-sm#1 16
+    100110: rounded-sm#1 17
+    100112: rounded-sm#1 18
+    100114: rounded-sm#1 19
+    100116: rounded-sm#1 2
+    100118: rounded-sm#1 20
+    100120: rounded-sm#1 21
+    100122: rounded-sm#1 22
+    100124: rounded-sm#1 23
+    100126: rounded-sm#1 24
+    100128: rounded-sm#1 3
+    100130: rounded-sm#1 4
+    100132: rounded-sm#1 5
+    100134: rounded-sm#1 6
+    100136: rounded-sm#1 7
+    100138: rounded-sm#1 8
+    100140: rounded-sm#1 9
+    100142: scale_obq
+    100144: Window_sill_0.51x1.05#1
+    100146: Window_sill_0.51x1.05#1 1
+    100148: Window_sill_0.51x1.05#1 10
+    100150: Window_sill_0.51x1.05#1 11
+    100152: Window_sill_0.51x1.05#1 12
+    100154: Window_sill_0.51x1.05#1 13
+    100156: Window_sill_0.51x1.05#1 14
+    100158: Window_sill_0.51x1.05#1 15
+    100160: Window_sill_0.51x1.05#1 2
+    100162: Window_sill_0.51x1.05#1 3
+    100164: Window_sill_0.51x1.05#1 4
+    100166: Window_sill_0.51x1.05#1 5
+    100168: Window_sill_0.51x1.05#1 6
+    100170: Window_sill_0.51x1.05#1 7
+    100172: Window_sill_0.51x1.05#1 8
+    100174: Window_sill_0.51x1.05#1 9
+    100176: Window_sill_0.51x1.05#2
+    100178: Window_sill_0.51x1.05#2 1
+    100180: Window_sill_0.51x1.05#2 10
+    100182: Window_sill_0.51x1.05#2 11
+    100184: Window_sill_0.51x1.05#2 12
+    100186: Window_sill_0.51x1.05#2 13
+    100188: Window_sill_0.51x1.05#2 14
+    100190: Window_sill_0.51x1.05#2 15
+    100192: Window_sill_0.51x1.05#2 16
+    100194: Window_sill_0.51x1.05#2 17
+    100196: Window_sill_0.51x1.05#2 18
+    100198: Window_sill_0.51x1.05#2 19
+    100200: Window_sill_0.51x1.05#2 2
+    100202: Window_sill_0.51x1.05#2 20
+    100204: Window_sill_0.51x1.05#2 21
+    100206: Window_sill_0.51x1.05#2 22
+    100208: Window_sill_0.51x1.05#2 23
+    100210: Window_sill_0.51x1.05#2 24
+    100212: Window_sill_0.51x1.05#2 25
+    100214: Window_sill_0.51x1.05#2 26
+    100216: Window_sill_0.51x1.05#2 27
+    100218: Window_sill_0.51x1.05#2 28
+    100220: Window_sill_0.51x1.05#2 29
+    100222: Window_sill_0.51x1.05#2 3
+    100224: Window_sill_0.51x1.05#2 4
+    100226: Window_sill_0.51x1.05#2 5
+    100228: Window_sill_0.51x1.05#2 6
+    100230: Window_sill_0.51x1.05#2 7
+    100232: Window_sill_0.51x1.05#2 8
+    100234: Window_sill_0.51x1.05#2 9
+    100236: Window_sill_double_0.91x1.05
+    100238: Window_sill_double_0.91x1.05 1
+    100240: Window_sill_double_0.91x1.05 10
+    100242: Window_sill_double_0.91x1.05 100
+    100244: Window_sill_double_0.91x1.05 101
+    100246: Window_sill_double_0.91x1.05 102
+    100248: Window_sill_double_0.91x1.05 103
+    100250: Window_sill_double_0.91x1.05 104
+    100252: Window_sill_double_0.91x1.05 105
+    100254: Window_sill_double_0.91x1.05 106
+    100256: Window_sill_double_0.91x1.05 107
+    100258: Window_sill_double_0.91x1.05 108
+    100260: Window_sill_double_0.91x1.05 109
+    100262: Window_sill_double_0.91x1.05 11
+    100264: Window_sill_double_0.91x1.05 110
+    100266: Window_sill_double_0.91x1.05 111
+    100268: Window_sill_double_0.91x1.05 112
+    100270: Window_sill_double_0.91x1.05 113
+    100272: Window_sill_double_0.91x1.05 114
+    100274: Window_sill_double_0.91x1.05 115
+    100276: Window_sill_double_0.91x1.05 116
+    100278: Window_sill_double_0.91x1.05 117
+    100280: Window_sill_double_0.91x1.05 118
+    100282: Window_sill_double_0.91x1.05 119
+    100284: Window_sill_double_0.91x1.05 12
+    100286: Window_sill_double_0.91x1.05 120
+    100288: Window_sill_double_0.91x1.05 121
+    100290: Window_sill_double_0.91x1.05 122
+    100292: Window_sill_double_0.91x1.05 123
+    100294: Window_sill_double_0.91x1.05 124
+    100296: Window_sill_double_0.91x1.05 125
+    100298: Window_sill_double_0.91x1.05 126
+    100300: Window_sill_double_0.91x1.05 127
+    100302: Window_sill_double_0.91x1.05 128
+    100304: Window_sill_double_0.91x1.05 129
+    100306: Window_sill_double_0.91x1.05 13
+    100308: Window_sill_double_0.91x1.05 130
+    100310: Window_sill_double_0.91x1.05 131
+    100312: Window_sill_double_0.91x1.05 132
+    100314: Window_sill_double_0.91x1.05 133
+    100316: Window_sill_double_0.91x1.05 134
+    100318: Window_sill_double_0.91x1.05 135
+    100320: Window_sill_double_0.91x1.05 136
+    100322: Window_sill_double_0.91x1.05 137
+    100324: Window_sill_double_0.91x1.05 138
+    100326: Window_sill_double_0.91x1.05 139
+    100328: Window_sill_double_0.91x1.05 14
+    100330: Window_sill_double_0.91x1.05 140
+    100332: Window_sill_double_0.91x1.05 141
+    100334: Window_sill_double_0.91x1.05 142
+    100336: Window_sill_double_0.91x1.05 143
+    100338: Window_sill_double_0.91x1.05 144
+    100340: Window_sill_double_0.91x1.05 145
+    100342: Window_sill_double_0.91x1.05 146
+    100344: Window_sill_double_0.91x1.05 147
+    100346: Window_sill_double_0.91x1.05 148
+    100348: Window_sill_double_0.91x1.05 149
+    100350: Window_sill_double_0.91x1.05 15
+    100352: Window_sill_double_0.91x1.05 150
+    100354: Window_sill_double_0.91x1.05 151
+    100356: Window_sill_double_0.91x1.05 152
+    100358: Window_sill_double_0.91x1.05 153
+    100360: Window_sill_double_0.91x1.05 154
+    100362: Window_sill_double_0.91x1.05 155
+    100364: Window_sill_double_0.91x1.05 156
+    100366: Window_sill_double_0.91x1.05 157
+    100368: Window_sill_double_0.91x1.05 158
+    100370: Window_sill_double_0.91x1.05 159
+    100372: Window_sill_double_0.91x1.05 16
+    100374: Window_sill_double_0.91x1.05 160
+    100376: Window_sill_double_0.91x1.05 161
+    100378: Window_sill_double_0.91x1.05 162
+    100380: Window_sill_double_0.91x1.05 163
+    100382: Window_sill_double_0.91x1.05 164
+    100384: Window_sill_double_0.91x1.05 165
+    100386: Window_sill_double_0.91x1.05 166
+    100388: Window_sill_double_0.91x1.05 167
+    100390: Window_sill_double_0.91x1.05 168
+    100392: Window_sill_double_0.91x1.05 169
+    100394: Window_sill_double_0.91x1.05 17
+    100396: Window_sill_double_0.91x1.05 170
+    100398: Window_sill_double_0.91x1.05 171
+    100400: Window_sill_double_0.91x1.05 172
+    100402: Window_sill_double_0.91x1.05 173
+    100404: Window_sill_double_0.91x1.05 174
+    100406: Window_sill_double_0.91x1.05 175
+    100408: Window_sill_double_0.91x1.05 176
+    100410: Window_sill_double_0.91x1.05 177
+    100412: Window_sill_double_0.91x1.05 178
+    100414: Window_sill_double_0.91x1.05 179
+    100416: Window_sill_double_0.91x1.05 18
+    100418: Window_sill_double_0.91x1.05 180
+    100420: Window_sill_double_0.91x1.05 181
+    100422: Window_sill_double_0.91x1.05 182
+    100424: Window_sill_double_0.91x1.05 183
+    100426: Window_sill_double_0.91x1.05 184
+    100428: Window_sill_double_0.91x1.05 185
+    100430: Window_sill_double_0.91x1.05 186
+    100432: Window_sill_double_0.91x1.05 187
+    100434: Window_sill_double_0.91x1.05 188
+    100436: Window_sill_double_0.91x1.05 189
+    100438: Window_sill_double_0.91x1.05 19
+    100440: Window_sill_double_0.91x1.05 190
+    100442: Window_sill_double_0.91x1.05 191
+    100444: Window_sill_double_0.91x1.05 192
+    100446: Window_sill_double_0.91x1.05 193
+    100448: Window_sill_double_0.91x1.05 194
+    100450: Window_sill_double_0.91x1.05 195
+    100452: Window_sill_double_0.91x1.05 196
+    100454: Window_sill_double_0.91x1.05 197
+    100456: Window_sill_double_0.91x1.05 198
+    100458: Window_sill_double_0.91x1.05 199
+    100460: Window_sill_double_0.91x1.05 2
+    100462: Window_sill_double_0.91x1.05 20
+    100464: Window_sill_double_0.91x1.05 200
+    100466: Window_sill_double_0.91x1.05 201
+    100468: Window_sill_double_0.91x1.05 202
+    100470: Window_sill_double_0.91x1.05 203
+    100472: Window_sill_double_0.91x1.05 204
+    100474: Window_sill_double_0.91x1.05 205
+    100476: Window_sill_double_0.91x1.05 206
+    100478: Window_sill_double_0.91x1.05 207
+    100480: Window_sill_double_0.91x1.05 208
+    100482: Window_sill_double_0.91x1.05 209
+    100484: Window_sill_double_0.91x1.05 21
+    100486: Window_sill_double_0.91x1.05 210
+    100488: Window_sill_double_0.91x1.05 211
+    100490: Window_sill_double_0.91x1.05 212
+    100492: Window_sill_double_0.91x1.05 213
+    100494: Window_sill_double_0.91x1.05 214
+    100496: Window_sill_double_0.91x1.05 215
+    100498: Window_sill_double_0.91x1.05 216
+    100500: Window_sill_double_0.91x1.05 217
+    100502: Window_sill_double_0.91x1.05 218
+    100504: Window_sill_double_0.91x1.05 219
+    100506: Window_sill_double_0.91x1.05 22
+    100508: Window_sill_double_0.91x1.05 220
+    100510: Window_sill_double_0.91x1.05 221
+    100512: Window_sill_double_0.91x1.05 222
+    100514: Window_sill_double_0.91x1.05 223
+    100516: Window_sill_double_0.91x1.05 224
+    100518: Window_sill_double_0.91x1.05 225
+    100520: Window_sill_double_0.91x1.05 226
+    100522: Window_sill_double_0.91x1.05 227
+    100524: Window_sill_double_0.91x1.05 228
+    100526: Window_sill_double_0.91x1.05 229
+    100528: Window_sill_double_0.91x1.05 23
+    100530: Window_sill_double_0.91x1.05 230
+    100532: Window_sill_double_0.91x1.05 231
+    100534: Window_sill_double_0.91x1.05 232
+    100536: Window_sill_double_0.91x1.05 233
+    100538: Window_sill_double_0.91x1.05 234
+    100540: Window_sill_double_0.91x1.05 235
+    100542: Window_sill_double_0.91x1.05 236
+    100544: Window_sill_double_0.91x1.05 237
+    100546: Window_sill_double_0.91x1.05 238
+    100548: Window_sill_double_0.91x1.05 239
+    100550: Window_sill_double_0.91x1.05 24
+    100552: Window_sill_double_0.91x1.05 240
+    100554: Window_sill_double_0.91x1.05 241
+    100556: Window_sill_double_0.91x1.05 242
+    100558: Window_sill_double_0.91x1.05 243
+    100560: Window_sill_double_0.91x1.05 244
+    100562: Window_sill_double_0.91x1.05 245
+    100564: Window_sill_double_0.91x1.05 246
+    100566: Window_sill_double_0.91x1.05 247
+    100568: Window_sill_double_0.91x1.05 248
+    100570: Window_sill_double_0.91x1.05 249
+    100572: Window_sill_double_0.91x1.05 25
+    100574: Window_sill_double_0.91x1.05 250
+    100576: Window_sill_double_0.91x1.05 251
+    100578: Window_sill_double_0.91x1.05 252
+    100580: Window_sill_double_0.91x1.05 253
+    100582: Window_sill_double_0.91x1.05 254
+    100584: Window_sill_double_0.91x1.05 255
+    100586: Window_sill_double_0.91x1.05 256
+    100588: Window_sill_double_0.91x1.05 257
+    100590: Window_sill_double_0.91x1.05 258
+    100592: Window_sill_double_0.91x1.05 259
+    100594: Window_sill_double_0.91x1.05 26
+    100596: Window_sill_double_0.91x1.05 260
+    100598: Window_sill_double_0.91x1.05 261
+    100600: Window_sill_double_0.91x1.05 262
+    100602: Window_sill_double_0.91x1.05 263
+    100604: Window_sill_double_0.91x1.05 264
+    100606: Window_sill_double_0.91x1.05 265
+    100608: Window_sill_double_0.91x1.05 266
+    100610: Window_sill_double_0.91x1.05 267
+    100612: Window_sill_double_0.91x1.05 268
+    100614: Window_sill_double_0.91x1.05 269
+    100616: Window_sill_double_0.91x1.05 27
+    100618: Window_sill_double_0.91x1.05 270
+    100620: Window_sill_double_0.91x1.05 271
+    100622: Window_sill_double_0.91x1.05 272
+    100624: Window_sill_double_0.91x1.05 273
+    100626: Window_sill_double_0.91x1.05 274
+    100628: Window_sill_double_0.91x1.05 275
+    100630: Window_sill_double_0.91x1.05 28
+    100632: Window_sill_double_0.91x1.05 29
+    100634: Window_sill_double_0.91x1.05 3
+    100636: Window_sill_double_0.91x1.05 30
+    100638: Window_sill_double_0.91x1.05 31
+    100640: Window_sill_double_0.91x1.05 32
+    100642: Window_sill_double_0.91x1.05 33
+    100644: Window_sill_double_0.91x1.05 34
+    100646: Window_sill_double_0.91x1.05 35
+    100648: Window_sill_double_0.91x1.05 36
+    100650: Window_sill_double_0.91x1.05 37
+    100652: Window_sill_double_0.91x1.05 38
+    100654: Window_sill_double_0.91x1.05 39
+    100656: Window_sill_double_0.91x1.05 4
+    100658: Window_sill_double_0.91x1.05 40
+    100660: Window_sill_double_0.91x1.05 41
+    100662: Window_sill_double_0.91x1.05 42
+    100664: Window_sill_double_0.91x1.05 43
+    100666: Window_sill_double_0.91x1.05 44
+    100668: Window_sill_double_0.91x1.05 45
+    100670: Window_sill_double_0.91x1.05 46
+    100672: Window_sill_double_0.91x1.05 47
+    100674: Window_sill_double_0.91x1.05 48
+    100676: Window_sill_double_0.91x1.05 49
+    100678: Window_sill_double_0.91x1.05 5
+    100680: Window_sill_double_0.91x1.05 50
+    100682: Window_sill_double_0.91x1.05 51
+    100684: Window_sill_double_0.91x1.05 52
+    100686: Window_sill_double_0.91x1.05 53
+    100688: Window_sill_double_0.91x1.05 54
+    100690: Window_sill_double_0.91x1.05 55
+    100692: Window_sill_double_0.91x1.05 56
+    100694: Window_sill_double_0.91x1.05 57
+    100696: Window_sill_double_0.91x1.05 58
+    100698: Window_sill_double_0.91x1.05 59
+    100700: Window_sill_double_0.91x1.05 6
+    100702: Window_sill_double_0.91x1.05 60
+    100704: Window_sill_double_0.91x1.05 61
+    100706: Window_sill_double_0.91x1.05 62
+    100708: Window_sill_double_0.91x1.05 63
+    100710: Window_sill_double_0.91x1.05 64
+    100712: Window_sill_double_0.91x1.05 65
+    100714: Window_sill_double_0.91x1.05 66
+    100716: Window_sill_double_0.91x1.05 67
+    100718: Window_sill_double_0.91x1.05 68
+    100720: Window_sill_double_0.91x1.05 69
+    100722: Window_sill_double_0.91x1.05 7
+    100724: Window_sill_double_0.91x1.05 70
+    100726: Window_sill_double_0.91x1.05 71
+    100728: Window_sill_double_0.91x1.05 72
+    100730: Window_sill_double_0.91x1.05 73
+    100732: Window_sill_double_0.91x1.05 74
+    100734: Window_sill_double_0.91x1.05 75
+    100736: Window_sill_double_0.91x1.05 76
+    100738: Window_sill_double_0.91x1.05 77
+    100740: Window_sill_double_0.91x1.05 78
+    100742: Window_sill_double_0.91x1.05 79
+    100744: Window_sill_double_0.91x1.05 8
+    100746: Window_sill_double_0.91x1.05 80
+    100748: Window_sill_double_0.91x1.05 81
+    100750: Window_sill_double_0.91x1.05 82
+    100752: Window_sill_double_0.91x1.05 83
+    100754: Window_sill_double_0.91x1.05 84
+    100756: Window_sill_double_0.91x1.05 85
+    100758: Window_sill_double_0.91x1.05 86
+    100760: Window_sill_double_0.91x1.05 87
+    100762: Window_sill_double_0.91x1.05 88
+    100764: Window_sill_double_0.91x1.05 89
+    100766: Window_sill_double_0.91x1.05 9
+    100768: Window_sill_double_0.91x1.05 90
+    100770: Window_sill_double_0.91x1.05 91
+    100772: Window_sill_double_0.91x1.05 92
+    100774: Window_sill_double_0.91x1.05 93
+    100776: Window_sill_double_0.91x1.05 94
+    100778: Window_sill_double_0.91x1.05 95
+    100780: Window_sill_double_0.91x1.05 96
+    100782: Window_sill_double_0.91x1.05 97
+    100784: Window_sill_double_0.91x1.05 98
+    100786: Window_sill_double_0.91x1.05 99
+    100788: Window_sill_double_0.91x1.05#1
+    100790: Window_sill_double_0.91x1.05#1 1
+    100792: Window_sill_double_0.91x1.05#2
+    100794: Window_sill_double_0.91x1.05#2 1
+    100796: Window_sill_double_0.91x1.05#2 2
+    100798: Window_sill_double_0.91x1.05#2 3
+    100800: Window_sill_double_0.91x1.05#2 4
+    100802: Window_sill_double_0.91x1.05#2 5
+    400000: //RootNode
+    400002: 33007_3d_building
+    400004: 33007_3d_site
+    400006: bldg_half
+    400008: bldg_half 1
+    400010: Door_glass_1.0x2.18#1
+    400012: Door_glass_1.0x2.18#1 1
+    400014: Door_glass_1.0x2.18#1 10
+    400016: Door_glass_1.0x2.18#1 11
+    400018: Door_glass_1.0x2.18#1 12
+    400020: Door_glass_1.0x2.18#1 13
+    400022: Door_glass_1.0x2.18#1 2
+    400024: Door_glass_1.0x2.18#1 3
+    400026: Door_glass_1.0x2.18#1 4
+    400028: Door_glass_1.0x2.18#1 5
+    400030: Door_glass_1.0x2.18#1 6
+    400032: Door_glass_1.0x2.18#1 7
+    400034: Door_glass_1.0x2.18#1 8
+    400036: Door_glass_1.0x2.18#1 9
+    400038: Door_glass_1.0x2.18#2
+    400040: Door_glass_1.0x2.18#2 1
+    400042: Door_glass_slider_1.8x.2.08
+    400044: Door_glass_slider_1.8x.2.08 1
+    400046: Door_glass_slider_1.8x.2.08 2
+    400048: Door_glass_slider_1.8x.2.08 3
+    400050: Door_glass_slider_1.8x.2.08 4
+    400052: Door_glass_slider_1.8x.2.08 5
+    400054: Door_glass_slider_1.8x.2.08 6
+    400056: Door_glass_slider_1.8x.2.08 7
+    400058: Door_lite_1.15x2.2#1
+    400060: Door_lite_1.15x2.2#1 1
+    400062: Door_lite_1.15x2.2#1 2
+    400064: Door_lite_1.15x2.2#1 3
+    400066: Door_plain_1.0x2.1#1
+    400068: Door_plain_1.0x2.1#1 1
+    400070: Door_plain_1.0x2.1#1 2
+    400072: Door_plain_1.0x2.1#1 3
+    400074: fantree-sm
+    400076: fantree-sm 1
+    400078: fantree-sm 2
+    400080: fantree-sm 3
+    400082: fantree-sm 4
+    400084: fantree-sm 5
+    400086: Image 1
+    400088: roof
+    400090: roof 1
+    400092: rounded-sm#1
+    400094: rounded-sm#1 1
+    400096: rounded-sm#1 10
+    400098: rounded-sm#1 11
+    400100: rounded-sm#1 12
+    400102: rounded-sm#1 13
+    400104: rounded-sm#1 14
+    400106: rounded-sm#1 15
+    400108: rounded-sm#1 16
+    400110: rounded-sm#1 17
+    400112: rounded-sm#1 18
+    400114: rounded-sm#1 19
+    400116: rounded-sm#1 2
+    400118: rounded-sm#1 20
+    400120: rounded-sm#1 21
+    400122: rounded-sm#1 22
+    400124: rounded-sm#1 23
+    400126: rounded-sm#1 24
+    400128: rounded-sm#1 3
+    400130: rounded-sm#1 4
+    400132: rounded-sm#1 5
+    400134: rounded-sm#1 6
+    400136: rounded-sm#1 7
+    400138: rounded-sm#1 8
+    400140: rounded-sm#1 9
+    400142: scale_obq
+    400144: Window_sill_0.51x1.05#1
+    400146: Window_sill_0.51x1.05#1 1
+    400148: Window_sill_0.51x1.05#1 10
+    400150: Window_sill_0.51x1.05#1 11
+    400152: Window_sill_0.51x1.05#1 12
+    400154: Window_sill_0.51x1.05#1 13
+    400156: Window_sill_0.51x1.05#1 14
+    400158: Window_sill_0.51x1.05#1 15
+    400160: Window_sill_0.51x1.05#1 2
+    400162: Window_sill_0.51x1.05#1 3
+    400164: Window_sill_0.51x1.05#1 4
+    400166: Window_sill_0.51x1.05#1 5
+    400168: Window_sill_0.51x1.05#1 6
+    400170: Window_sill_0.51x1.05#1 7
+    400172: Window_sill_0.51x1.05#1 8
+    400174: Window_sill_0.51x1.05#1 9
+    400176: Window_sill_0.51x1.05#2
+    400178: Window_sill_0.51x1.05#2 1
+    400180: Window_sill_0.51x1.05#2 10
+    400182: Window_sill_0.51x1.05#2 11
+    400184: Window_sill_0.51x1.05#2 12
+    400186: Window_sill_0.51x1.05#2 13
+    400188: Window_sill_0.51x1.05#2 14
+    400190: Window_sill_0.51x1.05#2 15
+    400192: Window_sill_0.51x1.05#2 16
+    400194: Window_sill_0.51x1.05#2 17
+    400196: Window_sill_0.51x1.05#2 18
+    400198: Window_sill_0.51x1.05#2 19
+    400200: Window_sill_0.51x1.05#2 2
+    400202: Window_sill_0.51x1.05#2 20
+    400204: Window_sill_0.51x1.05#2 21
+    400206: Window_sill_0.51x1.05#2 22
+    400208: Window_sill_0.51x1.05#2 23
+    400210: Window_sill_0.51x1.05#2 24
+    400212: Window_sill_0.51x1.05#2 25
+    400214: Window_sill_0.51x1.05#2 26
+    400216: Window_sill_0.51x1.05#2 27
+    400218: Window_sill_0.51x1.05#2 28
+    400220: Window_sill_0.51x1.05#2 29
+    400222: Window_sill_0.51x1.05#2 3
+    400224: Window_sill_0.51x1.05#2 4
+    400226: Window_sill_0.51x1.05#2 5
+    400228: Window_sill_0.51x1.05#2 6
+    400230: Window_sill_0.51x1.05#2 7
+    400232: Window_sill_0.51x1.05#2 8
+    400234: Window_sill_0.51x1.05#2 9
+    400236: Window_sill_double_0.91x1.05
+    400238: Window_sill_double_0.91x1.05 1
+    400240: Window_sill_double_0.91x1.05 10
+    400242: Window_sill_double_0.91x1.05 100
+    400244: Window_sill_double_0.91x1.05 101
+    400246: Window_sill_double_0.91x1.05 102
+    400248: Window_sill_double_0.91x1.05 103
+    400250: Window_sill_double_0.91x1.05 104
+    400252: Window_sill_double_0.91x1.05 105
+    400254: Window_sill_double_0.91x1.05 106
+    400256: Window_sill_double_0.91x1.05 107
+    400258: Window_sill_double_0.91x1.05 108
+    400260: Window_sill_double_0.91x1.05 109
+    400262: Window_sill_double_0.91x1.05 11
+    400264: Window_sill_double_0.91x1.05 110
+    400266: Window_sill_double_0.91x1.05 111
+    400268: Window_sill_double_0.91x1.05 112
+    400270: Window_sill_double_0.91x1.05 113
+    400272: Window_sill_double_0.91x1.05 114
+    400274: Window_sill_double_0.91x1.05 115
+    400276: Window_sill_double_0.91x1.05 116
+    400278: Window_sill_double_0.91x1.05 117
+    400280: Window_sill_double_0.91x1.05 118
+    400282: Window_sill_double_0.91x1.05 119
+    400284: Window_sill_double_0.91x1.05 12
+    400286: Window_sill_double_0.91x1.05 120
+    400288: Window_sill_double_0.91x1.05 121
+    400290: Window_sill_double_0.91x1.05 122
+    400292: Window_sill_double_0.91x1.05 123
+    400294: Window_sill_double_0.91x1.05 124
+    400296: Window_sill_double_0.91x1.05 125
+    400298: Window_sill_double_0.91x1.05 126
+    400300: Window_sill_double_0.91x1.05 127
+    400302: Window_sill_double_0.91x1.05 128
+    400304: Window_sill_double_0.91x1.05 129
+    400306: Window_sill_double_0.91x1.05 13
+    400308: Window_sill_double_0.91x1.05 130
+    400310: Window_sill_double_0.91x1.05 131
+    400312: Window_sill_double_0.91x1.05 132
+    400314: Window_sill_double_0.91x1.05 133
+    400316: Window_sill_double_0.91x1.05 134
+    400318: Window_sill_double_0.91x1.05 135
+    400320: Window_sill_double_0.91x1.05 136
+    400322: Window_sill_double_0.91x1.05 137
+    400324: Window_sill_double_0.91x1.05 138
+    400326: Window_sill_double_0.91x1.05 139
+    400328: Window_sill_double_0.91x1.05 14
+    400330: Window_sill_double_0.91x1.05 140
+    400332: Window_sill_double_0.91x1.05 141
+    400334: Window_sill_double_0.91x1.05 142
+    400336: Window_sill_double_0.91x1.05 143
+    400338: Window_sill_double_0.91x1.05 144
+    400340: Window_sill_double_0.91x1.05 145
+    400342: Window_sill_double_0.91x1.05 146
+    400344: Window_sill_double_0.91x1.05 147
+    400346: Window_sill_double_0.91x1.05 148
+    400348: Window_sill_double_0.91x1.05 149
+    400350: Window_sill_double_0.91x1.05 15
+    400352: Window_sill_double_0.91x1.05 150
+    400354: Window_sill_double_0.91x1.05 151
+    400356: Window_sill_double_0.91x1.05 152
+    400358: Window_sill_double_0.91x1.05 153
+    400360: Window_sill_double_0.91x1.05 154
+    400362: Window_sill_double_0.91x1.05 155
+    400364: Window_sill_double_0.91x1.05 156
+    400366: Window_sill_double_0.91x1.05 157
+    400368: Window_sill_double_0.91x1.05 158
+    400370: Window_sill_double_0.91x1.05 159
+    400372: Window_sill_double_0.91x1.05 16
+    400374: Window_sill_double_0.91x1.05 160
+    400376: Window_sill_double_0.91x1.05 161
+    400378: Window_sill_double_0.91x1.05 162
+    400380: Window_sill_double_0.91x1.05 163
+    400382: Window_sill_double_0.91x1.05 164
+    400384: Window_sill_double_0.91x1.05 165
+    400386: Window_sill_double_0.91x1.05 166
+    400388: Window_sill_double_0.91x1.05 167
+    400390: Window_sill_double_0.91x1.05 168
+    400392: Window_sill_double_0.91x1.05 169
+    400394: Window_sill_double_0.91x1.05 17
+    400396: Window_sill_double_0.91x1.05 170
+    400398: Window_sill_double_0.91x1.05 171
+    400400: Window_sill_double_0.91x1.05 172
+    400402: Window_sill_double_0.91x1.05 173
+    400404: Window_sill_double_0.91x1.05 174
+    400406: Window_sill_double_0.91x1.05 175
+    400408: Window_sill_double_0.91x1.05 176
+    400410: Window_sill_double_0.91x1.05 177
+    400412: Window_sill_double_0.91x1.05 178
+    400414: Window_sill_double_0.91x1.05 179
+    400416: Window_sill_double_0.91x1.05 18
+    400418: Window_sill_double_0.91x1.05 180
+    400420: Window_sill_double_0.91x1.05 181
+    400422: Window_sill_double_0.91x1.05 182
+    400424: Window_sill_double_0.91x1.05 183
+    400426: Window_sill_double_0.91x1.05 184
+    400428: Window_sill_double_0.91x1.05 185
+    400430: Window_sill_double_0.91x1.05 186
+    400432: Window_sill_double_0.91x1.05 187
+    400434: Window_sill_double_0.91x1.05 188
+    400436: Window_sill_double_0.91x1.05 189
+    400438: Window_sill_double_0.91x1.05 19
+    400440: Window_sill_double_0.91x1.05 190
+    400442: Window_sill_double_0.91x1.05 191
+    400444: Window_sill_double_0.91x1.05 192
+    400446: Window_sill_double_0.91x1.05 193
+    400448: Window_sill_double_0.91x1.05 194
+    400450: Window_sill_double_0.91x1.05 195
+    400452: Window_sill_double_0.91x1.05 196
+    400454: Window_sill_double_0.91x1.05 197
+    400456: Window_sill_double_0.91x1.05 198
+    400458: Window_sill_double_0.91x1.05 199
+    400460: Window_sill_double_0.91x1.05 2
+    400462: Window_sill_double_0.91x1.05 20
+    400464: Window_sill_double_0.91x1.05 200
+    400466: Window_sill_double_0.91x1.05 201
+    400468: Window_sill_double_0.91x1.05 202
+    400470: Window_sill_double_0.91x1.05 203
+    400472: Window_sill_double_0.91x1.05 204
+    400474: Window_sill_double_0.91x1.05 205
+    400476: Window_sill_double_0.91x1.05 206
+    400478: Window_sill_double_0.91x1.05 207
+    400480: Window_sill_double_0.91x1.05 208
+    400482: Window_sill_double_0.91x1.05 209
+    400484: Window_sill_double_0.91x1.05 21
+    400486: Window_sill_double_0.91x1.05 210
+    400488: Window_sill_double_0.91x1.05 211
+    400490: Window_sill_double_0.91x1.05 212
+    400492: Window_sill_double_0.91x1.05 213
+    400494: Window_sill_double_0.91x1.05 214
+    400496: Window_sill_double_0.91x1.05 215
+    400498: Window_sill_double_0.91x1.05 216
+    400500: Window_sill_double_0.91x1.05 217
+    400502: Window_sill_double_0.91x1.05 218
+    400504: Window_sill_double_0.91x1.05 219
+    400506: Window_sill_double_0.91x1.05 22
+    400508: Window_sill_double_0.91x1.05 220
+    400510: Window_sill_double_0.91x1.05 221
+    400512: Window_sill_double_0.91x1.05 222
+    400514: Window_sill_double_0.91x1.05 223
+    400516: Window_sill_double_0.91x1.05 224
+    400518: Window_sill_double_0.91x1.05 225
+    400520: Window_sill_double_0.91x1.05 226
+    400522: Window_sill_double_0.91x1.05 227
+    400524: Window_sill_double_0.91x1.05 228
+    400526: Window_sill_double_0.91x1.05 229
+    400528: Window_sill_double_0.91x1.05 23
+    400530: Window_sill_double_0.91x1.05 230
+    400532: Window_sill_double_0.91x1.05 231
+    400534: Window_sill_double_0.91x1.05 232
+    400536: Window_sill_double_0.91x1.05 233
+    400538: Window_sill_double_0.91x1.05 234
+    400540: Window_sill_double_0.91x1.05 235
+    400542: Window_sill_double_0.91x1.05 236
+    400544: Window_sill_double_0.91x1.05 237
+    400546: Window_sill_double_0.91x1.05 238
+    400548: Window_sill_double_0.91x1.05 239
+    400550: Window_sill_double_0.91x1.05 24
+    400552: Window_sill_double_0.91x1.05 240
+    400554: Window_sill_double_0.91x1.05 241
+    400556: Window_sill_double_0.91x1.05 242
+    400558: Window_sill_double_0.91x1.05 243
+    400560: Window_sill_double_0.91x1.05 244
+    400562: Window_sill_double_0.91x1.05 245
+    400564: Window_sill_double_0.91x1.05 246
+    400566: Window_sill_double_0.91x1.05 247
+    400568: Window_sill_double_0.91x1.05 248
+    400570: Window_sill_double_0.91x1.05 249
+    400572: Window_sill_double_0.91x1.05 25
+    400574: Window_sill_double_0.91x1.05 250
+    400576: Window_sill_double_0.91x1.05 251
+    400578: Window_sill_double_0.91x1.05 252
+    400580: Window_sill_double_0.91x1.05 253
+    400582: Window_sill_double_0.91x1.05 254
+    400584: Window_sill_double_0.91x1.05 255
+    400586: Window_sill_double_0.91x1.05 256
+    400588: Window_sill_double_0.91x1.05 257
+    400590: Window_sill_double_0.91x1.05 258
+    400592: Window_sill_double_0.91x1.05 259
+    400594: Window_sill_double_0.91x1.05 26
+    400596: Window_sill_double_0.91x1.05 260
+    400598: Window_sill_double_0.91x1.05 261
+    400600: Window_sill_double_0.91x1.05 262
+    400602: Window_sill_double_0.91x1.05 263
+    400604: Window_sill_double_0.91x1.05 264
+    400606: Window_sill_double_0.91x1.05 265
+    400608: Window_sill_double_0.91x1.05 266
+    400610: Window_sill_double_0.91x1.05 267
+    400612: Window_sill_double_0.91x1.05 268
+    400614: Window_sill_double_0.91x1.05 269
+    400616: Window_sill_double_0.91x1.05 27
+    400618: Window_sill_double_0.91x1.05 270
+    400620: Window_sill_double_0.91x1.05 271
+    400622: Window_sill_double_0.91x1.05 272
+    400624: Window_sill_double_0.91x1.05 273
+    400626: Window_sill_double_0.91x1.05 274
+    400628: Window_sill_double_0.91x1.05 275
+    400630: Window_sill_double_0.91x1.05 28
+    400632: Window_sill_double_0.91x1.05 29
+    400634: Window_sill_double_0.91x1.05 3
+    400636: Window_sill_double_0.91x1.05 30
+    400638: Window_sill_double_0.91x1.05 31
+    400640: Window_sill_double_0.91x1.05 32
+    400642: Window_sill_double_0.91x1.05 33
+    400644: Window_sill_double_0.91x1.05 34
+    400646: Window_sill_double_0.91x1.05 35
+    400648: Window_sill_double_0.91x1.05 36
+    400650: Window_sill_double_0.91x1.05 37
+    400652: Window_sill_double_0.91x1.05 38
+    400654: Window_sill_double_0.91x1.05 39
+    400656: Window_sill_double_0.91x1.05 4
+    400658: Window_sill_double_0.91x1.05 40
+    400660: Window_sill_double_0.91x1.05 41
+    400662: Window_sill_double_0.91x1.05 42
+    400664: Window_sill_double_0.91x1.05 43
+    400666: Window_sill_double_0.91x1.05 44
+    400668: Window_sill_double_0.91x1.05 45
+    400670: Window_sill_double_0.91x1.05 46
+    400672: Window_sill_double_0.91x1.05 47
+    400674: Window_sill_double_0.91x1.05 48
+    400676: Window_sill_double_0.91x1.05 49
+    400678: Window_sill_double_0.91x1.05 5
+    400680: Window_sill_double_0.91x1.05 50
+    400682: Window_sill_double_0.91x1.05 51
+    400684: Window_sill_double_0.91x1.05 52
+    400686: Window_sill_double_0.91x1.05 53
+    400688: Window_sill_double_0.91x1.05 54
+    400690: Window_sill_double_0.91x1.05 55
+    400692: Window_sill_double_0.91x1.05 56
+    400694: Window_sill_double_0.91x1.05 57
+    400696: Window_sill_double_0.91x1.05 58
+    400698: Window_sill_double_0.91x1.05 59
+    400700: Window_sill_double_0.91x1.05 6
+    400702: Window_sill_double_0.91x1.05 60
+    400704: Window_sill_double_0.91x1.05 61
+    400706: Window_sill_double_0.91x1.05 62
+    400708: Window_sill_double_0.91x1.05 63
+    400710: Window_sill_double_0.91x1.05 64
+    400712: Window_sill_double_0.91x1.05 65
+    400714: Window_sill_double_0.91x1.05 66
+    400716: Window_sill_double_0.91x1.05 67
+    400718: Window_sill_double_0.91x1.05 68
+    400720: Window_sill_double_0.91x1.05 69
+    400722: Window_sill_double_0.91x1.05 7
+    400724: Window_sill_double_0.91x1.05 70
+    400726: Window_sill_double_0.91x1.05 71
+    400728: Window_sill_double_0.91x1.05 72
+    400730: Window_sill_double_0.91x1.05 73
+    400732: Window_sill_double_0.91x1.05 74
+    400734: Window_sill_double_0.91x1.05 75
+    400736: Window_sill_double_0.91x1.05 76
+    400738: Window_sill_double_0.91x1.05 77
+    400740: Window_sill_double_0.91x1.05 78
+    400742: Window_sill_double_0.91x1.05 79
+    400744: Window_sill_double_0.91x1.05 8
+    400746: Window_sill_double_0.91x1.05 80
+    400748: Window_sill_double_0.91x1.05 81
+    400750: Window_sill_double_0.91x1.05 82
+    400752: Window_sill_double_0.91x1.05 83
+    400754: Window_sill_double_0.91x1.05 84
+    400756: Window_sill_double_0.91x1.05 85
+    400758: Window_sill_double_0.91x1.05 86
+    400760: Window_sill_double_0.91x1.05 87
+    400762: Window_sill_double_0.91x1.05 88
+    400764: Window_sill_double_0.91x1.05 89
+    400766: Window_sill_double_0.91x1.05 9
+    400768: Window_sill_double_0.91x1.05 90
+    400770: Window_sill_double_0.91x1.05 91
+    400772: Window_sill_double_0.91x1.05 92
+    400774: Window_sill_double_0.91x1.05 93
+    400776: Window_sill_double_0.91x1.05 94
+    400778: Window_sill_double_0.91x1.05 95
+    400780: Window_sill_double_0.91x1.05 96
+    400782: Window_sill_double_0.91x1.05 97
+    400784: Window_sill_double_0.91x1.05 98
+    400786: Window_sill_double_0.91x1.05 99
+    400788: Window_sill_double_0.91x1.05#1
+    400790: Window_sill_double_0.91x1.05#1 1
+    400792: Window_sill_double_0.91x1.05#2
+    400794: Window_sill_double_0.91x1.05#2 1
+    400796: Window_sill_double_0.91x1.05#2 2
+    400798: Window_sill_double_0.91x1.05#2 3
+    400800: Window_sill_double_0.91x1.05#2 4
+    400802: Window_sill_double_0.91x1.05#2 5
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_bldg_roof
+    2100010: ApertureGlass
+    2100012: mapletree
+    2100014: fantree
+    2100016: OV_turf_solid
+    2100018: OV_paving_vehicle
+    2100020: OV_shrub_texture
+    2100022: OV_paving_pedestrian
+    2300000: 33007_3d_site
+    2300002: bldg_half
+    2300004: bldg_half 1
+    2300006: Door_glass_1.0x2.18#1
+    2300008: Door_glass_1.0x2.18#1 1
+    2300010: Door_glass_1.0x2.18#1 10
+    2300012: Door_glass_1.0x2.18#1 11
+    2300014: Door_glass_1.0x2.18#1 12
+    2300016: Door_glass_1.0x2.18#1 13
+    2300018: Door_glass_1.0x2.18#1 2
+    2300020: Door_glass_1.0x2.18#1 3
+    2300022: Door_glass_1.0x2.18#1 4
+    2300024: Door_glass_1.0x2.18#1 5
+    2300026: Door_glass_1.0x2.18#1 6
+    2300028: Door_glass_1.0x2.18#1 7
+    2300030: Door_glass_1.0x2.18#1 8
+    2300032: Door_glass_1.0x2.18#1 9
+    2300034: Door_glass_1.0x2.18#2
+    2300036: Door_glass_1.0x2.18#2 1
+    2300038: Door_glass_slider_1.8x.2.08
+    2300040: Door_glass_slider_1.8x.2.08 1
+    2300042: Door_glass_slider_1.8x.2.08 2
+    2300044: Door_glass_slider_1.8x.2.08 3
+    2300046: Door_glass_slider_1.8x.2.08 4
+    2300048: Door_glass_slider_1.8x.2.08 5
+    2300050: Door_glass_slider_1.8x.2.08 6
+    2300052: Door_glass_slider_1.8x.2.08 7
+    2300054: Door_lite_1.15x2.2#1
+    2300056: Door_lite_1.15x2.2#1 1
+    2300058: Door_lite_1.15x2.2#1 2
+    2300060: Door_lite_1.15x2.2#1 3
+    2300062: Door_plain_1.0x2.1#1
+    2300064: Door_plain_1.0x2.1#1 1
+    2300066: Door_plain_1.0x2.1#1 2
+    2300068: Door_plain_1.0x2.1#1 3
+    2300070: fantree-sm
+    2300072: fantree-sm 1
+    2300074: fantree-sm 2
+    2300076: fantree-sm 3
+    2300078: fantree-sm 4
+    2300080: fantree-sm 5
+    2300082: Image 1
+    2300084: roof
+    2300086: roof 1
+    2300088: rounded-sm#1
+    2300090: rounded-sm#1 1
+    2300092: rounded-sm#1 10
+    2300094: rounded-sm#1 11
+    2300096: rounded-sm#1 12
+    2300098: rounded-sm#1 13
+    2300100: rounded-sm#1 14
+    2300102: rounded-sm#1 15
+    2300104: rounded-sm#1 16
+    2300106: rounded-sm#1 17
+    2300108: rounded-sm#1 18
+    2300110: rounded-sm#1 19
+    2300112: rounded-sm#1 2
+    2300114: rounded-sm#1 20
+    2300116: rounded-sm#1 21
+    2300118: rounded-sm#1 22
+    2300120: rounded-sm#1 23
+    2300122: rounded-sm#1 24
+    2300124: rounded-sm#1 3
+    2300126: rounded-sm#1 4
+    2300128: rounded-sm#1 5
+    2300130: rounded-sm#1 6
+    2300132: rounded-sm#1 7
+    2300134: rounded-sm#1 8
+    2300136: rounded-sm#1 9
+    2300138: scale_obq
+    2300140: Window_sill_0.51x1.05#1
+    2300142: Window_sill_0.51x1.05#1 1
+    2300144: Window_sill_0.51x1.05#1 10
+    2300146: Window_sill_0.51x1.05#1 11
+    2300148: Window_sill_0.51x1.05#1 12
+    2300150: Window_sill_0.51x1.05#1 13
+    2300152: Window_sill_0.51x1.05#1 14
+    2300154: Window_sill_0.51x1.05#1 15
+    2300156: Window_sill_0.51x1.05#1 2
+    2300158: Window_sill_0.51x1.05#1 3
+    2300160: Window_sill_0.51x1.05#1 4
+    2300162: Window_sill_0.51x1.05#1 5
+    2300164: Window_sill_0.51x1.05#1 6
+    2300166: Window_sill_0.51x1.05#1 7
+    2300168: Window_sill_0.51x1.05#1 8
+    2300170: Window_sill_0.51x1.05#1 9
+    2300172: Window_sill_0.51x1.05#2
+    2300174: Window_sill_0.51x1.05#2 1
+    2300176: Window_sill_0.51x1.05#2 10
+    2300178: Window_sill_0.51x1.05#2 11
+    2300180: Window_sill_0.51x1.05#2 12
+    2300182: Window_sill_0.51x1.05#2 13
+    2300184: Window_sill_0.51x1.05#2 14
+    2300186: Window_sill_0.51x1.05#2 15
+    2300188: Window_sill_0.51x1.05#2 16
+    2300190: Window_sill_0.51x1.05#2 17
+    2300192: Window_sill_0.51x1.05#2 18
+    2300194: Window_sill_0.51x1.05#2 19
+    2300196: Window_sill_0.51x1.05#2 2
+    2300198: Window_sill_0.51x1.05#2 20
+    2300200: Window_sill_0.51x1.05#2 21
+    2300202: Window_sill_0.51x1.05#2 22
+    2300204: Window_sill_0.51x1.05#2 23
+    2300206: Window_sill_0.51x1.05#2 24
+    2300208: Window_sill_0.51x1.05#2 25
+    2300210: Window_sill_0.51x1.05#2 26
+    2300212: Window_sill_0.51x1.05#2 27
+    2300214: Window_sill_0.51x1.05#2 28
+    2300216: Window_sill_0.51x1.05#2 29
+    2300218: Window_sill_0.51x1.05#2 3
+    2300220: Window_sill_0.51x1.05#2 4
+    2300222: Window_sill_0.51x1.05#2 5
+    2300224: Window_sill_0.51x1.05#2 6
+    2300226: Window_sill_0.51x1.05#2 7
+    2300228: Window_sill_0.51x1.05#2 8
+    2300230: Window_sill_0.51x1.05#2 9
+    2300232: Window_sill_double_0.91x1.05
+    2300234: Window_sill_double_0.91x1.05 1
+    2300236: Window_sill_double_0.91x1.05 10
+    2300238: Window_sill_double_0.91x1.05 100
+    2300240: Window_sill_double_0.91x1.05 101
+    2300242: Window_sill_double_0.91x1.05 102
+    2300244: Window_sill_double_0.91x1.05 103
+    2300246: Window_sill_double_0.91x1.05 104
+    2300248: Window_sill_double_0.91x1.05 105
+    2300250: Window_sill_double_0.91x1.05 106
+    2300252: Window_sill_double_0.91x1.05 107
+    2300254: Window_sill_double_0.91x1.05 108
+    2300256: Window_sill_double_0.91x1.05 109
+    2300258: Window_sill_double_0.91x1.05 11
+    2300260: Window_sill_double_0.91x1.05 110
+    2300262: Window_sill_double_0.91x1.05 111
+    2300264: Window_sill_double_0.91x1.05 112
+    2300266: Window_sill_double_0.91x1.05 113
+    2300268: Window_sill_double_0.91x1.05 114
+    2300270: Window_sill_double_0.91x1.05 115
+    2300272: Window_sill_double_0.91x1.05 116
+    2300274: Window_sill_double_0.91x1.05 117
+    2300276: Window_sill_double_0.91x1.05 118
+    2300278: Window_sill_double_0.91x1.05 119
+    2300280: Window_sill_double_0.91x1.05 12
+    2300282: Window_sill_double_0.91x1.05 120
+    2300284: Window_sill_double_0.91x1.05 121
+    2300286: Window_sill_double_0.91x1.05 122
+    2300288: Window_sill_double_0.91x1.05 123
+    2300290: Window_sill_double_0.91x1.05 124
+    2300292: Window_sill_double_0.91x1.05 125
+    2300294: Window_sill_double_0.91x1.05 126
+    2300296: Window_sill_double_0.91x1.05 127
+    2300298: Window_sill_double_0.91x1.05 128
+    2300300: Window_sill_double_0.91x1.05 129
+    2300302: Window_sill_double_0.91x1.05 13
+    2300304: Window_sill_double_0.91x1.05 130
+    2300306: Window_sill_double_0.91x1.05 131
+    2300308: Window_sill_double_0.91x1.05 132
+    2300310: Window_sill_double_0.91x1.05 133
+    2300312: Window_sill_double_0.91x1.05 134
+    2300314: Window_sill_double_0.91x1.05 135
+    2300316: Window_sill_double_0.91x1.05 136
+    2300318: Window_sill_double_0.91x1.05 137
+    2300320: Window_sill_double_0.91x1.05 138
+    2300322: Window_sill_double_0.91x1.05 139
+    2300324: Window_sill_double_0.91x1.05 14
+    2300326: Window_sill_double_0.91x1.05 140
+    2300328: Window_sill_double_0.91x1.05 141
+    2300330: Window_sill_double_0.91x1.05 142
+    2300332: Window_sill_double_0.91x1.05 143
+    2300334: Window_sill_double_0.91x1.05 144
+    2300336: Window_sill_double_0.91x1.05 145
+    2300338: Window_sill_double_0.91x1.05 146
+    2300340: Window_sill_double_0.91x1.05 147
+    2300342: Window_sill_double_0.91x1.05 148
+    2300344: Window_sill_double_0.91x1.05 149
+    2300346: Window_sill_double_0.91x1.05 15
+    2300348: Window_sill_double_0.91x1.05 150
+    2300350: Window_sill_double_0.91x1.05 151
+    2300352: Window_sill_double_0.91x1.05 152
+    2300354: Window_sill_double_0.91x1.05 153
+    2300356: Window_sill_double_0.91x1.05 154
+    2300358: Window_sill_double_0.91x1.05 155
+    2300360: Window_sill_double_0.91x1.05 156
+    2300362: Window_sill_double_0.91x1.05 157
+    2300364: Window_sill_double_0.91x1.05 158
+    2300366: Window_sill_double_0.91x1.05 159
+    2300368: Window_sill_double_0.91x1.05 16
+    2300370: Window_sill_double_0.91x1.05 160
+    2300372: Window_sill_double_0.91x1.05 161
+    2300374: Window_sill_double_0.91x1.05 162
+    2300376: Window_sill_double_0.91x1.05 163
+    2300378: Window_sill_double_0.91x1.05 164
+    2300380: Window_sill_double_0.91x1.05 165
+    2300382: Window_sill_double_0.91x1.05 166
+    2300384: Window_sill_double_0.91x1.05 167
+    2300386: Window_sill_double_0.91x1.05 168
+    2300388: Window_sill_double_0.91x1.05 169
+    2300390: Window_sill_double_0.91x1.05 17
+    2300392: Window_sill_double_0.91x1.05 170
+    2300394: Window_sill_double_0.91x1.05 171
+    2300396: Window_sill_double_0.91x1.05 172
+    2300398: Window_sill_double_0.91x1.05 173
+    2300400: Window_sill_double_0.91x1.05 174
+    2300402: Window_sill_double_0.91x1.05 175
+    2300404: Window_sill_double_0.91x1.05 176
+    2300406: Window_sill_double_0.91x1.05 177
+    2300408: Window_sill_double_0.91x1.05 178
+    2300410: Window_sill_double_0.91x1.05 179
+    2300412: Window_sill_double_0.91x1.05 18
+    2300414: Window_sill_double_0.91x1.05 180
+    2300416: Window_sill_double_0.91x1.05 181
+    2300418: Window_sill_double_0.91x1.05 182
+    2300420: Window_sill_double_0.91x1.05 183
+    2300422: Window_sill_double_0.91x1.05 184
+    2300424: Window_sill_double_0.91x1.05 185
+    2300426: Window_sill_double_0.91x1.05 186
+    2300428: Window_sill_double_0.91x1.05 187
+    2300430: Window_sill_double_0.91x1.05 188
+    2300432: Window_sill_double_0.91x1.05 189
+    2300434: Window_sill_double_0.91x1.05 19
+    2300436: Window_sill_double_0.91x1.05 190
+    2300438: Window_sill_double_0.91x1.05 191
+    2300440: Window_sill_double_0.91x1.05 192
+    2300442: Window_sill_double_0.91x1.05 193
+    2300444: Window_sill_double_0.91x1.05 194
+    2300446: Window_sill_double_0.91x1.05 195
+    2300448: Window_sill_double_0.91x1.05 196
+    2300450: Window_sill_double_0.91x1.05 197
+    2300452: Window_sill_double_0.91x1.05 198
+    2300454: Window_sill_double_0.91x1.05 199
+    2300456: Window_sill_double_0.91x1.05 2
+    2300458: Window_sill_double_0.91x1.05 20
+    2300460: Window_sill_double_0.91x1.05 200
+    2300462: Window_sill_double_0.91x1.05 201
+    2300464: Window_sill_double_0.91x1.05 202
+    2300466: Window_sill_double_0.91x1.05 203
+    2300468: Window_sill_double_0.91x1.05 204
+    2300470: Window_sill_double_0.91x1.05 205
+    2300472: Window_sill_double_0.91x1.05 206
+    2300474: Window_sill_double_0.91x1.05 207
+    2300476: Window_sill_double_0.91x1.05 208
+    2300478: Window_sill_double_0.91x1.05 209
+    2300480: Window_sill_double_0.91x1.05 21
+    2300482: Window_sill_double_0.91x1.05 210
+    2300484: Window_sill_double_0.91x1.05 211
+    2300486: Window_sill_double_0.91x1.05 212
+    2300488: Window_sill_double_0.91x1.05 213
+    2300490: Window_sill_double_0.91x1.05 214
+    2300492: Window_sill_double_0.91x1.05 215
+    2300494: Window_sill_double_0.91x1.05 216
+    2300496: Window_sill_double_0.91x1.05 217
+    2300498: Window_sill_double_0.91x1.05 218
+    2300500: Window_sill_double_0.91x1.05 219
+    2300502: Window_sill_double_0.91x1.05 22
+    2300504: Window_sill_double_0.91x1.05 220
+    2300506: Window_sill_double_0.91x1.05 221
+    2300508: Window_sill_double_0.91x1.05 222
+    2300510: Window_sill_double_0.91x1.05 223
+    2300512: Window_sill_double_0.91x1.05 224
+    2300514: Window_sill_double_0.91x1.05 225
+    2300516: Window_sill_double_0.91x1.05 226
+    2300518: Window_sill_double_0.91x1.05 227
+    2300520: Window_sill_double_0.91x1.05 228
+    2300522: Window_sill_double_0.91x1.05 229
+    2300524: Window_sill_double_0.91x1.05 23
+    2300526: Window_sill_double_0.91x1.05 230
+    2300528: Window_sill_double_0.91x1.05 231
+    2300530: Window_sill_double_0.91x1.05 232
+    2300532: Window_sill_double_0.91x1.05 233
+    2300534: Window_sill_double_0.91x1.05 234
+    2300536: Window_sill_double_0.91x1.05 235
+    2300538: Window_sill_double_0.91x1.05 236
+    2300540: Window_sill_double_0.91x1.05 237
+    2300542: Window_sill_double_0.91x1.05 238
+    2300544: Window_sill_double_0.91x1.05 239
+    2300546: Window_sill_double_0.91x1.05 24
+    2300548: Window_sill_double_0.91x1.05 240
+    2300550: Window_sill_double_0.91x1.05 241
+    2300552: Window_sill_double_0.91x1.05 242
+    2300554: Window_sill_double_0.91x1.05 243
+    2300556: Window_sill_double_0.91x1.05 244
+    2300558: Window_sill_double_0.91x1.05 245
+    2300560: Window_sill_double_0.91x1.05 246
+    2300562: Window_sill_double_0.91x1.05 247
+    2300564: Window_sill_double_0.91x1.05 248
+    2300566: Window_sill_double_0.91x1.05 249
+    2300568: Window_sill_double_0.91x1.05 25
+    2300570: Window_sill_double_0.91x1.05 250
+    2300572: Window_sill_double_0.91x1.05 251
+    2300574: Window_sill_double_0.91x1.05 252
+    2300576: Window_sill_double_0.91x1.05 253
+    2300578: Window_sill_double_0.91x1.05 254
+    2300580: Window_sill_double_0.91x1.05 255
+    2300582: Window_sill_double_0.91x1.05 256
+    2300584: Window_sill_double_0.91x1.05 257
+    2300586: Window_sill_double_0.91x1.05 258
+    2300588: Window_sill_double_0.91x1.05 259
+    2300590: Window_sill_double_0.91x1.05 26
+    2300592: Window_sill_double_0.91x1.05 260
+    2300594: Window_sill_double_0.91x1.05 261
+    2300596: Window_sill_double_0.91x1.05 262
+    2300598: Window_sill_double_0.91x1.05 263
+    2300600: Window_sill_double_0.91x1.05 264
+    2300602: Window_sill_double_0.91x1.05 265
+    2300604: Window_sill_double_0.91x1.05 266
+    2300606: Window_sill_double_0.91x1.05 267
+    2300608: Window_sill_double_0.91x1.05 268
+    2300610: Window_sill_double_0.91x1.05 269
+    2300612: Window_sill_double_0.91x1.05 27
+    2300614: Window_sill_double_0.91x1.05 270
+    2300616: Window_sill_double_0.91x1.05 271
+    2300618: Window_sill_double_0.91x1.05 272
+    2300620: Window_sill_double_0.91x1.05 273
+    2300622: Window_sill_double_0.91x1.05 274
+    2300624: Window_sill_double_0.91x1.05 275
+    2300626: Window_sill_double_0.91x1.05 28
+    2300628: Window_sill_double_0.91x1.05 29
+    2300630: Window_sill_double_0.91x1.05 3
+    2300632: Window_sill_double_0.91x1.05 30
+    2300634: Window_sill_double_0.91x1.05 31
+    2300636: Window_sill_double_0.91x1.05 32
+    2300638: Window_sill_double_0.91x1.05 33
+    2300640: Window_sill_double_0.91x1.05 34
+    2300642: Window_sill_double_0.91x1.05 35
+    2300644: Window_sill_double_0.91x1.05 36
+    2300646: Window_sill_double_0.91x1.05 37
+    2300648: Window_sill_double_0.91x1.05 38
+    2300650: Window_sill_double_0.91x1.05 39
+    2300652: Window_sill_double_0.91x1.05 4
+    2300654: Window_sill_double_0.91x1.05 40
+    2300656: Window_sill_double_0.91x1.05 41
+    2300658: Window_sill_double_0.91x1.05 42
+    2300660: Window_sill_double_0.91x1.05 43
+    2300662: Window_sill_double_0.91x1.05 44
+    2300664: Window_sill_double_0.91x1.05 45
+    2300666: Window_sill_double_0.91x1.05 46
+    2300668: Window_sill_double_0.91x1.05 47
+    2300670: Window_sill_double_0.91x1.05 48
+    2300672: Window_sill_double_0.91x1.05 49
+    2300674: Window_sill_double_0.91x1.05 5
+    2300676: Window_sill_double_0.91x1.05 50
+    2300678: Window_sill_double_0.91x1.05 51
+    2300680: Window_sill_double_0.91x1.05 52
+    2300682: Window_sill_double_0.91x1.05 53
+    2300684: Window_sill_double_0.91x1.05 54
+    2300686: Window_sill_double_0.91x1.05 55
+    2300688: Window_sill_double_0.91x1.05 56
+    2300690: Window_sill_double_0.91x1.05 57
+    2300692: Window_sill_double_0.91x1.05 58
+    2300694: Window_sill_double_0.91x1.05 59
+    2300696: Window_sill_double_0.91x1.05 6
+    2300698: Window_sill_double_0.91x1.05 60
+    2300700: Window_sill_double_0.91x1.05 61
+    2300702: Window_sill_double_0.91x1.05 62
+    2300704: Window_sill_double_0.91x1.05 63
+    2300706: Window_sill_double_0.91x1.05 64
+    2300708: Window_sill_double_0.91x1.05 65
+    2300710: Window_sill_double_0.91x1.05 66
+    2300712: Window_sill_double_0.91x1.05 67
+    2300714: Window_sill_double_0.91x1.05 68
+    2300716: Window_sill_double_0.91x1.05 69
+    2300718: Window_sill_double_0.91x1.05 7
+    2300720: Window_sill_double_0.91x1.05 70
+    2300722: Window_sill_double_0.91x1.05 71
+    2300724: Window_sill_double_0.91x1.05 72
+    2300726: Window_sill_double_0.91x1.05 73
+    2300728: Window_sill_double_0.91x1.05 74
+    2300730: Window_sill_double_0.91x1.05 75
+    2300732: Window_sill_double_0.91x1.05 76
+    2300734: Window_sill_double_0.91x1.05 77
+    2300736: Window_sill_double_0.91x1.05 78
+    2300738: Window_sill_double_0.91x1.05 79
+    2300740: Window_sill_double_0.91x1.05 8
+    2300742: Window_sill_double_0.91x1.05 80
+    2300744: Window_sill_double_0.91x1.05 81
+    2300746: Window_sill_double_0.91x1.05 82
+    2300748: Window_sill_double_0.91x1.05 83
+    2300750: Window_sill_double_0.91x1.05 84
+    2300752: Window_sill_double_0.91x1.05 85
+    2300754: Window_sill_double_0.91x1.05 86
+    2300756: Window_sill_double_0.91x1.05 87
+    2300758: Window_sill_double_0.91x1.05 88
+    2300760: Window_sill_double_0.91x1.05 89
+    2300762: Window_sill_double_0.91x1.05 9
+    2300764: Window_sill_double_0.91x1.05 90
+    2300766: Window_sill_double_0.91x1.05 91
+    2300768: Window_sill_double_0.91x1.05 92
+    2300770: Window_sill_double_0.91x1.05 93
+    2300772: Window_sill_double_0.91x1.05 94
+    2300774: Window_sill_double_0.91x1.05 95
+    2300776: Window_sill_double_0.91x1.05 96
+    2300778: Window_sill_double_0.91x1.05 97
+    2300780: Window_sill_double_0.91x1.05 98
+    2300782: Window_sill_double_0.91x1.05 99
+    2300784: Window_sill_double_0.91x1.05#1
+    2300786: Window_sill_double_0.91x1.05#1 1
+    2300788: Window_sill_double_0.91x1.05#2
+    2300790: Window_sill_double_0.91x1.05#2 1
+    2300792: Window_sill_double_0.91x1.05#2 2
+    2300794: Window_sill_double_0.91x1.05#2 3
+    2300796: Window_sill_double_0.91x1.05#2 4
+    2300798: Window_sill_double_0.91x1.05#2 5
+    3300000: 33007_3d_site
+    3300002: bldg_half
+    3300004: bldg_half 1
+    3300006: Door_glass_1.0x2.18#1
+    3300008: Door_glass_1.0x2.18#1 1
+    3300010: Door_glass_1.0x2.18#1 10
+    3300012: Door_glass_1.0x2.18#1 11
+    3300014: Door_glass_1.0x2.18#1 12
+    3300016: Door_glass_1.0x2.18#1 13
+    3300018: Door_glass_1.0x2.18#1 2
+    3300020: Door_glass_1.0x2.18#1 3
+    3300022: Door_glass_1.0x2.18#1 4
+    3300024: Door_glass_1.0x2.18#1 5
+    3300026: Door_glass_1.0x2.18#1 6
+    3300028: Door_glass_1.0x2.18#1 7
+    3300030: Door_glass_1.0x2.18#1 8
+    3300032: Door_glass_1.0x2.18#1 9
+    3300034: Door_glass_1.0x2.18#2
+    3300036: Door_glass_1.0x2.18#2 1
+    3300038: Door_glass_slider_1.8x.2.08
+    3300040: Door_glass_slider_1.8x.2.08 1
+    3300042: Door_glass_slider_1.8x.2.08 2
+    3300044: Door_glass_slider_1.8x.2.08 3
+    3300046: Door_glass_slider_1.8x.2.08 4
+    3300048: Door_glass_slider_1.8x.2.08 5
+    3300050: Door_glass_slider_1.8x.2.08 6
+    3300052: Door_glass_slider_1.8x.2.08 7
+    3300054: Door_lite_1.15x2.2#1
+    3300056: Door_lite_1.15x2.2#1 1
+    3300058: Door_lite_1.15x2.2#1 2
+    3300060: Door_lite_1.15x2.2#1 3
+    3300062: Door_plain_1.0x2.1#1
+    3300064: Door_plain_1.0x2.1#1 1
+    3300066: Door_plain_1.0x2.1#1 2
+    3300068: Door_plain_1.0x2.1#1 3
+    3300070: fantree-sm
+    3300072: fantree-sm 1
+    3300074: fantree-sm 2
+    3300076: fantree-sm 3
+    3300078: fantree-sm 4
+    3300080: fantree-sm 5
+    3300082: Image 1
+    3300084: roof
+    3300086: roof 1
+    3300088: rounded-sm#1
+    3300090: rounded-sm#1 1
+    3300092: rounded-sm#1 10
+    3300094: rounded-sm#1 11
+    3300096: rounded-sm#1 12
+    3300098: rounded-sm#1 13
+    3300100: rounded-sm#1 14
+    3300102: rounded-sm#1 15
+    3300104: rounded-sm#1 16
+    3300106: rounded-sm#1 17
+    3300108: rounded-sm#1 18
+    3300110: rounded-sm#1 19
+    3300112: rounded-sm#1 2
+    3300114: rounded-sm#1 20
+    3300116: rounded-sm#1 21
+    3300118: rounded-sm#1 22
+    3300120: rounded-sm#1 23
+    3300122: rounded-sm#1 24
+    3300124: rounded-sm#1 3
+    3300126: rounded-sm#1 4
+    3300128: rounded-sm#1 5
+    3300130: rounded-sm#1 6
+    3300132: rounded-sm#1 7
+    3300134: rounded-sm#1 8
+    3300136: rounded-sm#1 9
+    3300138: scale_obq
+    3300140: Window_sill_0.51x1.05#1
+    3300142: Window_sill_0.51x1.05#1 1
+    3300144: Window_sill_0.51x1.05#1 10
+    3300146: Window_sill_0.51x1.05#1 11
+    3300148: Window_sill_0.51x1.05#1 12
+    3300150: Window_sill_0.51x1.05#1 13
+    3300152: Window_sill_0.51x1.05#1 14
+    3300154: Window_sill_0.51x1.05#1 15
+    3300156: Window_sill_0.51x1.05#1 2
+    3300158: Window_sill_0.51x1.05#1 3
+    3300160: Window_sill_0.51x1.05#1 4
+    3300162: Window_sill_0.51x1.05#1 5
+    3300164: Window_sill_0.51x1.05#1 6
+    3300166: Window_sill_0.51x1.05#1 7
+    3300168: Window_sill_0.51x1.05#1 8
+    3300170: Window_sill_0.51x1.05#1 9
+    3300172: Window_sill_0.51x1.05#2
+    3300174: Window_sill_0.51x1.05#2 1
+    3300176: Window_sill_0.51x1.05#2 10
+    3300178: Window_sill_0.51x1.05#2 11
+    3300180: Window_sill_0.51x1.05#2 12
+    3300182: Window_sill_0.51x1.05#2 13
+    3300184: Window_sill_0.51x1.05#2 14
+    3300186: Window_sill_0.51x1.05#2 15
+    3300188: Window_sill_0.51x1.05#2 16
+    3300190: Window_sill_0.51x1.05#2 17
+    3300192: Window_sill_0.51x1.05#2 18
+    3300194: Window_sill_0.51x1.05#2 19
+    3300196: Window_sill_0.51x1.05#2 2
+    3300198: Window_sill_0.51x1.05#2 20
+    3300200: Window_sill_0.51x1.05#2 21
+    3300202: Window_sill_0.51x1.05#2 22
+    3300204: Window_sill_0.51x1.05#2 23
+    3300206: Window_sill_0.51x1.05#2 24
+    3300208: Window_sill_0.51x1.05#2 25
+    3300210: Window_sill_0.51x1.05#2 26
+    3300212: Window_sill_0.51x1.05#2 27
+    3300214: Window_sill_0.51x1.05#2 28
+    3300216: Window_sill_0.51x1.05#2 29
+    3300218: Window_sill_0.51x1.05#2 3
+    3300220: Window_sill_0.51x1.05#2 4
+    3300222: Window_sill_0.51x1.05#2 5
+    3300224: Window_sill_0.51x1.05#2 6
+    3300226: Window_sill_0.51x1.05#2 7
+    3300228: Window_sill_0.51x1.05#2 8
+    3300230: Window_sill_0.51x1.05#2 9
+    3300232: Window_sill_double_0.91x1.05
+    3300234: Window_sill_double_0.91x1.05 1
+    3300236: Window_sill_double_0.91x1.05 10
+    3300238: Window_sill_double_0.91x1.05 100
+    3300240: Window_sill_double_0.91x1.05 101
+    3300242: Window_sill_double_0.91x1.05 102
+    3300244: Window_sill_double_0.91x1.05 103
+    3300246: Window_sill_double_0.91x1.05 104
+    3300248: Window_sill_double_0.91x1.05 105
+    3300250: Window_sill_double_0.91x1.05 106
+    3300252: Window_sill_double_0.91x1.05 107
+    3300254: Window_sill_double_0.91x1.05 108
+    3300256: Window_sill_double_0.91x1.05 109
+    3300258: Window_sill_double_0.91x1.05 11
+    3300260: Window_sill_double_0.91x1.05 110
+    3300262: Window_sill_double_0.91x1.05 111
+    3300264: Window_sill_double_0.91x1.05 112
+    3300266: Window_sill_double_0.91x1.05 113
+    3300268: Window_sill_double_0.91x1.05 114
+    3300270: Window_sill_double_0.91x1.05 115
+    3300272: Window_sill_double_0.91x1.05 116
+    3300274: Window_sill_double_0.91x1.05 117
+    3300276: Window_sill_double_0.91x1.05 118
+    3300278: Window_sill_double_0.91x1.05 119
+    3300280: Window_sill_double_0.91x1.05 12
+    3300282: Window_sill_double_0.91x1.05 120
+    3300284: Window_sill_double_0.91x1.05 121
+    3300286: Window_sill_double_0.91x1.05 122
+    3300288: Window_sill_double_0.91x1.05 123
+    3300290: Window_sill_double_0.91x1.05 124
+    3300292: Window_sill_double_0.91x1.05 125
+    3300294: Window_sill_double_0.91x1.05 126
+    3300296: Window_sill_double_0.91x1.05 127
+    3300298: Window_sill_double_0.91x1.05 128
+    3300300: Window_sill_double_0.91x1.05 129
+    3300302: Window_sill_double_0.91x1.05 13
+    3300304: Window_sill_double_0.91x1.05 130
+    3300306: Window_sill_double_0.91x1.05 131
+    3300308: Window_sill_double_0.91x1.05 132
+    3300310: Window_sill_double_0.91x1.05 133
+    3300312: Window_sill_double_0.91x1.05 134
+    3300314: Window_sill_double_0.91x1.05 135
+    3300316: Window_sill_double_0.91x1.05 136
+    3300318: Window_sill_double_0.91x1.05 137
+    3300320: Window_sill_double_0.91x1.05 138
+    3300322: Window_sill_double_0.91x1.05 139
+    3300324: Window_sill_double_0.91x1.05 14
+    3300326: Window_sill_double_0.91x1.05 140
+    3300328: Window_sill_double_0.91x1.05 141
+    3300330: Window_sill_double_0.91x1.05 142
+    3300332: Window_sill_double_0.91x1.05 143
+    3300334: Window_sill_double_0.91x1.05 144
+    3300336: Window_sill_double_0.91x1.05 145
+    3300338: Window_sill_double_0.91x1.05 146
+    3300340: Window_sill_double_0.91x1.05 147
+    3300342: Window_sill_double_0.91x1.05 148
+    3300344: Window_sill_double_0.91x1.05 149
+    3300346: Window_sill_double_0.91x1.05 15
+    3300348: Window_sill_double_0.91x1.05 150
+    3300350: Window_sill_double_0.91x1.05 151
+    3300352: Window_sill_double_0.91x1.05 152
+    3300354: Window_sill_double_0.91x1.05 153
+    3300356: Window_sill_double_0.91x1.05 154
+    3300358: Window_sill_double_0.91x1.05 155
+    3300360: Window_sill_double_0.91x1.05 156
+    3300362: Window_sill_double_0.91x1.05 157
+    3300364: Window_sill_double_0.91x1.05 158
+    3300366: Window_sill_double_0.91x1.05 159
+    3300368: Window_sill_double_0.91x1.05 16
+    3300370: Window_sill_double_0.91x1.05 160
+    3300372: Window_sill_double_0.91x1.05 161
+    3300374: Window_sill_double_0.91x1.05 162
+    3300376: Window_sill_double_0.91x1.05 163
+    3300378: Window_sill_double_0.91x1.05 164
+    3300380: Window_sill_double_0.91x1.05 165
+    3300382: Window_sill_double_0.91x1.05 166
+    3300384: Window_sill_double_0.91x1.05 167
+    3300386: Window_sill_double_0.91x1.05 168
+    3300388: Window_sill_double_0.91x1.05 169
+    3300390: Window_sill_double_0.91x1.05 17
+    3300392: Window_sill_double_0.91x1.05 170
+    3300394: Window_sill_double_0.91x1.05 171
+    3300396: Window_sill_double_0.91x1.05 172
+    3300398: Window_sill_double_0.91x1.05 173
+    3300400: Window_sill_double_0.91x1.05 174
+    3300402: Window_sill_double_0.91x1.05 175
+    3300404: Window_sill_double_0.91x1.05 176
+    3300406: Window_sill_double_0.91x1.05 177
+    3300408: Window_sill_double_0.91x1.05 178
+    3300410: Window_sill_double_0.91x1.05 179
+    3300412: Window_sill_double_0.91x1.05 18
+    3300414: Window_sill_double_0.91x1.05 180
+    3300416: Window_sill_double_0.91x1.05 181
+    3300418: Window_sill_double_0.91x1.05 182
+    3300420: Window_sill_double_0.91x1.05 183
+    3300422: Window_sill_double_0.91x1.05 184
+    3300424: Window_sill_double_0.91x1.05 185
+    3300426: Window_sill_double_0.91x1.05 186
+    3300428: Window_sill_double_0.91x1.05 187
+    3300430: Window_sill_double_0.91x1.05 188
+    3300432: Window_sill_double_0.91x1.05 189
+    3300434: Window_sill_double_0.91x1.05 19
+    3300436: Window_sill_double_0.91x1.05 190
+    3300438: Window_sill_double_0.91x1.05 191
+    3300440: Window_sill_double_0.91x1.05 192
+    3300442: Window_sill_double_0.91x1.05 193
+    3300444: Window_sill_double_0.91x1.05 194
+    3300446: Window_sill_double_0.91x1.05 195
+    3300448: Window_sill_double_0.91x1.05 196
+    3300450: Window_sill_double_0.91x1.05 197
+    3300452: Window_sill_double_0.91x1.05 198
+    3300454: Window_sill_double_0.91x1.05 199
+    3300456: Window_sill_double_0.91x1.05 2
+    3300458: Window_sill_double_0.91x1.05 20
+    3300460: Window_sill_double_0.91x1.05 200
+    3300462: Window_sill_double_0.91x1.05 201
+    3300464: Window_sill_double_0.91x1.05 202
+    3300466: Window_sill_double_0.91x1.05 203
+    3300468: Window_sill_double_0.91x1.05 204
+    3300470: Window_sill_double_0.91x1.05 205
+    3300472: Window_sill_double_0.91x1.05 206
+    3300474: Window_sill_double_0.91x1.05 207
+    3300476: Window_sill_double_0.91x1.05 208
+    3300478: Window_sill_double_0.91x1.05 209
+    3300480: Window_sill_double_0.91x1.05 21
+    3300482: Window_sill_double_0.91x1.05 210
+    3300484: Window_sill_double_0.91x1.05 211
+    3300486: Window_sill_double_0.91x1.05 212
+    3300488: Window_sill_double_0.91x1.05 213
+    3300490: Window_sill_double_0.91x1.05 214
+    3300492: Window_sill_double_0.91x1.05 215
+    3300494: Window_sill_double_0.91x1.05 216
+    3300496: Window_sill_double_0.91x1.05 217
+    3300498: Window_sill_double_0.91x1.05 218
+    3300500: Window_sill_double_0.91x1.05 219
+    3300502: Window_sill_double_0.91x1.05 22
+    3300504: Window_sill_double_0.91x1.05 220
+    3300506: Window_sill_double_0.91x1.05 221
+    3300508: Window_sill_double_0.91x1.05 222
+    3300510: Window_sill_double_0.91x1.05 223
+    3300512: Window_sill_double_0.91x1.05 224
+    3300514: Window_sill_double_0.91x1.05 225
+    3300516: Window_sill_double_0.91x1.05 226
+    3300518: Window_sill_double_0.91x1.05 227
+    3300520: Window_sill_double_0.91x1.05 228
+    3300522: Window_sill_double_0.91x1.05 229
+    3300524: Window_sill_double_0.91x1.05 23
+    3300526: Window_sill_double_0.91x1.05 230
+    3300528: Window_sill_double_0.91x1.05 231
+    3300530: Window_sill_double_0.91x1.05 232
+    3300532: Window_sill_double_0.91x1.05 233
+    3300534: Window_sill_double_0.91x1.05 234
+    3300536: Window_sill_double_0.91x1.05 235
+    3300538: Window_sill_double_0.91x1.05 236
+    3300540: Window_sill_double_0.91x1.05 237
+    3300542: Window_sill_double_0.91x1.05 238
+    3300544: Window_sill_double_0.91x1.05 239
+    3300546: Window_sill_double_0.91x1.05 24
+    3300548: Window_sill_double_0.91x1.05 240
+    3300550: Window_sill_double_0.91x1.05 241
+    3300552: Window_sill_double_0.91x1.05 242
+    3300554: Window_sill_double_0.91x1.05 243
+    3300556: Window_sill_double_0.91x1.05 244
+    3300558: Window_sill_double_0.91x1.05 245
+    3300560: Window_sill_double_0.91x1.05 246
+    3300562: Window_sill_double_0.91x1.05 247
+    3300564: Window_sill_double_0.91x1.05 248
+    3300566: Window_sill_double_0.91x1.05 249
+    3300568: Window_sill_double_0.91x1.05 25
+    3300570: Window_sill_double_0.91x1.05 250
+    3300572: Window_sill_double_0.91x1.05 251
+    3300574: Window_sill_double_0.91x1.05 252
+    3300576: Window_sill_double_0.91x1.05 253
+    3300578: Window_sill_double_0.91x1.05 254
+    3300580: Window_sill_double_0.91x1.05 255
+    3300582: Window_sill_double_0.91x1.05 256
+    3300584: Window_sill_double_0.91x1.05 257
+    3300586: Window_sill_double_0.91x1.05 258
+    3300588: Window_sill_double_0.91x1.05 259
+    3300590: Window_sill_double_0.91x1.05 26
+    3300592: Window_sill_double_0.91x1.05 260
+    3300594: Window_sill_double_0.91x1.05 261
+    3300596: Window_sill_double_0.91x1.05 262
+    3300598: Window_sill_double_0.91x1.05 263
+    3300600: Window_sill_double_0.91x1.05 264
+    3300602: Window_sill_double_0.91x1.05 265
+    3300604: Window_sill_double_0.91x1.05 266
+    3300606: Window_sill_double_0.91x1.05 267
+    3300608: Window_sill_double_0.91x1.05 268
+    3300610: Window_sill_double_0.91x1.05 269
+    3300612: Window_sill_double_0.91x1.05 27
+    3300614: Window_sill_double_0.91x1.05 270
+    3300616: Window_sill_double_0.91x1.05 271
+    3300618: Window_sill_double_0.91x1.05 272
+    3300620: Window_sill_double_0.91x1.05 273
+    3300622: Window_sill_double_0.91x1.05 274
+    3300624: Window_sill_double_0.91x1.05 275
+    3300626: Window_sill_double_0.91x1.05 28
+    3300628: Window_sill_double_0.91x1.05 29
+    3300630: Window_sill_double_0.91x1.05 3
+    3300632: Window_sill_double_0.91x1.05 30
+    3300634: Window_sill_double_0.91x1.05 31
+    3300636: Window_sill_double_0.91x1.05 32
+    3300638: Window_sill_double_0.91x1.05 33
+    3300640: Window_sill_double_0.91x1.05 34
+    3300642: Window_sill_double_0.91x1.05 35
+    3300644: Window_sill_double_0.91x1.05 36
+    3300646: Window_sill_double_0.91x1.05 37
+    3300648: Window_sill_double_0.91x1.05 38
+    3300650: Window_sill_double_0.91x1.05 39
+    3300652: Window_sill_double_0.91x1.05 4
+    3300654: Window_sill_double_0.91x1.05 40
+    3300656: Window_sill_double_0.91x1.05 41
+    3300658: Window_sill_double_0.91x1.05 42
+    3300660: Window_sill_double_0.91x1.05 43
+    3300662: Window_sill_double_0.91x1.05 44
+    3300664: Window_sill_double_0.91x1.05 45
+    3300666: Window_sill_double_0.91x1.05 46
+    3300668: Window_sill_double_0.91x1.05 47
+    3300670: Window_sill_double_0.91x1.05 48
+    3300672: Window_sill_double_0.91x1.05 49
+    3300674: Window_sill_double_0.91x1.05 5
+    3300676: Window_sill_double_0.91x1.05 50
+    3300678: Window_sill_double_0.91x1.05 51
+    3300680: Window_sill_double_0.91x1.05 52
+    3300682: Window_sill_double_0.91x1.05 53
+    3300684: Window_sill_double_0.91x1.05 54
+    3300686: Window_sill_double_0.91x1.05 55
+    3300688: Window_sill_double_0.91x1.05 56
+    3300690: Window_sill_double_0.91x1.05 57
+    3300692: Window_sill_double_0.91x1.05 58
+    3300694: Window_sill_double_0.91x1.05 59
+    3300696: Window_sill_double_0.91x1.05 6
+    3300698: Window_sill_double_0.91x1.05 60
+    3300700: Window_sill_double_0.91x1.05 61
+    3300702: Window_sill_double_0.91x1.05 62
+    3300704: Window_sill_double_0.91x1.05 63
+    3300706: Window_sill_double_0.91x1.05 64
+    3300708: Window_sill_double_0.91x1.05 65
+    3300710: Window_sill_double_0.91x1.05 66
+    3300712: Window_sill_double_0.91x1.05 67
+    3300714: Window_sill_double_0.91x1.05 68
+    3300716: Window_sill_double_0.91x1.05 69
+    3300718: Window_sill_double_0.91x1.05 7
+    3300720: Window_sill_double_0.91x1.05 70
+    3300722: Window_sill_double_0.91x1.05 71
+    3300724: Window_sill_double_0.91x1.05 72
+    3300726: Window_sill_double_0.91x1.05 73
+    3300728: Window_sill_double_0.91x1.05 74
+    3300730: Window_sill_double_0.91x1.05 75
+    3300732: Window_sill_double_0.91x1.05 76
+    3300734: Window_sill_double_0.91x1.05 77
+    3300736: Window_sill_double_0.91x1.05 78
+    3300738: Window_sill_double_0.91x1.05 79
+    3300740: Window_sill_double_0.91x1.05 8
+    3300742: Window_sill_double_0.91x1.05 80
+    3300744: Window_sill_double_0.91x1.05 81
+    3300746: Window_sill_double_0.91x1.05 82
+    3300748: Window_sill_double_0.91x1.05 83
+    3300750: Window_sill_double_0.91x1.05 84
+    3300752: Window_sill_double_0.91x1.05 85
+    3300754: Window_sill_double_0.91x1.05 86
+    3300756: Window_sill_double_0.91x1.05 87
+    3300758: Window_sill_double_0.91x1.05 88
+    3300760: Window_sill_double_0.91x1.05 89
+    3300762: Window_sill_double_0.91x1.05 9
+    3300764: Window_sill_double_0.91x1.05 90
+    3300766: Window_sill_double_0.91x1.05 91
+    3300768: Window_sill_double_0.91x1.05 92
+    3300770: Window_sill_double_0.91x1.05 93
+    3300772: Window_sill_double_0.91x1.05 94
+    3300774: Window_sill_double_0.91x1.05 95
+    3300776: Window_sill_double_0.91x1.05 96
+    3300778: Window_sill_double_0.91x1.05 97
+    3300780: Window_sill_double_0.91x1.05 98
+    3300782: Window_sill_double_0.91x1.05 99
+    3300784: Window_sill_double_0.91x1.05#1
+    3300786: Window_sill_double_0.91x1.05#1 1
+    3300788: Window_sill_double_0.91x1.05#2
+    3300790: Window_sill_double_0.91x1.05#2 1
+    3300792: Window_sill_double_0.91x1.05#2 2
+    3300794: Window_sill_double_0.91x1.05#2 3
+    3300796: Window_sill_double_0.91x1.05#2 4
+    3300798: Window_sill_double_0.91x1.05#2 5
+    4300000: Mesh 33007-00
+    4300002: Mesh scale_obq
+    4300004: Mesh bldg_half
+    4300006: Mesh Door_glass_slider_1.8x.2.08
+    4300008: Mesh Window_sill_0.51x1.05#1
+    4300010: Mesh Window_sill_0.51x1.05#2
+    4300012: Mesh Door_glass_1.0x2.18#1
+    4300014: Mesh Window_sill_double_0.91x1.05
+    4300016: Mesh Door_lite_1.15x2.2#1
+    4300018: Mesh Door_glass_1.0x2.18#2
+    4300020: Mesh Window_sill_double_0.91x1.05#1
+    4300022: Mesh roof
+    4300024: Mesh Door_plain_1.0x2.1#1
+    4300026: Mesh Window_sill_double_0.91x1.05#2
+    4300028: Mesh rounded-sm#1
+    4300030: Mesh fantree-sm
+    4300032: Mesh 33007_3d_site
+    6400000: 33007_3d_site
+    6400002: bldg_half
+    6400004: bldg_half 1
+    6400006: Door_glass_1.0x2.18#1
+    6400008: Door_glass_1.0x2.18#1 1
+    6400010: Door_glass_1.0x2.18#1 10
+    6400012: Door_glass_1.0x2.18#1 11
+    6400014: Door_glass_1.0x2.18#1 12
+    6400016: Door_glass_1.0x2.18#1 13
+    6400018: Door_glass_1.0x2.18#1 2
+    6400020: Door_glass_1.0x2.18#1 3
+    6400022: Door_glass_1.0x2.18#1 4
+    6400024: Door_glass_1.0x2.18#1 5
+    6400026: Door_glass_1.0x2.18#1 6
+    6400028: Door_glass_1.0x2.18#1 7
+    6400030: Door_glass_1.0x2.18#1 8
+    6400032: Door_glass_1.0x2.18#1 9
+    6400034: Door_glass_1.0x2.18#2
+    6400036: Door_glass_1.0x2.18#2 1
+    6400038: Door_glass_slider_1.8x.2.08
+    6400040: Door_glass_slider_1.8x.2.08 1
+    6400042: Door_glass_slider_1.8x.2.08 2
+    6400044: Door_glass_slider_1.8x.2.08 3
+    6400046: Door_glass_slider_1.8x.2.08 4
+    6400048: Door_glass_slider_1.8x.2.08 5
+    6400050: Door_glass_slider_1.8x.2.08 6
+    6400052: Door_glass_slider_1.8x.2.08 7
+    6400054: Door_lite_1.15x2.2#1
+    6400056: Door_lite_1.15x2.2#1 1
+    6400058: Door_lite_1.15x2.2#1 2
+    6400060: Door_lite_1.15x2.2#1 3
+    6400062: Door_plain_1.0x2.1#1
+    6400064: Door_plain_1.0x2.1#1 1
+    6400066: Door_plain_1.0x2.1#1 2
+    6400068: Door_plain_1.0x2.1#1 3
+    6400070: fantree-sm
+    6400072: fantree-sm 1
+    6400074: fantree-sm 2
+    6400076: fantree-sm 3
+    6400078: fantree-sm 4
+    6400080: fantree-sm 5
+    6400082: Image 1
+    6400084: roof
+    6400086: roof 1
+    6400088: rounded-sm#1
+    6400090: rounded-sm#1 1
+    6400092: rounded-sm#1 10
+    6400094: rounded-sm#1 11
+    6400096: rounded-sm#1 12
+    6400098: rounded-sm#1 13
+    6400100: rounded-sm#1 14
+    6400102: rounded-sm#1 15
+    6400104: rounded-sm#1 16
+    6400106: rounded-sm#1 17
+    6400108: rounded-sm#1 18
+    6400110: rounded-sm#1 19
+    6400112: rounded-sm#1 2
+    6400114: rounded-sm#1 20
+    6400116: rounded-sm#1 21
+    6400118: rounded-sm#1 22
+    6400120: rounded-sm#1 23
+    6400122: rounded-sm#1 24
+    6400124: rounded-sm#1 3
+    6400126: rounded-sm#1 4
+    6400128: rounded-sm#1 5
+    6400130: rounded-sm#1 6
+    6400132: rounded-sm#1 7
+    6400134: rounded-sm#1 8
+    6400136: rounded-sm#1 9
+    6400138: scale_obq
+    6400140: Window_sill_0.51x1.05#1
+    6400142: Window_sill_0.51x1.05#1 1
+    6400144: Window_sill_0.51x1.05#1 10
+    6400146: Window_sill_0.51x1.05#1 11
+    6400148: Window_sill_0.51x1.05#1 12
+    6400150: Window_sill_0.51x1.05#1 13
+    6400152: Window_sill_0.51x1.05#1 14
+    6400154: Window_sill_0.51x1.05#1 15
+    6400156: Window_sill_0.51x1.05#1 2
+    6400158: Window_sill_0.51x1.05#1 3
+    6400160: Window_sill_0.51x1.05#1 4
+    6400162: Window_sill_0.51x1.05#1 5
+    6400164: Window_sill_0.51x1.05#1 6
+    6400166: Window_sill_0.51x1.05#1 7
+    6400168: Window_sill_0.51x1.05#1 8
+    6400170: Window_sill_0.51x1.05#1 9
+    6400172: Window_sill_0.51x1.05#2
+    6400174: Window_sill_0.51x1.05#2 1
+    6400176: Window_sill_0.51x1.05#2 10
+    6400178: Window_sill_0.51x1.05#2 11
+    6400180: Window_sill_0.51x1.05#2 12
+    6400182: Window_sill_0.51x1.05#2 13
+    6400184: Window_sill_0.51x1.05#2 14
+    6400186: Window_sill_0.51x1.05#2 15
+    6400188: Window_sill_0.51x1.05#2 16
+    6400190: Window_sill_0.51x1.05#2 17
+    6400192: Window_sill_0.51x1.05#2 18
+    6400194: Window_sill_0.51x1.05#2 19
+    6400196: Window_sill_0.51x1.05#2 2
+    6400198: Window_sill_0.51x1.05#2 20
+    6400200: Window_sill_0.51x1.05#2 21
+    6400202: Window_sill_0.51x1.05#2 22
+    6400204: Window_sill_0.51x1.05#2 23
+    6400206: Window_sill_0.51x1.05#2 24
+    6400208: Window_sill_0.51x1.05#2 25
+    6400210: Window_sill_0.51x1.05#2 26
+    6400212: Window_sill_0.51x1.05#2 27
+    6400214: Window_sill_0.51x1.05#2 28
+    6400216: Window_sill_0.51x1.05#2 29
+    6400218: Window_sill_0.51x1.05#2 3
+    6400220: Window_sill_0.51x1.05#2 4
+    6400222: Window_sill_0.51x1.05#2 5
+    6400224: Window_sill_0.51x1.05#2 6
+    6400226: Window_sill_0.51x1.05#2 7
+    6400228: Window_sill_0.51x1.05#2 8
+    6400230: Window_sill_0.51x1.05#2 9
+    6400232: Window_sill_double_0.91x1.05
+    6400234: Window_sill_double_0.91x1.05 1
+    6400236: Window_sill_double_0.91x1.05 10
+    6400238: Window_sill_double_0.91x1.05 100
+    6400240: Window_sill_double_0.91x1.05 101
+    6400242: Window_sill_double_0.91x1.05 102
+    6400244: Window_sill_double_0.91x1.05 103
+    6400246: Window_sill_double_0.91x1.05 104
+    6400248: Window_sill_double_0.91x1.05 105
+    6400250: Window_sill_double_0.91x1.05 106
+    6400252: Window_sill_double_0.91x1.05 107
+    6400254: Window_sill_double_0.91x1.05 108
+    6400256: Window_sill_double_0.91x1.05 109
+    6400258: Window_sill_double_0.91x1.05 11
+    6400260: Window_sill_double_0.91x1.05 110
+    6400262: Window_sill_double_0.91x1.05 111
+    6400264: Window_sill_double_0.91x1.05 112
+    6400266: Window_sill_double_0.91x1.05 113
+    6400268: Window_sill_double_0.91x1.05 114
+    6400270: Window_sill_double_0.91x1.05 115
+    6400272: Window_sill_double_0.91x1.05 116
+    6400274: Window_sill_double_0.91x1.05 117
+    6400276: Window_sill_double_0.91x1.05 118
+    6400278: Window_sill_double_0.91x1.05 119
+    6400280: Window_sill_double_0.91x1.05 12
+    6400282: Window_sill_double_0.91x1.05 120
+    6400284: Window_sill_double_0.91x1.05 121
+    6400286: Window_sill_double_0.91x1.05 122
+    6400288: Window_sill_double_0.91x1.05 123
+    6400290: Window_sill_double_0.91x1.05 124
+    6400292: Window_sill_double_0.91x1.05 125
+    6400294: Window_sill_double_0.91x1.05 126
+    6400296: Window_sill_double_0.91x1.05 127
+    6400298: Window_sill_double_0.91x1.05 128
+    6400300: Window_sill_double_0.91x1.05 129
+    6400302: Window_sill_double_0.91x1.05 13
+    6400304: Window_sill_double_0.91x1.05 130
+    6400306: Window_sill_double_0.91x1.05 131
+    6400308: Window_sill_double_0.91x1.05 132
+    6400310: Window_sill_double_0.91x1.05 133
+    6400312: Window_sill_double_0.91x1.05 134
+    6400314: Window_sill_double_0.91x1.05 135
+    6400316: Window_sill_double_0.91x1.05 136
+    6400318: Window_sill_double_0.91x1.05 137
+    6400320: Window_sill_double_0.91x1.05 138
+    6400322: Window_sill_double_0.91x1.05 139
+    6400324: Window_sill_double_0.91x1.05 14
+    6400326: Window_sill_double_0.91x1.05 140
+    6400328: Window_sill_double_0.91x1.05 141
+    6400330: Window_sill_double_0.91x1.05 142
+    6400332: Window_sill_double_0.91x1.05 143
+    6400334: Window_sill_double_0.91x1.05 144
+    6400336: Window_sill_double_0.91x1.05 145
+    6400338: Window_sill_double_0.91x1.05 146
+    6400340: Window_sill_double_0.91x1.05 147
+    6400342: Window_sill_double_0.91x1.05 148
+    6400344: Window_sill_double_0.91x1.05 149
+    6400346: Window_sill_double_0.91x1.05 15
+    6400348: Window_sill_double_0.91x1.05 150
+    6400350: Window_sill_double_0.91x1.05 151
+    6400352: Window_sill_double_0.91x1.05 152
+    6400354: Window_sill_double_0.91x1.05 153
+    6400356: Window_sill_double_0.91x1.05 154
+    6400358: Window_sill_double_0.91x1.05 155
+    6400360: Window_sill_double_0.91x1.05 156
+    6400362: Window_sill_double_0.91x1.05 157
+    6400364: Window_sill_double_0.91x1.05 158
+    6400366: Window_sill_double_0.91x1.05 159
+    6400368: Window_sill_double_0.91x1.05 16
+    6400370: Window_sill_double_0.91x1.05 160
+    6400372: Window_sill_double_0.91x1.05 161
+    6400374: Window_sill_double_0.91x1.05 162
+    6400376: Window_sill_double_0.91x1.05 163
+    6400378: Window_sill_double_0.91x1.05 164
+    6400380: Window_sill_double_0.91x1.05 165
+    6400382: Window_sill_double_0.91x1.05 166
+    6400384: Window_sill_double_0.91x1.05 167
+    6400386: Window_sill_double_0.91x1.05 168
+    6400388: Window_sill_double_0.91x1.05 169
+    6400390: Window_sill_double_0.91x1.05 17
+    6400392: Window_sill_double_0.91x1.05 170
+    6400394: Window_sill_double_0.91x1.05 171
+    6400396: Window_sill_double_0.91x1.05 172
+    6400398: Window_sill_double_0.91x1.05 173
+    6400400: Window_sill_double_0.91x1.05 174
+    6400402: Window_sill_double_0.91x1.05 175
+    6400404: Window_sill_double_0.91x1.05 176
+    6400406: Window_sill_double_0.91x1.05 177
+    6400408: Window_sill_double_0.91x1.05 178
+    6400410: Window_sill_double_0.91x1.05 179
+    6400412: Window_sill_double_0.91x1.05 18
+    6400414: Window_sill_double_0.91x1.05 180
+    6400416: Window_sill_double_0.91x1.05 181
+    6400418: Window_sill_double_0.91x1.05 182
+    6400420: Window_sill_double_0.91x1.05 183
+    6400422: Window_sill_double_0.91x1.05 184
+    6400424: Window_sill_double_0.91x1.05 185
+    6400426: Window_sill_double_0.91x1.05 186
+    6400428: Window_sill_double_0.91x1.05 187
+    6400430: Window_sill_double_0.91x1.05 188
+    6400432: Window_sill_double_0.91x1.05 189
+    6400434: Window_sill_double_0.91x1.05 19
+    6400436: Window_sill_double_0.91x1.05 190
+    6400438: Window_sill_double_0.91x1.05 191
+    6400440: Window_sill_double_0.91x1.05 192
+    6400442: Window_sill_double_0.91x1.05 193
+    6400444: Window_sill_double_0.91x1.05 194
+    6400446: Window_sill_double_0.91x1.05 195
+    6400448: Window_sill_double_0.91x1.05 196
+    6400450: Window_sill_double_0.91x1.05 197
+    6400452: Window_sill_double_0.91x1.05 198
+    6400454: Window_sill_double_0.91x1.05 199
+    6400456: Window_sill_double_0.91x1.05 2
+    6400458: Window_sill_double_0.91x1.05 20
+    6400460: Window_sill_double_0.91x1.05 200
+    6400462: Window_sill_double_0.91x1.05 201
+    6400464: Window_sill_double_0.91x1.05 202
+    6400466: Window_sill_double_0.91x1.05 203
+    6400468: Window_sill_double_0.91x1.05 204
+    6400470: Window_sill_double_0.91x1.05 205
+    6400472: Window_sill_double_0.91x1.05 206
+    6400474: Window_sill_double_0.91x1.05 207
+    6400476: Window_sill_double_0.91x1.05 208
+    6400478: Window_sill_double_0.91x1.05 209
+    6400480: Window_sill_double_0.91x1.05 21
+    6400482: Window_sill_double_0.91x1.05 210
+    6400484: Window_sill_double_0.91x1.05 211
+    6400486: Window_sill_double_0.91x1.05 212
+    6400488: Window_sill_double_0.91x1.05 213
+    6400490: Window_sill_double_0.91x1.05 214
+    6400492: Window_sill_double_0.91x1.05 215
+    6400494: Window_sill_double_0.91x1.05 216
+    6400496: Window_sill_double_0.91x1.05 217
+    6400498: Window_sill_double_0.91x1.05 218
+    6400500: Window_sill_double_0.91x1.05 219
+    6400502: Window_sill_double_0.91x1.05 22
+    6400504: Window_sill_double_0.91x1.05 220
+    6400506: Window_sill_double_0.91x1.05 221
+    6400508: Window_sill_double_0.91x1.05 222
+    6400510: Window_sill_double_0.91x1.05 223
+    6400512: Window_sill_double_0.91x1.05 224
+    6400514: Window_sill_double_0.91x1.05 225
+    6400516: Window_sill_double_0.91x1.05 226
+    6400518: Window_sill_double_0.91x1.05 227
+    6400520: Window_sill_double_0.91x1.05 228
+    6400522: Window_sill_double_0.91x1.05 229
+    6400524: Window_sill_double_0.91x1.05 23
+    6400526: Window_sill_double_0.91x1.05 230
+    6400528: Window_sill_double_0.91x1.05 231
+    6400530: Window_sill_double_0.91x1.05 232
+    6400532: Window_sill_double_0.91x1.05 233
+    6400534: Window_sill_double_0.91x1.05 234
+    6400536: Window_sill_double_0.91x1.05 235
+    6400538: Window_sill_double_0.91x1.05 236
+    6400540: Window_sill_double_0.91x1.05 237
+    6400542: Window_sill_double_0.91x1.05 238
+    6400544: Window_sill_double_0.91x1.05 239
+    6400546: Window_sill_double_0.91x1.05 24
+    6400548: Window_sill_double_0.91x1.05 240
+    6400550: Window_sill_double_0.91x1.05 241
+    6400552: Window_sill_double_0.91x1.05 242
+    6400554: Window_sill_double_0.91x1.05 243
+    6400556: Window_sill_double_0.91x1.05 244
+    6400558: Window_sill_double_0.91x1.05 245
+    6400560: Window_sill_double_0.91x1.05 246
+    6400562: Window_sill_double_0.91x1.05 247
+    6400564: Window_sill_double_0.91x1.05 248
+    6400566: Window_sill_double_0.91x1.05 249
+    6400568: Window_sill_double_0.91x1.05 25
+    6400570: Window_sill_double_0.91x1.05 250
+    6400572: Window_sill_double_0.91x1.05 251
+    6400574: Window_sill_double_0.91x1.05 252
+    6400576: Window_sill_double_0.91x1.05 253
+    6400578: Window_sill_double_0.91x1.05 254
+    6400580: Window_sill_double_0.91x1.05 255
+    6400582: Window_sill_double_0.91x1.05 256
+    6400584: Window_sill_double_0.91x1.05 257
+    6400586: Window_sill_double_0.91x1.05 258
+    6400588: Window_sill_double_0.91x1.05 259
+    6400590: Window_sill_double_0.91x1.05 26
+    6400592: Window_sill_double_0.91x1.05 260
+    6400594: Window_sill_double_0.91x1.05 261
+    6400596: Window_sill_double_0.91x1.05 262
+    6400598: Window_sill_double_0.91x1.05 263
+    6400600: Window_sill_double_0.91x1.05 264
+    6400602: Window_sill_double_0.91x1.05 265
+    6400604: Window_sill_double_0.91x1.05 266
+    6400606: Window_sill_double_0.91x1.05 267
+    6400608: Window_sill_double_0.91x1.05 268
+    6400610: Window_sill_double_0.91x1.05 269
+    6400612: Window_sill_double_0.91x1.05 27
+    6400614: Window_sill_double_0.91x1.05 270
+    6400616: Window_sill_double_0.91x1.05 271
+    6400618: Window_sill_double_0.91x1.05 272
+    6400620: Window_sill_double_0.91x1.05 273
+    6400622: Window_sill_double_0.91x1.05 274
+    6400624: Window_sill_double_0.91x1.05 275
+    6400626: Window_sill_double_0.91x1.05 28
+    6400628: Window_sill_double_0.91x1.05 29
+    6400630: Window_sill_double_0.91x1.05 3
+    6400632: Window_sill_double_0.91x1.05 30
+    6400634: Window_sill_double_0.91x1.05 31
+    6400636: Window_sill_double_0.91x1.05 32
+    6400638: Window_sill_double_0.91x1.05 33
+    6400640: Window_sill_double_0.91x1.05 34
+    6400642: Window_sill_double_0.91x1.05 35
+    6400644: Window_sill_double_0.91x1.05 36
+    6400646: Window_sill_double_0.91x1.05 37
+    6400648: Window_sill_double_0.91x1.05 38
+    6400650: Window_sill_double_0.91x1.05 39
+    6400652: Window_sill_double_0.91x1.05 4
+    6400654: Window_sill_double_0.91x1.05 40
+    6400656: Window_sill_double_0.91x1.05 41
+    6400658: Window_sill_double_0.91x1.05 42
+    6400660: Window_sill_double_0.91x1.05 43
+    6400662: Window_sill_double_0.91x1.05 44
+    6400664: Window_sill_double_0.91x1.05 45
+    6400666: Window_sill_double_0.91x1.05 46
+    6400668: Window_sill_double_0.91x1.05 47
+    6400670: Window_sill_double_0.91x1.05 48
+    6400672: Window_sill_double_0.91x1.05 49
+    6400674: Window_sill_double_0.91x1.05 5
+    6400676: Window_sill_double_0.91x1.05 50
+    6400678: Window_sill_double_0.91x1.05 51
+    6400680: Window_sill_double_0.91x1.05 52
+    6400682: Window_sill_double_0.91x1.05 53
+    6400684: Window_sill_double_0.91x1.05 54
+    6400686: Window_sill_double_0.91x1.05 55
+    6400688: Window_sill_double_0.91x1.05 56
+    6400690: Window_sill_double_0.91x1.05 57
+    6400692: Window_sill_double_0.91x1.05 58
+    6400694: Window_sill_double_0.91x1.05 59
+    6400696: Window_sill_double_0.91x1.05 6
+    6400698: Window_sill_double_0.91x1.05 60
+    6400700: Window_sill_double_0.91x1.05 61
+    6400702: Window_sill_double_0.91x1.05 62
+    6400704: Window_sill_double_0.91x1.05 63
+    6400706: Window_sill_double_0.91x1.05 64
+    6400708: Window_sill_double_0.91x1.05 65
+    6400710: Window_sill_double_0.91x1.05 66
+    6400712: Window_sill_double_0.91x1.05 67
+    6400714: Window_sill_double_0.91x1.05 68
+    6400716: Window_sill_double_0.91x1.05 69
+    6400718: Window_sill_double_0.91x1.05 7
+    6400720: Window_sill_double_0.91x1.05 70
+    6400722: Window_sill_double_0.91x1.05 71
+    6400724: Window_sill_double_0.91x1.05 72
+    6400726: Window_sill_double_0.91x1.05 73
+    6400728: Window_sill_double_0.91x1.05 74
+    6400730: Window_sill_double_0.91x1.05 75
+    6400732: Window_sill_double_0.91x1.05 76
+    6400734: Window_sill_double_0.91x1.05 77
+    6400736: Window_sill_double_0.91x1.05 78
+    6400738: Window_sill_double_0.91x1.05 79
+    6400740: Window_sill_double_0.91x1.05 8
+    6400742: Window_sill_double_0.91x1.05 80
+    6400744: Window_sill_double_0.91x1.05 81
+    6400746: Window_sill_double_0.91x1.05 82
+    6400748: Window_sill_double_0.91x1.05 83
+    6400750: Window_sill_double_0.91x1.05 84
+    6400752: Window_sill_double_0.91x1.05 85
+    6400754: Window_sill_double_0.91x1.05 86
+    6400756: Window_sill_double_0.91x1.05 87
+    6400758: Window_sill_double_0.91x1.05 88
+    6400760: Window_sill_double_0.91x1.05 89
+    6400762: Window_sill_double_0.91x1.05 9
+    6400764: Window_sill_double_0.91x1.05 90
+    6400766: Window_sill_double_0.91x1.05 91
+    6400768: Window_sill_double_0.91x1.05 92
+    6400770: Window_sill_double_0.91x1.05 93
+    6400772: Window_sill_double_0.91x1.05 94
+    6400774: Window_sill_double_0.91x1.05 95
+    6400776: Window_sill_double_0.91x1.05 96
+    6400778: Window_sill_double_0.91x1.05 97
+    6400780: Window_sill_double_0.91x1.05 98
+    6400782: Window_sill_double_0.91x1.05 99
+    6400784: Window_sill_double_0.91x1.05#1
+    6400786: Window_sill_double_0.91x1.05#1 1
+    6400788: Window_sill_double_0.91x1.05#2
+    6400790: Window_sill_double_0.91x1.05#2 1
+    6400792: Window_sill_double_0.91x1.05#2 2
+    6400794: Window_sill_double_0.91x1.05#2 3
+    6400796: Window_sill_double_0.91x1.05#2 4
+    6400798: Window_sill_double_0.91x1.05#2 5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 0d2cd7667de9f874da7523e5fef64023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 33bef3596a27eea42a8a83a7df7d5b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 3e48fe9bf08d7a84ca318ef1b1cd5eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: d6f0716dcee04d74da95c54548722da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: ad9969f1839fdeb4da504db0616d5c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: ba9a72cb759194443a40d7a9f7d0247e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 77c11684caa9d4b47b93ceef6bbc96ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: eea7f0bae544db34fbbcfa7ee7464dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 2f26988a3cc3e3f4f9be8ce6fd9537e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: ac82893cac1d2374e8b1b6282252f9ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: 6a10889fcb39cdf4586660abc6fe1a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: dea9d5d283626c943855f388be28de98, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

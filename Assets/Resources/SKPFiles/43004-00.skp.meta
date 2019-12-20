@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 0a12732c9c5d70d4bb01963a422409be
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000440000004500000046000000470000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 216434568222ec4cc1b984ca3d49701e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -38.661045, y: 16.722643, z: -46.191246}
+      lookAt: {x: 17.603384, y: -12.97803, z: 29.22606}
+      up: {x: 0.17999597, y: 0.9536201, z: 0.24126808}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.13129954, y: 98.48532, z: -2.0247304}
+        lookAt: {x: -0.13129954, y: 4.8022, z: -2.0247304}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2136.2996
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -38.661045, y: 16.722643, z: -46.191246}
+        lookAt: {x: 17.603384, y: -12.97803, z: 29.22606}
+        up: {x: 0.17999597, y: 0.9536201, z: 0.24126808}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -38.661045, y: 16.722643, z: -46.191246}
+        lookAt: {x: 17.603384, y: -12.97803, z: 29.22606}
+        up: {x: 0.17999597, y: 0.9536201, z: 0.24126808}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 43003_plan_canopy
+    100002: //RootNode
+    100004: 43004_3d_site
+    100006: 43004_3d_tree
+    100008: 43004_3d_tree 1
+    100010: 43004_3d_tree 2
+    100012: 43004_3d_tree 3
+    100014: 43004_plan_tree
+    100016: 43004_plan_tree 1
+    100018: 43004_plan_tree 2
+    100020: 43004_plan_tree 3
+    100022: door&win03
+    100024: door&win03 1
+    100026: door&win03 2
+    100028: door&win03 3
+    100030: door&win03 4
+    100032: door&win03 5
+    100034: door&win04
+    100036: door&win04 1
+    100038: door&win04 2
+    100040: door&win04 3
+    100042: door&win04 4
+    100044: Door-DblExt 3'-0x6'-8
+    100046: Door-SglExt 3'-0x6'-8
+    100048: Group 2
+    100050: Group 4
+    100052: Image 1
+    100054: scale_obq
+    100056: win1.8x1.8
+    100058: win1.8x1.8 1
+    100060: win1.8x1.8 2
+    100062: win1.8x1.8 3
+    100064: window-15
+    100066: window-15 1
+    100068: window-15 2
+    100070: window-15 3
+    100072: window-15 4
+    100074: window-15#1
+    100076: window-15#2
+    100078: Window-Sgl 3'-0x3'-0
+    100080: Window-Sgl 3'-0x3'-0 1
+    100082: Window-Sgl 3'-0x3'-0 2
+    100084: Window-Sgl 3'-0x3'-0 3
+    100086: Window-Sgl 3'-0x3'-0 4
+    100088: Window-Sgl 3'-0x3'-0 5
+    100090: Window-Sgl 3'-0x3'-0 6
+    100092: Window-Sgl 3'-0x3'-0 7
+    400000: 43003_plan_canopy
+    400002: //RootNode
+    400004: 43004_3d_site
+    400006: 43004_3d_tree
+    400008: 43004_3d_tree 1
+    400010: 43004_3d_tree 2
+    400012: 43004_3d_tree 3
+    400014: 43004_plan_tree
+    400016: 43004_plan_tree 1
+    400018: 43004_plan_tree 2
+    400020: 43004_plan_tree 3
+    400022: door&win03
+    400024: door&win03 1
+    400026: door&win03 2
+    400028: door&win03 3
+    400030: door&win03 4
+    400032: door&win03 5
+    400034: door&win04
+    400036: door&win04 1
+    400038: door&win04 2
+    400040: door&win04 3
+    400042: door&win04 4
+    400044: Door-DblExt 3'-0x6'-8
+    400046: Door-SglExt 3'-0x6'-8
+    400048: Group 2
+    400050: Group 4
+    400052: Image 1
+    400054: scale_obq
+    400056: win1.8x1.8
+    400058: win1.8x1.8 1
+    400060: win1.8x1.8 2
+    400062: win1.8x1.8 3
+    400064: window-15
+    400066: window-15 1
+    400068: window-15 2
+    400070: window-15 3
+    400072: window-15 4
+    400074: window-15#1
+    400076: window-15#2
+    400078: Window-Sgl 3'-0x3'-0
+    400080: Window-Sgl 3'-0x3'-0 1
+    400082: Window-Sgl 3'-0x3'-0 2
+    400084: Window-Sgl 3'-0x3'-0 3
+    400086: Window-Sgl 3'-0x3'-0 4
+    400088: Window-Sgl 3'-0x3'-0 5
+    400090: Window-Sgl 3'-0x3'-0 6
+    400092: Window-Sgl 3'-0x3'-0 7
+    2100000: Material 1
+    2100002: paving
+    2100004: modelroof
+    2100006: buildingwalls
+    2100008: OV_bldg_roof
+    2100010: OV_bldg_wall
+    2100012: OV_bldg_accent
+    2100014: ApertureGlass
+    2100016: 0_label
+    2100018: conifertree2
+    2100020: OV_paving_vehicle
+    2100022: OV_paving_pedestrian
+    2100024: Puse_other
+    2300000: 43004_3d_site
+    2300002: 43004_3d_tree
+    2300004: 43004_3d_tree 1
+    2300006: 43004_3d_tree 2
+    2300008: 43004_3d_tree 3
+    2300010: door&win03
+    2300012: door&win03 1
+    2300014: door&win03 2
+    2300016: door&win03 3
+    2300018: door&win03 4
+    2300020: door&win03 5
+    2300022: door&win04
+    2300024: door&win04 1
+    2300026: door&win04 2
+    2300028: door&win04 3
+    2300030: door&win04 4
+    2300032: Door-DblExt 3'-0x6'-8
+    2300034: Door-SglExt 3'-0x6'-8
+    2300036: Group 2
+    2300038: Group 4
+    2300040: Image 1
+    2300042: scale_obq
+    2300044: win1.8x1.8
+    2300046: win1.8x1.8 1
+    2300048: win1.8x1.8 2
+    2300050: win1.8x1.8 3
+    2300052: window-15
+    2300054: window-15 1
+    2300056: window-15 2
+    2300058: window-15 3
+    2300060: window-15 4
+    2300062: window-15#1
+    2300064: window-15#2
+    2300066: Window-Sgl 3'-0x3'-0
+    2300068: Window-Sgl 3'-0x3'-0 1
+    2300070: Window-Sgl 3'-0x3'-0 2
+    2300072: Window-Sgl 3'-0x3'-0 3
+    2300074: Window-Sgl 3'-0x3'-0 4
+    2300076: Window-Sgl 3'-0x3'-0 5
+    2300078: Window-Sgl 3'-0x3'-0 6
+    2300080: Window-Sgl 3'-0x3'-0 7
+    3300000: 43004_3d_site
+    3300002: 43004_3d_tree
+    3300004: 43004_3d_tree 1
+    3300006: 43004_3d_tree 2
+    3300008: 43004_3d_tree 3
+    3300010: door&win03
+    3300012: door&win03 1
+    3300014: door&win03 2
+    3300016: door&win03 3
+    3300018: door&win03 4
+    3300020: door&win03 5
+    3300022: door&win04
+    3300024: door&win04 1
+    3300026: door&win04 2
+    3300028: door&win04 3
+    3300030: door&win04 4
+    3300032: Door-DblExt 3'-0x6'-8
+    3300034: Door-SglExt 3'-0x6'-8
+    3300036: Group 2
+    3300038: Group 4
+    3300040: Image 1
+    3300042: scale_obq
+    3300044: win1.8x1.8
+    3300046: win1.8x1.8 1
+    3300048: win1.8x1.8 2
+    3300050: win1.8x1.8 3
+    3300052: window-15
+    3300054: window-15 1
+    3300056: window-15 2
+    3300058: window-15 3
+    3300060: window-15 4
+    3300062: window-15#1
+    3300064: window-15#2
+    3300066: Window-Sgl 3'-0x3'-0
+    3300068: Window-Sgl 3'-0x3'-0 1
+    3300070: Window-Sgl 3'-0x3'-0 2
+    3300072: Window-Sgl 3'-0x3'-0 3
+    3300074: Window-Sgl 3'-0x3'-0 4
+    3300076: Window-Sgl 3'-0x3'-0 5
+    3300078: Window-Sgl 3'-0x3'-0 6
+    3300080: Window-Sgl 3'-0x3'-0 7
+    4300000: Mesh 43004-00
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh door&win04
+    4300008: Mesh Window-Sgl 3'-0x3'-0
+    4300010: Mesh window-15
+    4300012: Mesh door&win03
+    4300014: Mesh Door-DblExt 3'-0x6'-8
+    4300016: Mesh win1.8x1.8
+    4300018: Mesh Door-SglExt 3'-0x6'-8
+    4300020: Mesh window-15#1
+    4300022: Mesh window-15#2
+    4300024: Mesh scale_obq
+    4300026: Mesh 43004_3d_tree
+    4300028: Mesh 43004_3d_site
+    6400000: 43004_3d_site
+    6400002: 43004_3d_tree
+    6400004: 43004_3d_tree 1
+    6400006: 43004_3d_tree 2
+    6400008: 43004_3d_tree 3
+    6400010: door&win03
+    6400012: door&win03 1
+    6400014: door&win03 2
+    6400016: door&win03 3
+    6400018: door&win03 4
+    6400020: door&win03 5
+    6400022: door&win04
+    6400024: door&win04 1
+    6400026: door&win04 2
+    6400028: door&win04 3
+    6400030: door&win04 4
+    6400032: Door-DblExt 3'-0x6'-8
+    6400034: Door-SglExt 3'-0x6'-8
+    6400036: Group 2
+    6400038: Group 4
+    6400040: Image 1
+    6400042: scale_obq
+    6400044: win1.8x1.8
+    6400046: win1.8x1.8 1
+    6400048: win1.8x1.8 2
+    6400050: win1.8x1.8 3
+    6400052: window-15
+    6400054: window-15 1
+    6400056: window-15 2
+    6400058: window-15 3
+    6400060: window-15 4
+    6400062: window-15#1
+    6400064: window-15#2
+    6400066: Window-Sgl 3'-0x3'-0
+    6400068: Window-Sgl 3'-0x3'-0 1
+    6400070: Window-Sgl 3'-0x3'-0 2
+    6400072: Window-Sgl 3'-0x3'-0 3
+    6400074: Window-Sgl 3'-0x3'-0 4
+    6400076: Window-Sgl 3'-0x3'-0 5
+    6400078: Window-Sgl 3'-0x3'-0 6
+    6400080: Window-Sgl 3'-0x3'-0 7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ac2fa71a012d30042beec519205717d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: f7ea4b65c1eebf4478f2b1e97803449e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 7bacc5ee08a2a6b40b94edf568d7e3a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 4eb75ca58f622e347b1cdd88d0368e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: add961b18506aa241902ca17f59184f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 37c5d95c082aeb142963d7efc08d0dd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 7cdb302d8f3bd0a40af958a387e84aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 442884ec1bd592c4085d6c0287a0b7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puse_other
+    second: {fileID: 2100000, guid: f9fd39358e0e23342a0948068d2fb7df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: e8e63946f738cd24e87498e851551b8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 73abf733deb428d4f901e846642a0317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: 24370e2f739a7054ab4392dd35b96e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paving
+    second: {fileID: 2100000, guid: 19130d60ce94e22449e546ff943672cc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

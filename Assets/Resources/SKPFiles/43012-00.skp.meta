@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: b6f95eb4236c93d41ad124b75a5e2da7
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f01000090010000
+  assetHash:
+    serializedVersion: 2
+    Hash: e5c19f71be1feaf00c99367274c9e601
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -201.9344, y: 171.43886, z: -240.3744}
+      lookAt: {x: 187024.06, y: -188213.89, z: 279470.94}
+      up: {x: 0.27166885, y: 0.87262136, z: 0.40586698}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -19.077536, y: 98.48532, z: -2.1428013}
+        lookAt: {x: -19.077536, y: 4.8022, z: -2.1428013}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 7909.969
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -201.9344, y: 171.43886, z: -240.3744}
+        lookAt: {x: 187024.06, y: -188213.89, z: 279470.94}
+        up: {x: 0.27166885, y: 0.87262136, z: 0.40586698}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -201.9344, y: 171.43886, z: -240.3744}
+        lookAt: {x: 187024.06, y: -188213.89, z: 279470.94}
+        up: {x: 0.27166885, y: 0.87262136, z: 0.40586698}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 61005_3d_building
+    100004: 61005_3d_site#2
+    100006: 61005_plan#1
+    100008: building A
+    100010: building B
+    100012: building C
+    100014: Group 19
+    100016: Group 82
+    100018: Image 1
+    100020: overhang
+    100022: overhang 1
+    100024: poll
+    100026: poll 1
+    100028: poll 10
+    100030: poll 11
+    100032: poll 12
+    100034: poll 13
+    100036: poll 14
+    100038: poll 15
+    100040: poll 16
+    100042: poll 17
+    100044: poll 18
+    100046: poll 19
+    100048: poll 2
+    100050: poll 20
+    100052: poll 21
+    100054: poll 22
+    100056: poll 23
+    100058: poll 24
+    100060: poll 25
+    100062: poll 26
+    100064: poll 27
+    100066: poll 28
+    100068: poll 29
+    100070: poll 3
+    100072: poll 4
+    100074: poll 5
+    100076: poll 6
+    100078: poll 7
+    100080: poll 8
+    100082: poll 9
+    100084: poll#1
+    100086: poll#1 1
+    100088: poll#1 10
+    100090: poll#1 11
+    100092: poll#1 12
+    100094: poll#1 13
+    100096: poll#1 14
+    100098: poll#1 15
+    100100: poll#1 16
+    100102: poll#1 17
+    100104: poll#1 18
+    100106: poll#1 19
+    100108: poll#1 2
+    100110: poll#1 20
+    100112: poll#1 21
+    100114: poll#1 22
+    100116: poll#1 23
+    100118: poll#1 24
+    100120: poll#1 25
+    100122: poll#1 26
+    100124: poll#1 27
+    100126: poll#1 28
+    100128: poll#1 29
+    100130: poll#1 3
+    100132: poll#1 4
+    100134: poll#1 5
+    100136: poll#1 6
+    100138: poll#1 7
+    100140: poll#1 8
+    100142: poll#1 9
+    100144: rounded-sm
+    100146: rounded-sm 1
+    100148: rounded-sm 10
+    100150: rounded-sm 100
+    100152: rounded-sm 101
+    100154: rounded-sm 102
+    100156: rounded-sm 103
+    100158: rounded-sm 104
+    100160: rounded-sm 105
+    100162: rounded-sm 106
+    100164: rounded-sm 107
+    100166: rounded-sm 108
+    100168: rounded-sm 109
+    100170: rounded-sm 11
+    100172: rounded-sm 110
+    100174: rounded-sm 111
+    100176: rounded-sm 112
+    100178: rounded-sm 113
+    100180: rounded-sm 114
+    100182: rounded-sm 115
+    100184: rounded-sm 116
+    100186: rounded-sm 117
+    100188: rounded-sm 118
+    100190: rounded-sm 119
+    100192: rounded-sm 12
+    100194: rounded-sm 120
+    100196: rounded-sm 121
+    100198: rounded-sm 122
+    100200: rounded-sm 123
+    100202: rounded-sm 124
+    100204: rounded-sm 125
+    100206: rounded-sm 126
+    100208: rounded-sm 127
+    100210: rounded-sm 13
+    100212: rounded-sm 14
+    100214: rounded-sm 15
+    100216: rounded-sm 16
+    100218: rounded-sm 17
+    100220: rounded-sm 18
+    100222: rounded-sm 19
+    100224: rounded-sm 2
+    100226: rounded-sm 20
+    100228: rounded-sm 21
+    100230: rounded-sm 22
+    100232: rounded-sm 23
+    100234: rounded-sm 24
+    100236: rounded-sm 25
+    100238: rounded-sm 26
+    100240: rounded-sm 27
+    100242: rounded-sm 28
+    100244: rounded-sm 29
+    100246: rounded-sm 3
+    100248: rounded-sm 30
+    100250: rounded-sm 31
+    100252: rounded-sm 32
+    100254: rounded-sm 33
+    100256: rounded-sm 34
+    100258: rounded-sm 35
+    100260: rounded-sm 36
+    100262: rounded-sm 37
+    100264: rounded-sm 38
+    100266: rounded-sm 39
+    100268: rounded-sm 4
+    100270: rounded-sm 40
+    100272: rounded-sm 41
+    100274: rounded-sm 42
+    100276: rounded-sm 43
+    100278: rounded-sm 44
+    100280: rounded-sm 45
+    100282: rounded-sm 46
+    100284: rounded-sm 47
+    100286: rounded-sm 48
+    100288: rounded-sm 49
+    100290: rounded-sm 5
+    100292: rounded-sm 50
+    100294: rounded-sm 51
+    100296: rounded-sm 52
+    100298: rounded-sm 53
+    100300: rounded-sm 54
+    100302: rounded-sm 55
+    100304: rounded-sm 56
+    100306: rounded-sm 57
+    100308: rounded-sm 58
+    100310: rounded-sm 59
+    100312: rounded-sm 6
+    100314: rounded-sm 60
+    100316: rounded-sm 61
+    100318: rounded-sm 62
+    100320: rounded-sm 63
+    100322: rounded-sm 64
+    100324: rounded-sm 65
+    100326: rounded-sm 66
+    100328: rounded-sm 67
+    100330: rounded-sm 68
+    100332: rounded-sm 69
+    100334: rounded-sm 7
+    100336: rounded-sm 70
+    100338: rounded-sm 71
+    100340: rounded-sm 72
+    100342: rounded-sm 73
+    100344: rounded-sm 74
+    100346: rounded-sm 75
+    100348: rounded-sm 76
+    100350: rounded-sm 77
+    100352: rounded-sm 78
+    100354: rounded-sm 79
+    100356: rounded-sm 8
+    100358: rounded-sm 80
+    100360: rounded-sm 81
+    100362: rounded-sm 82
+    100364: rounded-sm 83
+    100366: rounded-sm 84
+    100368: rounded-sm 85
+    100370: rounded-sm 86
+    100372: rounded-sm 87
+    100374: rounded-sm 88
+    100376: rounded-sm 89
+    100378: rounded-sm 9
+    100380: rounded-sm 90
+    100382: rounded-sm 91
+    100384: rounded-sm 92
+    100386: rounded-sm 93
+    100388: rounded-sm 94
+    100390: rounded-sm 95
+    100392: rounded-sm 96
+    100394: rounded-sm 97
+    100396: rounded-sm 98
+    100398: rounded-sm 99
+    100400: scale_obq
+    400000: //RootNode
+    400002: 61005_3d_building
+    400004: 61005_3d_site#2
+    400006: 61005_plan#1
+    400008: building A
+    400010: building B
+    400012: building C
+    400014: Group 19
+    400016: Group 82
+    400018: Image 1
+    400020: overhang
+    400022: overhang 1
+    400024: poll
+    400026: poll 1
+    400028: poll 10
+    400030: poll 11
+    400032: poll 12
+    400034: poll 13
+    400036: poll 14
+    400038: poll 15
+    400040: poll 16
+    400042: poll 17
+    400044: poll 18
+    400046: poll 19
+    400048: poll 2
+    400050: poll 20
+    400052: poll 21
+    400054: poll 22
+    400056: poll 23
+    400058: poll 24
+    400060: poll 25
+    400062: poll 26
+    400064: poll 27
+    400066: poll 28
+    400068: poll 29
+    400070: poll 3
+    400072: poll 4
+    400074: poll 5
+    400076: poll 6
+    400078: poll 7
+    400080: poll 8
+    400082: poll 9
+    400084: poll#1
+    400086: poll#1 1
+    400088: poll#1 10
+    400090: poll#1 11
+    400092: poll#1 12
+    400094: poll#1 13
+    400096: poll#1 14
+    400098: poll#1 15
+    400100: poll#1 16
+    400102: poll#1 17
+    400104: poll#1 18
+    400106: poll#1 19
+    400108: poll#1 2
+    400110: poll#1 20
+    400112: poll#1 21
+    400114: poll#1 22
+    400116: poll#1 23
+    400118: poll#1 24
+    400120: poll#1 25
+    400122: poll#1 26
+    400124: poll#1 27
+    400126: poll#1 28
+    400128: poll#1 29
+    400130: poll#1 3
+    400132: poll#1 4
+    400134: poll#1 5
+    400136: poll#1 6
+    400138: poll#1 7
+    400140: poll#1 8
+    400142: poll#1 9
+    400144: rounded-sm
+    400146: rounded-sm 1
+    400148: rounded-sm 10
+    400150: rounded-sm 100
+    400152: rounded-sm 101
+    400154: rounded-sm 102
+    400156: rounded-sm 103
+    400158: rounded-sm 104
+    400160: rounded-sm 105
+    400162: rounded-sm 106
+    400164: rounded-sm 107
+    400166: rounded-sm 108
+    400168: rounded-sm 109
+    400170: rounded-sm 11
+    400172: rounded-sm 110
+    400174: rounded-sm 111
+    400176: rounded-sm 112
+    400178: rounded-sm 113
+    400180: rounded-sm 114
+    400182: rounded-sm 115
+    400184: rounded-sm 116
+    400186: rounded-sm 117
+    400188: rounded-sm 118
+    400190: rounded-sm 119
+    400192: rounded-sm 12
+    400194: rounded-sm 120
+    400196: rounded-sm 121
+    400198: rounded-sm 122
+    400200: rounded-sm 123
+    400202: rounded-sm 124
+    400204: rounded-sm 125
+    400206: rounded-sm 126
+    400208: rounded-sm 127
+    400210: rounded-sm 13
+    400212: rounded-sm 14
+    400214: rounded-sm 15
+    400216: rounded-sm 16
+    400218: rounded-sm 17
+    400220: rounded-sm 18
+    400222: rounded-sm 19
+    400224: rounded-sm 2
+    400226: rounded-sm 20
+    400228: rounded-sm 21
+    400230: rounded-sm 22
+    400232: rounded-sm 23
+    400234: rounded-sm 24
+    400236: rounded-sm 25
+    400238: rounded-sm 26
+    400240: rounded-sm 27
+    400242: rounded-sm 28
+    400244: rounded-sm 29
+    400246: rounded-sm 3
+    400248: rounded-sm 30
+    400250: rounded-sm 31
+    400252: rounded-sm 32
+    400254: rounded-sm 33
+    400256: rounded-sm 34
+    400258: rounded-sm 35
+    400260: rounded-sm 36
+    400262: rounded-sm 37
+    400264: rounded-sm 38
+    400266: rounded-sm 39
+    400268: rounded-sm 4
+    400270: rounded-sm 40
+    400272: rounded-sm 41
+    400274: rounded-sm 42
+    400276: rounded-sm 43
+    400278: rounded-sm 44
+    400280: rounded-sm 45
+    400282: rounded-sm 46
+    400284: rounded-sm 47
+    400286: rounded-sm 48
+    400288: rounded-sm 49
+    400290: rounded-sm 5
+    400292: rounded-sm 50
+    400294: rounded-sm 51
+    400296: rounded-sm 52
+    400298: rounded-sm 53
+    400300: rounded-sm 54
+    400302: rounded-sm 55
+    400304: rounded-sm 56
+    400306: rounded-sm 57
+    400308: rounded-sm 58
+    400310: rounded-sm 59
+    400312: rounded-sm 6
+    400314: rounded-sm 60
+    400316: rounded-sm 61
+    400318: rounded-sm 62
+    400320: rounded-sm 63
+    400322: rounded-sm 64
+    400324: rounded-sm 65
+    400326: rounded-sm 66
+    400328: rounded-sm 67
+    400330: rounded-sm 68
+    400332: rounded-sm 69
+    400334: rounded-sm 7
+    400336: rounded-sm 70
+    400338: rounded-sm 71
+    400340: rounded-sm 72
+    400342: rounded-sm 73
+    400344: rounded-sm 74
+    400346: rounded-sm 75
+    400348: rounded-sm 76
+    400350: rounded-sm 77
+    400352: rounded-sm 78
+    400354: rounded-sm 79
+    400356: rounded-sm 8
+    400358: rounded-sm 80
+    400360: rounded-sm 81
+    400362: rounded-sm 82
+    400364: rounded-sm 83
+    400366: rounded-sm 84
+    400368: rounded-sm 85
+    400370: rounded-sm 86
+    400372: rounded-sm 87
+    400374: rounded-sm 88
+    400376: rounded-sm 89
+    400378: rounded-sm 9
+    400380: rounded-sm 90
+    400382: rounded-sm 91
+    400384: rounded-sm 92
+    400386: rounded-sm 93
+    400388: rounded-sm 94
+    400390: rounded-sm 95
+    400392: rounded-sm 96
+    400394: rounded-sm 97
+    400396: rounded-sm 98
+    400398: rounded-sm 99
+    400400: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_roof
+    2100008: OV_bldg_wall
+    2100010: LightCaseApertureGlass
+    2100012: OV_bldg_accent
+    2100014: E_envelope
+    2100016: E_aperture
+    2100018: OV_turf_solid
+    2100020: OV_paving_pedestrian
+    2100022: OV_paving general
+    2100024: OV_surface_other
+    2100026: OV_Water
+    2100028: OV_shrub_texture
+    2100030: OV_paving_vehicle
+    2100032: mapletree
+    2300000: 61005_3d_site#2
+    2300002: building A
+    2300004: building B
+    2300006: building C
+    2300008: Image 1
+    2300010: overhang
+    2300012: overhang 1
+    2300014: poll
+    2300016: poll 1
+    2300018: poll 10
+    2300020: poll 11
+    2300022: poll 12
+    2300024: poll 13
+    2300026: poll 14
+    2300028: poll 15
+    2300030: poll 16
+    2300032: poll 17
+    2300034: poll 18
+    2300036: poll 19
+    2300038: poll 2
+    2300040: poll 20
+    2300042: poll 21
+    2300044: poll 22
+    2300046: poll 23
+    2300048: poll 24
+    2300050: poll 25
+    2300052: poll 26
+    2300054: poll 27
+    2300056: poll 28
+    2300058: poll 29
+    2300060: poll 3
+    2300062: poll 4
+    2300064: poll 5
+    2300066: poll 6
+    2300068: poll 7
+    2300070: poll 8
+    2300072: poll 9
+    2300074: poll#1
+    2300076: poll#1 1
+    2300078: poll#1 10
+    2300080: poll#1 11
+    2300082: poll#1 12
+    2300084: poll#1 13
+    2300086: poll#1 14
+    2300088: poll#1 15
+    2300090: poll#1 16
+    2300092: poll#1 17
+    2300094: poll#1 18
+    2300096: poll#1 19
+    2300098: poll#1 2
+    2300100: poll#1 20
+    2300102: poll#1 21
+    2300104: poll#1 22
+    2300106: poll#1 23
+    2300108: poll#1 24
+    2300110: poll#1 25
+    2300112: poll#1 26
+    2300114: poll#1 27
+    2300116: poll#1 28
+    2300118: poll#1 29
+    2300120: poll#1 3
+    2300122: poll#1 4
+    2300124: poll#1 5
+    2300126: poll#1 6
+    2300128: poll#1 7
+    2300130: poll#1 8
+    2300132: poll#1 9
+    2300134: rounded-sm
+    2300136: rounded-sm 1
+    2300138: rounded-sm 10
+    2300140: rounded-sm 100
+    2300142: rounded-sm 101
+    2300144: rounded-sm 102
+    2300146: rounded-sm 103
+    2300148: rounded-sm 104
+    2300150: rounded-sm 105
+    2300152: rounded-sm 106
+    2300154: rounded-sm 107
+    2300156: rounded-sm 108
+    2300158: rounded-sm 109
+    2300160: rounded-sm 11
+    2300162: rounded-sm 110
+    2300164: rounded-sm 111
+    2300166: rounded-sm 112
+    2300168: rounded-sm 113
+    2300170: rounded-sm 114
+    2300172: rounded-sm 115
+    2300174: rounded-sm 116
+    2300176: rounded-sm 117
+    2300178: rounded-sm 118
+    2300180: rounded-sm 119
+    2300182: rounded-sm 12
+    2300184: rounded-sm 120
+    2300186: rounded-sm 121
+    2300188: rounded-sm 122
+    2300190: rounded-sm 123
+    2300192: rounded-sm 124
+    2300194: rounded-sm 125
+    2300196: rounded-sm 126
+    2300198: rounded-sm 127
+    2300200: rounded-sm 13
+    2300202: rounded-sm 14
+    2300204: rounded-sm 15
+    2300206: rounded-sm 16
+    2300208: rounded-sm 17
+    2300210: rounded-sm 18
+    2300212: rounded-sm 19
+    2300214: rounded-sm 2
+    2300216: rounded-sm 20
+    2300218: rounded-sm 21
+    2300220: rounded-sm 22
+    2300222: rounded-sm 23
+    2300224: rounded-sm 24
+    2300226: rounded-sm 25
+    2300228: rounded-sm 26
+    2300230: rounded-sm 27
+    2300232: rounded-sm 28
+    2300234: rounded-sm 29
+    2300236: rounded-sm 3
+    2300238: rounded-sm 30
+    2300240: rounded-sm 31
+    2300242: rounded-sm 32
+    2300244: rounded-sm 33
+    2300246: rounded-sm 34
+    2300248: rounded-sm 35
+    2300250: rounded-sm 36
+    2300252: rounded-sm 37
+    2300254: rounded-sm 38
+    2300256: rounded-sm 39
+    2300258: rounded-sm 4
+    2300260: rounded-sm 40
+    2300262: rounded-sm 41
+    2300264: rounded-sm 42
+    2300266: rounded-sm 43
+    2300268: rounded-sm 44
+    2300270: rounded-sm 45
+    2300272: rounded-sm 46
+    2300274: rounded-sm 47
+    2300276: rounded-sm 48
+    2300278: rounded-sm 49
+    2300280: rounded-sm 5
+    2300282: rounded-sm 50
+    2300284: rounded-sm 51
+    2300286: rounded-sm 52
+    2300288: rounded-sm 53
+    2300290: rounded-sm 54
+    2300292: rounded-sm 55
+    2300294: rounded-sm 56
+    2300296: rounded-sm 57
+    2300298: rounded-sm 58
+    2300300: rounded-sm 59
+    2300302: rounded-sm 6
+    2300304: rounded-sm 60
+    2300306: rounded-sm 61
+    2300308: rounded-sm 62
+    2300310: rounded-sm 63
+    2300312: rounded-sm 64
+    2300314: rounded-sm 65
+    2300316: rounded-sm 66
+    2300318: rounded-sm 67
+    2300320: rounded-sm 68
+    2300322: rounded-sm 69
+    2300324: rounded-sm 7
+    2300326: rounded-sm 70
+    2300328: rounded-sm 71
+    2300330: rounded-sm 72
+    2300332: rounded-sm 73
+    2300334: rounded-sm 74
+    2300336: rounded-sm 75
+    2300338: rounded-sm 76
+    2300340: rounded-sm 77
+    2300342: rounded-sm 78
+    2300344: rounded-sm 79
+    2300346: rounded-sm 8
+    2300348: rounded-sm 80
+    2300350: rounded-sm 81
+    2300352: rounded-sm 82
+    2300354: rounded-sm 83
+    2300356: rounded-sm 84
+    2300358: rounded-sm 85
+    2300360: rounded-sm 86
+    2300362: rounded-sm 87
+    2300364: rounded-sm 88
+    2300366: rounded-sm 89
+    2300368: rounded-sm 9
+    2300370: rounded-sm 90
+    2300372: rounded-sm 91
+    2300374: rounded-sm 92
+    2300376: rounded-sm 93
+    2300378: rounded-sm 94
+    2300380: rounded-sm 95
+    2300382: rounded-sm 96
+    2300384: rounded-sm 97
+    2300386: rounded-sm 98
+    2300388: rounded-sm 99
+    2300390: scale_obq
+    3300000: 61005_3d_site#2
+    3300002: building A
+    3300004: building B
+    3300006: building C
+    3300008: Image 1
+    3300010: overhang
+    3300012: overhang 1
+    3300014: poll
+    3300016: poll 1
+    3300018: poll 10
+    3300020: poll 11
+    3300022: poll 12
+    3300024: poll 13
+    3300026: poll 14
+    3300028: poll 15
+    3300030: poll 16
+    3300032: poll 17
+    3300034: poll 18
+    3300036: poll 19
+    3300038: poll 2
+    3300040: poll 20
+    3300042: poll 21
+    3300044: poll 22
+    3300046: poll 23
+    3300048: poll 24
+    3300050: poll 25
+    3300052: poll 26
+    3300054: poll 27
+    3300056: poll 28
+    3300058: poll 29
+    3300060: poll 3
+    3300062: poll 4
+    3300064: poll 5
+    3300066: poll 6
+    3300068: poll 7
+    3300070: poll 8
+    3300072: poll 9
+    3300074: poll#1
+    3300076: poll#1 1
+    3300078: poll#1 10
+    3300080: poll#1 11
+    3300082: poll#1 12
+    3300084: poll#1 13
+    3300086: poll#1 14
+    3300088: poll#1 15
+    3300090: poll#1 16
+    3300092: poll#1 17
+    3300094: poll#1 18
+    3300096: poll#1 19
+    3300098: poll#1 2
+    3300100: poll#1 20
+    3300102: poll#1 21
+    3300104: poll#1 22
+    3300106: poll#1 23
+    3300108: poll#1 24
+    3300110: poll#1 25
+    3300112: poll#1 26
+    3300114: poll#1 27
+    3300116: poll#1 28
+    3300118: poll#1 29
+    3300120: poll#1 3
+    3300122: poll#1 4
+    3300124: poll#1 5
+    3300126: poll#1 6
+    3300128: poll#1 7
+    3300130: poll#1 8
+    3300132: poll#1 9
+    3300134: rounded-sm
+    3300136: rounded-sm 1
+    3300138: rounded-sm 10
+    3300140: rounded-sm 100
+    3300142: rounded-sm 101
+    3300144: rounded-sm 102
+    3300146: rounded-sm 103
+    3300148: rounded-sm 104
+    3300150: rounded-sm 105
+    3300152: rounded-sm 106
+    3300154: rounded-sm 107
+    3300156: rounded-sm 108
+    3300158: rounded-sm 109
+    3300160: rounded-sm 11
+    3300162: rounded-sm 110
+    3300164: rounded-sm 111
+    3300166: rounded-sm 112
+    3300168: rounded-sm 113
+    3300170: rounded-sm 114
+    3300172: rounded-sm 115
+    3300174: rounded-sm 116
+    3300176: rounded-sm 117
+    3300178: rounded-sm 118
+    3300180: rounded-sm 119
+    3300182: rounded-sm 12
+    3300184: rounded-sm 120
+    3300186: rounded-sm 121
+    3300188: rounded-sm 122
+    3300190: rounded-sm 123
+    3300192: rounded-sm 124
+    3300194: rounded-sm 125
+    3300196: rounded-sm 126
+    3300198: rounded-sm 127
+    3300200: rounded-sm 13
+    3300202: rounded-sm 14
+    3300204: rounded-sm 15
+    3300206: rounded-sm 16
+    3300208: rounded-sm 17
+    3300210: rounded-sm 18
+    3300212: rounded-sm 19
+    3300214: rounded-sm 2
+    3300216: rounded-sm 20
+    3300218: rounded-sm 21
+    3300220: rounded-sm 22
+    3300222: rounded-sm 23
+    3300224: rounded-sm 24
+    3300226: rounded-sm 25
+    3300228: rounded-sm 26
+    3300230: rounded-sm 27
+    3300232: rounded-sm 28
+    3300234: rounded-sm 29
+    3300236: rounded-sm 3
+    3300238: rounded-sm 30
+    3300240: rounded-sm 31
+    3300242: rounded-sm 32
+    3300244: rounded-sm 33
+    3300246: rounded-sm 34
+    3300248: rounded-sm 35
+    3300250: rounded-sm 36
+    3300252: rounded-sm 37
+    3300254: rounded-sm 38
+    3300256: rounded-sm 39
+    3300258: rounded-sm 4
+    3300260: rounded-sm 40
+    3300262: rounded-sm 41
+    3300264: rounded-sm 42
+    3300266: rounded-sm 43
+    3300268: rounded-sm 44
+    3300270: rounded-sm 45
+    3300272: rounded-sm 46
+    3300274: rounded-sm 47
+    3300276: rounded-sm 48
+    3300278: rounded-sm 49
+    3300280: rounded-sm 5
+    3300282: rounded-sm 50
+    3300284: rounded-sm 51
+    3300286: rounded-sm 52
+    3300288: rounded-sm 53
+    3300290: rounded-sm 54
+    3300292: rounded-sm 55
+    3300294: rounded-sm 56
+    3300296: rounded-sm 57
+    3300298: rounded-sm 58
+    3300300: rounded-sm 59
+    3300302: rounded-sm 6
+    3300304: rounded-sm 60
+    3300306: rounded-sm 61
+    3300308: rounded-sm 62
+    3300310: rounded-sm 63
+    3300312: rounded-sm 64
+    3300314: rounded-sm 65
+    3300316: rounded-sm 66
+    3300318: rounded-sm 67
+    3300320: rounded-sm 68
+    3300322: rounded-sm 69
+    3300324: rounded-sm 7
+    3300326: rounded-sm 70
+    3300328: rounded-sm 71
+    3300330: rounded-sm 72
+    3300332: rounded-sm 73
+    3300334: rounded-sm 74
+    3300336: rounded-sm 75
+    3300338: rounded-sm 76
+    3300340: rounded-sm 77
+    3300342: rounded-sm 78
+    3300344: rounded-sm 79
+    3300346: rounded-sm 8
+    3300348: rounded-sm 80
+    3300350: rounded-sm 81
+    3300352: rounded-sm 82
+    3300354: rounded-sm 83
+    3300356: rounded-sm 84
+    3300358: rounded-sm 85
+    3300360: rounded-sm 86
+    3300362: rounded-sm 87
+    3300364: rounded-sm 88
+    3300366: rounded-sm 89
+    3300368: rounded-sm 9
+    3300370: rounded-sm 90
+    3300372: rounded-sm 91
+    3300374: rounded-sm 92
+    3300376: rounded-sm 93
+    3300378: rounded-sm 94
+    3300380: rounded-sm 95
+    3300382: rounded-sm 96
+    3300384: rounded-sm 97
+    3300386: rounded-sm 98
+    3300388: rounded-sm 99
+    3300390: scale_obq
+    4300000: Mesh 43012-00
+    4300002: Mesh scale_obq
+    4300004: Mesh building A
+    4300006: Mesh building B
+    4300008: Mesh building C
+    4300010: Mesh 61005_3d_site#2
+    4300012: Mesh poll#1
+    4300014: Mesh poll
+    4300016: Mesh overhang
+    4300018: Mesh rounded-sm
+    4300020: Mesh rounded-sm
+    4300022: Mesh rounded-sm
+    6400000: 61005_3d_site#2
+    6400002: building A
+    6400004: building B
+    6400006: building C
+    6400008: Image 1
+    6400010: overhang
+    6400012: overhang 1
+    6400014: poll
+    6400016: poll 1
+    6400018: poll 10
+    6400020: poll 11
+    6400022: poll 12
+    6400024: poll 13
+    6400026: poll 14
+    6400028: poll 15
+    6400030: poll 16
+    6400032: poll 17
+    6400034: poll 18
+    6400036: poll 19
+    6400038: poll 2
+    6400040: poll 20
+    6400042: poll 21
+    6400044: poll 22
+    6400046: poll 23
+    6400048: poll 24
+    6400050: poll 25
+    6400052: poll 26
+    6400054: poll 27
+    6400056: poll 28
+    6400058: poll 29
+    6400060: poll 3
+    6400062: poll 4
+    6400064: poll 5
+    6400066: poll 6
+    6400068: poll 7
+    6400070: poll 8
+    6400072: poll 9
+    6400074: poll#1
+    6400076: poll#1 1
+    6400078: poll#1 10
+    6400080: poll#1 11
+    6400082: poll#1 12
+    6400084: poll#1 13
+    6400086: poll#1 14
+    6400088: poll#1 15
+    6400090: poll#1 16
+    6400092: poll#1 17
+    6400094: poll#1 18
+    6400096: poll#1 19
+    6400098: poll#1 2
+    6400100: poll#1 20
+    6400102: poll#1 21
+    6400104: poll#1 22
+    6400106: poll#1 23
+    6400108: poll#1 24
+    6400110: poll#1 25
+    6400112: poll#1 26
+    6400114: poll#1 27
+    6400116: poll#1 28
+    6400118: poll#1 29
+    6400120: poll#1 3
+    6400122: poll#1 4
+    6400124: poll#1 5
+    6400126: poll#1 6
+    6400128: poll#1 7
+    6400130: poll#1 8
+    6400132: poll#1 9
+    6400134: rounded-sm
+    6400136: rounded-sm 1
+    6400138: rounded-sm 10
+    6400140: rounded-sm 100
+    6400142: rounded-sm 101
+    6400144: rounded-sm 102
+    6400146: rounded-sm 103
+    6400148: rounded-sm 104
+    6400150: rounded-sm 105
+    6400152: rounded-sm 106
+    6400154: rounded-sm 107
+    6400156: rounded-sm 108
+    6400158: rounded-sm 109
+    6400160: rounded-sm 11
+    6400162: rounded-sm 110
+    6400164: rounded-sm 111
+    6400166: rounded-sm 112
+    6400168: rounded-sm 113
+    6400170: rounded-sm 114
+    6400172: rounded-sm 115
+    6400174: rounded-sm 116
+    6400176: rounded-sm 117
+    6400178: rounded-sm 118
+    6400180: rounded-sm 119
+    6400182: rounded-sm 12
+    6400184: rounded-sm 120
+    6400186: rounded-sm 121
+    6400188: rounded-sm 122
+    6400190: rounded-sm 123
+    6400192: rounded-sm 124
+    6400194: rounded-sm 125
+    6400196: rounded-sm 126
+    6400198: rounded-sm 127
+    6400200: rounded-sm 13
+    6400202: rounded-sm 14
+    6400204: rounded-sm 15
+    6400206: rounded-sm 16
+    6400208: rounded-sm 17
+    6400210: rounded-sm 18
+    6400212: rounded-sm 19
+    6400214: rounded-sm 2
+    6400216: rounded-sm 20
+    6400218: rounded-sm 21
+    6400220: rounded-sm 22
+    6400222: rounded-sm 23
+    6400224: rounded-sm 24
+    6400226: rounded-sm 25
+    6400228: rounded-sm 26
+    6400230: rounded-sm 27
+    6400232: rounded-sm 28
+    6400234: rounded-sm 29
+    6400236: rounded-sm 3
+    6400238: rounded-sm 30
+    6400240: rounded-sm 31
+    6400242: rounded-sm 32
+    6400244: rounded-sm 33
+    6400246: rounded-sm 34
+    6400248: rounded-sm 35
+    6400250: rounded-sm 36
+    6400252: rounded-sm 37
+    6400254: rounded-sm 38
+    6400256: rounded-sm 39
+    6400258: rounded-sm 4
+    6400260: rounded-sm 40
+    6400262: rounded-sm 41
+    6400264: rounded-sm 42
+    6400266: rounded-sm 43
+    6400268: rounded-sm 44
+    6400270: rounded-sm 45
+    6400272: rounded-sm 46
+    6400274: rounded-sm 47
+    6400276: rounded-sm 48
+    6400278: rounded-sm 49
+    6400280: rounded-sm 5
+    6400282: rounded-sm 50
+    6400284: rounded-sm 51
+    6400286: rounded-sm 52
+    6400288: rounded-sm 53
+    6400290: rounded-sm 54
+    6400292: rounded-sm 55
+    6400294: rounded-sm 56
+    6400296: rounded-sm 57
+    6400298: rounded-sm 58
+    6400300: rounded-sm 59
+    6400302: rounded-sm 6
+    6400304: rounded-sm 60
+    6400306: rounded-sm 61
+    6400308: rounded-sm 62
+    6400310: rounded-sm 63
+    6400312: rounded-sm 64
+    6400314: rounded-sm 65
+    6400316: rounded-sm 66
+    6400318: rounded-sm 67
+    6400320: rounded-sm 68
+    6400322: rounded-sm 69
+    6400324: rounded-sm 7
+    6400326: rounded-sm 70
+    6400328: rounded-sm 71
+    6400330: rounded-sm 72
+    6400332: rounded-sm 73
+    6400334: rounded-sm 74
+    6400336: rounded-sm 75
+    6400338: rounded-sm 76
+    6400340: rounded-sm 77
+    6400342: rounded-sm 78
+    6400344: rounded-sm 79
+    6400346: rounded-sm 8
+    6400348: rounded-sm 80
+    6400350: rounded-sm 81
+    6400352: rounded-sm 82
+    6400354: rounded-sm 83
+    6400356: rounded-sm 84
+    6400358: rounded-sm 85
+    6400360: rounded-sm 86
+    6400362: rounded-sm 87
+    6400364: rounded-sm 88
+    6400366: rounded-sm 89
+    6400368: rounded-sm 9
+    6400370: rounded-sm 90
+    6400372: rounded-sm 91
+    6400374: rounded-sm 92
+    6400376: rounded-sm 93
+    6400378: rounded-sm 94
+    6400380: rounded-sm 95
+    6400382: rounded-sm 96
+    6400384: rounded-sm 97
+    6400386: rounded-sm 98
+    6400388: rounded-sm 99
+    6400390: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 8abf5ece4171b4e498aa426264e7837c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_aperture
+    second: {fileID: 2100000, guid: 25ac97d9530d5e8479e3d8e73511891e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_envelope
+    second: {fileID: 2100000, guid: c810e7474ae1aaa47985e8cd820c14c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 733af33344c046f46b79a1e800d031c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 856142c6cbb60714d835cc0b36b21738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: 4fda0f7ed534bbb4e9a8a84dc6e0faaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 069dd61f9f1e7fa4e9ba855a4de2ab0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: e01f2f35e96f63c41a1217ac134aade3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 9f5aa8af210b72a46b1de61a910cce0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 3a5e07973215a0344a34db50410cec70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 81341f7b0e4852141ae2e905b63ffc68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 977e4057c980a2b46806749ee3a57b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: efd28eee4d13b354da1535c5802b837e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 1c6e5eab799865543b0789f88449cb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: db70521cf8b48c04086b8c0b1c5e12c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: cc9b3a9f8275b3942960870c2853de78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 78c88c27b43469c4c8d58db5772ecaab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

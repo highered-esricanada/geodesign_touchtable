@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: f672b7536c364ee4197ba433bb36a55b
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ac64c927c999dd82c0a375d425b12638
+  longitude: 0
+  latitude: 0
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 158.1451, y: 59.624653, z: -43.88897}
+      lookAt: {x: 17.393469, y: 3.309924, z: -15.839863}
+      up: {x: -0.3582273, y: 0.93090117, z: 0.07138784}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 108.24497, y: 40.349773, z: -108.77567}
+        lookAt: {x: 4.686683, y: -7.4943123, z: -5.0657525}
+        up: {x: -0.2194474, y: 0.95062935, z: 0.2194235}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 108.24497, y: 40.349773, z: -108.77567}
+        lookAt: {x: 4.686683, y: -7.4943123, z: -5.0657525}
+        up: {x: -0.2194474, y: 0.95062935, z: 0.2194235}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+    - camera:
+        position: {x: 0.6558481, y: 666.5309, z: -4.777148}
+        lookAt: {x: 0.4684629, y: 4.2491364, z: -3.4122486}
+        up: {x: 0.00000058310854, y: 0.0020609002, z: 0.9999979}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 13973.09
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3d_building
+    100002: 3d_site
+    100004: //RootNode
+    100006: Group 11
+    100008: Group 13
+    100010: Group 15
+    100012: Group 17
+    100014: Group 19
+    100016: Group 21
+    100018: Group 3
+    100020: Group 49
+    100022: Group 5
+    100024: Group 51
+    100026: Group 53
+    100028: Group 58
+    100030: Group 60
+    100032: Group 61
+    100034: Group 7
+    100036: Group 9
+    100038: Image 2
+    100040: scale_plan_B
+    100042: Windows 1
+    100044: Windows 1 1
+    100046: Windows 1 2
+    100048: Windows 1 3
+    400000: 3d_building
+    400002: 3d_site
+    400004: //RootNode
+    400006: Group 11
+    400008: Group 13
+    400010: Group 15
+    400012: Group 17
+    400014: Group 19
+    400016: Group 21
+    400018: Group 3
+    400020: Group 49
+    400022: Group 5
+    400024: Group 51
+    400026: Group 53
+    400028: Group 58
+    400030: Group 60
+    400032: Group 61
+    400034: Group 7
+    400036: Group 9
+    400038: Image 2
+    400040: scale_plan_B
+    400042: Windows 1
+    400044: Windows 1 1
+    400046: Windows 1 2
+    400048: Windows 1 3
+    2100000: _defaultMat
+    2100002: OV_paving_pedestrian
+    2100004: Material 2
+    2100006: mapletree
+    2100008: 0_label
+    2100010: OV_turf_solid
+    2100012: OV_shrub_texture
+    2100014: OV_surface_other
+    2100016: OV_paving_vehicle
+    2100018: LightCaseApertureGlass
+    2100020: OV_bldg_roof
+    2300000: 3d_building
+    2300002: 3d_site
+    2300004: //RootNode
+    2300006: Group 11
+    2300008: Group 13
+    2300010: Group 15
+    2300012: Group 17
+    2300014: Group 19
+    2300016: Group 21
+    2300018: Group 3
+    2300020: Group 49
+    2300022: Group 5
+    2300024: Group 51
+    2300026: Group 58
+    2300028: Group 61
+    2300030: Group 7
+    2300032: Group 9
+    2300034: Image 2
+    2300036: scale_plan_B
+    3300000: 3d_building
+    3300002: 3d_site
+    3300004: //RootNode
+    3300006: Group 11
+    3300008: Group 13
+    3300010: Group 15
+    3300012: Group 17
+    3300014: Group 19
+    3300016: Group 21
+    3300018: Group 3
+    3300020: Group 49
+    3300022: Group 5
+    3300024: Group 51
+    3300026: Group 58
+    3300028: Group 61
+    3300030: Group 7
+    3300032: Group 9
+    3300034: Image 2
+    3300036: scale_plan_B
+    4300000: Mesh 51017-00
+    4300002: Mesh 51017-00
+    4300004: Mesh Group 3
+    4300006: Mesh Group 21
+    4300008: Mesh scale_plan_B
+    4300010: Mesh 3d_site
+    4300012: Mesh 3d_building
+    4300014: Mesh Group 49
+    4300016: Mesh Group 51
+    4300018: Mesh Group 58
+    4300020: Mesh Group 61
+    6400000: 3d_building
+    6400002: 3d_site
+    6400004: //RootNode
+    6400006: Group 11
+    6400008: Group 13
+    6400010: Group 15
+    6400012: Group 17
+    6400014: Group 19
+    6400016: Group 21
+    6400018: Group 3
+    6400020: Group 49
+    6400022: Group 5
+    6400024: Group 51
+    6400026: Group 58
+    6400028: Group 61
+    6400030: Group 7
+    6400032: Group 9
+    6400034: Image 2
+    6400036: scale_plan_B
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 5ce226a006dcac5429e28e83fa760626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: e8c2d00a7be84bd4fbab0042809a757b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 2
+    second: {fileID: 2100000, guid: 794ce73c6340dd949b003b1b01c4e880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: b2b0b50b47092e4488f9c2ff8f7e4765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: b0258a9472f6fe94fa447663085dff3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 48ce4fc3540b71346b8118ae6e0d3ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: bff549ce2ee7135489a61ea0ec05be7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 50776fc642b19e849a3e60e3e6dc7cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: b5ffcb3045b24c948b735c8c9bab1064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 036e69f8658522546b206da9858f9247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 48ed0223ebac0c546b97a26e58884289, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

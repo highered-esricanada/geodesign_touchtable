@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 66838b6056ef8464b89cdc2194dd9379
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f0000008000000081000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 61bac13d79afe251c40f1b16fef5fb6c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -38.15661, y: 18.983475, z: -54.028366}
+      lookAt: {x: -4.669662, y: 3.7942672, z: -13.332859}
+      up: {x: 0.17596626, y: 0.9608881, z: 0.21384561}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.679308, y: 81.954056, z: -1.8035938}
+        lookAt: {x: -0.679308, y: 4.332475, z: -1.8035938}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2262.5178
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -38.15661, y: 18.983475, z: -54.028366}
+        lookAt: {x: -4.669662, y: 3.7942672, z: -13.332859}
+        up: {x: 0.17596626, y: 0.9608881, z: 0.21384561}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -38.15661, y: 18.983475, z: -54.028366}
+        lookAt: {x: -4.669662, y: 3.7942672, z: -13.332859}
+        up: {x: 0.17596626, y: 0.9608881, z: 0.21384561}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 41002_3d_site
+    100002: //RootNode
+    100004: 42001_3d_building
+    100006: Door_com_1.05x2.2
+    100008: Door_com_double_2.2x2.2#1
+    100010: Door_com_double_2.2x2.2#2
+    100012: Door_com_double_2.2x2.2#4
+    100014: Door_plain_1.0x2.1#1
+    100016: Door_plain_1.0x2.1#1 1
+    100018: garage_2.85x2.35#1
+    100020: Group 16
+    100022: Group 7
+    100024: Group 8
+    100026: Image 1
+    100028: Window_minframe_0.73x0.92
+    100030: Window_minframe_0.73x0.92 1
+    100032: Window_minframe_0.73x0.92 10
+    100034: Window_minframe_0.73x0.92 11
+    100036: Window_minframe_0.73x0.92 12
+    100038: Window_minframe_0.73x0.92 13
+    100040: Window_minframe_0.73x0.92 14
+    100042: Window_minframe_0.73x0.92 15
+    100044: Window_minframe_0.73x0.92 16
+    100046: Window_minframe_0.73x0.92 17
+    100048: Window_minframe_0.73x0.92 18
+    100050: Window_minframe_0.73x0.92 19
+    100052: Window_minframe_0.73x0.92 2
+    100054: Window_minframe_0.73x0.92 20
+    100056: Window_minframe_0.73x0.92 21
+    100058: Window_minframe_0.73x0.92 22
+    100060: Window_minframe_0.73x0.92 23
+    100062: Window_minframe_0.73x0.92 24
+    100064: Window_minframe_0.73x0.92 25
+    100066: Window_minframe_0.73x0.92 26
+    100068: Window_minframe_0.73x0.92 27
+    100070: Window_minframe_0.73x0.92 28
+    100072: Window_minframe_0.73x0.92 29
+    100074: Window_minframe_0.73x0.92 3
+    100076: Window_minframe_0.73x0.92 30
+    100078: Window_minframe_0.73x0.92 31
+    100080: Window_minframe_0.73x0.92 32
+    100082: Window_minframe_0.73x0.92 33
+    100084: Window_minframe_0.73x0.92 34
+    100086: Window_minframe_0.73x0.92 35
+    100088: Window_minframe_0.73x0.92 36
+    100090: Window_minframe_0.73x0.92 37
+    100092: Window_minframe_0.73x0.92 38
+    100094: Window_minframe_0.73x0.92 39
+    100096: Window_minframe_0.73x0.92 4
+    100098: Window_minframe_0.73x0.92 40
+    100100: Window_minframe_0.73x0.92 41
+    100102: Window_minframe_0.73x0.92 42
+    100104: Window_minframe_0.73x0.92 43
+    100106: Window_minframe_0.73x0.92 44
+    100108: Window_minframe_0.73x0.92 45
+    100110: Window_minframe_0.73x0.92 46
+    100112: Window_minframe_0.73x0.92 47
+    100114: Window_minframe_0.73x0.92 48
+    100116: Window_minframe_0.73x0.92 5
+    100118: Window_minframe_0.73x0.92 6
+    100120: Window_minframe_0.73x0.92 7
+    100122: Window_minframe_0.73x0.92 8
+    100124: Window_minframe_0.73x0.92 9
+    400000: 41002_3d_site
+    400002: //RootNode
+    400004: 42001_3d_building
+    400006: Door_com_1.05x2.2
+    400008: Door_com_double_2.2x2.2#1
+    400010: Door_com_double_2.2x2.2#2
+    400012: Door_com_double_2.2x2.2#4
+    400014: Door_plain_1.0x2.1#1
+    400016: Door_plain_1.0x2.1#1 1
+    400018: garage_2.85x2.35#1
+    400020: Group 16
+    400022: Group 7
+    400024: Group 8
+    400026: Image 1
+    400028: Window_minframe_0.73x0.92
+    400030: Window_minframe_0.73x0.92 1
+    400032: Window_minframe_0.73x0.92 10
+    400034: Window_minframe_0.73x0.92 11
+    400036: Window_minframe_0.73x0.92 12
+    400038: Window_minframe_0.73x0.92 13
+    400040: Window_minframe_0.73x0.92 14
+    400042: Window_minframe_0.73x0.92 15
+    400044: Window_minframe_0.73x0.92 16
+    400046: Window_minframe_0.73x0.92 17
+    400048: Window_minframe_0.73x0.92 18
+    400050: Window_minframe_0.73x0.92 19
+    400052: Window_minframe_0.73x0.92 2
+    400054: Window_minframe_0.73x0.92 20
+    400056: Window_minframe_0.73x0.92 21
+    400058: Window_minframe_0.73x0.92 22
+    400060: Window_minframe_0.73x0.92 23
+    400062: Window_minframe_0.73x0.92 24
+    400064: Window_minframe_0.73x0.92 25
+    400066: Window_minframe_0.73x0.92 26
+    400068: Window_minframe_0.73x0.92 27
+    400070: Window_minframe_0.73x0.92 28
+    400072: Window_minframe_0.73x0.92 29
+    400074: Window_minframe_0.73x0.92 3
+    400076: Window_minframe_0.73x0.92 30
+    400078: Window_minframe_0.73x0.92 31
+    400080: Window_minframe_0.73x0.92 32
+    400082: Window_minframe_0.73x0.92 33
+    400084: Window_minframe_0.73x0.92 34
+    400086: Window_minframe_0.73x0.92 35
+    400088: Window_minframe_0.73x0.92 36
+    400090: Window_minframe_0.73x0.92 37
+    400092: Window_minframe_0.73x0.92 38
+    400094: Window_minframe_0.73x0.92 39
+    400096: Window_minframe_0.73x0.92 4
+    400098: Window_minframe_0.73x0.92 40
+    400100: Window_minframe_0.73x0.92 41
+    400102: Window_minframe_0.73x0.92 42
+    400104: Window_minframe_0.73x0.92 43
+    400106: Window_minframe_0.73x0.92 44
+    400108: Window_minframe_0.73x0.92 45
+    400110: Window_minframe_0.73x0.92 46
+    400112: Window_minframe_0.73x0.92 47
+    400114: Window_minframe_0.73x0.92 48
+    400116: Window_minframe_0.73x0.92 5
+    400118: Window_minframe_0.73x0.92 6
+    400120: Window_minframe_0.73x0.92 7
+    400122: Window_minframe_0.73x0.92 8
+    400124: Window_minframe_0.73x0.92 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_vehicle
+    2100008: floor-plate_underside
+    2100010: OV_turf_solid
+    2100012: OV_shrub_texture
+    2100014: shrub_texture
+    2100016: OV_paving_pedestrian
+    2100018: OV_bldg_wall
+    2100020: buildingwalls
+    2100022: pedestrian_paved
+    2100024: OV_bldg_roof
+    2100026: ApertureGlass
+    2300000: 41002_3d_site
+    2300002: 42001_3d_building
+    2300004: Door_com_1.05x2.2
+    2300006: Door_com_double_2.2x2.2#1
+    2300008: Door_com_double_2.2x2.2#2
+    2300010: Door_com_double_2.2x2.2#4
+    2300012: Door_plain_1.0x2.1#1
+    2300014: Door_plain_1.0x2.1#1 1
+    2300016: garage_2.85x2.35#1
+    2300018: Group 16
+    2300020: Group 8
+    2300022: Image 1
+    2300024: Window_minframe_0.73x0.92
+    2300026: Window_minframe_0.73x0.92 1
+    2300028: Window_minframe_0.73x0.92 10
+    2300030: Window_minframe_0.73x0.92 11
+    2300032: Window_minframe_0.73x0.92 12
+    2300034: Window_minframe_0.73x0.92 13
+    2300036: Window_minframe_0.73x0.92 14
+    2300038: Window_minframe_0.73x0.92 15
+    2300040: Window_minframe_0.73x0.92 16
+    2300042: Window_minframe_0.73x0.92 17
+    2300044: Window_minframe_0.73x0.92 18
+    2300046: Window_minframe_0.73x0.92 19
+    2300048: Window_minframe_0.73x0.92 2
+    2300050: Window_minframe_0.73x0.92 20
+    2300052: Window_minframe_0.73x0.92 21
+    2300054: Window_minframe_0.73x0.92 22
+    2300056: Window_minframe_0.73x0.92 23
+    2300058: Window_minframe_0.73x0.92 24
+    2300060: Window_minframe_0.73x0.92 25
+    2300062: Window_minframe_0.73x0.92 26
+    2300064: Window_minframe_0.73x0.92 27
+    2300066: Window_minframe_0.73x0.92 28
+    2300068: Window_minframe_0.73x0.92 29
+    2300070: Window_minframe_0.73x0.92 3
+    2300072: Window_minframe_0.73x0.92 30
+    2300074: Window_minframe_0.73x0.92 31
+    2300076: Window_minframe_0.73x0.92 32
+    2300078: Window_minframe_0.73x0.92 33
+    2300080: Window_minframe_0.73x0.92 34
+    2300082: Window_minframe_0.73x0.92 35
+    2300084: Window_minframe_0.73x0.92 36
+    2300086: Window_minframe_0.73x0.92 37
+    2300088: Window_minframe_0.73x0.92 38
+    2300090: Window_minframe_0.73x0.92 39
+    2300092: Window_minframe_0.73x0.92 4
+    2300094: Window_minframe_0.73x0.92 40
+    2300096: Window_minframe_0.73x0.92 41
+    2300098: Window_minframe_0.73x0.92 42
+    2300100: Window_minframe_0.73x0.92 43
+    2300102: Window_minframe_0.73x0.92 44
+    2300104: Window_minframe_0.73x0.92 45
+    2300106: Window_minframe_0.73x0.92 46
+    2300108: Window_minframe_0.73x0.92 47
+    2300110: Window_minframe_0.73x0.92 48
+    2300112: Window_minframe_0.73x0.92 5
+    2300114: Window_minframe_0.73x0.92 6
+    2300116: Window_minframe_0.73x0.92 7
+    2300118: Window_minframe_0.73x0.92 8
+    2300120: Window_minframe_0.73x0.92 9
+    3300000: 41002_3d_site
+    3300002: 42001_3d_building
+    3300004: Door_com_1.05x2.2
+    3300006: Door_com_double_2.2x2.2#1
+    3300008: Door_com_double_2.2x2.2#2
+    3300010: Door_com_double_2.2x2.2#4
+    3300012: Door_plain_1.0x2.1#1
+    3300014: Door_plain_1.0x2.1#1 1
+    3300016: garage_2.85x2.35#1
+    3300018: Group 16
+    3300020: Group 8
+    3300022: Image 1
+    3300024: Window_minframe_0.73x0.92
+    3300026: Window_minframe_0.73x0.92 1
+    3300028: Window_minframe_0.73x0.92 10
+    3300030: Window_minframe_0.73x0.92 11
+    3300032: Window_minframe_0.73x0.92 12
+    3300034: Window_minframe_0.73x0.92 13
+    3300036: Window_minframe_0.73x0.92 14
+    3300038: Window_minframe_0.73x0.92 15
+    3300040: Window_minframe_0.73x0.92 16
+    3300042: Window_minframe_0.73x0.92 17
+    3300044: Window_minframe_0.73x0.92 18
+    3300046: Window_minframe_0.73x0.92 19
+    3300048: Window_minframe_0.73x0.92 2
+    3300050: Window_minframe_0.73x0.92 20
+    3300052: Window_minframe_0.73x0.92 21
+    3300054: Window_minframe_0.73x0.92 22
+    3300056: Window_minframe_0.73x0.92 23
+    3300058: Window_minframe_0.73x0.92 24
+    3300060: Window_minframe_0.73x0.92 25
+    3300062: Window_minframe_0.73x0.92 26
+    3300064: Window_minframe_0.73x0.92 27
+    3300066: Window_minframe_0.73x0.92 28
+    3300068: Window_minframe_0.73x0.92 29
+    3300070: Window_minframe_0.73x0.92 3
+    3300072: Window_minframe_0.73x0.92 30
+    3300074: Window_minframe_0.73x0.92 31
+    3300076: Window_minframe_0.73x0.92 32
+    3300078: Window_minframe_0.73x0.92 33
+    3300080: Window_minframe_0.73x0.92 34
+    3300082: Window_minframe_0.73x0.92 35
+    3300084: Window_minframe_0.73x0.92 36
+    3300086: Window_minframe_0.73x0.92 37
+    3300088: Window_minframe_0.73x0.92 38
+    3300090: Window_minframe_0.73x0.92 39
+    3300092: Window_minframe_0.73x0.92 4
+    3300094: Window_minframe_0.73x0.92 40
+    3300096: Window_minframe_0.73x0.92 41
+    3300098: Window_minframe_0.73x0.92 42
+    3300100: Window_minframe_0.73x0.92 43
+    3300102: Window_minframe_0.73x0.92 44
+    3300104: Window_minframe_0.73x0.92 45
+    3300106: Window_minframe_0.73x0.92 46
+    3300108: Window_minframe_0.73x0.92 47
+    3300110: Window_minframe_0.73x0.92 48
+    3300112: Window_minframe_0.73x0.92 5
+    3300114: Window_minframe_0.73x0.92 6
+    3300116: Window_minframe_0.73x0.92 7
+    3300118: Window_minframe_0.73x0.92 8
+    3300120: Window_minframe_0.73x0.92 9
+    4300000: Mesh 42001-00
+    4300002: Mesh Group 8
+    4300004: Mesh 41002_3d_site
+    4300006: Mesh 42001_3d_building
+    4300008: Mesh Group 16
+    4300010: Mesh Window_minframe_0.73x0.92
+    4300012: Mesh garage_2.85x2.35#1
+    4300014: Mesh Door_com_double_2.2x2.2#1
+    4300016: Mesh Door_com_1.05x2.2
+    4300018: Mesh Door_plain_1.0x2.1#1
+    4300020: Mesh Door_com_double_2.2x2.2#2
+    4300022: Mesh Door_com_double_2.2x2.2#4
+    6400000: 41002_3d_site
+    6400002: 42001_3d_building
+    6400004: Door_com_1.05x2.2
+    6400006: Door_com_double_2.2x2.2#1
+    6400008: Door_com_double_2.2x2.2#2
+    6400010: Door_com_double_2.2x2.2#4
+    6400012: Door_plain_1.0x2.1#1
+    6400014: Door_plain_1.0x2.1#1 1
+    6400016: garage_2.85x2.35#1
+    6400018: Group 16
+    6400020: Group 8
+    6400022: Image 1
+    6400024: Window_minframe_0.73x0.92
+    6400026: Window_minframe_0.73x0.92 1
+    6400028: Window_minframe_0.73x0.92 10
+    6400030: Window_minframe_0.73x0.92 11
+    6400032: Window_minframe_0.73x0.92 12
+    6400034: Window_minframe_0.73x0.92 13
+    6400036: Window_minframe_0.73x0.92 14
+    6400038: Window_minframe_0.73x0.92 15
+    6400040: Window_minframe_0.73x0.92 16
+    6400042: Window_minframe_0.73x0.92 17
+    6400044: Window_minframe_0.73x0.92 18
+    6400046: Window_minframe_0.73x0.92 19
+    6400048: Window_minframe_0.73x0.92 2
+    6400050: Window_minframe_0.73x0.92 20
+    6400052: Window_minframe_0.73x0.92 21
+    6400054: Window_minframe_0.73x0.92 22
+    6400056: Window_minframe_0.73x0.92 23
+    6400058: Window_minframe_0.73x0.92 24
+    6400060: Window_minframe_0.73x0.92 25
+    6400062: Window_minframe_0.73x0.92 26
+    6400064: Window_minframe_0.73x0.92 27
+    6400066: Window_minframe_0.73x0.92 28
+    6400068: Window_minframe_0.73x0.92 29
+    6400070: Window_minframe_0.73x0.92 3
+    6400072: Window_minframe_0.73x0.92 30
+    6400074: Window_minframe_0.73x0.92 31
+    6400076: Window_minframe_0.73x0.92 32
+    6400078: Window_minframe_0.73x0.92 33
+    6400080: Window_minframe_0.73x0.92 34
+    6400082: Window_minframe_0.73x0.92 35
+    6400084: Window_minframe_0.73x0.92 36
+    6400086: Window_minframe_0.73x0.92 37
+    6400088: Window_minframe_0.73x0.92 38
+    6400090: Window_minframe_0.73x0.92 39
+    6400092: Window_minframe_0.73x0.92 4
+    6400094: Window_minframe_0.73x0.92 40
+    6400096: Window_minframe_0.73x0.92 41
+    6400098: Window_minframe_0.73x0.92 42
+    6400100: Window_minframe_0.73x0.92 43
+    6400102: Window_minframe_0.73x0.92 44
+    6400104: Window_minframe_0.73x0.92 45
+    6400106: Window_minframe_0.73x0.92 46
+    6400108: Window_minframe_0.73x0.92 47
+    6400110: Window_minframe_0.73x0.92 48
+    6400112: Window_minframe_0.73x0.92 5
+    6400114: Window_minframe_0.73x0.92 6
+    6400116: Window_minframe_0.73x0.92 7
+    6400118: Window_minframe_0.73x0.92 8
+    6400120: Window_minframe_0.73x0.92 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ee5e290ea69945b4498d9c4c69e6786a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 2e307ba20dc9d2941a32b009549ef36a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 7f233b9307785d64aaf180c1d9bd5bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 2b7919db40a07ed469dd36adc85256c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 39d3a3519b1284a428ddcaf91055adae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 8f6cd0bba242b3b4da57b0fa61e54cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: c27010036b32d204194406f6f1cad8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 55421b2b5bfb74d46ac8da2455206c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 19b2618e1cc5aca40b1a502c0fa635fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 4da04dd34837ccd4b92a2ccc5d890f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 7dc5586cf8ecb2947b756f47e7aaf70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor-plate_underside
+    second: {fileID: 2100000, guid: df2e6f54a119457428e50a974064121c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: 351bd77f55b9833419fb5b78ea081d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrub_texture
+    second: {fileID: 2100000, guid: 1fcbdfd3ba5d11f448e15d9e4b5bac59, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

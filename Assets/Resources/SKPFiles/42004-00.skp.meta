@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 914bdef1bbab2a4468f7ad13ca9165f0
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000
+  assetHash:
+    serializedVersion: 2
+    Hash: abd249d49b59f8ec61ff2314c46c1647
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -43.511757, y: 23.139894, z: -57.94794}
+      lookAt: {x: 4347.0684, y: -2428.9165, z: 5713.33}
+      up: {x: 0.19394688, y: 0.94730765, z: 0.25493702}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -43.511757, y: 23.139894, z: -57.94794}
+        lookAt: {x: 4347.0684, y: -2428.9165, z: 5713.33}
+        up: {x: 0.19394688, y: 0.94730765, z: 0.25493702}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -43.511757, y: 23.139894, z: -57.94794}
+        lookAt: {x: 4347.0684, y: -2428.9165, z: 5713.33}
+        up: {x: 0.19394688, y: 0.94730765, z: 0.25493702}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 42004_3d_building
+    100004: Door_glass_1.0x2.18#1
+    100006: Door_glass_1.0x2.18#1 1
+    100008: Door_glass_1.0x2.18#1 2
+    100010: Door_glass_1.0x2.18#1 3
+    100012: Door_glass_1.0x2.18#1 4
+    100014: Door_glass_slider_1.8x.2.08
+    100016: Door_glass_slider_1.8x.2.08 1
+    100018: Door_glass_slider_1.8x.2.08 2
+    100020: Door_glass_slider_1.8x.2.08 3
+    100022: Door_glass_slider_1.8x.2.08 4
+    100024: Door_glass_slider_1.8x.2.08 5
+    100026: Door_glass_slider_1.8x.2.08 6
+    100028: Group 100
+    100030: Group 102
+    100032: Group 104
+    100034: Group 106
+    100036: Group 108
+    100038: Group 110
+    100040: Group 112
+    100042: Group 114
+    100044: Group 116
+    100046: Group 117
+    100048: Group 119
+    100050: Group 121
+    100052: Group 123
+    100054: Group 125
+    100056: Group 127
+    100058: Group 129
+    100060: Group 131
+    100062: Group 133
+    100064: Group 135
+    100066: Group 2
+    100068: Group 22
+    100070: Group 24
+    100072: Group 26
+    100074: Group 28
+    100076: Group 30
+    100078: Group 32
+    100080: Group 34
+    100082: Group 36
+    100084: Group 38
+    100086: Group 39
+    100088: Group 41
+    100090: Group 43
+    100092: Group 45
+    100094: Group 47
+    100096: Group 49
+    100098: Group 51
+    100100: Group 53
+    100102: Group 55
+    100104: Group 57
+    100106: Group 59
+    100108: Group 61
+    100110: Group 63
+    100112: Group 65
+    100114: Group 67
+    100116: Group 69
+    100118: Group 71
+    100120: Group 73
+    100122: Group 75
+    100124: Group 77
+    100126: Group 79
+    100128: Group 81
+    100130: Group 83
+    100132: Group 85
+    100134: Group 87
+    100136: Group 89
+    100138: Group 91
+    100140: Group 93
+    100142: Group 95
+    100144: Group 97
+    100146: Group 98
+    100148: Image 1
+    100150: rounded-med
+    100152: rounded-sm
+    100154: rounded-sm 1
+    100156: rounded-sm 2
+    100158: rounded-sm 3
+    100160: rounded-sm 4
+    100162: rounded-sm 5
+    100164: scale_obq
+    100166: Window_com_1.9x2.15
+    100168: Window_com_1.9x2.15 1
+    100170: Window_com_1.9x2.15 10
+    100172: Window_com_1.9x2.15 11
+    100174: Window_com_1.9x2.15 12
+    100176: Window_com_1.9x2.15 13
+    100178: Window_com_1.9x2.15 14
+    100180: Window_com_1.9x2.15 15
+    100182: Window_com_1.9x2.15 16
+    100184: Window_com_1.9x2.15 17
+    100186: Window_com_1.9x2.15 18
+    100188: Window_com_1.9x2.15 19
+    100190: Window_com_1.9x2.15 2
+    100192: Window_com_1.9x2.15 20
+    100194: Window_com_1.9x2.15 21
+    100196: Window_com_1.9x2.15 22
+    100198: Window_com_1.9x2.15 23
+    100200: Window_com_1.9x2.15 24
+    100202: Window_com_1.9x2.15 25
+    100204: Window_com_1.9x2.15 26
+    100206: Window_com_1.9x2.15 27
+    100208: Window_com_1.9x2.15 28
+    100210: Window_com_1.9x2.15 29
+    100212: Window_com_1.9x2.15 3
+    100214: Window_com_1.9x2.15 4
+    100216: Window_com_1.9x2.15 5
+    100218: Window_com_1.9x2.15 6
+    100220: Window_com_1.9x2.15 7
+    100222: Window_com_1.9x2.15 8
+    100224: Window_com_1.9x2.15 9
+    100226: Window_com_1.9x2.15#1
+    100228: Window_com_1.9x2.15#1 1
+    100230: Window_com_1.9x2.15#1 2
+    100232: Window_com_1.9x2.15#1 3
+    100234: Window_deepjamb_0.92x1.02
+    100236: Window_deepjamb_0.92x1.02 1
+    100238: Window_deepjamb_0.92x1.02 2
+    100240: Window_deepjamb_0.92x1.02 3
+    100242: Window_deepjamb_0.92x1.02 4
+    100244: Window_deepjamb_0.92x1.02 5
+    400000: //RootNode
+    400002: 42004_3d_building
+    400004: Door_glass_1.0x2.18#1
+    400006: Door_glass_1.0x2.18#1 1
+    400008: Door_glass_1.0x2.18#1 2
+    400010: Door_glass_1.0x2.18#1 3
+    400012: Door_glass_1.0x2.18#1 4
+    400014: Door_glass_slider_1.8x.2.08
+    400016: Door_glass_slider_1.8x.2.08 1
+    400018: Door_glass_slider_1.8x.2.08 2
+    400020: Door_glass_slider_1.8x.2.08 3
+    400022: Door_glass_slider_1.8x.2.08 4
+    400024: Door_glass_slider_1.8x.2.08 5
+    400026: Door_glass_slider_1.8x.2.08 6
+    400028: Group 100
+    400030: Group 102
+    400032: Group 104
+    400034: Group 106
+    400036: Group 108
+    400038: Group 110
+    400040: Group 112
+    400042: Group 114
+    400044: Group 116
+    400046: Group 117
+    400048: Group 119
+    400050: Group 121
+    400052: Group 123
+    400054: Group 125
+    400056: Group 127
+    400058: Group 129
+    400060: Group 131
+    400062: Group 133
+    400064: Group 135
+    400066: Group 2
+    400068: Group 22
+    400070: Group 24
+    400072: Group 26
+    400074: Group 28
+    400076: Group 30
+    400078: Group 32
+    400080: Group 34
+    400082: Group 36
+    400084: Group 38
+    400086: Group 39
+    400088: Group 41
+    400090: Group 43
+    400092: Group 45
+    400094: Group 47
+    400096: Group 49
+    400098: Group 51
+    400100: Group 53
+    400102: Group 55
+    400104: Group 57
+    400106: Group 59
+    400108: Group 61
+    400110: Group 63
+    400112: Group 65
+    400114: Group 67
+    400116: Group 69
+    400118: Group 71
+    400120: Group 73
+    400122: Group 75
+    400124: Group 77
+    400126: Group 79
+    400128: Group 81
+    400130: Group 83
+    400132: Group 85
+    400134: Group 87
+    400136: Group 89
+    400138: Group 91
+    400140: Group 93
+    400142: Group 95
+    400144: Group 97
+    400146: Group 98
+    400148: Image 1
+    400150: rounded-med
+    400152: rounded-sm
+    400154: rounded-sm 1
+    400156: rounded-sm 2
+    400158: rounded-sm 3
+    400160: rounded-sm 4
+    400162: rounded-sm 5
+    400164: scale_obq
+    400166: Window_com_1.9x2.15
+    400168: Window_com_1.9x2.15 1
+    400170: Window_com_1.9x2.15 10
+    400172: Window_com_1.9x2.15 11
+    400174: Window_com_1.9x2.15 12
+    400176: Window_com_1.9x2.15 13
+    400178: Window_com_1.9x2.15 14
+    400180: Window_com_1.9x2.15 15
+    400182: Window_com_1.9x2.15 16
+    400184: Window_com_1.9x2.15 17
+    400186: Window_com_1.9x2.15 18
+    400188: Window_com_1.9x2.15 19
+    400190: Window_com_1.9x2.15 2
+    400192: Window_com_1.9x2.15 20
+    400194: Window_com_1.9x2.15 21
+    400196: Window_com_1.9x2.15 22
+    400198: Window_com_1.9x2.15 23
+    400200: Window_com_1.9x2.15 24
+    400202: Window_com_1.9x2.15 25
+    400204: Window_com_1.9x2.15 26
+    400206: Window_com_1.9x2.15 27
+    400208: Window_com_1.9x2.15 28
+    400210: Window_com_1.9x2.15 29
+    400212: Window_com_1.9x2.15 3
+    400214: Window_com_1.9x2.15 4
+    400216: Window_com_1.9x2.15 5
+    400218: Window_com_1.9x2.15 6
+    400220: Window_com_1.9x2.15 7
+    400222: Window_com_1.9x2.15 8
+    400224: Window_com_1.9x2.15 9
+    400226: Window_com_1.9x2.15#1
+    400228: Window_com_1.9x2.15#1 1
+    400230: Window_com_1.9x2.15#1 2
+    400232: Window_com_1.9x2.15#1 3
+    400234: Window_deepjamb_0.92x1.02
+    400236: Window_deepjamb_0.92x1.02 1
+    400238: Window_deepjamb_0.92x1.02 2
+    400240: Window_deepjamb_0.92x1.02 3
+    400242: Window_deepjamb_0.92x1.02 4
+    400244: Window_deepjamb_0.92x1.02 5
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_paving_general
+    2100006: OV_paving_pedestrian
+    2100008: OV_paving_vehicle
+    2100010: OV_shrub_texture
+    2100012: shrub_texture
+    2100014: 0_label
+    2100016: mapletree
+    2100018: buildingwalls
+    2100020: OV_bldg_roof
+    2100022: modelroof
+    2100024: OV_bldg_accent
+    2100026: OV_bldg_wall
+    2100028: ApertureGlass
+    2300000: 42004_3d_building
+    2300002: Door_glass_1.0x2.18#1
+    2300004: Door_glass_1.0x2.18#1 1
+    2300006: Door_glass_1.0x2.18#1 2
+    2300008: Door_glass_1.0x2.18#1 3
+    2300010: Door_glass_1.0x2.18#1 4
+    2300012: Door_glass_slider_1.8x.2.08
+    2300014: Door_glass_slider_1.8x.2.08 1
+    2300016: Door_glass_slider_1.8x.2.08 2
+    2300018: Door_glass_slider_1.8x.2.08 3
+    2300020: Door_glass_slider_1.8x.2.08 4
+    2300022: Door_glass_slider_1.8x.2.08 5
+    2300024: Door_glass_slider_1.8x.2.08 6
+    2300026: Group 100
+    2300028: Group 102
+    2300030: Group 104
+    2300032: Group 106
+    2300034: Group 108
+    2300036: Group 110
+    2300038: Group 112
+    2300040: Group 114
+    2300042: Group 117
+    2300044: Group 119
+    2300046: Group 121
+    2300048: Group 123
+    2300050: Group 125
+    2300052: Group 127
+    2300054: Group 129
+    2300056: Group 131
+    2300058: Group 133
+    2300060: Group 135
+    2300062: Group 2
+    2300064: Group 22
+    2300066: Group 24
+    2300068: Group 26
+    2300070: Group 28
+    2300072: Group 30
+    2300074: Group 32
+    2300076: Group 34
+    2300078: Group 36
+    2300080: Group 39
+    2300082: Group 41
+    2300084: Group 43
+    2300086: Group 45
+    2300088: Group 47
+    2300090: Group 49
+    2300092: Group 51
+    2300094: Group 53
+    2300096: Group 55
+    2300098: Group 57
+    2300100: Group 59
+    2300102: Group 61
+    2300104: Group 63
+    2300106: Group 65
+    2300108: Group 67
+    2300110: Group 69
+    2300112: Group 71
+    2300114: Group 73
+    2300116: Group 75
+    2300118: Group 77
+    2300120: Group 79
+    2300122: Group 81
+    2300124: Group 83
+    2300126: Group 85
+    2300128: Group 87
+    2300130: Group 89
+    2300132: Group 91
+    2300134: Group 93
+    2300136: Group 95
+    2300138: Group 98
+    2300140: Image 1
+    2300142: rounded-med
+    2300144: rounded-sm
+    2300146: rounded-sm 1
+    2300148: rounded-sm 2
+    2300150: rounded-sm 3
+    2300152: rounded-sm 4
+    2300154: rounded-sm 5
+    2300156: scale_obq
+    2300158: Window_com_1.9x2.15
+    2300160: Window_com_1.9x2.15 1
+    2300162: Window_com_1.9x2.15 10
+    2300164: Window_com_1.9x2.15 11
+    2300166: Window_com_1.9x2.15 12
+    2300168: Window_com_1.9x2.15 13
+    2300170: Window_com_1.9x2.15 14
+    2300172: Window_com_1.9x2.15 15
+    2300174: Window_com_1.9x2.15 16
+    2300176: Window_com_1.9x2.15 17
+    2300178: Window_com_1.9x2.15 18
+    2300180: Window_com_1.9x2.15 19
+    2300182: Window_com_1.9x2.15 2
+    2300184: Window_com_1.9x2.15 20
+    2300186: Window_com_1.9x2.15 21
+    2300188: Window_com_1.9x2.15 22
+    2300190: Window_com_1.9x2.15 23
+    2300192: Window_com_1.9x2.15 24
+    2300194: Window_com_1.9x2.15 25
+    2300196: Window_com_1.9x2.15 26
+    2300198: Window_com_1.9x2.15 27
+    2300200: Window_com_1.9x2.15 28
+    2300202: Window_com_1.9x2.15 29
+    2300204: Window_com_1.9x2.15 3
+    2300206: Window_com_1.9x2.15 4
+    2300208: Window_com_1.9x2.15 5
+    2300210: Window_com_1.9x2.15 6
+    2300212: Window_com_1.9x2.15 7
+    2300214: Window_com_1.9x2.15 8
+    2300216: Window_com_1.9x2.15 9
+    2300218: Window_com_1.9x2.15#1
+    2300220: Window_com_1.9x2.15#1 1
+    2300222: Window_com_1.9x2.15#1 2
+    2300224: Window_com_1.9x2.15#1 3
+    2300226: Window_deepjamb_0.92x1.02
+    2300228: Window_deepjamb_0.92x1.02 1
+    2300230: Window_deepjamb_0.92x1.02 2
+    2300232: Window_deepjamb_0.92x1.02 3
+    2300234: Window_deepjamb_0.92x1.02 4
+    2300236: Window_deepjamb_0.92x1.02 5
+    3300000: 42004_3d_building
+    3300002: Door_glass_1.0x2.18#1
+    3300004: Door_glass_1.0x2.18#1 1
+    3300006: Door_glass_1.0x2.18#1 2
+    3300008: Door_glass_1.0x2.18#1 3
+    3300010: Door_glass_1.0x2.18#1 4
+    3300012: Door_glass_slider_1.8x.2.08
+    3300014: Door_glass_slider_1.8x.2.08 1
+    3300016: Door_glass_slider_1.8x.2.08 2
+    3300018: Door_glass_slider_1.8x.2.08 3
+    3300020: Door_glass_slider_1.8x.2.08 4
+    3300022: Door_glass_slider_1.8x.2.08 5
+    3300024: Door_glass_slider_1.8x.2.08 6
+    3300026: Group 100
+    3300028: Group 102
+    3300030: Group 104
+    3300032: Group 106
+    3300034: Group 108
+    3300036: Group 110
+    3300038: Group 112
+    3300040: Group 114
+    3300042: Group 117
+    3300044: Group 119
+    3300046: Group 121
+    3300048: Group 123
+    3300050: Group 125
+    3300052: Group 127
+    3300054: Group 129
+    3300056: Group 131
+    3300058: Group 133
+    3300060: Group 135
+    3300062: Group 2
+    3300064: Group 22
+    3300066: Group 24
+    3300068: Group 26
+    3300070: Group 28
+    3300072: Group 30
+    3300074: Group 32
+    3300076: Group 34
+    3300078: Group 36
+    3300080: Group 39
+    3300082: Group 41
+    3300084: Group 43
+    3300086: Group 45
+    3300088: Group 47
+    3300090: Group 49
+    3300092: Group 51
+    3300094: Group 53
+    3300096: Group 55
+    3300098: Group 57
+    3300100: Group 59
+    3300102: Group 61
+    3300104: Group 63
+    3300106: Group 65
+    3300108: Group 67
+    3300110: Group 69
+    3300112: Group 71
+    3300114: Group 73
+    3300116: Group 75
+    3300118: Group 77
+    3300120: Group 79
+    3300122: Group 81
+    3300124: Group 83
+    3300126: Group 85
+    3300128: Group 87
+    3300130: Group 89
+    3300132: Group 91
+    3300134: Group 93
+    3300136: Group 95
+    3300138: Group 98
+    3300140: Image 1
+    3300142: rounded-med
+    3300144: rounded-sm
+    3300146: rounded-sm 1
+    3300148: rounded-sm 2
+    3300150: rounded-sm 3
+    3300152: rounded-sm 4
+    3300154: rounded-sm 5
+    3300156: scale_obq
+    3300158: Window_com_1.9x2.15
+    3300160: Window_com_1.9x2.15 1
+    3300162: Window_com_1.9x2.15 10
+    3300164: Window_com_1.9x2.15 11
+    3300166: Window_com_1.9x2.15 12
+    3300168: Window_com_1.9x2.15 13
+    3300170: Window_com_1.9x2.15 14
+    3300172: Window_com_1.9x2.15 15
+    3300174: Window_com_1.9x2.15 16
+    3300176: Window_com_1.9x2.15 17
+    3300178: Window_com_1.9x2.15 18
+    3300180: Window_com_1.9x2.15 19
+    3300182: Window_com_1.9x2.15 2
+    3300184: Window_com_1.9x2.15 20
+    3300186: Window_com_1.9x2.15 21
+    3300188: Window_com_1.9x2.15 22
+    3300190: Window_com_1.9x2.15 23
+    3300192: Window_com_1.9x2.15 24
+    3300194: Window_com_1.9x2.15 25
+    3300196: Window_com_1.9x2.15 26
+    3300198: Window_com_1.9x2.15 27
+    3300200: Window_com_1.9x2.15 28
+    3300202: Window_com_1.9x2.15 29
+    3300204: Window_com_1.9x2.15 3
+    3300206: Window_com_1.9x2.15 4
+    3300208: Window_com_1.9x2.15 5
+    3300210: Window_com_1.9x2.15 6
+    3300212: Window_com_1.9x2.15 7
+    3300214: Window_com_1.9x2.15 8
+    3300216: Window_com_1.9x2.15 9
+    3300218: Window_com_1.9x2.15#1
+    3300220: Window_com_1.9x2.15#1 1
+    3300222: Window_com_1.9x2.15#1 2
+    3300224: Window_com_1.9x2.15#1 3
+    3300226: Window_deepjamb_0.92x1.02
+    3300228: Window_deepjamb_0.92x1.02 1
+    3300230: Window_deepjamb_0.92x1.02 2
+    3300232: Window_deepjamb_0.92x1.02 3
+    3300234: Window_deepjamb_0.92x1.02 4
+    3300236: Window_deepjamb_0.92x1.02 5
+    4300000: Mesh 42004-00
+    4300002: Mesh Group 2
+    4300004: Mesh scale_obq
+    4300006: Mesh rounded-sm
+    4300008: Mesh rounded-med
+    4300010: Mesh 42004_3d_building
+    4300012: Mesh Group 22
+    4300014: Mesh Group 39
+    4300016: Mesh Group 41
+    4300018: Mesh Group 43
+    4300020: Mesh Group 45
+    4300022: Mesh Group 47
+    4300024: Mesh Group 49
+    4300026: Mesh Group 51
+    4300028: Mesh Group 53
+    4300030: Mesh Group 55
+    4300032: Mesh Group 57
+    4300034: Mesh Group 69
+    4300036: Mesh Group 71
+    4300038: Mesh Door_glass_slider_1.8x.2.08
+    4300040: Mesh Window_com_1.9x2.15
+    4300042: Mesh Window_deepjamb_0.92x1.02
+    4300044: Mesh Window_com_1.9x2.15#1
+    4300046: Mesh Door_glass_1.0x2.18#1
+    6400000: 42004_3d_building
+    6400002: Door_glass_1.0x2.18#1
+    6400004: Door_glass_1.0x2.18#1 1
+    6400006: Door_glass_1.0x2.18#1 2
+    6400008: Door_glass_1.0x2.18#1 3
+    6400010: Door_glass_1.0x2.18#1 4
+    6400012: Door_glass_slider_1.8x.2.08
+    6400014: Door_glass_slider_1.8x.2.08 1
+    6400016: Door_glass_slider_1.8x.2.08 2
+    6400018: Door_glass_slider_1.8x.2.08 3
+    6400020: Door_glass_slider_1.8x.2.08 4
+    6400022: Door_glass_slider_1.8x.2.08 5
+    6400024: Door_glass_slider_1.8x.2.08 6
+    6400026: Group 100
+    6400028: Group 102
+    6400030: Group 104
+    6400032: Group 106
+    6400034: Group 108
+    6400036: Group 110
+    6400038: Group 112
+    6400040: Group 114
+    6400042: Group 117
+    6400044: Group 119
+    6400046: Group 121
+    6400048: Group 123
+    6400050: Group 125
+    6400052: Group 127
+    6400054: Group 129
+    6400056: Group 131
+    6400058: Group 133
+    6400060: Group 135
+    6400062: Group 2
+    6400064: Group 22
+    6400066: Group 24
+    6400068: Group 26
+    6400070: Group 28
+    6400072: Group 30
+    6400074: Group 32
+    6400076: Group 34
+    6400078: Group 36
+    6400080: Group 39
+    6400082: Group 41
+    6400084: Group 43
+    6400086: Group 45
+    6400088: Group 47
+    6400090: Group 49
+    6400092: Group 51
+    6400094: Group 53
+    6400096: Group 55
+    6400098: Group 57
+    6400100: Group 59
+    6400102: Group 61
+    6400104: Group 63
+    6400106: Group 65
+    6400108: Group 67
+    6400110: Group 69
+    6400112: Group 71
+    6400114: Group 73
+    6400116: Group 75
+    6400118: Group 77
+    6400120: Group 79
+    6400122: Group 81
+    6400124: Group 83
+    6400126: Group 85
+    6400128: Group 87
+    6400130: Group 89
+    6400132: Group 91
+    6400134: Group 93
+    6400136: Group 95
+    6400138: Group 98
+    6400140: Image 1
+    6400142: rounded-med
+    6400144: rounded-sm
+    6400146: rounded-sm 1
+    6400148: rounded-sm 2
+    6400150: rounded-sm 3
+    6400152: rounded-sm 4
+    6400154: rounded-sm 5
+    6400156: scale_obq
+    6400158: Window_com_1.9x2.15
+    6400160: Window_com_1.9x2.15 1
+    6400162: Window_com_1.9x2.15 10
+    6400164: Window_com_1.9x2.15 11
+    6400166: Window_com_1.9x2.15 12
+    6400168: Window_com_1.9x2.15 13
+    6400170: Window_com_1.9x2.15 14
+    6400172: Window_com_1.9x2.15 15
+    6400174: Window_com_1.9x2.15 16
+    6400176: Window_com_1.9x2.15 17
+    6400178: Window_com_1.9x2.15 18
+    6400180: Window_com_1.9x2.15 19
+    6400182: Window_com_1.9x2.15 2
+    6400184: Window_com_1.9x2.15 20
+    6400186: Window_com_1.9x2.15 21
+    6400188: Window_com_1.9x2.15 22
+    6400190: Window_com_1.9x2.15 23
+    6400192: Window_com_1.9x2.15 24
+    6400194: Window_com_1.9x2.15 25
+    6400196: Window_com_1.9x2.15 26
+    6400198: Window_com_1.9x2.15 27
+    6400200: Window_com_1.9x2.15 28
+    6400202: Window_com_1.9x2.15 29
+    6400204: Window_com_1.9x2.15 3
+    6400206: Window_com_1.9x2.15 4
+    6400208: Window_com_1.9x2.15 5
+    6400210: Window_com_1.9x2.15 6
+    6400212: Window_com_1.9x2.15 7
+    6400214: Window_com_1.9x2.15 8
+    6400216: Window_com_1.9x2.15 9
+    6400218: Window_com_1.9x2.15#1
+    6400220: Window_com_1.9x2.15#1 1
+    6400222: Window_com_1.9x2.15#1 2
+    6400224: Window_com_1.9x2.15#1 3
+    6400226: Window_deepjamb_0.92x1.02
+    6400228: Window_deepjamb_0.92x1.02 1
+    6400230: Window_deepjamb_0.92x1.02 2
+    6400232: Window_deepjamb_0.92x1.02 3
+    6400234: Window_deepjamb_0.92x1.02 4
+    6400236: Window_deepjamb_0.92x1.02 5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: f00aa92e73ced464d9d0c6c12610867c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: c1367ff4b028d1b44b17d20261e26897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: c59a3f736713ddd4789a6de82ed88f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 95c311230285a0346af4391fcc93bdac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: c83591c657dc1d94fbddb877514e5111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 738233d6d9d11274a83050f9e4de84db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 9e9d36122e962694587e73d4a7ffe7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: f17034ac61569be4e9064f9c509bdd73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: cbdb4965243e1634c98cc8e42467a5b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: f55f8de859cc0174b9d50dce1a870832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: e3059c3aff39aa34c84386c645b3b24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: ddf41c440ef647b42bd81608bd0fb85c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: cdfdd5fef81f1484b9f9d98dba945f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: 04b35baa9135b7941a8cba006a8b890c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrub_texture
+    second: {fileID: 2100000, guid: c5deebb0e50453343862172c99eea367, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

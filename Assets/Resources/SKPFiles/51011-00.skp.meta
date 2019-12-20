@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: dfef6a973dcc5b340a0c99057f3ae62c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000040000000500000006000000070000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f01000070010000710100007201000073010000740100007501000076010000770100007d0100007e0100007f0100008001000081010000820100008301000084010000
+  assetHash:
+    serializedVersion: 2
+    Hash: c7615ff35f10b37ac1ef4c026ceea5ea
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 160.29572, y: 221.22142, z: 344.2206}
+      lookAt: {x: -3694.8003, y: -3103.8818, z: -4354.805}
+      up: {x: -0.30441135, y: 0.87729985, z: -0.37105086}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -211.60449, y: 98.48532, z: -2.48502}
+        lookAt: {x: -211.60449, y: -21351.12, z: -2.48502}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 16372.402
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 160.29572, y: 221.22142, z: 344.2206}
+        lookAt: {x: -3694.8003, y: -3103.8818, z: -4354.805}
+        up: {x: -0.30441135, y: 0.87729985, z: -0.37105086}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 160.29572, y: 221.22142, z: 344.2206}
+        lookAt: {x: 135.84258, y: 200.13005, z: 314.41437}
+        up: {x: -0.30441135, y: 0.87729985, z: -0.37105086}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: conifer-lg
+    100004: conifer-lg 1
+    100006: conifer-lg 10
+    100008: conifer-lg 11
+    100010: conifer-lg 12
+    100012: conifer-lg 13
+    100014: conifer-lg 14
+    100016: conifer-lg 15
+    100018: conifer-lg 16
+    100020: conifer-lg 17
+    100022: conifer-lg 18
+    100024: conifer-lg 19
+    100026: conifer-lg 2
+    100028: conifer-lg 20
+    100030: conifer-lg 21
+    100032: conifer-lg 22
+    100034: conifer-lg 23
+    100036: conifer-lg 24
+    100038: conifer-lg 25
+    100040: conifer-lg 26
+    100042: conifer-lg 27
+    100044: conifer-lg 28
+    100046: conifer-lg 29
+    100048: conifer-lg 3
+    100050: conifer-lg 30
+    100052: conifer-lg 31
+    100054: conifer-lg 32
+    100056: conifer-lg 33
+    100058: conifer-lg 34
+    100060: conifer-lg 35
+    100062: conifer-lg 36
+    100064: conifer-lg 37
+    100066: conifer-lg 38
+    100068: conifer-lg 39
+    100070: conifer-lg 4
+    100072: conifer-lg 40
+    100074: conifer-lg 41
+    100076: conifer-lg 42
+    100078: conifer-lg 43
+    100080: conifer-lg 44
+    100082: conifer-lg 45
+    100084: conifer-lg 46
+    100086: conifer-lg 47
+    100088: conifer-lg 48
+    100090: conifer-lg 49
+    100092: conifer-lg 5
+    100094: conifer-lg 50
+    100096: conifer-lg 51
+    100098: conifer-lg 52
+    100100: conifer-lg 53
+    100102: conifer-lg 54
+    100104: conifer-lg 6
+    100106: conifer-lg 7
+    100108: conifer-lg 8
+    100110: conifer-lg 9
+    100112: Group 11
+    100114: Group 13
+    100116: Group 15
+    100118: Group 4
+    100120: Group 6
+    100122: Image 1
+    100124: rounded-lg
+    100126: rounded-lg 1
+    100128: rounded-lg 10
+    100130: rounded-lg 100
+    100132: rounded-lg 101
+    100134: rounded-lg 102
+    100136: rounded-lg 103
+    100138: rounded-lg 104
+    100140: rounded-lg 105
+    100142: rounded-lg 106
+    100144: rounded-lg 107
+    100146: rounded-lg 108
+    100148: rounded-lg 109
+    100150: rounded-lg 11
+    100152: rounded-lg 110
+    100154: rounded-lg 111
+    100156: rounded-lg 112
+    100158: rounded-lg 12
+    100160: rounded-lg 13
+    100162: rounded-lg 14
+    100164: rounded-lg 15
+    100166: rounded-lg 16
+    100168: rounded-lg 17
+    100170: rounded-lg 18
+    100172: rounded-lg 19
+    100174: rounded-lg 2
+    100176: rounded-lg 20
+    100178: rounded-lg 21
+    100180: rounded-lg 22
+    100182: rounded-lg 23
+    100184: rounded-lg 24
+    100186: rounded-lg 25
+    100188: rounded-lg 26
+    100190: rounded-lg 27
+    100192: rounded-lg 28
+    100194: rounded-lg 29
+    100196: rounded-lg 3
+    100198: rounded-lg 30
+    100200: rounded-lg 31
+    100202: rounded-lg 32
+    100204: rounded-lg 33
+    100206: rounded-lg 34
+    100208: rounded-lg 35
+    100210: rounded-lg 36
+    100212: rounded-lg 37
+    100214: rounded-lg 38
+    100216: rounded-lg 39
+    100218: rounded-lg 4
+    100220: rounded-lg 40
+    100222: rounded-lg 41
+    100224: rounded-lg 42
+    100226: rounded-lg 43
+    100228: rounded-lg 44
+    100230: rounded-lg 45
+    100232: rounded-lg 46
+    100234: rounded-lg 47
+    100236: rounded-lg 48
+    100238: rounded-lg 49
+    100240: rounded-lg 5
+    100242: rounded-lg 50
+    100244: rounded-lg 51
+    100246: rounded-lg 52
+    100248: rounded-lg 53
+    100250: rounded-lg 54
+    100252: rounded-lg 55
+    100254: rounded-lg 56
+    100256: rounded-lg 57
+    100258: rounded-lg 58
+    100260: rounded-lg 59
+    100262: rounded-lg 6
+    100264: rounded-lg 60
+    100266: rounded-lg 61
+    100268: rounded-lg 62
+    100270: rounded-lg 63
+    100272: rounded-lg 64
+    100274: rounded-lg 65
+    100276: rounded-lg 66
+    100278: rounded-lg 67
+    100280: rounded-lg 68
+    100282: rounded-lg 69
+    100284: rounded-lg 7
+    100286: rounded-lg 70
+    100288: rounded-lg 71
+    100290: rounded-lg 72
+    100292: rounded-lg 73
+    100294: rounded-lg 74
+    100296: rounded-lg 75
+    100298: rounded-lg 76
+    100300: rounded-lg 77
+    100302: rounded-lg 78
+    100304: rounded-lg 79
+    100306: rounded-lg 8
+    100308: rounded-lg 80
+    100310: rounded-lg 81
+    100312: rounded-lg 82
+    100314: rounded-lg 83
+    100316: rounded-lg 84
+    100318: rounded-lg 85
+    100320: rounded-lg 86
+    100322: rounded-lg 87
+    100324: rounded-lg 88
+    100326: rounded-lg 89
+    100328: rounded-lg 9
+    100330: rounded-lg 90
+    100332: rounded-lg 91
+    100334: rounded-lg 92
+    100336: rounded-lg 93
+    100338: rounded-lg 94
+    100340: rounded-lg 95
+    100342: rounded-lg 96
+    100344: rounded-lg 97
+    100346: rounded-lg 98
+    100348: rounded-lg 99
+    100350: rounded-sm#1
+    100352: rounded-sm#1 1
+    100354: rounded-sm#1 10
+    100356: rounded-sm#1 11
+    100358: rounded-sm#1 12
+    100360: rounded-sm#1 13
+    100362: rounded-sm#1 14
+    100364: rounded-sm#1 2
+    100366: rounded-sm#1 3
+    100368: rounded-sm#1 4
+    100370: rounded-sm#1 5
+    100372: rounded-sm#1 6
+    100374: rounded-sm#1 7
+    100376: rounded-sm#1 8
+    100378: rounded-sm#1 9
+    100380: scale_obq
+    400000: //RootNode
+    400002: conifer-lg
+    400004: conifer-lg 1
+    400006: conifer-lg 10
+    400008: conifer-lg 11
+    400010: conifer-lg 12
+    400012: conifer-lg 13
+    400014: conifer-lg 14
+    400016: conifer-lg 15
+    400018: conifer-lg 16
+    400020: conifer-lg 17
+    400022: conifer-lg 18
+    400024: conifer-lg 19
+    400026: conifer-lg 2
+    400028: conifer-lg 20
+    400030: conifer-lg 21
+    400032: conifer-lg 22
+    400034: conifer-lg 23
+    400036: conifer-lg 24
+    400038: conifer-lg 25
+    400040: conifer-lg 26
+    400042: conifer-lg 27
+    400044: conifer-lg 28
+    400046: conifer-lg 29
+    400048: conifer-lg 3
+    400050: conifer-lg 30
+    400052: conifer-lg 31
+    400054: conifer-lg 32
+    400056: conifer-lg 33
+    400058: conifer-lg 34
+    400060: conifer-lg 35
+    400062: conifer-lg 36
+    400064: conifer-lg 37
+    400066: conifer-lg 38
+    400068: conifer-lg 39
+    400070: conifer-lg 4
+    400072: conifer-lg 40
+    400074: conifer-lg 41
+    400076: conifer-lg 42
+    400078: conifer-lg 43
+    400080: conifer-lg 44
+    400082: conifer-lg 45
+    400084: conifer-lg 46
+    400086: conifer-lg 47
+    400088: conifer-lg 48
+    400090: conifer-lg 49
+    400092: conifer-lg 5
+    400094: conifer-lg 50
+    400096: conifer-lg 51
+    400098: conifer-lg 52
+    400100: conifer-lg 53
+    400102: conifer-lg 54
+    400104: conifer-lg 6
+    400106: conifer-lg 7
+    400108: conifer-lg 8
+    400110: conifer-lg 9
+    400112: Group 11
+    400114: Group 13
+    400116: Group 15
+    400118: Group 4
+    400120: Group 6
+    400122: Image 1
+    400124: rounded-lg
+    400126: rounded-lg 1
+    400128: rounded-lg 10
+    400130: rounded-lg 100
+    400132: rounded-lg 101
+    400134: rounded-lg 102
+    400136: rounded-lg 103
+    400138: rounded-lg 104
+    400140: rounded-lg 105
+    400142: rounded-lg 106
+    400144: rounded-lg 107
+    400146: rounded-lg 108
+    400148: rounded-lg 109
+    400150: rounded-lg 11
+    400152: rounded-lg 110
+    400154: rounded-lg 111
+    400156: rounded-lg 112
+    400158: rounded-lg 12
+    400160: rounded-lg 13
+    400162: rounded-lg 14
+    400164: rounded-lg 15
+    400166: rounded-lg 16
+    400168: rounded-lg 17
+    400170: rounded-lg 18
+    400172: rounded-lg 19
+    400174: rounded-lg 2
+    400176: rounded-lg 20
+    400178: rounded-lg 21
+    400180: rounded-lg 22
+    400182: rounded-lg 23
+    400184: rounded-lg 24
+    400186: rounded-lg 25
+    400188: rounded-lg 26
+    400190: rounded-lg 27
+    400192: rounded-lg 28
+    400194: rounded-lg 29
+    400196: rounded-lg 3
+    400198: rounded-lg 30
+    400200: rounded-lg 31
+    400202: rounded-lg 32
+    400204: rounded-lg 33
+    400206: rounded-lg 34
+    400208: rounded-lg 35
+    400210: rounded-lg 36
+    400212: rounded-lg 37
+    400214: rounded-lg 38
+    400216: rounded-lg 39
+    400218: rounded-lg 4
+    400220: rounded-lg 40
+    400222: rounded-lg 41
+    400224: rounded-lg 42
+    400226: rounded-lg 43
+    400228: rounded-lg 44
+    400230: rounded-lg 45
+    400232: rounded-lg 46
+    400234: rounded-lg 47
+    400236: rounded-lg 48
+    400238: rounded-lg 49
+    400240: rounded-lg 5
+    400242: rounded-lg 50
+    400244: rounded-lg 51
+    400246: rounded-lg 52
+    400248: rounded-lg 53
+    400250: rounded-lg 54
+    400252: rounded-lg 55
+    400254: rounded-lg 56
+    400256: rounded-lg 57
+    400258: rounded-lg 58
+    400260: rounded-lg 59
+    400262: rounded-lg 6
+    400264: rounded-lg 60
+    400266: rounded-lg 61
+    400268: rounded-lg 62
+    400270: rounded-lg 63
+    400272: rounded-lg 64
+    400274: rounded-lg 65
+    400276: rounded-lg 66
+    400278: rounded-lg 67
+    400280: rounded-lg 68
+    400282: rounded-lg 69
+    400284: rounded-lg 7
+    400286: rounded-lg 70
+    400288: rounded-lg 71
+    400290: rounded-lg 72
+    400292: rounded-lg 73
+    400294: rounded-lg 74
+    400296: rounded-lg 75
+    400298: rounded-lg 76
+    400300: rounded-lg 77
+    400302: rounded-lg 78
+    400304: rounded-lg 79
+    400306: rounded-lg 8
+    400308: rounded-lg 80
+    400310: rounded-lg 81
+    400312: rounded-lg 82
+    400314: rounded-lg 83
+    400316: rounded-lg 84
+    400318: rounded-lg 85
+    400320: rounded-lg 86
+    400322: rounded-lg 87
+    400324: rounded-lg 88
+    400326: rounded-lg 89
+    400328: rounded-lg 9
+    400330: rounded-lg 90
+    400332: rounded-lg 91
+    400334: rounded-lg 92
+    400336: rounded-lg 93
+    400338: rounded-lg 94
+    400340: rounded-lg 95
+    400342: rounded-lg 96
+    400344: rounded-lg 97
+    400346: rounded-lg 98
+    400348: rounded-lg 99
+    400350: rounded-sm#1
+    400352: rounded-sm#1 1
+    400354: rounded-sm#1 10
+    400356: rounded-sm#1 11
+    400358: rounded-sm#1 12
+    400360: rounded-sm#1 13
+    400362: rounded-sm#1 14
+    400364: rounded-sm#1 2
+    400366: rounded-sm#1 3
+    400368: rounded-sm#1 4
+    400370: rounded-sm#1 5
+    400372: rounded-sm#1 6
+    400374: rounded-sm#1 7
+    400376: rounded-sm#1 8
+    400378: rounded-sm#1 9
+    400380: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_surface_other
+    2100006: OV_shrub_texture
+    2100008: OV_paving_pedestrian
+    2100010: OV_foodgarden
+    2100012: OV_turf_solid
+    2100014: 0_label
+    2100016: OV_paving_vehicle
+    2100018: OV_bldg_accent
+    2100020: OV_bldg_roof
+    2100022: OV_bldg_wall
+    2100024: E_aperture
+    2100026: LightCaseApertureGlass
+    2100028: E_envelope
+    2100030: E_roof
+    2100032: conifertree1
+    2100034: mapletree
+    2300000: conifer-lg
+    2300002: conifer-lg 1
+    2300004: conifer-lg 10
+    2300006: conifer-lg 11
+    2300008: conifer-lg 12
+    2300010: conifer-lg 13
+    2300012: conifer-lg 14
+    2300014: conifer-lg 15
+    2300016: conifer-lg 16
+    2300018: conifer-lg 17
+    2300020: conifer-lg 18
+    2300022: conifer-lg 19
+    2300024: conifer-lg 2
+    2300026: conifer-lg 20
+    2300028: conifer-lg 21
+    2300030: conifer-lg 22
+    2300032: conifer-lg 23
+    2300034: conifer-lg 24
+    2300036: conifer-lg 25
+    2300038: conifer-lg 26
+    2300040: conifer-lg 27
+    2300042: conifer-lg 28
+    2300044: conifer-lg 29
+    2300046: conifer-lg 3
+    2300048: conifer-lg 30
+    2300050: conifer-lg 31
+    2300052: conifer-lg 32
+    2300054: conifer-lg 33
+    2300056: conifer-lg 34
+    2300058: conifer-lg 35
+    2300060: conifer-lg 36
+    2300062: conifer-lg 37
+    2300064: conifer-lg 38
+    2300066: conifer-lg 39
+    2300068: conifer-lg 4
+    2300070: conifer-lg 40
+    2300072: conifer-lg 41
+    2300074: conifer-lg 42
+    2300076: conifer-lg 43
+    2300078: conifer-lg 44
+    2300080: conifer-lg 45
+    2300082: conifer-lg 46
+    2300084: conifer-lg 47
+    2300086: conifer-lg 48
+    2300088: conifer-lg 49
+    2300090: conifer-lg 5
+    2300092: conifer-lg 50
+    2300094: conifer-lg 51
+    2300096: conifer-lg 52
+    2300098: conifer-lg 53
+    2300100: conifer-lg 54
+    2300102: conifer-lg 6
+    2300104: conifer-lg 7
+    2300106: conifer-lg 8
+    2300108: conifer-lg 9
+    2300110: Group 11
+    2300112: Group 13
+    2300114: Group 4
+    2300116: Group 6
+    2300118: Image 1
+    2300120: rounded-lg
+    2300122: rounded-lg 1
+    2300124: rounded-lg 10
+    2300126: rounded-lg 100
+    2300128: rounded-lg 101
+    2300130: rounded-lg 102
+    2300132: rounded-lg 103
+    2300134: rounded-lg 104
+    2300136: rounded-lg 105
+    2300138: rounded-lg 106
+    2300140: rounded-lg 107
+    2300142: rounded-lg 108
+    2300144: rounded-lg 109
+    2300146: rounded-lg 11
+    2300148: rounded-lg 110
+    2300150: rounded-lg 111
+    2300152: rounded-lg 112
+    2300154: rounded-lg 12
+    2300156: rounded-lg 13
+    2300158: rounded-lg 14
+    2300160: rounded-lg 15
+    2300162: rounded-lg 16
+    2300164: rounded-lg 17
+    2300166: rounded-lg 18
+    2300168: rounded-lg 19
+    2300170: rounded-lg 2
+    2300172: rounded-lg 20
+    2300174: rounded-lg 21
+    2300176: rounded-lg 22
+    2300178: rounded-lg 23
+    2300180: rounded-lg 24
+    2300182: rounded-lg 25
+    2300184: rounded-lg 26
+    2300186: rounded-lg 27
+    2300188: rounded-lg 28
+    2300190: rounded-lg 29
+    2300192: rounded-lg 3
+    2300194: rounded-lg 30
+    2300196: rounded-lg 31
+    2300198: rounded-lg 32
+    2300200: rounded-lg 33
+    2300202: rounded-lg 34
+    2300204: rounded-lg 35
+    2300206: rounded-lg 36
+    2300208: rounded-lg 37
+    2300210: rounded-lg 38
+    2300212: rounded-lg 39
+    2300214: rounded-lg 4
+    2300216: rounded-lg 40
+    2300218: rounded-lg 41
+    2300220: rounded-lg 42
+    2300222: rounded-lg 43
+    2300224: rounded-lg 44
+    2300226: rounded-lg 45
+    2300228: rounded-lg 46
+    2300230: rounded-lg 47
+    2300232: rounded-lg 48
+    2300234: rounded-lg 49
+    2300236: rounded-lg 5
+    2300238: rounded-lg 50
+    2300240: rounded-lg 51
+    2300242: rounded-lg 52
+    2300244: rounded-lg 53
+    2300246: rounded-lg 54
+    2300248: rounded-lg 55
+    2300250: rounded-lg 56
+    2300252: rounded-lg 57
+    2300254: rounded-lg 58
+    2300256: rounded-lg 59
+    2300258: rounded-lg 6
+    2300260: rounded-lg 60
+    2300262: rounded-lg 61
+    2300264: rounded-lg 62
+    2300266: rounded-lg 63
+    2300268: rounded-lg 64
+    2300270: rounded-lg 65
+    2300272: rounded-lg 66
+    2300274: rounded-lg 67
+    2300276: rounded-lg 68
+    2300278: rounded-lg 69
+    2300280: rounded-lg 7
+    2300282: rounded-lg 70
+    2300284: rounded-lg 71
+    2300286: rounded-lg 72
+    2300288: rounded-lg 73
+    2300290: rounded-lg 74
+    2300292: rounded-lg 75
+    2300294: rounded-lg 76
+    2300296: rounded-lg 77
+    2300298: rounded-lg 78
+    2300300: rounded-lg 79
+    2300302: rounded-lg 8
+    2300304: rounded-lg 80
+    2300306: rounded-lg 81
+    2300308: rounded-lg 82
+    2300310: rounded-lg 83
+    2300312: rounded-lg 84
+    2300314: rounded-lg 85
+    2300316: rounded-lg 86
+    2300318: rounded-lg 87
+    2300320: rounded-lg 88
+    2300322: rounded-lg 89
+    2300324: rounded-lg 9
+    2300326: rounded-lg 90
+    2300328: rounded-lg 91
+    2300330: rounded-lg 92
+    2300332: rounded-lg 93
+    2300334: rounded-lg 94
+    2300336: rounded-lg 95
+    2300338: rounded-lg 96
+    2300340: rounded-lg 97
+    2300342: rounded-lg 98
+    2300344: rounded-lg 99
+    2300346: rounded-sm#1
+    2300348: rounded-sm#1 1
+    2300350: rounded-sm#1 10
+    2300352: rounded-sm#1 11
+    2300354: rounded-sm#1 12
+    2300356: rounded-sm#1 13
+    2300358: rounded-sm#1 14
+    2300360: rounded-sm#1 2
+    2300362: rounded-sm#1 3
+    2300364: rounded-sm#1 4
+    2300366: rounded-sm#1 5
+    2300368: rounded-sm#1 6
+    2300370: rounded-sm#1 7
+    2300372: rounded-sm#1 8
+    2300374: rounded-sm#1 9
+    2300376: scale_obq
+    3300000: conifer-lg
+    3300002: conifer-lg 1
+    3300004: conifer-lg 10
+    3300006: conifer-lg 11
+    3300008: conifer-lg 12
+    3300010: conifer-lg 13
+    3300012: conifer-lg 14
+    3300014: conifer-lg 15
+    3300016: conifer-lg 16
+    3300018: conifer-lg 17
+    3300020: conifer-lg 18
+    3300022: conifer-lg 19
+    3300024: conifer-lg 2
+    3300026: conifer-lg 20
+    3300028: conifer-lg 21
+    3300030: conifer-lg 22
+    3300032: conifer-lg 23
+    3300034: conifer-lg 24
+    3300036: conifer-lg 25
+    3300038: conifer-lg 26
+    3300040: conifer-lg 27
+    3300042: conifer-lg 28
+    3300044: conifer-lg 29
+    3300046: conifer-lg 3
+    3300048: conifer-lg 30
+    3300050: conifer-lg 31
+    3300052: conifer-lg 32
+    3300054: conifer-lg 33
+    3300056: conifer-lg 34
+    3300058: conifer-lg 35
+    3300060: conifer-lg 36
+    3300062: conifer-lg 37
+    3300064: conifer-lg 38
+    3300066: conifer-lg 39
+    3300068: conifer-lg 4
+    3300070: conifer-lg 40
+    3300072: conifer-lg 41
+    3300074: conifer-lg 42
+    3300076: conifer-lg 43
+    3300078: conifer-lg 44
+    3300080: conifer-lg 45
+    3300082: conifer-lg 46
+    3300084: conifer-lg 47
+    3300086: conifer-lg 48
+    3300088: conifer-lg 49
+    3300090: conifer-lg 5
+    3300092: conifer-lg 50
+    3300094: conifer-lg 51
+    3300096: conifer-lg 52
+    3300098: conifer-lg 53
+    3300100: conifer-lg 54
+    3300102: conifer-lg 6
+    3300104: conifer-lg 7
+    3300106: conifer-lg 8
+    3300108: conifer-lg 9
+    3300110: Group 11
+    3300112: Group 13
+    3300114: Group 4
+    3300116: Group 6
+    3300118: Image 1
+    3300120: rounded-lg
+    3300122: rounded-lg 1
+    3300124: rounded-lg 10
+    3300126: rounded-lg 100
+    3300128: rounded-lg 101
+    3300130: rounded-lg 102
+    3300132: rounded-lg 103
+    3300134: rounded-lg 104
+    3300136: rounded-lg 105
+    3300138: rounded-lg 106
+    3300140: rounded-lg 107
+    3300142: rounded-lg 108
+    3300144: rounded-lg 109
+    3300146: rounded-lg 11
+    3300148: rounded-lg 110
+    3300150: rounded-lg 111
+    3300152: rounded-lg 112
+    3300154: rounded-lg 12
+    3300156: rounded-lg 13
+    3300158: rounded-lg 14
+    3300160: rounded-lg 15
+    3300162: rounded-lg 16
+    3300164: rounded-lg 17
+    3300166: rounded-lg 18
+    3300168: rounded-lg 19
+    3300170: rounded-lg 2
+    3300172: rounded-lg 20
+    3300174: rounded-lg 21
+    3300176: rounded-lg 22
+    3300178: rounded-lg 23
+    3300180: rounded-lg 24
+    3300182: rounded-lg 25
+    3300184: rounded-lg 26
+    3300186: rounded-lg 27
+    3300188: rounded-lg 28
+    3300190: rounded-lg 29
+    3300192: rounded-lg 3
+    3300194: rounded-lg 30
+    3300196: rounded-lg 31
+    3300198: rounded-lg 32
+    3300200: rounded-lg 33
+    3300202: rounded-lg 34
+    3300204: rounded-lg 35
+    3300206: rounded-lg 36
+    3300208: rounded-lg 37
+    3300210: rounded-lg 38
+    3300212: rounded-lg 39
+    3300214: rounded-lg 4
+    3300216: rounded-lg 40
+    3300218: rounded-lg 41
+    3300220: rounded-lg 42
+    3300222: rounded-lg 43
+    3300224: rounded-lg 44
+    3300226: rounded-lg 45
+    3300228: rounded-lg 46
+    3300230: rounded-lg 47
+    3300232: rounded-lg 48
+    3300234: rounded-lg 49
+    3300236: rounded-lg 5
+    3300238: rounded-lg 50
+    3300240: rounded-lg 51
+    3300242: rounded-lg 52
+    3300244: rounded-lg 53
+    3300246: rounded-lg 54
+    3300248: rounded-lg 55
+    3300250: rounded-lg 56
+    3300252: rounded-lg 57
+    3300254: rounded-lg 58
+    3300256: rounded-lg 59
+    3300258: rounded-lg 6
+    3300260: rounded-lg 60
+    3300262: rounded-lg 61
+    3300264: rounded-lg 62
+    3300266: rounded-lg 63
+    3300268: rounded-lg 64
+    3300270: rounded-lg 65
+    3300272: rounded-lg 66
+    3300274: rounded-lg 67
+    3300276: rounded-lg 68
+    3300278: rounded-lg 69
+    3300280: rounded-lg 7
+    3300282: rounded-lg 70
+    3300284: rounded-lg 71
+    3300286: rounded-lg 72
+    3300288: rounded-lg 73
+    3300290: rounded-lg 74
+    3300292: rounded-lg 75
+    3300294: rounded-lg 76
+    3300296: rounded-lg 77
+    3300298: rounded-lg 78
+    3300300: rounded-lg 79
+    3300302: rounded-lg 8
+    3300304: rounded-lg 80
+    3300306: rounded-lg 81
+    3300308: rounded-lg 82
+    3300310: rounded-lg 83
+    3300312: rounded-lg 84
+    3300314: rounded-lg 85
+    3300316: rounded-lg 86
+    3300318: rounded-lg 87
+    3300320: rounded-lg 88
+    3300322: rounded-lg 89
+    3300324: rounded-lg 9
+    3300326: rounded-lg 90
+    3300328: rounded-lg 91
+    3300330: rounded-lg 92
+    3300332: rounded-lg 93
+    3300334: rounded-lg 94
+    3300336: rounded-lg 95
+    3300338: rounded-lg 96
+    3300340: rounded-lg 97
+    3300342: rounded-lg 98
+    3300344: rounded-lg 99
+    3300346: rounded-sm#1
+    3300348: rounded-sm#1 1
+    3300350: rounded-sm#1 10
+    3300352: rounded-sm#1 11
+    3300354: rounded-sm#1 12
+    3300356: rounded-sm#1 13
+    3300358: rounded-sm#1 14
+    3300360: rounded-sm#1 2
+    3300362: rounded-sm#1 3
+    3300364: rounded-sm#1 4
+    3300366: rounded-sm#1 5
+    3300368: rounded-sm#1 6
+    3300370: rounded-sm#1 7
+    3300372: rounded-sm#1 8
+    3300374: rounded-sm#1 9
+    3300376: scale_obq
+    4300000: Mesh 51011-00
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh conifer-lg
+    4300012: Mesh rounded-lg
+    4300014: Mesh rounded-sm#1
+    4300016: Mesh scale_obq
+    6400000: conifer-lg
+    6400002: conifer-lg 1
+    6400004: conifer-lg 10
+    6400006: conifer-lg 11
+    6400008: conifer-lg 12
+    6400010: conifer-lg 13
+    6400012: conifer-lg 14
+    6400014: conifer-lg 15
+    6400016: conifer-lg 16
+    6400018: conifer-lg 17
+    6400020: conifer-lg 18
+    6400022: conifer-lg 19
+    6400024: conifer-lg 2
+    6400026: conifer-lg 20
+    6400028: conifer-lg 21
+    6400030: conifer-lg 22
+    6400032: conifer-lg 23
+    6400034: conifer-lg 24
+    6400036: conifer-lg 25
+    6400038: conifer-lg 26
+    6400040: conifer-lg 27
+    6400042: conifer-lg 28
+    6400044: conifer-lg 29
+    6400046: conifer-lg 3
+    6400048: conifer-lg 30
+    6400050: conifer-lg 31
+    6400052: conifer-lg 32
+    6400054: conifer-lg 33
+    6400056: conifer-lg 34
+    6400058: conifer-lg 35
+    6400060: conifer-lg 36
+    6400062: conifer-lg 37
+    6400064: conifer-lg 38
+    6400066: conifer-lg 39
+    6400068: conifer-lg 4
+    6400070: conifer-lg 40
+    6400072: conifer-lg 41
+    6400074: conifer-lg 42
+    6400076: conifer-lg 43
+    6400078: conifer-lg 44
+    6400080: conifer-lg 45
+    6400082: conifer-lg 46
+    6400084: conifer-lg 47
+    6400086: conifer-lg 48
+    6400088: conifer-lg 49
+    6400090: conifer-lg 5
+    6400092: conifer-lg 50
+    6400094: conifer-lg 51
+    6400096: conifer-lg 52
+    6400098: conifer-lg 53
+    6400100: conifer-lg 54
+    6400102: conifer-lg 6
+    6400104: conifer-lg 7
+    6400106: conifer-lg 8
+    6400108: conifer-lg 9
+    6400110: Group 11
+    6400112: Group 13
+    6400114: Group 4
+    6400116: Group 6
+    6400118: Image 1
+    6400120: rounded-lg
+    6400122: rounded-lg 1
+    6400124: rounded-lg 10
+    6400126: rounded-lg 100
+    6400128: rounded-lg 101
+    6400130: rounded-lg 102
+    6400132: rounded-lg 103
+    6400134: rounded-lg 104
+    6400136: rounded-lg 105
+    6400138: rounded-lg 106
+    6400140: rounded-lg 107
+    6400142: rounded-lg 108
+    6400144: rounded-lg 109
+    6400146: rounded-lg 11
+    6400148: rounded-lg 110
+    6400150: rounded-lg 111
+    6400152: rounded-lg 112
+    6400154: rounded-lg 12
+    6400156: rounded-lg 13
+    6400158: rounded-lg 14
+    6400160: rounded-lg 15
+    6400162: rounded-lg 16
+    6400164: rounded-lg 17
+    6400166: rounded-lg 18
+    6400168: rounded-lg 19
+    6400170: rounded-lg 2
+    6400172: rounded-lg 20
+    6400174: rounded-lg 21
+    6400176: rounded-lg 22
+    6400178: rounded-lg 23
+    6400180: rounded-lg 24
+    6400182: rounded-lg 25
+    6400184: rounded-lg 26
+    6400186: rounded-lg 27
+    6400188: rounded-lg 28
+    6400190: rounded-lg 29
+    6400192: rounded-lg 3
+    6400194: rounded-lg 30
+    6400196: rounded-lg 31
+    6400198: rounded-lg 32
+    6400200: rounded-lg 33
+    6400202: rounded-lg 34
+    6400204: rounded-lg 35
+    6400206: rounded-lg 36
+    6400208: rounded-lg 37
+    6400210: rounded-lg 38
+    6400212: rounded-lg 39
+    6400214: rounded-lg 4
+    6400216: rounded-lg 40
+    6400218: rounded-lg 41
+    6400220: rounded-lg 42
+    6400222: rounded-lg 43
+    6400224: rounded-lg 44
+    6400226: rounded-lg 45
+    6400228: rounded-lg 46
+    6400230: rounded-lg 47
+    6400232: rounded-lg 48
+    6400234: rounded-lg 49
+    6400236: rounded-lg 5
+    6400238: rounded-lg 50
+    6400240: rounded-lg 51
+    6400242: rounded-lg 52
+    6400244: rounded-lg 53
+    6400246: rounded-lg 54
+    6400248: rounded-lg 55
+    6400250: rounded-lg 56
+    6400252: rounded-lg 57
+    6400254: rounded-lg 58
+    6400256: rounded-lg 59
+    6400258: rounded-lg 6
+    6400260: rounded-lg 60
+    6400262: rounded-lg 61
+    6400264: rounded-lg 62
+    6400266: rounded-lg 63
+    6400268: rounded-lg 64
+    6400270: rounded-lg 65
+    6400272: rounded-lg 66
+    6400274: rounded-lg 67
+    6400276: rounded-lg 68
+    6400278: rounded-lg 69
+    6400280: rounded-lg 7
+    6400282: rounded-lg 70
+    6400284: rounded-lg 71
+    6400286: rounded-lg 72
+    6400288: rounded-lg 73
+    6400290: rounded-lg 74
+    6400292: rounded-lg 75
+    6400294: rounded-lg 76
+    6400296: rounded-lg 77
+    6400298: rounded-lg 78
+    6400300: rounded-lg 79
+    6400302: rounded-lg 8
+    6400304: rounded-lg 80
+    6400306: rounded-lg 81
+    6400308: rounded-lg 82
+    6400310: rounded-lg 83
+    6400312: rounded-lg 84
+    6400314: rounded-lg 85
+    6400316: rounded-lg 86
+    6400318: rounded-lg 87
+    6400320: rounded-lg 88
+    6400322: rounded-lg 89
+    6400324: rounded-lg 9
+    6400326: rounded-lg 90
+    6400328: rounded-lg 91
+    6400330: rounded-lg 92
+    6400332: rounded-lg 93
+    6400334: rounded-lg 94
+    6400336: rounded-lg 95
+    6400338: rounded-lg 96
+    6400340: rounded-lg 97
+    6400342: rounded-lg 98
+    6400344: rounded-lg 99
+    6400346: rounded-sm#1
+    6400348: rounded-sm#1 1
+    6400350: rounded-sm#1 10
+    6400352: rounded-sm#1 11
+    6400354: rounded-sm#1 12
+    6400356: rounded-sm#1 13
+    6400358: rounded-sm#1 14
+    6400360: rounded-sm#1 2
+    6400362: rounded-sm#1 3
+    6400364: rounded-sm#1 4
+    6400366: rounded-sm#1 5
+    6400368: rounded-sm#1 6
+    6400370: rounded-sm#1 7
+    6400372: rounded-sm#1 8
+    6400374: rounded-sm#1 9
+    6400376: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 0490a2ba7f1586945a51e3aba5962019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_aperture
+    second: {fileID: 2100000, guid: 6c3174d8e6e8e44469bc5f6dbf5b2709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_envelope
+    second: {fileID: 2100000, guid: fe04fcc3ebc904b4fbf40cf905abece4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_roof
+    second: {fileID: 2100000, guid: 21a3cacac828380498f49e592a371be2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 078d8bf213211574c93910550df7c827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 4a56724cf92b9db428f31589184f02f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 15188a0c688a1c344b6bade9ed4cd665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: f58595d5d45835249aafb94f15d5ed26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: c1596b327c6012d419de16bcd996932f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_foodgarden
+    second: {fileID: 2100000, guid: 8bea9256e99039e45b481e7a969e558e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: f6941c3d1503aa9409c95d2e5f382891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 210e1c7ddd8cdc845a670f2befc3540c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: b810eaf303b6ab244b6798b3a9710138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 84ee9ae57af14db4c87cbee843083476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: ba31dd388388cd24a828f052154b65c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 3174031a55aefff4ebb7732c39b74407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree1
+    second: {fileID: 2100000, guid: 433f3bb5dd98ad842849456d8232d797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 6481bb227b364094f9ce9d0121bd3ae8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

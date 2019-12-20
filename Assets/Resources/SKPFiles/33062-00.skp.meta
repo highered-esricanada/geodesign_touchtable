@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 4276ff2f72b1d4c4c8c387a65dec485b
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eaf8407414c99a5009ad0c8d1e2f28e8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 73.13948, y: 26.921585, z: -61.7356}
+      lookAt: {x: 7.399114, y: -3.1919823, z: 0.74651444}
+      up: {x: -0.22256295, y: 0.9490207, z: 0.22321631}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 2.7256484, y: 112.78229, z: -1.5069519}
+        lookAt: {x: 1.9468915, y: 4.0666456, z: -1.0763943}
+        up: {x: 0.000028367655, y: 0.003960169, z: 0.9999922}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2293.7986
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 73.13948, y: 26.921585, z: -61.7356}
+        lookAt: {x: 7.399114, y: -3.1919823, z: 0.74651444}
+        up: {x: -0.22256295, y: 0.9490207, z: 0.22321631}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 73.13948, y: 26.921585, z: -61.7356}
+        lookAt: {x: 7.399114, y: -3.1919823, z: 0.74651444}
+        up: {x: -0.22256295, y: 0.9490207, z: 0.22321631}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 33049_border#2
+    100002: //RootNode
+    100004: 3d_building
+    100006: 3d_building 1
+    100008: 3d_building 2
+    100010: building
+    100012: building 1
+    100014: building 2
+    100016: Group 186
+    100018: Group 189
+    100020: Group 192
+    100022: Group 195
+    100024: Group 198
+    100026: Group 2
+    100028: Group 201
+    100030: Image 1
+    100032: rounded-sm_V2
+    100034: rounded-sm_V2 1
+    100036: rounded-sm_V2 2
+    100038: rounded-sm_V2 3
+    100040: rounded-sm_V2 4
+    100042: rounded-sm_V2 5
+    100044: scale_obq
+    100046: step
+    100048: step 1
+    100050: step 10
+    100052: step 11
+    100054: step 12
+    100056: step 13
+    100058: step 14
+    100060: step 15
+    100062: step 16
+    100064: step 17
+    100066: step 18
+    100068: step 19
+    100070: step 2
+    100072: step 20
+    100074: step 21
+    100076: step 22
+    100078: step 23
+    100080: step 24
+    100082: step 25
+    100084: step 26
+    100086: step 27
+    100088: step 28
+    100090: step 29
+    100092: step 3
+    100094: step 30
+    100096: step 31
+    100098: step 32
+    100100: step 33
+    100102: step 34
+    100104: step 35
+    100106: step 36
+    100108: step 37
+    100110: step 38
+    100112: step 39
+    100114: step 4
+    100116: step 40
+    100118: step 41
+    100120: step 42
+    100122: step 43
+    100124: step 44
+    100126: step 45
+    100128: step 46
+    100130: step 47
+    100132: step 48
+    100134: step 49
+    100136: step 5
+    100138: step 50
+    100140: step 51
+    100142: step 52
+    100144: step 53
+    100146: step 54
+    100148: step 55
+    100150: step 56
+    100152: step 57
+    100154: step 58
+    100156: step 59
+    100158: step 6
+    100160: step 60
+    100162: step 61
+    100164: step 62
+    100166: step 63
+    100168: step 64
+    100170: step 65
+    100172: step 66
+    100174: step 67
+    100176: step 68
+    100178: step 69
+    100180: step 7
+    100182: step 70
+    100184: step 71
+    100186: step 72
+    100188: step 73
+    100190: step 74
+    100192: step 75
+    100194: step 76
+    100196: step 77
+    100198: step 8
+    100200: step 9
+    400000: 33049_border#2
+    400002: //RootNode
+    400004: 3d_building
+    400006: 3d_building 1
+    400008: 3d_building 2
+    400010: building
+    400012: building 1
+    400014: building 2
+    400016: Group 186
+    400018: Group 189
+    400020: Group 192
+    400022: Group 195
+    400024: Group 198
+    400026: Group 2
+    400028: Group 201
+    400030: Image 1
+    400032: rounded-sm_V2
+    400034: rounded-sm_V2 1
+    400036: rounded-sm_V2 2
+    400038: rounded-sm_V2 3
+    400040: rounded-sm_V2 4
+    400042: rounded-sm_V2 5
+    400044: scale_obq
+    400046: step
+    400048: step 1
+    400050: step 10
+    400052: step 11
+    400054: step 12
+    400056: step 13
+    400058: step 14
+    400060: step 15
+    400062: step 16
+    400064: step 17
+    400066: step 18
+    400068: step 19
+    400070: step 2
+    400072: step 20
+    400074: step 21
+    400076: step 22
+    400078: step 23
+    400080: step 24
+    400082: step 25
+    400084: step 26
+    400086: step 27
+    400088: step 28
+    400090: step 29
+    400092: step 3
+    400094: step 30
+    400096: step 31
+    400098: step 32
+    400100: step 33
+    400102: step 34
+    400104: step 35
+    400106: step 36
+    400108: step 37
+    400110: step 38
+    400112: step 39
+    400114: step 4
+    400116: step 40
+    400118: step 41
+    400120: step 42
+    400122: step 43
+    400124: step 44
+    400126: step 45
+    400128: step 46
+    400130: step 47
+    400132: step 48
+    400134: step 49
+    400136: step 5
+    400138: step 50
+    400140: step 51
+    400142: step 52
+    400144: step 53
+    400146: step 54
+    400148: step 55
+    400150: step 56
+    400152: step 57
+    400154: step 58
+    400156: step 59
+    400158: step 6
+    400160: step 60
+    400162: step 61
+    400164: step 62
+    400166: step 63
+    400168: step 64
+    400170: step 65
+    400172: step 66
+    400174: step 67
+    400176: step 68
+    400178: step 69
+    400180: step 7
+    400182: step 70
+    400184: step 71
+    400186: step 72
+    400188: step 73
+    400190: step 74
+    400192: step 75
+    400194: step 76
+    400196: step 77
+    400198: step 8
+    400200: step 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_paving_pedestrian
+    2100006: 0_label
+    2100008: OV_paving_vehicle
+    2100010: OV_turf_solid
+    2100012: OV_bldg_wall1
+    2100014: OV_bldg_roof1
+    2100016: OV_shrub_texture1
+    2100018: LightCaseApertureGlass
+    2100020: mapletree
+    2300000: building
+    2300002: building 1
+    2300004: building 2
+    2300006: Group 186
+    2300008: Group 189
+    2300010: Group 192
+    2300012: Group 195
+    2300014: Group 198
+    2300016: Group 2
+    2300018: Group 201
+    2300020: Image 1
+    2300022: scale_obq
+    2300024: step
+    2300026: step 1
+    2300028: step 10
+    2300030: step 11
+    2300032: step 12
+    2300034: step 13
+    2300036: step 14
+    2300038: step 15
+    2300040: step 16
+    2300042: step 17
+    2300044: step 18
+    2300046: step 19
+    2300048: step 2
+    2300050: step 20
+    2300052: step 21
+    2300054: step 22
+    2300056: step 23
+    2300058: step 24
+    2300060: step 25
+    2300062: step 26
+    2300064: step 27
+    2300066: step 28
+    2300068: step 29
+    2300070: step 3
+    2300072: step 30
+    2300074: step 31
+    2300076: step 32
+    2300078: step 33
+    2300080: step 34
+    2300082: step 35
+    2300084: step 36
+    2300086: step 37
+    2300088: step 38
+    2300090: step 39
+    2300092: step 4
+    2300094: step 40
+    2300096: step 41
+    2300098: step 42
+    2300100: step 43
+    2300102: step 44
+    2300104: step 45
+    2300106: step 46
+    2300108: step 47
+    2300110: step 48
+    2300112: step 49
+    2300114: step 5
+    2300116: step 50
+    2300118: step 51
+    2300120: step 52
+    2300122: step 53
+    2300124: step 54
+    2300126: step 55
+    2300128: step 56
+    2300130: step 57
+    2300132: step 58
+    2300134: step 59
+    2300136: step 6
+    2300138: step 60
+    2300140: step 61
+    2300142: step 62
+    2300144: step 63
+    2300146: step 64
+    2300148: step 65
+    2300150: step 66
+    2300152: step 67
+    2300154: step 68
+    2300156: step 69
+    2300158: step 7
+    2300160: step 70
+    2300162: step 71
+    2300164: step 72
+    2300166: step 73
+    2300168: step 74
+    2300170: step 75
+    2300172: step 76
+    2300174: step 77
+    2300176: step 8
+    2300178: step 9
+    3300000: building
+    3300002: building 1
+    3300004: building 2
+    3300006: Group 186
+    3300008: Group 189
+    3300010: Group 192
+    3300012: Group 195
+    3300014: Group 198
+    3300016: Group 2
+    3300018: Group 201
+    3300020: Image 1
+    3300022: scale_obq
+    3300024: step
+    3300026: step 1
+    3300028: step 10
+    3300030: step 11
+    3300032: step 12
+    3300034: step 13
+    3300036: step 14
+    3300038: step 15
+    3300040: step 16
+    3300042: step 17
+    3300044: step 18
+    3300046: step 19
+    3300048: step 2
+    3300050: step 20
+    3300052: step 21
+    3300054: step 22
+    3300056: step 23
+    3300058: step 24
+    3300060: step 25
+    3300062: step 26
+    3300064: step 27
+    3300066: step 28
+    3300068: step 29
+    3300070: step 3
+    3300072: step 30
+    3300074: step 31
+    3300076: step 32
+    3300078: step 33
+    3300080: step 34
+    3300082: step 35
+    3300084: step 36
+    3300086: step 37
+    3300088: step 38
+    3300090: step 39
+    3300092: step 4
+    3300094: step 40
+    3300096: step 41
+    3300098: step 42
+    3300100: step 43
+    3300102: step 44
+    3300104: step 45
+    3300106: step 46
+    3300108: step 47
+    3300110: step 48
+    3300112: step 49
+    3300114: step 5
+    3300116: step 50
+    3300118: step 51
+    3300120: step 52
+    3300122: step 53
+    3300124: step 54
+    3300126: step 55
+    3300128: step 56
+    3300130: step 57
+    3300132: step 58
+    3300134: step 59
+    3300136: step 6
+    3300138: step 60
+    3300140: step 61
+    3300142: step 62
+    3300144: step 63
+    3300146: step 64
+    3300148: step 65
+    3300150: step 66
+    3300152: step 67
+    3300154: step 68
+    3300156: step 69
+    3300158: step 7
+    3300160: step 70
+    3300162: step 71
+    3300164: step 72
+    3300166: step 73
+    3300168: step 74
+    3300170: step 75
+    3300172: step 76
+    3300174: step 77
+    3300176: step 8
+    3300178: step 9
+    4300000: Mesh 33062-00
+    4300002: Mesh Group 2
+    4300004: Mesh scale_obq
+    4300006: Mesh building
+    4300008: Mesh step
+    4300010: Mesh step
+    4300012: Mesh Group 186
+    6400000: building
+    6400002: building 1
+    6400004: building 2
+    6400006: Group 186
+    6400008: Group 189
+    6400010: Group 192
+    6400012: Group 195
+    6400014: Group 198
+    6400016: Group 2
+    6400018: Group 201
+    6400020: Image 1
+    6400022: scale_obq
+    6400024: step
+    6400026: step 1
+    6400028: step 10
+    6400030: step 11
+    6400032: step 12
+    6400034: step 13
+    6400036: step 14
+    6400038: step 15
+    6400040: step 16
+    6400042: step 17
+    6400044: step 18
+    6400046: step 19
+    6400048: step 2
+    6400050: step 20
+    6400052: step 21
+    6400054: step 22
+    6400056: step 23
+    6400058: step 24
+    6400060: step 25
+    6400062: step 26
+    6400064: step 27
+    6400066: step 28
+    6400068: step 29
+    6400070: step 3
+    6400072: step 30
+    6400074: step 31
+    6400076: step 32
+    6400078: step 33
+    6400080: step 34
+    6400082: step 35
+    6400084: step 36
+    6400086: step 37
+    6400088: step 38
+    6400090: step 39
+    6400092: step 4
+    6400094: step 40
+    6400096: step 41
+    6400098: step 42
+    6400100: step 43
+    6400102: step 44
+    6400104: step 45
+    6400106: step 46
+    6400108: step 47
+    6400110: step 48
+    6400112: step 49
+    6400114: step 5
+    6400116: step 50
+    6400118: step 51
+    6400120: step 52
+    6400122: step 53
+    6400124: step 54
+    6400126: step 55
+    6400128: step 56
+    6400130: step 57
+    6400132: step 58
+    6400134: step 59
+    6400136: step 6
+    6400138: step 60
+    6400140: step 61
+    6400142: step 62
+    6400144: step 63
+    6400146: step 64
+    6400148: step 65
+    6400150: step 66
+    6400152: step 67
+    6400154: step 68
+    6400156: step 69
+    6400158: step 7
+    6400160: step 70
+    6400162: step 71
+    6400164: step 72
+    6400166: step 73
+    6400168: step 74
+    6400170: step 75
+    6400172: step 76
+    6400174: step 77
+    6400176: step 8
+    6400178: step 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ee48109c5ab502143b67d2a93b772ddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 0c4a38f81e88d8840af15a13da6bb9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 6295b95eee3da6042bc7e5c6698c3467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof1
+    second: {fileID: 2100000, guid: cdb0dfb8fd9995743a514e539bbf28c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall1
+    second: {fileID: 2100000, guid: 2d6d1d3566a85ca4b86b8842b7fe76b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 727cea05e9d7a4147a5eb4823cd87c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: c2c146a12d834db43b44a8ce6ca0d5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture1
+    second: {fileID: 2100000, guid: 4fff7342e59f0254fa3d0584406e4675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 695f3c5fdd558ca45a85023406dfe952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: c563874f8265b8a4e990be8b0a87e9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 4deb27ae43d2b57449d18fa04577f7bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

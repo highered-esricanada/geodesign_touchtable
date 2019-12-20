@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: f3614cfa5063f324d80ab73f41cc5b74
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1de8fd4725edc4dbd2b2a57516a619c9
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 58.022522, y: 22.249285, z: -47.766106}
+      lookAt: {x: 19.494453, y: 1.2591023, z: -6.414555}
+      up: {x: -0.23732969, y: 0.93743867, z: 0.2547221}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 57.651707, y: 23.606153, z: -51.607166}
+        lookAt: {x: 19.123634, y: 2.6159718, z: -10.255616}
+        up: {x: -0.23732969, y: 0.93743867, z: 0.2547221}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 2.1204426, y: 210.49057, z: -2.730367}
+        lookAt: {x: 2.1204426, y: 189.43866, z: -2.730367}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2487.383
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 11002_3d bsae
+    100004: 11002_3d_site
+    100006: 13003_corss beam 2
+    100008: 13003_corss beam 2 1
+    100010: 13003_cross beam 1
+    100012: 13003_cross beam 1 1
+    100014: 13003_cross beam 3
+    100016: 13003_cross beam 4
+    100018: 13003_cross beam 4 1
+    100020: 13003_post
+    100022: 13003_post 1
+    100024: 13003_post 2
+    100026: 13003_post 3
+    100028: 13003_post 4
+    100030: 13003_post 5
+    100032: 13003_post 6
+    100034: 13003_post 7
+    100036: 13003_post 8
+    100038: 13003_post#1
+    100040: 13003_post#10
+    100042: 13003_post#11
+    100044: 13003_post#12
+    100046: 13003_post#2
+    100048: 13003_post#3
+    100050: 13003_post#4
+    100052: 13003_post#5
+    100054: 13003_post#6
+    100056: 13003_post#7
+    100058: 13003_post#8
+    100060: 13003_post#9
+    100062: Component#1
+    100064: Group#1
+    100066: Group#11
+    100068: Group#13
+    100070: Group#14
+    100072: Group#15
+    100074: Group#9
+    100076: Image 1
+    100078: scale_plan_B
+    400000: //RootNode
+    400002: 11002_3d bsae
+    400004: 11002_3d_site
+    400006: 13003_corss beam 2
+    400008: 13003_corss beam 2 1
+    400010: 13003_cross beam 1
+    400012: 13003_cross beam 1 1
+    400014: 13003_cross beam 3
+    400016: 13003_cross beam 4
+    400018: 13003_cross beam 4 1
+    400020: 13003_post
+    400022: 13003_post 1
+    400024: 13003_post 2
+    400026: 13003_post 3
+    400028: 13003_post 4
+    400030: 13003_post 5
+    400032: 13003_post 6
+    400034: 13003_post 7
+    400036: 13003_post 8
+    400038: 13003_post#1
+    400040: 13003_post#10
+    400042: 13003_post#11
+    400044: 13003_post#12
+    400046: 13003_post#2
+    400048: 13003_post#3
+    400050: 13003_post#4
+    400052: 13003_post#5
+    400054: 13003_post#6
+    400056: 13003_post#7
+    400058: 13003_post#8
+    400060: 13003_post#9
+    400062: Component#1
+    400064: Group#1
+    400066: Group#11
+    400068: Group#13
+    400070: Group#14
+    400072: Group#15
+    400074: Group#9
+    400076: Image 1
+    400078: scale_plan_B
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_paving general
+    2100006: OV_paving_pedestrian
+    2100008: OV_paving_general
+    2100010: OV_Water
+    2100012: OV_surface_other
+    2300000: 11002_3d bsae
+    2300002: 11002_3d_site
+    2300004: 13003_corss beam 2
+    2300006: 13003_corss beam 2 1
+    2300008: 13003_cross beam 1
+    2300010: 13003_cross beam 1 1
+    2300012: 13003_cross beam 3
+    2300014: 13003_cross beam 4
+    2300016: 13003_cross beam 4 1
+    2300018: 13003_post
+    2300020: 13003_post 1
+    2300022: 13003_post 2
+    2300024: 13003_post 3
+    2300026: 13003_post 4
+    2300028: 13003_post 5
+    2300030: 13003_post 6
+    2300032: 13003_post 7
+    2300034: 13003_post 8
+    2300036: 13003_post#1
+    2300038: 13003_post#10
+    2300040: 13003_post#11
+    2300042: 13003_post#12
+    2300044: 13003_post#2
+    2300046: 13003_post#3
+    2300048: 13003_post#4
+    2300050: 13003_post#5
+    2300052: 13003_post#6
+    2300054: 13003_post#7
+    2300056: 13003_post#8
+    2300058: 13003_post#9
+    2300060: Component#1
+    2300062: Group#1
+    2300064: Group#11
+    2300066: Group#13
+    2300068: Group#14
+    2300070: Group#15
+    2300072: Group#9
+    2300074: Image 1
+    2300076: scale_plan_B
+    3300000: 11002_3d bsae
+    3300002: 11002_3d_site
+    3300004: 13003_corss beam 2
+    3300006: 13003_corss beam 2 1
+    3300008: 13003_cross beam 1
+    3300010: 13003_cross beam 1 1
+    3300012: 13003_cross beam 3
+    3300014: 13003_cross beam 4
+    3300016: 13003_cross beam 4 1
+    3300018: 13003_post
+    3300020: 13003_post 1
+    3300022: 13003_post 2
+    3300024: 13003_post 3
+    3300026: 13003_post 4
+    3300028: 13003_post 5
+    3300030: 13003_post 6
+    3300032: 13003_post 7
+    3300034: 13003_post 8
+    3300036: 13003_post#1
+    3300038: 13003_post#10
+    3300040: 13003_post#11
+    3300042: 13003_post#12
+    3300044: 13003_post#2
+    3300046: 13003_post#3
+    3300048: 13003_post#4
+    3300050: 13003_post#5
+    3300052: 13003_post#6
+    3300054: 13003_post#7
+    3300056: 13003_post#8
+    3300058: 13003_post#9
+    3300060: Component#1
+    3300062: Group#1
+    3300064: Group#11
+    3300066: Group#13
+    3300068: Group#14
+    3300070: Group#15
+    3300072: Group#9
+    3300074: Image 1
+    3300076: scale_plan_B
+    4300000: Mesh 11002-00
+    4300002: Mesh scale_plan_B
+    4300004: Mesh 11002_3d_site
+    4300006: Mesh 11002_3d bsae
+    4300008: Mesh 13003_post#9
+    4300010: Mesh 13003_corss beam 2
+    4300012: Mesh 13003_cross beam 3
+    4300014: Mesh 13003_post#8
+    4300016: Mesh 13003_post#12
+    4300018: Mesh 13003_post
+    4300020: Mesh 13003_cross beam 1
+    4300022: Mesh 13003_post#11
+    4300024: Mesh 13003_cross beam 4
+    4300026: Mesh 13003_post#10
+    4300028: Mesh Group#14
+    4300030: Mesh Group#9
+    4300032: Mesh Component#1
+    4300034: Mesh Group#1
+    4300036: Mesh Group#13
+    4300038: Mesh 13003_post#3
+    4300040: Mesh 13003_post#1
+    4300042: Mesh 13003_post#2
+    4300044: Mesh 13003_post#5
+    4300046: Mesh Group#15
+    4300048: Mesh 13003_post#4
+    4300050: Mesh 13003_post#7
+    4300052: Mesh 13003_post#6
+    4300054: Mesh Group#11
+    6400000: 11002_3d bsae
+    6400002: 11002_3d_site
+    6400004: 13003_corss beam 2
+    6400006: 13003_corss beam 2 1
+    6400008: 13003_cross beam 1
+    6400010: 13003_cross beam 1 1
+    6400012: 13003_cross beam 3
+    6400014: 13003_cross beam 4
+    6400016: 13003_cross beam 4 1
+    6400018: 13003_post
+    6400020: 13003_post 1
+    6400022: 13003_post 2
+    6400024: 13003_post 3
+    6400026: 13003_post 4
+    6400028: 13003_post 5
+    6400030: 13003_post 6
+    6400032: 13003_post 7
+    6400034: 13003_post 8
+    6400036: 13003_post#1
+    6400038: 13003_post#10
+    6400040: 13003_post#11
+    6400042: 13003_post#12
+    6400044: 13003_post#2
+    6400046: 13003_post#3
+    6400048: 13003_post#4
+    6400050: 13003_post#5
+    6400052: 13003_post#6
+    6400054: 13003_post#7
+    6400056: 13003_post#8
+    6400058: 13003_post#9
+    6400060: Component#1
+    6400062: Group#1
+    6400064: Group#11
+    6400066: Group#13
+    6400068: Group#14
+    6400070: Group#15
+    6400072: Group#9
+    6400074: Image 1
+    6400076: scale_plan_B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: e44d75e1f719cc24a89bba56ba6381d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 4bbf14a957a7d394f932f22dd22435bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: 90a7cc3f441f110408f819c6e96f3b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: bf840c6667498854db7b23f615cb1582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 5d60978bb07769d4484ed20a0447e1bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: bea90d79ed723bd46801264a5dbc36f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: c2f76b87443de1440b79bb3f2054f4a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

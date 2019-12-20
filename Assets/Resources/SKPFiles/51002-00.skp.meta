@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 79c3a7c5da946694a9e0717372cc89cd
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 21c8a252650bfd00f04bc0cb4792a4b2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -87.257774, y: 41.743954, z: -106.68125}
+      lookAt: {x: 7.708849, y: -4.856939, z: 4.6966267}
+      up: {x: 0.1968362, y: 0.95287097, z: 0.23085164}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.24883546, y: 210.49057, z: 7.4871187}
+        lookAt: {x: 0.24883546, y: 188.64694, z: 7.4871187}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 4430.983
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -87.257774, y: 41.743954, z: -106.68125}
+        lookAt: {x: 7.708849, y: -4.856939, z: 4.6966267}
+        up: {x: 0.1968362, y: 0.95287097, z: 0.23085164}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -87.257774, y: 41.743954, z: -106.68125}
+        lookAt: {x: 4960.26, y: -2435.1138, z: 5813.102}
+        up: {x: 0.1968362, y: 0.95287097, z: 0.23085164}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0_scale_obq
+    100002: //RootNode
+    100004: 51002_3d_building
+    100006: 51002_3d_site
+    100008: bigwin4
+    100010: bigwin4 1
+    100012: bigwin4 2
+    100014: Commercial Door
+    100016: Component#3
+    100018: Component#3 1
+    100020: Component#3 10
+    100022: Component#3 11
+    100024: Component#3 2
+    100026: Component#3 3
+    100028: Component#3 4
+    100030: Component#3 5
+    100032: Component#3 6
+    100034: Component#3 7
+    100036: Component#3 8
+    100038: Component#3 9
+    100040: Component#5
+    100042: Component#7
+    100044: Component#7 1
+    100046: Component#7 2
+    100048: Component#7 3
+    100050: Component#7 4
+    100052: Component#7 5
+    100054: Component#7 6
+    100056: Component#7 7
+    100058: Component#8
+    100060: door knob
+    100062: Door-DblExt 3'-0x6'-8
+    100064: Door_glass_double_1.95x2.18
+    100066: Door_glass_double_1.95x2.18 1
+    100068: Door_glass_double_1.95x2.18 2
+    100070: Door_glass_double_1.95x2.18 3
+    100072: Door_glass_double_1.95x2.18 4
+    100074: garage door- single car
+    100076: garage door- single car 1
+    100078: garage door- single car 2
+    100080: garage door- single car 3
+    100082: garage door- single car 4
+    100084: garage_2.85x2.35#2
+    100086: garage_2.85x2.35#2 1
+    100088: garage_2.85x2.35#2 2
+    100090: garage_2.85x2.35#2 3
+    100092: garage_2.85x2.35#2 4
+    100094: Image 1
+    100096: roof2
+    100098: roof2 1
+    100100: roof2 10
+    100102: roof2 11
+    100104: roof2 2
+    100106: roof2 3
+    100108: roof2 4
+    100110: roof2 5
+    100112: roof2 6
+    100114: roof2 7
+    100116: roof2 8
+    100118: roof2 9
+    100120: rounded-sm#1
+    100122: rounded-sm#1 1
+    100124: rounded-sm#1 10
+    100126: rounded-sm#1 11
+    100128: rounded-sm#1 12
+    100130: rounded-sm#1 13
+    100132: rounded-sm#1 14
+    100134: rounded-sm#1 15
+    100136: rounded-sm#1 16
+    100138: rounded-sm#1 17
+    100140: rounded-sm#1 18
+    100142: rounded-sm#1 19
+    100144: rounded-sm#1 2
+    100146: rounded-sm#1 20
+    100148: rounded-sm#1 3
+    100150: rounded-sm#1 4
+    100152: rounded-sm#1 5
+    100154: rounded-sm#1 6
+    100156: rounded-sm#1 7
+    100158: rounded-sm#1 8
+    100160: rounded-sm#1 9
+    100162: roundwin
+    100164: window21c
+    100166: Window_apron_double_1.86x1.9
+    100168: Window_apron_double_1.86x1.9 1
+    100170: Window_apron_double_1.86x1.9 10
+    100172: Window_apron_double_1.86x1.9 11
+    100174: Window_apron_double_1.86x1.9 12
+    100176: Window_apron_double_1.86x1.9 13
+    100178: Window_apron_double_1.86x1.9 14
+    100180: Window_apron_double_1.86x1.9 15
+    100182: Window_apron_double_1.86x1.9 16
+    100184: Window_apron_double_1.86x1.9 2
+    100186: Window_apron_double_1.86x1.9 3
+    100188: Window_apron_double_1.86x1.9 4
+    100190: Window_apron_double_1.86x1.9 5
+    100192: Window_apron_double_1.86x1.9 6
+    100194: Window_apron_double_1.86x1.9 7
+    100196: Window_apron_double_1.86x1.9 8
+    100198: Window_apron_double_1.86x1.9 9
+    100200: Window_minframe_1.44x1.0
+    100202: Window_minframe_1.44x1.0 1
+    100204: Window_minframe_1.44x1.0 2
+    100206: Window_minframe_1.44x1.0 3
+    100208: Window_minframe_1.44x1.0 4
+    400000: 0_scale_obq
+    400002: //RootNode
+    400004: 51002_3d_building
+    400006: 51002_3d_site
+    400008: bigwin4
+    400010: bigwin4 1
+    400012: bigwin4 2
+    400014: Commercial Door
+    400016: Component#3
+    400018: Component#3 1
+    400020: Component#3 10
+    400022: Component#3 11
+    400024: Component#3 2
+    400026: Component#3 3
+    400028: Component#3 4
+    400030: Component#3 5
+    400032: Component#3 6
+    400034: Component#3 7
+    400036: Component#3 8
+    400038: Component#3 9
+    400040: Component#5
+    400042: Component#7
+    400044: Component#7 1
+    400046: Component#7 2
+    400048: Component#7 3
+    400050: Component#7 4
+    400052: Component#7 5
+    400054: Component#7 6
+    400056: Component#7 7
+    400058: Component#8
+    400060: door knob
+    400062: Door-DblExt 3'-0x6'-8
+    400064: Door_glass_double_1.95x2.18
+    400066: Door_glass_double_1.95x2.18 1
+    400068: Door_glass_double_1.95x2.18 2
+    400070: Door_glass_double_1.95x2.18 3
+    400072: Door_glass_double_1.95x2.18 4
+    400074: garage door- single car
+    400076: garage door- single car 1
+    400078: garage door- single car 2
+    400080: garage door- single car 3
+    400082: garage door- single car 4
+    400084: garage_2.85x2.35#2
+    400086: garage_2.85x2.35#2 1
+    400088: garage_2.85x2.35#2 2
+    400090: garage_2.85x2.35#2 3
+    400092: garage_2.85x2.35#2 4
+    400094: Image 1
+    400096: roof2
+    400098: roof2 1
+    400100: roof2 10
+    400102: roof2 11
+    400104: roof2 2
+    400106: roof2 3
+    400108: roof2 4
+    400110: roof2 5
+    400112: roof2 6
+    400114: roof2 7
+    400116: roof2 8
+    400118: roof2 9
+    400120: rounded-sm#1
+    400122: rounded-sm#1 1
+    400124: rounded-sm#1 10
+    400126: rounded-sm#1 11
+    400128: rounded-sm#1 12
+    400130: rounded-sm#1 13
+    400132: rounded-sm#1 14
+    400134: rounded-sm#1 15
+    400136: rounded-sm#1 16
+    400138: rounded-sm#1 17
+    400140: rounded-sm#1 18
+    400142: rounded-sm#1 19
+    400144: rounded-sm#1 2
+    400146: rounded-sm#1 20
+    400148: rounded-sm#1 3
+    400150: rounded-sm#1 4
+    400152: rounded-sm#1 5
+    400154: rounded-sm#1 6
+    400156: rounded-sm#1 7
+    400158: rounded-sm#1 8
+    400160: rounded-sm#1 9
+    400162: roundwin
+    400164: window21c
+    400166: Window_apron_double_1.86x1.9
+    400168: Window_apron_double_1.86x1.9 1
+    400170: Window_apron_double_1.86x1.9 10
+    400172: Window_apron_double_1.86x1.9 11
+    400174: Window_apron_double_1.86x1.9 12
+    400176: Window_apron_double_1.86x1.9 13
+    400178: Window_apron_double_1.86x1.9 14
+    400180: Window_apron_double_1.86x1.9 15
+    400182: Window_apron_double_1.86x1.9 16
+    400184: Window_apron_double_1.86x1.9 2
+    400186: Window_apron_double_1.86x1.9 3
+    400188: Window_apron_double_1.86x1.9 4
+    400190: Window_apron_double_1.86x1.9 5
+    400192: Window_apron_double_1.86x1.9 6
+    400194: Window_apron_double_1.86x1.9 7
+    400196: Window_apron_double_1.86x1.9 8
+    400198: Window_apron_double_1.86x1.9 9
+    400200: Window_minframe_1.44x1.0
+    400202: Window_minframe_1.44x1.0 1
+    400204: Window_minframe_1.44x1.0 2
+    400206: Window_minframe_1.44x1.0 3
+    400208: Window_minframe_1.44x1.0 4
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: modelroof
+    2100006: buildingwalls
+    2100008: ApertureGlass
+    2100010: _2
+    2100012: _Blue Glass_
+    2100014: _Ivy_
+    2100016: _Ivy_ copy
+    2100018: OV_shrub_texture
+    2100020: OV_turf_solid
+    2100022: OV_paving_general
+    2100024: mapletree
+    2100026: 0_label
+    2300000: 0_scale_obq
+    2300002: 51002_3d_building
+    2300004: 51002_3d_site
+    2300006: bigwin4
+    2300008: bigwin4 1
+    2300010: bigwin4 2
+    2300012: Commercial Door
+    2300014: Component#3
+    2300016: Component#3 1
+    2300018: Component#3 10
+    2300020: Component#3 11
+    2300022: Component#3 2
+    2300024: Component#3 3
+    2300026: Component#3 4
+    2300028: Component#3 5
+    2300030: Component#3 6
+    2300032: Component#3 7
+    2300034: Component#3 8
+    2300036: Component#3 9
+    2300038: Component#5
+    2300040: Component#7
+    2300042: Component#7 1
+    2300044: Component#7 2
+    2300046: Component#7 3
+    2300048: Component#7 4
+    2300050: Component#7 5
+    2300052: Component#7 6
+    2300054: Component#7 7
+    2300056: Component#8
+    2300058: door knob
+    2300060: Door-DblExt 3'-0x6'-8
+    2300062: Door_glass_double_1.95x2.18
+    2300064: Door_glass_double_1.95x2.18 1
+    2300066: Door_glass_double_1.95x2.18 2
+    2300068: Door_glass_double_1.95x2.18 3
+    2300070: Door_glass_double_1.95x2.18 4
+    2300072: garage door- single car
+    2300074: garage door- single car 1
+    2300076: garage door- single car 2
+    2300078: garage door- single car 3
+    2300080: garage door- single car 4
+    2300082: garage_2.85x2.35#2
+    2300084: garage_2.85x2.35#2 1
+    2300086: garage_2.85x2.35#2 2
+    2300088: garage_2.85x2.35#2 3
+    2300090: garage_2.85x2.35#2 4
+    2300092: Image 1
+    2300094: roof2
+    2300096: roof2 1
+    2300098: roof2 10
+    2300100: roof2 11
+    2300102: roof2 2
+    2300104: roof2 3
+    2300106: roof2 4
+    2300108: roof2 5
+    2300110: roof2 6
+    2300112: roof2 7
+    2300114: roof2 8
+    2300116: roof2 9
+    2300118: rounded-sm#1
+    2300120: rounded-sm#1 1
+    2300122: rounded-sm#1 10
+    2300124: rounded-sm#1 11
+    2300126: rounded-sm#1 12
+    2300128: rounded-sm#1 13
+    2300130: rounded-sm#1 14
+    2300132: rounded-sm#1 15
+    2300134: rounded-sm#1 16
+    2300136: rounded-sm#1 17
+    2300138: rounded-sm#1 18
+    2300140: rounded-sm#1 19
+    2300142: rounded-sm#1 2
+    2300144: rounded-sm#1 20
+    2300146: rounded-sm#1 3
+    2300148: rounded-sm#1 4
+    2300150: rounded-sm#1 5
+    2300152: rounded-sm#1 6
+    2300154: rounded-sm#1 7
+    2300156: rounded-sm#1 8
+    2300158: rounded-sm#1 9
+    2300160: roundwin
+    2300162: window21c
+    2300164: Window_apron_double_1.86x1.9
+    2300166: Window_apron_double_1.86x1.9 1
+    2300168: Window_apron_double_1.86x1.9 10
+    2300170: Window_apron_double_1.86x1.9 11
+    2300172: Window_apron_double_1.86x1.9 12
+    2300174: Window_apron_double_1.86x1.9 13
+    2300176: Window_apron_double_1.86x1.9 14
+    2300178: Window_apron_double_1.86x1.9 15
+    2300180: Window_apron_double_1.86x1.9 16
+    2300182: Window_apron_double_1.86x1.9 2
+    2300184: Window_apron_double_1.86x1.9 3
+    2300186: Window_apron_double_1.86x1.9 4
+    2300188: Window_apron_double_1.86x1.9 5
+    2300190: Window_apron_double_1.86x1.9 6
+    2300192: Window_apron_double_1.86x1.9 7
+    2300194: Window_apron_double_1.86x1.9 8
+    2300196: Window_apron_double_1.86x1.9 9
+    2300198: Window_minframe_1.44x1.0
+    2300200: Window_minframe_1.44x1.0 1
+    2300202: Window_minframe_1.44x1.0 2
+    2300204: Window_minframe_1.44x1.0 3
+    2300206: Window_minframe_1.44x1.0 4
+    3300000: 0_scale_obq
+    3300002: 51002_3d_building
+    3300004: 51002_3d_site
+    3300006: bigwin4
+    3300008: bigwin4 1
+    3300010: bigwin4 2
+    3300012: Commercial Door
+    3300014: Component#3
+    3300016: Component#3 1
+    3300018: Component#3 10
+    3300020: Component#3 11
+    3300022: Component#3 2
+    3300024: Component#3 3
+    3300026: Component#3 4
+    3300028: Component#3 5
+    3300030: Component#3 6
+    3300032: Component#3 7
+    3300034: Component#3 8
+    3300036: Component#3 9
+    3300038: Component#5
+    3300040: Component#7
+    3300042: Component#7 1
+    3300044: Component#7 2
+    3300046: Component#7 3
+    3300048: Component#7 4
+    3300050: Component#7 5
+    3300052: Component#7 6
+    3300054: Component#7 7
+    3300056: Component#8
+    3300058: door knob
+    3300060: Door-DblExt 3'-0x6'-8
+    3300062: Door_glass_double_1.95x2.18
+    3300064: Door_glass_double_1.95x2.18 1
+    3300066: Door_glass_double_1.95x2.18 2
+    3300068: Door_glass_double_1.95x2.18 3
+    3300070: Door_glass_double_1.95x2.18 4
+    3300072: garage door- single car
+    3300074: garage door- single car 1
+    3300076: garage door- single car 2
+    3300078: garage door- single car 3
+    3300080: garage door- single car 4
+    3300082: garage_2.85x2.35#2
+    3300084: garage_2.85x2.35#2 1
+    3300086: garage_2.85x2.35#2 2
+    3300088: garage_2.85x2.35#2 3
+    3300090: garage_2.85x2.35#2 4
+    3300092: Image 1
+    3300094: roof2
+    3300096: roof2 1
+    3300098: roof2 10
+    3300100: roof2 11
+    3300102: roof2 2
+    3300104: roof2 3
+    3300106: roof2 4
+    3300108: roof2 5
+    3300110: roof2 6
+    3300112: roof2 7
+    3300114: roof2 8
+    3300116: roof2 9
+    3300118: rounded-sm#1
+    3300120: rounded-sm#1 1
+    3300122: rounded-sm#1 10
+    3300124: rounded-sm#1 11
+    3300126: rounded-sm#1 12
+    3300128: rounded-sm#1 13
+    3300130: rounded-sm#1 14
+    3300132: rounded-sm#1 15
+    3300134: rounded-sm#1 16
+    3300136: rounded-sm#1 17
+    3300138: rounded-sm#1 18
+    3300140: rounded-sm#1 19
+    3300142: rounded-sm#1 2
+    3300144: rounded-sm#1 20
+    3300146: rounded-sm#1 3
+    3300148: rounded-sm#1 4
+    3300150: rounded-sm#1 5
+    3300152: rounded-sm#1 6
+    3300154: rounded-sm#1 7
+    3300156: rounded-sm#1 8
+    3300158: rounded-sm#1 9
+    3300160: roundwin
+    3300162: window21c
+    3300164: Window_apron_double_1.86x1.9
+    3300166: Window_apron_double_1.86x1.9 1
+    3300168: Window_apron_double_1.86x1.9 10
+    3300170: Window_apron_double_1.86x1.9 11
+    3300172: Window_apron_double_1.86x1.9 12
+    3300174: Window_apron_double_1.86x1.9 13
+    3300176: Window_apron_double_1.86x1.9 14
+    3300178: Window_apron_double_1.86x1.9 15
+    3300180: Window_apron_double_1.86x1.9 16
+    3300182: Window_apron_double_1.86x1.9 2
+    3300184: Window_apron_double_1.86x1.9 3
+    3300186: Window_apron_double_1.86x1.9 4
+    3300188: Window_apron_double_1.86x1.9 5
+    3300190: Window_apron_double_1.86x1.9 6
+    3300192: Window_apron_double_1.86x1.9 7
+    3300194: Window_apron_double_1.86x1.9 8
+    3300196: Window_apron_double_1.86x1.9 9
+    3300198: Window_minframe_1.44x1.0
+    3300200: Window_minframe_1.44x1.0 1
+    3300202: Window_minframe_1.44x1.0 2
+    3300204: Window_minframe_1.44x1.0 3
+    3300206: Window_minframe_1.44x1.0 4
+    4300000: Mesh 51002-00
+    4300002: Mesh 51002_3d_building
+    4300004: Mesh Component#3
+    4300006: Mesh Window_apron_double_1.86x1.9
+    4300008: Mesh garage door- single car
+    4300010: Mesh Door-DblExt 3'-0x6'-8
+    4300012: Mesh roundwin
+    4300014: Mesh bigwin4
+    4300016: Mesh roof2
+    4300018: Mesh Component#7
+    4300020: Mesh Commercial Door
+    4300022: Mesh door knob
+    4300024: Mesh window21c
+    4300026: Mesh Component#8
+    4300028: Mesh Component#5
+    4300030: Mesh Door_glass_double_1.95x2.18
+    4300032: Mesh Window_minframe_1.44x1.0
+    4300034: Mesh garage_2.85x2.35#2
+    4300036: Mesh 51002_3d_site
+    4300038: Mesh rounded-sm#1
+    4300040: Mesh 0_scale_obq
+    6400000: 0_scale_obq
+    6400002: 51002_3d_building
+    6400004: 51002_3d_site
+    6400006: bigwin4
+    6400008: bigwin4 1
+    6400010: bigwin4 2
+    6400012: Commercial Door
+    6400014: Component#3
+    6400016: Component#3 1
+    6400018: Component#3 10
+    6400020: Component#3 11
+    6400022: Component#3 2
+    6400024: Component#3 3
+    6400026: Component#3 4
+    6400028: Component#3 5
+    6400030: Component#3 6
+    6400032: Component#3 7
+    6400034: Component#3 8
+    6400036: Component#3 9
+    6400038: Component#5
+    6400040: Component#7
+    6400042: Component#7 1
+    6400044: Component#7 2
+    6400046: Component#7 3
+    6400048: Component#7 4
+    6400050: Component#7 5
+    6400052: Component#7 6
+    6400054: Component#7 7
+    6400056: Component#8
+    6400058: door knob
+    6400060: Door-DblExt 3'-0x6'-8
+    6400062: Door_glass_double_1.95x2.18
+    6400064: Door_glass_double_1.95x2.18 1
+    6400066: Door_glass_double_1.95x2.18 2
+    6400068: Door_glass_double_1.95x2.18 3
+    6400070: Door_glass_double_1.95x2.18 4
+    6400072: garage door- single car
+    6400074: garage door- single car 1
+    6400076: garage door- single car 2
+    6400078: garage door- single car 3
+    6400080: garage door- single car 4
+    6400082: garage_2.85x2.35#2
+    6400084: garage_2.85x2.35#2 1
+    6400086: garage_2.85x2.35#2 2
+    6400088: garage_2.85x2.35#2 3
+    6400090: garage_2.85x2.35#2 4
+    6400092: Image 1
+    6400094: roof2
+    6400096: roof2 1
+    6400098: roof2 10
+    6400100: roof2 11
+    6400102: roof2 2
+    6400104: roof2 3
+    6400106: roof2 4
+    6400108: roof2 5
+    6400110: roof2 6
+    6400112: roof2 7
+    6400114: roof2 8
+    6400116: roof2 9
+    6400118: rounded-sm#1
+    6400120: rounded-sm#1 1
+    6400122: rounded-sm#1 10
+    6400124: rounded-sm#1 11
+    6400126: rounded-sm#1 12
+    6400128: rounded-sm#1 13
+    6400130: rounded-sm#1 14
+    6400132: rounded-sm#1 15
+    6400134: rounded-sm#1 16
+    6400136: rounded-sm#1 17
+    6400138: rounded-sm#1 18
+    6400140: rounded-sm#1 19
+    6400142: rounded-sm#1 2
+    6400144: rounded-sm#1 20
+    6400146: rounded-sm#1 3
+    6400148: rounded-sm#1 4
+    6400150: rounded-sm#1 5
+    6400152: rounded-sm#1 6
+    6400154: rounded-sm#1 7
+    6400156: rounded-sm#1 8
+    6400158: rounded-sm#1 9
+    6400160: roundwin
+    6400162: window21c
+    6400164: Window_apron_double_1.86x1.9
+    6400166: Window_apron_double_1.86x1.9 1
+    6400168: Window_apron_double_1.86x1.9 10
+    6400170: Window_apron_double_1.86x1.9 11
+    6400172: Window_apron_double_1.86x1.9 12
+    6400174: Window_apron_double_1.86x1.9 13
+    6400176: Window_apron_double_1.86x1.9 14
+    6400178: Window_apron_double_1.86x1.9 15
+    6400180: Window_apron_double_1.86x1.9 16
+    6400182: Window_apron_double_1.86x1.9 2
+    6400184: Window_apron_double_1.86x1.9 3
+    6400186: Window_apron_double_1.86x1.9 4
+    6400188: Window_apron_double_1.86x1.9 5
+    6400190: Window_apron_double_1.86x1.9 6
+    6400192: Window_apron_double_1.86x1.9 7
+    6400194: Window_apron_double_1.86x1.9 8
+    6400196: Window_apron_double_1.86x1.9 9
+    6400198: Window_minframe_1.44x1.0
+    6400200: Window_minframe_1.44x1.0 1
+    6400202: Window_minframe_1.44x1.0 2
+    6400204: Window_minframe_1.44x1.0 3
+    6400206: Window_minframe_1.44x1.0 4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: d72e8fac2e16513459be3fcc65a75fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: e0bdaba85eca84f428f76015bc02fb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 40affda7d1fddf64db9d7ea465438461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: ab254b733d23add46aea2ab94d973cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 68dec437d0387f344be87e640486f163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: e297be1672e3caf4c9d19e69eeea0623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: f8f056d2f6076a14381a1abe8149af6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Blue Glass_
+    second: {fileID: 2100000, guid: fae3dcd0c8a753149b7ca70b2cb98f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivy_
+    second: {fileID: 2100000, guid: 826a4d70825e5df47b94aaec57b2b874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivy_ copy
+    second: {fileID: 2100000, guid: 35a1c1b3c91758b4b9b8bc4b870dd101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: fe1159d08f8920942955ef1d08b3b230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 27d6e90f8984a6f41b0caa9354ee8443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 3e80c78d82b23804bbef038a19a87566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: fcef2865ea92bef41966e856abaf8dd0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

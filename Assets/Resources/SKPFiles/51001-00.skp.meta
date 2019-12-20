@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 0d92c96ece06bc24f9f04641504a985c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000d0000000e0000000f000000100000001100000013000000140000001600000017000000190000001a0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f00000070000000710000007200000073000000740000007500000076000000770000007800000079000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3edecd67baf06b3bd9e129b1fb373875
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 29.043936, y: 20.49027, z: -51.40132}
+      lookAt: {x: 3.3853884, y: 4.799827, z: -16.033676}
+      up: {x: -0.1984595, y: 0.9411594, z: 0.27355585}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -4.058714, y: 86.220055, z: -2.4961834}
+        lookAt: {x: -4.058714, y: 5.2855997, z: -2.4961834}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1873.1841
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 29.043936, y: 20.49027, z: -51.40132}
+        lookAt: {x: 3.3853884, y: 4.799827, z: -16.033676}
+        up: {x: -0.1984595, y: 0.9411594, z: 0.27355585}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 29.043936, y: 20.49027, z: -51.40132}
+        lookAt: {x: 3.3853884, y: 4.799827, z: -16.033676}
+        up: {x: -0.1984595, y: 0.9411594, z: 0.27355585}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 51001_3d_building
+    100004: 51001_3d_site
+    100006: 51001_ov
+    100008: conical-sm
+    100010: conical-sm 1
+    100012: Door_glass_1.0x2.18
+    100014: Door_glass_1.0x2.18 1
+    100016: Door_glass_1.0x2.18 2
+    100018: Door_glass_1.0x2.18#4
+    100020: Door_plain_1.0x2.1#1
+    100022: Door_plain_1.0x2.1#1 1
+    100024: Door_plain_1.0x2.1#1 2
+    100026: garage_2.85x2.35#1
+    100028: garage_2.85x2.35#1 1
+    100030: Group 30
+    100032: Group 32
+    100034: Group 34
+    100036: Group 36
+    100038: Group 38
+    100040: Group 40
+    100042: Group 42
+    100044: Group 44
+    100046: Image 1
+    100048: rounded-med
+    100050: rounded-sm
+    100052: scale_obq
+    100054: Skylight#1
+    100056: Skylight#1 1
+    100058: Skylight#1 2
+    100060: Skylight#1 3
+    100062: Skylight#1 4
+    100064: Window_bar
+    100066: Window_bar 1
+    100068: Window_bar#1
+    100070: Window_bar#1 1
+    100072: Window_bar#1 2
+    100074: Window_bar#1 3
+    100076: Window_bar#1 4
+    100078: Window_bar#1 5
+    100080: Window_bar#2
+    100082: Window_bar#3
+    100084: Window_bar#3 1
+    100086: Window_bar#4
+    100088: Window_bar#4 1
+    100090: window_clerestorey
+    100092: window_clerestorey 1
+    100094: window_clerestorey 2
+    100096: window_clerestorey 3
+    100098: Window_curtainA
+    100100: Window_curtainA#1
+    100102: window_vert
+    100104: window_vert 1
+    100106: window_vert 2
+    100108: WindowCurtainB
+    100110: WindowCurtainB#1
+    400000: //RootNode
+    400002: 51001_3d_building
+    400004: 51001_3d_site
+    400006: 51001_ov
+    400008: conical-sm
+    400010: conical-sm 1
+    400012: Door_glass_1.0x2.18
+    400014: Door_glass_1.0x2.18 1
+    400016: Door_glass_1.0x2.18 2
+    400018: Door_glass_1.0x2.18#4
+    400020: Door_plain_1.0x2.1#1
+    400022: Door_plain_1.0x2.1#1 1
+    400024: Door_plain_1.0x2.1#1 2
+    400026: garage_2.85x2.35#1
+    400028: garage_2.85x2.35#1 1
+    400030: Group 30
+    400032: Group 32
+    400034: Group 34
+    400036: Group 36
+    400038: Group 38
+    400040: Group 40
+    400042: Group 42
+    400044: Group 44
+    400046: Image 1
+    400048: rounded-med
+    400050: rounded-sm
+    400052: scale_obq
+    400054: Skylight#1
+    400056: Skylight#1 1
+    400058: Skylight#1 2
+    400060: Skylight#1 3
+    400062: Skylight#1 4
+    400064: Window_bar
+    400066: Window_bar 1
+    400068: Window_bar#1
+    400070: Window_bar#1 1
+    400072: Window_bar#1 2
+    400074: Window_bar#1 3
+    400076: Window_bar#1 4
+    400078: Window_bar#1 5
+    400080: Window_bar#2
+    400082: Window_bar#3
+    400084: Window_bar#3 1
+    400086: Window_bar#4
+    400088: Window_bar#4 1
+    400090: window_clerestorey
+    400092: window_clerestorey 1
+    400094: window_clerestorey 2
+    400096: window_clerestorey 3
+    400098: Window_curtainA
+    400100: Window_curtainA#1
+    400102: window_vert
+    400104: window_vert 1
+    400106: window_vert 2
+    400108: WindowCurtainB
+    400110: WindowCurtainB#1
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_pedestrian
+    2100008: OV_bldg_wall
+    2100010: OV_shrub_texture
+    2100012: OV_shrub_solid
+    2100014: OV_turf_solid
+    2100016: OV_paving_general
+    2100018: OV_paving_vehicle
+    2100020: mapletree
+    2100022: conicaltree
+    2100024: OV_bldg_roof
+    2100026: ApertureGlass
+    2300000: 51001_3d_building
+    2300002: 51001_3d_site
+    2300004: conical-sm
+    2300006: conical-sm 1
+    2300008: Door_glass_1.0x2.18
+    2300010: Door_glass_1.0x2.18 1
+    2300012: Door_glass_1.0x2.18 2
+    2300014: Door_glass_1.0x2.18#4
+    2300016: Door_plain_1.0x2.1#1
+    2300018: Door_plain_1.0x2.1#1 1
+    2300020: Door_plain_1.0x2.1#1 2
+    2300022: garage_2.85x2.35#1
+    2300024: garage_2.85x2.35#1 1
+    2300026: Group 30
+    2300028: Group 32
+    2300030: Group 34
+    2300032: Group 36
+    2300034: Group 38
+    2300036: Group 40
+    2300038: Group 42
+    2300040: Group 44
+    2300042: Image 1
+    2300044: rounded-med
+    2300046: rounded-sm
+    2300048: scale_obq
+    2300050: Skylight#1
+    2300052: Skylight#1 1
+    2300054: Skylight#1 2
+    2300056: Skylight#1 3
+    2300058: Skylight#1 4
+    2300060: Window_bar
+    2300062: Window_bar 1
+    2300064: Window_bar#1
+    2300066: Window_bar#1 1
+    2300068: Window_bar#1 2
+    2300070: Window_bar#1 3
+    2300072: Window_bar#1 4
+    2300074: Window_bar#1 5
+    2300076: Window_bar#2
+    2300078: Window_bar#3
+    2300080: Window_bar#3 1
+    2300082: Window_bar#4
+    2300084: Window_bar#4 1
+    2300086: window_clerestorey
+    2300088: window_clerestorey 1
+    2300090: window_clerestorey 2
+    2300092: window_clerestorey 3
+    2300094: Window_curtainA
+    2300096: Window_curtainA#1
+    2300098: window_vert
+    2300100: window_vert 1
+    2300102: window_vert 2
+    2300104: WindowCurtainB
+    2300106: WindowCurtainB#1
+    3300000: 51001_3d_building
+    3300002: 51001_3d_site
+    3300004: conical-sm
+    3300006: conical-sm 1
+    3300008: Door_glass_1.0x2.18
+    3300010: Door_glass_1.0x2.18 1
+    3300012: Door_glass_1.0x2.18 2
+    3300014: Door_glass_1.0x2.18#4
+    3300016: Door_plain_1.0x2.1#1
+    3300018: Door_plain_1.0x2.1#1 1
+    3300020: Door_plain_1.0x2.1#1 2
+    3300022: garage_2.85x2.35#1
+    3300024: garage_2.85x2.35#1 1
+    3300026: Group 30
+    3300028: Group 32
+    3300030: Group 34
+    3300032: Group 36
+    3300034: Group 38
+    3300036: Group 40
+    3300038: Group 42
+    3300040: Group 44
+    3300042: Image 1
+    3300044: rounded-med
+    3300046: rounded-sm
+    3300048: scale_obq
+    3300050: Skylight#1
+    3300052: Skylight#1 1
+    3300054: Skylight#1 2
+    3300056: Skylight#1 3
+    3300058: Skylight#1 4
+    3300060: Window_bar
+    3300062: Window_bar 1
+    3300064: Window_bar#1
+    3300066: Window_bar#1 1
+    3300068: Window_bar#1 2
+    3300070: Window_bar#1 3
+    3300072: Window_bar#1 4
+    3300074: Window_bar#1 5
+    3300076: Window_bar#2
+    3300078: Window_bar#3
+    3300080: Window_bar#3 1
+    3300082: Window_bar#4
+    3300084: Window_bar#4 1
+    3300086: window_clerestorey
+    3300088: window_clerestorey 1
+    3300090: window_clerestorey 2
+    3300092: window_clerestorey 3
+    3300094: Window_curtainA
+    3300096: Window_curtainA#1
+    3300098: window_vert
+    3300100: window_vert 1
+    3300102: window_vert 2
+    3300104: WindowCurtainB
+    3300106: WindowCurtainB#1
+    4300000: Mesh 51001-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 51001_3d_site
+    4300006: Mesh rounded-med
+    4300008: Mesh conical-sm
+    4300010: Mesh rounded-sm
+    4300012: Mesh 51001_3d_building
+    4300014: Mesh Group 30
+    4300016: Mesh Group 36
+    4300018: Mesh garage_2.85x2.35#1
+    4300020: Mesh Door_glass_1.0x2.18
+    4300022: Mesh Window_curtainA
+    4300024: Mesh WindowCurtainB
+    4300026: Mesh Door_plain_1.0x2.1#1
+    4300028: Mesh Window_curtainA#1
+    4300030: Mesh WindowCurtainB#1
+    4300032: Mesh Window_bar
+    4300034: Mesh Skylight#1
+    4300036: Mesh Door_glass_1.0x2.18#4
+    4300038: Mesh Window_bar#1
+    4300040: Mesh window_clerestorey
+    4300042: Mesh window_vert
+    4300044: Mesh Window_bar#4
+    4300046: Mesh Window_bar#2
+    4300048: Mesh Window_bar#3
+    6400000: 51001_3d_building
+    6400002: 51001_3d_site
+    6400004: conical-sm
+    6400006: conical-sm 1
+    6400008: Door_glass_1.0x2.18
+    6400010: Door_glass_1.0x2.18 1
+    6400012: Door_glass_1.0x2.18 2
+    6400014: Door_glass_1.0x2.18#4
+    6400016: Door_plain_1.0x2.1#1
+    6400018: Door_plain_1.0x2.1#1 1
+    6400020: Door_plain_1.0x2.1#1 2
+    6400022: garage_2.85x2.35#1
+    6400024: garage_2.85x2.35#1 1
+    6400026: Group 30
+    6400028: Group 32
+    6400030: Group 34
+    6400032: Group 36
+    6400034: Group 38
+    6400036: Group 40
+    6400038: Group 42
+    6400040: Group 44
+    6400042: Image 1
+    6400044: rounded-med
+    6400046: rounded-sm
+    6400048: scale_obq
+    6400050: Skylight#1
+    6400052: Skylight#1 1
+    6400054: Skylight#1 2
+    6400056: Skylight#1 3
+    6400058: Skylight#1 4
+    6400060: Window_bar
+    6400062: Window_bar 1
+    6400064: Window_bar#1
+    6400066: Window_bar#1 1
+    6400068: Window_bar#1 2
+    6400070: Window_bar#1 3
+    6400072: Window_bar#1 4
+    6400074: Window_bar#1 5
+    6400076: Window_bar#2
+    6400078: Window_bar#3
+    6400080: Window_bar#3 1
+    6400082: Window_bar#4
+    6400084: Window_bar#4 1
+    6400086: window_clerestorey
+    6400088: window_clerestorey 1
+    6400090: window_clerestorey 2
+    6400092: window_clerestorey 3
+    6400094: Window_curtainA
+    6400096: Window_curtainA#1
+    6400098: window_vert
+    6400100: window_vert 1
+    6400102: window_vert 2
+    6400104: WindowCurtainB
+    6400106: WindowCurtainB#1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 47165785e347297448612131f792b388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: b577196ea60c287409d88c3a9011871e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: bd929622b2404864bbed2d0ba3257c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 9a7b01c99b5d16a4081571087a0ad349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 813b2e4a95003214a999d04cda7ced2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 436418a5cf8fa0a449e66bea6c4d47db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 799791cfb94da2b44a8485d35919d3ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 40dc6aa7bbb80ad409cf4ae9ab066208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 631c6145f53e6bc4aaa9948caf68d95a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 93bc15f1dbbd34a4e878e16a1ba7f14f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 8b41fa0929bb13746a624b2dc707d040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 2e4dfb50643156248bd205834ae1e56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conicaltree
+    second: {fileID: 2100000, guid: 68c3a420cf157f44c9da5441009248bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 299d8b81b94a5e442899b1cba5e67121, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

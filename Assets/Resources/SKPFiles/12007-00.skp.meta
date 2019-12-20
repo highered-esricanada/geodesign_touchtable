@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 7eeba13f172171446adc176067dd2e1b
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f00000080000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1ec8e2824e1fae4181aa4a26ff24a639
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 52.07805, y: 30.331385, z: -76.158714}
+      lookAt: {x: 18.776354, y: 8.318316, z: -30.97716}
+      up: {x: -0.21662897, y: 0.9309619, z: 0.2939079}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 52.07805, y: 30.331385, z: -76.158714}
+        lookAt: {x: 18.776354, y: 8.318316, z: -30.97716}
+        up: {x: -0.21662897, y: 0.9309619, z: 0.2939079}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 6.689881, y: 189.83418, z: -6.5411086}
+        lookAt: {x: 6.689881, y: 3.8309627, z: -6.5411086}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3060.0015
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 12007_3Dsite
+    100004: 12007_boardwalk
+    100006: 12007_border block
+    100008: 12007_border block 1
+    100010: 12007_border block 10
+    100012: 12007_border block 11
+    100014: 12007_border block 12
+    100016: 12007_border block 13
+    100018: 12007_border block 14
+    100020: 12007_border block 15
+    100022: 12007_border block 16
+    100024: 12007_border block 17
+    100026: 12007_border block 18
+    100028: 12007_border block 19
+    100030: 12007_border block 2
+    100032: 12007_border block 20
+    100034: 12007_border block 21
+    100036: 12007_border block 22
+    100038: 12007_border block 23
+    100040: 12007_border block 24
+    100042: 12007_border block 25
+    100044: 12007_border block 26
+    100046: 12007_border block 27
+    100048: 12007_border block 28
+    100050: 12007_border block 29
+    100052: 12007_border block 3
+    100054: 12007_border block 30
+    100056: 12007_border block 31
+    100058: 12007_border block 32
+    100060: 12007_border block 33
+    100062: 12007_border block 34
+    100064: 12007_border block 35
+    100066: 12007_border block 36
+    100068: 12007_border block 4
+    100070: 12007_border block 5
+    100072: 12007_border block 6
+    100074: 12007_border block 7
+    100076: 12007_border block 8
+    100078: 12007_border block 9
+    100080: 12007_feature wall 2
+    100082: 12007_stairs 2
+    100084: 12007_stairs 2 1
+    100086: 12007_stairs#1
+    100088: 12007_stairs#2
+    100090: bulbtree-med
+    100092: bulbtree-med 1
+    100094: bulbtree-med 2
+    100096: bulbtree-sm
+    100098: bulbtree-sm 1
+    100100: bulbtree-sm 2
+    100102: bulbtree-sm 3
+    100104: Group 2
+    100106: Group 5
+    100108: Group 7
+    100110: Image 1
+    100112: rounded-sm
+    100114: rounded-sm 1
+    100116: rounded-sm 2
+    100118: rounded-sm 3
+    100120: rounded-sm 4
+    100122: rounded-sm 5
+    100124: rounded-sm 6
+    100126: rounded-sm 7
+    100128: rounded-sm 8
+    100130: rounded-sm 9
+    400000: //RootNode
+    400002: 12007_3Dsite
+    400004: 12007_boardwalk
+    400006: 12007_border block
+    400008: 12007_border block 1
+    400010: 12007_border block 10
+    400012: 12007_border block 11
+    400014: 12007_border block 12
+    400016: 12007_border block 13
+    400018: 12007_border block 14
+    400020: 12007_border block 15
+    400022: 12007_border block 16
+    400024: 12007_border block 17
+    400026: 12007_border block 18
+    400028: 12007_border block 19
+    400030: 12007_border block 2
+    400032: 12007_border block 20
+    400034: 12007_border block 21
+    400036: 12007_border block 22
+    400038: 12007_border block 23
+    400040: 12007_border block 24
+    400042: 12007_border block 25
+    400044: 12007_border block 26
+    400046: 12007_border block 27
+    400048: 12007_border block 28
+    400050: 12007_border block 29
+    400052: 12007_border block 3
+    400054: 12007_border block 30
+    400056: 12007_border block 31
+    400058: 12007_border block 32
+    400060: 12007_border block 33
+    400062: 12007_border block 34
+    400064: 12007_border block 35
+    400066: 12007_border block 36
+    400068: 12007_border block 4
+    400070: 12007_border block 5
+    400072: 12007_border block 6
+    400074: 12007_border block 7
+    400076: 12007_border block 8
+    400078: 12007_border block 9
+    400080: 12007_feature wall 2
+    400082: 12007_stairs 2
+    400084: 12007_stairs 2 1
+    400086: 12007_stairs#1
+    400088: 12007_stairs#2
+    400090: bulbtree-med
+    400092: bulbtree-med 1
+    400094: bulbtree-med 2
+    400096: bulbtree-sm
+    400098: bulbtree-sm 1
+    400100: bulbtree-sm 2
+    400102: bulbtree-sm 3
+    400104: Group 2
+    400106: Group 5
+    400108: Group 7
+    400110: Image 1
+    400112: rounded-sm
+    400114: rounded-sm 1
+    400116: rounded-sm 2
+    400118: rounded-sm 3
+    400120: rounded-sm 4
+    400122: rounded-sm 5
+    400124: rounded-sm 6
+    400126: rounded-sm 7
+    400128: rounded-sm 8
+    400130: rounded-sm 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_turf_solid
+    2100008: OV_shrub_texture
+    2100010: OV_paving_pedestrian
+    2100012: OV_Water
+    2100014: OV_surface_other
+    2100016: OV_paving general
+    2100018: mapletree
+    2100020: roundedtree
+    2300000: 12007_boardwalk
+    2300002: 12007_border block
+    2300004: 12007_border block 1
+    2300006: 12007_border block 10
+    2300008: 12007_border block 11
+    2300010: 12007_border block 12
+    2300012: 12007_border block 13
+    2300014: 12007_border block 14
+    2300016: 12007_border block 15
+    2300018: 12007_border block 16
+    2300020: 12007_border block 17
+    2300022: 12007_border block 18
+    2300024: 12007_border block 19
+    2300026: 12007_border block 2
+    2300028: 12007_border block 20
+    2300030: 12007_border block 21
+    2300032: 12007_border block 22
+    2300034: 12007_border block 23
+    2300036: 12007_border block 24
+    2300038: 12007_border block 25
+    2300040: 12007_border block 26
+    2300042: 12007_border block 27
+    2300044: 12007_border block 28
+    2300046: 12007_border block 29
+    2300048: 12007_border block 3
+    2300050: 12007_border block 30
+    2300052: 12007_border block 31
+    2300054: 12007_border block 32
+    2300056: 12007_border block 33
+    2300058: 12007_border block 34
+    2300060: 12007_border block 35
+    2300062: 12007_border block 36
+    2300064: 12007_border block 4
+    2300066: 12007_border block 5
+    2300068: 12007_border block 6
+    2300070: 12007_border block 7
+    2300072: 12007_border block 8
+    2300074: 12007_border block 9
+    2300076: 12007_feature wall 2
+    2300078: 12007_stairs 2
+    2300080: 12007_stairs 2 1
+    2300082: 12007_stairs#1
+    2300084: 12007_stairs#2
+    2300086: bulbtree-med
+    2300088: bulbtree-med 1
+    2300090: bulbtree-med 2
+    2300092: bulbtree-sm
+    2300094: bulbtree-sm 1
+    2300096: bulbtree-sm 2
+    2300098: bulbtree-sm 3
+    2300100: Group 2
+    2300102: Group 5
+    2300104: Group 7
+    2300106: Image 1
+    2300108: rounded-sm
+    2300110: rounded-sm 1
+    2300112: rounded-sm 2
+    2300114: rounded-sm 3
+    2300116: rounded-sm 4
+    2300118: rounded-sm 5
+    2300120: rounded-sm 6
+    2300122: rounded-sm 7
+    2300124: rounded-sm 8
+    2300126: rounded-sm 9
+    3300000: 12007_boardwalk
+    3300002: 12007_border block
+    3300004: 12007_border block 1
+    3300006: 12007_border block 10
+    3300008: 12007_border block 11
+    3300010: 12007_border block 12
+    3300012: 12007_border block 13
+    3300014: 12007_border block 14
+    3300016: 12007_border block 15
+    3300018: 12007_border block 16
+    3300020: 12007_border block 17
+    3300022: 12007_border block 18
+    3300024: 12007_border block 19
+    3300026: 12007_border block 2
+    3300028: 12007_border block 20
+    3300030: 12007_border block 21
+    3300032: 12007_border block 22
+    3300034: 12007_border block 23
+    3300036: 12007_border block 24
+    3300038: 12007_border block 25
+    3300040: 12007_border block 26
+    3300042: 12007_border block 27
+    3300044: 12007_border block 28
+    3300046: 12007_border block 29
+    3300048: 12007_border block 3
+    3300050: 12007_border block 30
+    3300052: 12007_border block 31
+    3300054: 12007_border block 32
+    3300056: 12007_border block 33
+    3300058: 12007_border block 34
+    3300060: 12007_border block 35
+    3300062: 12007_border block 36
+    3300064: 12007_border block 4
+    3300066: 12007_border block 5
+    3300068: 12007_border block 6
+    3300070: 12007_border block 7
+    3300072: 12007_border block 8
+    3300074: 12007_border block 9
+    3300076: 12007_feature wall 2
+    3300078: 12007_stairs 2
+    3300080: 12007_stairs 2 1
+    3300082: 12007_stairs#1
+    3300084: 12007_stairs#2
+    3300086: bulbtree-med
+    3300088: bulbtree-med 1
+    3300090: bulbtree-med 2
+    3300092: bulbtree-sm
+    3300094: bulbtree-sm 1
+    3300096: bulbtree-sm 2
+    3300098: bulbtree-sm 3
+    3300100: Group 2
+    3300102: Group 5
+    3300104: Group 7
+    3300106: Image 1
+    3300108: rounded-sm
+    3300110: rounded-sm 1
+    3300112: rounded-sm 2
+    3300114: rounded-sm 3
+    3300116: rounded-sm 4
+    3300118: rounded-sm 5
+    3300120: rounded-sm 6
+    3300122: rounded-sm 7
+    3300124: rounded-sm 8
+    3300126: rounded-sm 9
+    4300000: Mesh 12007-00
+    4300002: Mesh Group 2
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh 12007_stairs#2
+    4300010: Mesh 12007_stairs 2
+    4300012: Mesh 12007_boardwalk
+    4300014: Mesh 12007_stairs#1
+    4300016: Mesh 12007_border block
+    4300018: Mesh rounded-sm
+    4300020: Mesh 12007_feature wall 2
+    4300022: Mesh bulbtree-med
+    4300024: Mesh bulbtree-sm
+    6400000: 12007_boardwalk
+    6400002: 12007_border block
+    6400004: 12007_border block 1
+    6400006: 12007_border block 10
+    6400008: 12007_border block 11
+    6400010: 12007_border block 12
+    6400012: 12007_border block 13
+    6400014: 12007_border block 14
+    6400016: 12007_border block 15
+    6400018: 12007_border block 16
+    6400020: 12007_border block 17
+    6400022: 12007_border block 18
+    6400024: 12007_border block 19
+    6400026: 12007_border block 2
+    6400028: 12007_border block 20
+    6400030: 12007_border block 21
+    6400032: 12007_border block 22
+    6400034: 12007_border block 23
+    6400036: 12007_border block 24
+    6400038: 12007_border block 25
+    6400040: 12007_border block 26
+    6400042: 12007_border block 27
+    6400044: 12007_border block 28
+    6400046: 12007_border block 29
+    6400048: 12007_border block 3
+    6400050: 12007_border block 30
+    6400052: 12007_border block 31
+    6400054: 12007_border block 32
+    6400056: 12007_border block 33
+    6400058: 12007_border block 34
+    6400060: 12007_border block 35
+    6400062: 12007_border block 36
+    6400064: 12007_border block 4
+    6400066: 12007_border block 5
+    6400068: 12007_border block 6
+    6400070: 12007_border block 7
+    6400072: 12007_border block 8
+    6400074: 12007_border block 9
+    6400076: 12007_feature wall 2
+    6400078: 12007_stairs 2
+    6400080: 12007_stairs 2 1
+    6400082: 12007_stairs#1
+    6400084: 12007_stairs#2
+    6400086: bulbtree-med
+    6400088: bulbtree-med 1
+    6400090: bulbtree-med 2
+    6400092: bulbtree-sm
+    6400094: bulbtree-sm 1
+    6400096: bulbtree-sm 2
+    6400098: bulbtree-sm 3
+    6400100: Group 2
+    6400102: Group 5
+    6400104: Group 7
+    6400106: Image 1
+    6400108: rounded-sm
+    6400110: rounded-sm 1
+    6400112: rounded-sm 2
+    6400114: rounded-sm 3
+    6400116: rounded-sm 4
+    6400118: rounded-sm 5
+    6400120: rounded-sm 6
+    6400122: rounded-sm 7
+    6400124: rounded-sm 8
+    6400126: rounded-sm 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 5146b5de5e4b98447b7f3fce0b160cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 64027b310a4ffeb4297e0097a7259e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: 28852f08a0cedcd469549ee72cc31772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 4a0ddab0d99a9b84682a3c602499d6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: b376595f9744fd2498872fe968b0c004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 38a91d1f90a1d2c40a715cc519283b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 8b2a64e481a430e4bba228766f2637f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 8918ebaae80ee37419d0ed3a62ebcc67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 60b11902f5a35fa43988c25fecc5d58b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 2f7c0d6a65a22834b98a7b32a58b1d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: c87b92016f9482443b9fd935f825ff14, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

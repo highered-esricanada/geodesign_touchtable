@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: a415802f8e6471c42a202a5d0993dadd
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000007000000150100001601000017010000180100003a0100003b010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1bb678bc7030b560f9c21fbd7d2887fa
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+      lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+      up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 2758.9626
+      isPerspective: 0
+    scenes:
+    - camera:
+        position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+        lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+        up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2758.9626
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -38.365784, y: 23.542566, z: -51.63889}
+        lookAt: {x: 5087.5205, y: -2464.8123, z: 5060.191}
+        up: {x: 0.23017253, y: 0.94569093, z: 0.22954133}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -38.365784, y: 23.542566, z: -51.63889}
+        lookAt: {x: 5087.5205, y: -2464.8123, z: 5060.191}
+        up: {x: 0.23017253, y: 0.94569093, z: 0.22954133}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+    - camera:
+        position: {x: -38.365784, y: 23.542566, z: -51.63889}
+        lookAt: {x: 5087.5205, y: -2464.8123, z: 5060.191}
+        up: {x: 0.23017253, y: 0.94569093, z: 0.22954133}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq
+    - camera:
+        position: {x: -38.365784, y: 23.542566, z: -51.63889}
+        lookAt: {x: 5087.5205, y: -2464.8123, z: 5060.191}
+        up: {x: 0.23017253, y: 0.94569093, z: 0.22954133}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_floors
+    - camera:
+        position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+        lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+        up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2758.9626
+        isPerspective: 0
+      name: plan
+    - camera:
+        position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+        lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+        up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2758.9626
+        isPerspective: 0
+      name: plan_cover
+    - camera:
+        position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+        lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+        up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2758.9626
+        isPerspective: 0
+      name: plan_use
+    - camera:
+        position: {x: 7.906277, y: 98.83446, z: 7.8016863}
+        lookAt: {x: 7.7076273, y: 5.151551, z: 7.801537}
+        up: {x: 0.9999975, y: -0.0021204501, z: 0.00075115}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2758.9626
+        isPerspective: 0
+      name: plan_canopy
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 31005_envelope
+    100002: 31005_envelope 1
+    100004: //RootNode
+    100006: Group 2
+    100008: Group 7
+    100010: Image 1
+    100012: plan_canopy#2
+    400000: 31005_envelope
+    400002: 31005_envelope 1
+    400004: //RootNode
+    400006: Group 2
+    400008: Group 7
+    400010: Image 1
+    400012: plan_canopy#2
+    2100000: Material 1
+    2100002: Pcan_open
+    2100004: Pcan_canopy
+    2300000: 31005_envelope
+    2300002: 31005_envelope 1
+    2300004: Image 1
+    2300006: plan_canopy#2
+    3300000: 31005_envelope
+    3300002: 31005_envelope 1
+    3300004: Image 1
+    3300006: plan_canopy#2
+    4300000: Mesh 31008-03
+    4300002: Mesh 31005_envelope
+    4300004: Mesh plan_canopy#2
+    6400000: 31005_envelope
+    6400002: 31005_envelope 1
+    6400004: Image 1
+    6400006: plan_canopy#2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 1f7acab961f0e6d46bde159e4bddb621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pcan_canopy
+    second: {fileID: 2100000, guid: 4e51a73073ede63448ed4d968ba1ae17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pcan_open
+    second: {fileID: 2100000, guid: 7900f75b7c745594f87671b0689e82d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

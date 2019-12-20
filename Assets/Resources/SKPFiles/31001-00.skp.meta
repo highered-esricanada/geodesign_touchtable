@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 4c89a1d21942dad448345361596faa8c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000b0000000c0000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e521828c4311291301735b73326e594b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 33.8444, y: 15.483256, z: -85.08493}
+      lookAt: {x: 3.326977, y: -1.1340401, z: -48.8876}
+      up: {x: -0.21346737, y: 0.94356906, z: 0.253198}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 15.632725, y: 210.49057, z: -54.369568}
+        lookAt: {x: 15.632725, y: -18492.936, z: -54.369568}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1917.3241
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 33.8444, y: 15.483256, z: -85.08493}
+        lookAt: {x: 3.326977, y: -1.1340401, z: -48.8876}
+        up: {x: -0.21346737, y: 0.94356906, z: 0.253198}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 33.8444, y: 15.483256, z: -85.08493}
+        lookAt: {x: 3.326977, y: -1.1340401, z: -48.8876}
+        up: {x: -0.21346737, y: 0.94356906, z: 0.253198}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 31001_3d_building
+    100004: 31001_3d_site
+    100006: Door-SglExtHeaderWLite 3'-0x6'-8
+    100008: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    100010: Door-SglExtHeaderWLite 3'-0x6'-8 2
+    100012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    100014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    100016: Door-SglExtHeaderWLite 3'-0x6'-8#1 2
+    100018: Door-SglExtHeaderWLite 3'-0x6'-8#1 3
+    100020: Door_Glass Double_Sidelights
+    100022: Door_Glass Double_Sidelights 1
+    100024: DoubleDoors
+    100026: DoubleDoors 1
+    100028: fantree-sm
+    100030: garage_2.85x2.35#1
+    100032: Group 2
+    100034: Group 29
+    100036: Group 3
+    100038: Group 4
+    100040: Image 1
+    100042: Lower_sash
+    100044: Lower_sash 1
+    100046: Lower_sash 10
+    100048: Lower_sash 2
+    100050: Lower_sash 3
+    100052: Lower_sash 4
+    100054: Lower_sash 5
+    100056: Lower_sash 6
+    100058: Lower_sash 7
+    100060: Lower_sash 8
+    100062: Lower_sash 9
+    100064: rounded-sm#1
+    100066: Upper_sash
+    100068: Upper_sash 1
+    100070: Upper_sash 10
+    100072: Upper_sash 2
+    100074: Upper_sash 3
+    100076: Upper_sash 4
+    100078: Upper_sash 5
+    100080: Upper_sash 6
+    100082: Upper_sash 7
+    100084: Upper_sash 8
+    100086: Upper_sash 9
+    100088: WindowDoubleHung35x63
+    100090: WindowDoubleHung35x63 1
+    100092: WindowDoubleHung35x63 10
+    100094: WindowDoubleHung35x63 2
+    100096: WindowDoubleHung35x63 3
+    100098: WindowDoubleHung35x63 4
+    100100: WindowDoubleHung35x63 5
+    100102: WindowDoubleHung35x63 6
+    100104: WindowDoubleHung35x63 7
+    100106: WindowDoubleHung35x63 8
+    100108: WindowDoubleHung35x63 9
+    100110: windowSlider48x48
+    100112: windowSlider48x48 1
+    100114: windowSlider48x48 10
+    100116: windowSlider48x48 11
+    100118: windowSlider48x48 12
+    100120: windowSlider48x48 13
+    100122: windowSlider48x48 14
+    100124: windowSlider48x48 15
+    100126: windowSlider48x48 16
+    100128: windowSlider48x48 17
+    100130: windowSlider48x48 18
+    100132: windowSlider48x48 19
+    100134: windowSlider48x48 2
+    100136: windowSlider48x48 20
+    100138: windowSlider48x48 21
+    100140: windowSlider48x48 22
+    100142: windowSlider48x48 3
+    100144: windowSlider48x48 4
+    100146: windowSlider48x48 5
+    100148: windowSlider48x48 6
+    100150: windowSlider48x48 7
+    100152: windowSlider48x48 8
+    100154: windowSlider48x48 9
+    400000: //RootNode
+    400002: 31001_3d_building
+    400004: 31001_3d_site
+    400006: Door-SglExtHeaderWLite 3'-0x6'-8
+    400008: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    400010: Door-SglExtHeaderWLite 3'-0x6'-8 2
+    400012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    400014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    400016: Door-SglExtHeaderWLite 3'-0x6'-8#1 2
+    400018: Door-SglExtHeaderWLite 3'-0x6'-8#1 3
+    400020: Door_Glass Double_Sidelights
+    400022: Door_Glass Double_Sidelights 1
+    400024: DoubleDoors
+    400026: DoubleDoors 1
+    400028: fantree-sm
+    400030: garage_2.85x2.35#1
+    400032: Group 2
+    400034: Group 29
+    400036: Group 3
+    400038: Group 4
+    400040: Image 1
+    400042: Lower_sash
+    400044: Lower_sash 1
+    400046: Lower_sash 10
+    400048: Lower_sash 2
+    400050: Lower_sash 3
+    400052: Lower_sash 4
+    400054: Lower_sash 5
+    400056: Lower_sash 6
+    400058: Lower_sash 7
+    400060: Lower_sash 8
+    400062: Lower_sash 9
+    400064: rounded-sm#1
+    400066: Upper_sash
+    400068: Upper_sash 1
+    400070: Upper_sash 10
+    400072: Upper_sash 2
+    400074: Upper_sash 3
+    400076: Upper_sash 4
+    400078: Upper_sash 5
+    400080: Upper_sash 6
+    400082: Upper_sash 7
+    400084: Upper_sash 8
+    400086: Upper_sash 9
+    400088: WindowDoubleHung35x63
+    400090: WindowDoubleHung35x63 1
+    400092: WindowDoubleHung35x63 10
+    400094: WindowDoubleHung35x63 2
+    400096: WindowDoubleHung35x63 3
+    400098: WindowDoubleHung35x63 4
+    400100: WindowDoubleHung35x63 5
+    400102: WindowDoubleHung35x63 6
+    400104: WindowDoubleHung35x63 7
+    400106: WindowDoubleHung35x63 8
+    400108: WindowDoubleHung35x63 9
+    400110: windowSlider48x48
+    400112: windowSlider48x48 1
+    400114: windowSlider48x48 10
+    400116: windowSlider48x48 11
+    400118: windowSlider48x48 12
+    400120: windowSlider48x48 13
+    400122: windowSlider48x48 14
+    400124: windowSlider48x48 15
+    400126: windowSlider48x48 16
+    400128: windowSlider48x48 17
+    400130: windowSlider48x48 18
+    400132: windowSlider48x48 19
+    400134: windowSlider48x48 2
+    400136: windowSlider48x48 20
+    400138: windowSlider48x48 21
+    400140: windowSlider48x48 22
+    400142: windowSlider48x48 3
+    400144: windowSlider48x48 4
+    400146: windowSlider48x48 5
+    400148: windowSlider48x48 6
+    400150: windowSlider48x48 7
+    400152: windowSlider48x48 8
+    400154: windowSlider48x48 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_turf_solid
+    2100008: turf
+    2100010: OV_paving_pedestrian
+    2100012: OV_paving_vehicle
+    2100014: OV_shrub_solid
+    2100016: shrubsandgroundcover
+    2100018: OV_shrub_texture
+    2100020: fantree
+    2100022: mapletree
+    2100024: OV_bldg_roof
+    2100026: floor-plate_underside
+    2100028: OV_bldg_wall
+    2100030: apertures
+    2100032: buildingwalls
+    2100034: ApertureGlass
+    2100036: _Ivory_
+    2300000: 31001_3d_building
+    2300002: 31001_3d_site
+    2300004: Door-SglExtHeaderWLite 3'-0x6'-8
+    2300006: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    2300008: Door-SglExtHeaderWLite 3'-0x6'-8 2
+    2300010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    2300012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    2300014: Door-SglExtHeaderWLite 3'-0x6'-8#1 2
+    2300016: Door-SglExtHeaderWLite 3'-0x6'-8#1 3
+    2300018: Door_Glass Double_Sidelights
+    2300020: Door_Glass Double_Sidelights 1
+    2300022: fantree-sm
+    2300024: garage_2.85x2.35#1
+    2300026: Group 29
+    2300028: Group 4
+    2300030: Image 1
+    2300032: Lower_sash
+    2300034: Lower_sash 1
+    2300036: Lower_sash 10
+    2300038: Lower_sash 2
+    2300040: Lower_sash 3
+    2300042: Lower_sash 4
+    2300044: Lower_sash 5
+    2300046: Lower_sash 6
+    2300048: Lower_sash 7
+    2300050: Lower_sash 8
+    2300052: Lower_sash 9
+    2300054: rounded-sm#1
+    2300056: Upper_sash
+    2300058: Upper_sash 1
+    2300060: Upper_sash 10
+    2300062: Upper_sash 2
+    2300064: Upper_sash 3
+    2300066: Upper_sash 4
+    2300068: Upper_sash 5
+    2300070: Upper_sash 6
+    2300072: Upper_sash 7
+    2300074: Upper_sash 8
+    2300076: Upper_sash 9
+    2300078: WindowDoubleHung35x63
+    2300080: WindowDoubleHung35x63 1
+    2300082: WindowDoubleHung35x63 10
+    2300084: WindowDoubleHung35x63 2
+    2300086: WindowDoubleHung35x63 3
+    2300088: WindowDoubleHung35x63 4
+    2300090: WindowDoubleHung35x63 5
+    2300092: WindowDoubleHung35x63 6
+    2300094: WindowDoubleHung35x63 7
+    2300096: WindowDoubleHung35x63 8
+    2300098: WindowDoubleHung35x63 9
+    2300100: windowSlider48x48
+    2300102: windowSlider48x48 1
+    2300104: windowSlider48x48 10
+    2300106: windowSlider48x48 11
+    2300108: windowSlider48x48 12
+    2300110: windowSlider48x48 13
+    2300112: windowSlider48x48 14
+    2300114: windowSlider48x48 15
+    2300116: windowSlider48x48 16
+    2300118: windowSlider48x48 17
+    2300120: windowSlider48x48 18
+    2300122: windowSlider48x48 19
+    2300124: windowSlider48x48 2
+    2300126: windowSlider48x48 20
+    2300128: windowSlider48x48 21
+    2300130: windowSlider48x48 22
+    2300132: windowSlider48x48 3
+    2300134: windowSlider48x48 4
+    2300136: windowSlider48x48 5
+    2300138: windowSlider48x48 6
+    2300140: windowSlider48x48 7
+    2300142: windowSlider48x48 8
+    2300144: windowSlider48x48 9
+    3300000: 31001_3d_building
+    3300002: 31001_3d_site
+    3300004: Door-SglExtHeaderWLite 3'-0x6'-8
+    3300006: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    3300008: Door-SglExtHeaderWLite 3'-0x6'-8 2
+    3300010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    3300012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    3300014: Door-SglExtHeaderWLite 3'-0x6'-8#1 2
+    3300016: Door-SglExtHeaderWLite 3'-0x6'-8#1 3
+    3300018: Door_Glass Double_Sidelights
+    3300020: Door_Glass Double_Sidelights 1
+    3300022: fantree-sm
+    3300024: garage_2.85x2.35#1
+    3300026: Group 29
+    3300028: Group 4
+    3300030: Image 1
+    3300032: Lower_sash
+    3300034: Lower_sash 1
+    3300036: Lower_sash 10
+    3300038: Lower_sash 2
+    3300040: Lower_sash 3
+    3300042: Lower_sash 4
+    3300044: Lower_sash 5
+    3300046: Lower_sash 6
+    3300048: Lower_sash 7
+    3300050: Lower_sash 8
+    3300052: Lower_sash 9
+    3300054: rounded-sm#1
+    3300056: Upper_sash
+    3300058: Upper_sash 1
+    3300060: Upper_sash 10
+    3300062: Upper_sash 2
+    3300064: Upper_sash 3
+    3300066: Upper_sash 4
+    3300068: Upper_sash 5
+    3300070: Upper_sash 6
+    3300072: Upper_sash 7
+    3300074: Upper_sash 8
+    3300076: Upper_sash 9
+    3300078: WindowDoubleHung35x63
+    3300080: WindowDoubleHung35x63 1
+    3300082: WindowDoubleHung35x63 10
+    3300084: WindowDoubleHung35x63 2
+    3300086: WindowDoubleHung35x63 3
+    3300088: WindowDoubleHung35x63 4
+    3300090: WindowDoubleHung35x63 5
+    3300092: WindowDoubleHung35x63 6
+    3300094: WindowDoubleHung35x63 7
+    3300096: WindowDoubleHung35x63 8
+    3300098: WindowDoubleHung35x63 9
+    3300100: windowSlider48x48
+    3300102: windowSlider48x48 1
+    3300104: windowSlider48x48 10
+    3300106: windowSlider48x48 11
+    3300108: windowSlider48x48 12
+    3300110: windowSlider48x48 13
+    3300112: windowSlider48x48 14
+    3300114: windowSlider48x48 15
+    3300116: windowSlider48x48 16
+    3300118: windowSlider48x48 17
+    3300120: windowSlider48x48 18
+    3300122: windowSlider48x48 19
+    3300124: windowSlider48x48 2
+    3300126: windowSlider48x48 20
+    3300128: windowSlider48x48 21
+    3300130: windowSlider48x48 22
+    3300132: windowSlider48x48 3
+    3300134: windowSlider48x48 4
+    3300136: windowSlider48x48 5
+    3300138: windowSlider48x48 6
+    3300140: windowSlider48x48 7
+    3300142: windowSlider48x48 8
+    3300144: windowSlider48x48 9
+    4300000: Mesh 31001-00
+    4300002: Mesh Group 4
+    4300004: Mesh 31001_3d_site
+    4300006: Mesh fantree-sm
+    4300008: Mesh rounded-sm#1
+    4300010: Mesh 31001_3d_building
+    4300012: Mesh Group 29
+    4300014: Mesh windowSlider48x48
+    4300016: Mesh Door-SglExtHeaderWLite 3'-0x6'-8
+    4300018: Mesh garage_2.85x2.35#1
+    4300020: Mesh WindowDoubleHung35x63
+    4300022: Mesh Lower_sash
+    4300024: Mesh Upper_sash
+    4300026: Mesh Door_Glass Double_Sidelights
+    4300028: Mesh Door-SglExtHeaderWLite 3'-0x6'-8#1
+    4300030: Mesh Door_Glass Double_Sidelights
+    4300032: Mesh WindowDoubleHung35x63
+    6400000: 31001_3d_building
+    6400002: 31001_3d_site
+    6400004: Door-SglExtHeaderWLite 3'-0x6'-8
+    6400006: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    6400008: Door-SglExtHeaderWLite 3'-0x6'-8 2
+    6400010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    6400012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    6400014: Door-SglExtHeaderWLite 3'-0x6'-8#1 2
+    6400016: Door-SglExtHeaderWLite 3'-0x6'-8#1 3
+    6400018: Door_Glass Double_Sidelights
+    6400020: Door_Glass Double_Sidelights 1
+    6400022: fantree-sm
+    6400024: garage_2.85x2.35#1
+    6400026: Group 29
+    6400028: Group 4
+    6400030: Image 1
+    6400032: Lower_sash
+    6400034: Lower_sash 1
+    6400036: Lower_sash 10
+    6400038: Lower_sash 2
+    6400040: Lower_sash 3
+    6400042: Lower_sash 4
+    6400044: Lower_sash 5
+    6400046: Lower_sash 6
+    6400048: Lower_sash 7
+    6400050: Lower_sash 8
+    6400052: Lower_sash 9
+    6400054: rounded-sm#1
+    6400056: Upper_sash
+    6400058: Upper_sash 1
+    6400060: Upper_sash 10
+    6400062: Upper_sash 2
+    6400064: Upper_sash 3
+    6400066: Upper_sash 4
+    6400068: Upper_sash 5
+    6400070: Upper_sash 6
+    6400072: Upper_sash 7
+    6400074: Upper_sash 8
+    6400076: Upper_sash 9
+    6400078: WindowDoubleHung35x63
+    6400080: WindowDoubleHung35x63 1
+    6400082: WindowDoubleHung35x63 10
+    6400084: WindowDoubleHung35x63 2
+    6400086: WindowDoubleHung35x63 3
+    6400088: WindowDoubleHung35x63 4
+    6400090: WindowDoubleHung35x63 5
+    6400092: WindowDoubleHung35x63 6
+    6400094: WindowDoubleHung35x63 7
+    6400096: WindowDoubleHung35x63 8
+    6400098: WindowDoubleHung35x63 9
+    6400100: windowSlider48x48
+    6400102: windowSlider48x48 1
+    6400104: windowSlider48x48 10
+    6400106: windowSlider48x48 11
+    6400108: windowSlider48x48 12
+    6400110: windowSlider48x48 13
+    6400112: windowSlider48x48 14
+    6400114: windowSlider48x48 15
+    6400116: windowSlider48x48 16
+    6400118: windowSlider48x48 17
+    6400120: windowSlider48x48 18
+    6400122: windowSlider48x48 19
+    6400124: windowSlider48x48 2
+    6400126: windowSlider48x48 20
+    6400128: windowSlider48x48 21
+    6400130: windowSlider48x48 22
+    6400132: windowSlider48x48 3
+    6400134: windowSlider48x48 4
+    6400136: windowSlider48x48 5
+    6400138: windowSlider48x48 6
+    6400140: windowSlider48x48 7
+    6400142: windowSlider48x48 8
+    6400144: windowSlider48x48 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: bddecdf493e6e2e4cbc46523adfff5bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 9d9980c5e3c15a740b52e3ca335ef55d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 1aee25991d834be4fab81c864948ad5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 8b1a382d36195fc42b02cbc5df14cc1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: de6e1f2d67cbdb447bf0de60b2f4574e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: cf2c18c987f22fd4a8c78b0038c73263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 625b82604352ef243a901f17071980ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 8fa5f6e41653e2d4a9129d6cb6848886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 1fbbfacc574e51446accbc2d348405db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 410e56a89f7c4494a93fda2f155ede66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivory_
+    second: {fileID: 2100000, guid: 953f19e4785a12344ba883b2b69e6c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 5287d18294955b24c8190736271f9a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apertures
+    second: {fileID: 2100000, guid: 5cc23981e697f3d428fd09719ab6471b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: aac9f4d2b94ed044e8893b585ccaeafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: 1c14509bf90092149a8e86e9ebb9e7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor-plate_underside
+    second: {fileID: 2100000, guid: f836d7a97414e1640ac4079dc4c5bb87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 62d2ad4112d6b0047b92163321524852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubsandgroundcover
+    second: {fileID: 2100000, guid: bf89c7d77c439c5469c76e4446078b0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turf
+    second: {fileID: 2100000, guid: 511b50b8046c9e74f8c9b6b396490fcd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

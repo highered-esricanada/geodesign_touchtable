@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{6909E856-1850-18B5-8905-2CBB6A352278}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BuildingHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Serialization/SerializationManager.cs" Line="39" Column="12" />
+      <File FileName="Assets/Scripts/SaveData.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/BuildingData.cs" />
+      <File FileName="Assets/Scripts/Serialization/Vector3SerializationSurrogate.cs" />
+      <File FileName="Assets/Scripts/Serialization/QuaternionSerializationSettings.cs" />
+      <File FileName="Assets/Scripts/BuildingHandler.cs" Line="20" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TouchScript-SlippyMap" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Serialization" expanded="True" />
+                <Node name="BuildingHandler.cs" selected="True" />
+              </Node>
+              <Node name="TestScripts" expanded="True" />
+              <Node name="TouchScript" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Behaviors" expanded="True">
+                    <Node name="UI" expanded="True" />
+                  </Node>
+                  <Node name="Core" expanded="True" />
+                  <Node name="Gestures" expanded="True" />
+                  <Node name="InputSources" expanded="True" />
+                  <Node name="Layers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="UnitySlippyMap" expanded="True">
+                <Node name="Input" expanded="True" />
+                <Node name="Map" expanded="True" />
+                <Node name="Markers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f3c94ec-d387-417d-a3d4-446f855572a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

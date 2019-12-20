@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 43936265374fcd248ba8ffaa9165c2b3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008300000084000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 793fe0b8df067ad8976699215c15ec8e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 26.534063, y: 18.413946, z: -47.452866}
+      lookAt: {x: -22.154, y: -16.718925, z: 23.573683}
+      up: {x: -0.2135863, y: 0.9259038, z: 0.31158146}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 2.8588197, y: 88.50216, z: -3.3484974}
+        lookAt: {x: 2.8588197, y: 4.50069, z: -3.3484974}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1821.8512
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 26.534063, y: 18.413946, z: -47.452866}
+        lookAt: {x: -22.154, y: -16.718925, z: 23.573683}
+        up: {x: -0.2135863, y: 0.9259038, z: 0.31158146}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 26.534063, y: 18.413946, z: -47.452866}
+        lookAt: {x: -22.154, y: -16.718925, z: 23.573683}
+        up: {x: -0.2135863, y: 0.9259038, z: 0.31158146}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33016_3d_site
+    100004: building
+    100006: bulbtree-med
+    100008: Door-SglExtHeaderWLite 3'-0x6'-8
+    100010: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    100012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    100014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    100016: Door_lite_1.15x2.2
+    100018: Door_lite_1.15x2.2 1
+    100020: Door_lite_1.15x2.2 2
+    100022: Door_lite_1.15x2.2 3
+    100024: Door_lite_1.15x2.2 4
+    100026: fantree-sm
+    100028: fantree-sm 1
+    100030: Image 1
+    100032: scale_obq
+    100034: step
+    100036: step 1
+    100038: step 10
+    100040: step 11
+    100042: step 12
+    100044: step 13
+    100046: step 14
+    100048: step 15
+    100050: step 16
+    100052: step 17
+    100054: step 18
+    100056: step 19
+    100058: step 2
+    100060: step 20
+    100062: step 21
+    100064: step 22
+    100066: step 23
+    100068: step 24
+    100070: step 25
+    100072: step 3
+    100074: step 4
+    100076: step 5
+    100078: step 6
+    100080: step 7
+    100082: step 8
+    100084: step 9
+    100086: win01
+    100088: win01 1
+    100090: win02
+    100092: win03
+    100094: Window_addition21c
+    100096: Window_addition21c 1
+    100098: Window_minframe_0.43x0.92
+    100100: Window_minframe_0.43x0.92 1
+    100102: Window_minframe_0.73x0.92
+    100104: Window_minframe_0.73x0.92 1
+    100106: Window_minframe_0.73x0.92 2
+    100108: Window_minframe_0.73x0.92 3
+    100110: Window_minframe_0.73x0.92 4
+    100112: Window_minframe_0.73x0.92 5
+    100114: Window_minframe_0.73x0.92 6
+    100116: Window_minframe_0.73x0.92 7
+    100118: Window_minframe_0.73x0.92 8
+    100120: Window_minframe_1.44x1.0
+    100122: Window_minframe_1.44x1.0 1
+    100124: Window_minframe_1.44x1.0 2
+    100126: Window_minframe_1.44x1.0 3
+    400000: //RootNode
+    400002: 33016_3d_site
+    400004: building
+    400006: bulbtree-med
+    400008: Door-SglExtHeaderWLite 3'-0x6'-8
+    400010: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    400012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    400014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    400016: Door_lite_1.15x2.2
+    400018: Door_lite_1.15x2.2 1
+    400020: Door_lite_1.15x2.2 2
+    400022: Door_lite_1.15x2.2 3
+    400024: Door_lite_1.15x2.2 4
+    400026: fantree-sm
+    400028: fantree-sm 1
+    400030: Image 1
+    400032: scale_obq
+    400034: step
+    400036: step 1
+    400038: step 10
+    400040: step 11
+    400042: step 12
+    400044: step 13
+    400046: step 14
+    400048: step 15
+    400050: step 16
+    400052: step 17
+    400054: step 18
+    400056: step 19
+    400058: step 2
+    400060: step 20
+    400062: step 21
+    400064: step 22
+    400066: step 23
+    400068: step 24
+    400070: step 25
+    400072: step 3
+    400074: step 4
+    400076: step 5
+    400078: step 6
+    400080: step 7
+    400082: step 8
+    400084: step 9
+    400086: win01
+    400088: win01 1
+    400090: win02
+    400092: win03
+    400094: Window_addition21c
+    400096: Window_addition21c 1
+    400098: Window_minframe_0.43x0.92
+    400100: Window_minframe_0.43x0.92 1
+    400102: Window_minframe_0.73x0.92
+    400104: Window_minframe_0.73x0.92 1
+    400106: Window_minframe_0.73x0.92 2
+    400108: Window_minframe_0.73x0.92 3
+    400110: Window_minframe_0.73x0.92 4
+    400112: Window_minframe_0.73x0.92 5
+    400114: Window_minframe_0.73x0.92 6
+    400116: Window_minframe_0.73x0.92 7
+    400118: Window_minframe_0.73x0.92 8
+    400120: Window_minframe_1.44x1.0
+    400122: Window_minframe_1.44x1.0 1
+    400124: Window_minframe_1.44x1.0 2
+    400126: Window_minframe_1.44x1.0 3
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_bldg_roof
+    2100010: _Terrazzo_
+    2100012: _Grass_
+    2100014: ApertureGlass
+    2100016: _Ivory_
+    2100018: _8
+    2100020: OV_bldg_accent
+    2100022: OV_paving_pedestrian
+    2100024: OV_turf_solid
+    2100026: OV_shrub_texture
+    2100028: OV_paving general
+    2100030: OV_paving_vehicle
+    2100032: fantree
+    2100034: roundedtree
+    2300000: 33016_3d_site
+    2300002: building
+    2300004: bulbtree-med
+    2300006: Door-SglExtHeaderWLite 3'-0x6'-8
+    2300008: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    2300010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    2300012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    2300014: Door_lite_1.15x2.2
+    2300016: Door_lite_1.15x2.2 1
+    2300018: Door_lite_1.15x2.2 2
+    2300020: Door_lite_1.15x2.2 3
+    2300022: Door_lite_1.15x2.2 4
+    2300024: fantree-sm
+    2300026: fantree-sm 1
+    2300028: Image 1
+    2300030: scale_obq
+    2300032: step
+    2300034: step 1
+    2300036: step 10
+    2300038: step 11
+    2300040: step 12
+    2300042: step 13
+    2300044: step 14
+    2300046: step 15
+    2300048: step 16
+    2300050: step 17
+    2300052: step 18
+    2300054: step 19
+    2300056: step 2
+    2300058: step 20
+    2300060: step 21
+    2300062: step 22
+    2300064: step 23
+    2300066: step 24
+    2300068: step 25
+    2300070: step 3
+    2300072: step 4
+    2300074: step 5
+    2300076: step 6
+    2300078: step 7
+    2300080: step 8
+    2300082: step 9
+    2300084: win01
+    2300086: win01 1
+    2300088: win02
+    2300090: win03
+    2300092: Window_addition21c
+    2300094: Window_addition21c 1
+    2300096: Window_minframe_0.43x0.92
+    2300098: Window_minframe_0.43x0.92 1
+    2300100: Window_minframe_0.73x0.92
+    2300102: Window_minframe_0.73x0.92 1
+    2300104: Window_minframe_0.73x0.92 2
+    2300106: Window_minframe_0.73x0.92 3
+    2300108: Window_minframe_0.73x0.92 4
+    2300110: Window_minframe_0.73x0.92 5
+    2300112: Window_minframe_0.73x0.92 6
+    2300114: Window_minframe_0.73x0.92 7
+    2300116: Window_minframe_0.73x0.92 8
+    2300118: Window_minframe_1.44x1.0
+    2300120: Window_minframe_1.44x1.0 1
+    2300122: Window_minframe_1.44x1.0 2
+    2300124: Window_minframe_1.44x1.0 3
+    3300000: 33016_3d_site
+    3300002: building
+    3300004: bulbtree-med
+    3300006: Door-SglExtHeaderWLite 3'-0x6'-8
+    3300008: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    3300010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    3300012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    3300014: Door_lite_1.15x2.2
+    3300016: Door_lite_1.15x2.2 1
+    3300018: Door_lite_1.15x2.2 2
+    3300020: Door_lite_1.15x2.2 3
+    3300022: Door_lite_1.15x2.2 4
+    3300024: fantree-sm
+    3300026: fantree-sm 1
+    3300028: Image 1
+    3300030: scale_obq
+    3300032: step
+    3300034: step 1
+    3300036: step 10
+    3300038: step 11
+    3300040: step 12
+    3300042: step 13
+    3300044: step 14
+    3300046: step 15
+    3300048: step 16
+    3300050: step 17
+    3300052: step 18
+    3300054: step 19
+    3300056: step 2
+    3300058: step 20
+    3300060: step 21
+    3300062: step 22
+    3300064: step 23
+    3300066: step 24
+    3300068: step 25
+    3300070: step 3
+    3300072: step 4
+    3300074: step 5
+    3300076: step 6
+    3300078: step 7
+    3300080: step 8
+    3300082: step 9
+    3300084: win01
+    3300086: win01 1
+    3300088: win02
+    3300090: win03
+    3300092: Window_addition21c
+    3300094: Window_addition21c 1
+    3300096: Window_minframe_0.43x0.92
+    3300098: Window_minframe_0.43x0.92 1
+    3300100: Window_minframe_0.73x0.92
+    3300102: Window_minframe_0.73x0.92 1
+    3300104: Window_minframe_0.73x0.92 2
+    3300106: Window_minframe_0.73x0.92 3
+    3300108: Window_minframe_0.73x0.92 4
+    3300110: Window_minframe_0.73x0.92 5
+    3300112: Window_minframe_0.73x0.92 6
+    3300114: Window_minframe_0.73x0.92 7
+    3300116: Window_minframe_0.73x0.92 8
+    3300118: Window_minframe_1.44x1.0
+    3300120: Window_minframe_1.44x1.0 1
+    3300122: Window_minframe_1.44x1.0 2
+    3300124: Window_minframe_1.44x1.0 3
+    4300000: Mesh 33016-00
+    4300002: Mesh scale_obq
+    4300004: Mesh building
+    4300006: Mesh win03
+    4300008: Mesh win01
+    4300010: Mesh Door-SglExtHeaderWLite 3'-0x6'-8#1
+    4300012: Mesh Door-SglExtHeaderWLite 3'-0x6'-8
+    4300014: Mesh win02
+    4300016: Mesh Window_addition21c
+    4300018: Mesh Door_lite_1.15x2.2
+    4300020: Mesh Window_minframe_0.43x0.92
+    4300022: Mesh Window_minframe_1.44x1.0
+    4300024: Mesh Window_minframe_0.73x0.92
+    4300026: Mesh step
+    4300028: Mesh 33016_3d_site
+    4300030: Mesh fantree-sm
+    4300032: Mesh bulbtree-med
+    6400000: 33016_3d_site
+    6400002: building
+    6400004: bulbtree-med
+    6400006: Door-SglExtHeaderWLite 3'-0x6'-8
+    6400008: Door-SglExtHeaderWLite 3'-0x6'-8 1
+    6400010: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    6400012: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    6400014: Door_lite_1.15x2.2
+    6400016: Door_lite_1.15x2.2 1
+    6400018: Door_lite_1.15x2.2 2
+    6400020: Door_lite_1.15x2.2 3
+    6400022: Door_lite_1.15x2.2 4
+    6400024: fantree-sm
+    6400026: fantree-sm 1
+    6400028: Image 1
+    6400030: scale_obq
+    6400032: step
+    6400034: step 1
+    6400036: step 10
+    6400038: step 11
+    6400040: step 12
+    6400042: step 13
+    6400044: step 14
+    6400046: step 15
+    6400048: step 16
+    6400050: step 17
+    6400052: step 18
+    6400054: step 19
+    6400056: step 2
+    6400058: step 20
+    6400060: step 21
+    6400062: step 22
+    6400064: step 23
+    6400066: step 24
+    6400068: step 25
+    6400070: step 3
+    6400072: step 4
+    6400074: step 5
+    6400076: step 6
+    6400078: step 7
+    6400080: step 8
+    6400082: step 9
+    6400084: win01
+    6400086: win01 1
+    6400088: win02
+    6400090: win03
+    6400092: Window_addition21c
+    6400094: Window_addition21c 1
+    6400096: Window_minframe_0.43x0.92
+    6400098: Window_minframe_0.43x0.92 1
+    6400100: Window_minframe_0.73x0.92
+    6400102: Window_minframe_0.73x0.92 1
+    6400104: Window_minframe_0.73x0.92 2
+    6400106: Window_minframe_0.73x0.92 3
+    6400108: Window_minframe_0.73x0.92 4
+    6400110: Window_minframe_0.73x0.92 5
+    6400112: Window_minframe_0.73x0.92 6
+    6400114: Window_minframe_0.73x0.92 7
+    6400116: Window_minframe_0.73x0.92 8
+    6400118: Window_minframe_1.44x1.0
+    6400120: Window_minframe_1.44x1.0 1
+    6400122: Window_minframe_1.44x1.0 2
+    6400124: Window_minframe_1.44x1.0 3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 3a7debaa43848e4439b6f1aed04e0f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 726d68a0df65ec94abffc60b6150972e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 36ade9bf71ae02c42af3bfee22a7fc8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 1d2a27ef73e76374db02fa3c3b23229d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: df414b8df6107e5449d60a800a508a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 9f29aacd4680f0547a434872182a699e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 8e6ca4091fc2cf141bbcb7885a263168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: c4c554b94b4360d44962b30407ece97b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 988faee85ae886e48b85a55d1ac31866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: ea63200aa43538347a5832f975c6cc82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 59249ff888a97e345a9452c04d45bd02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8
+    second: {fileID: 2100000, guid: 24177dfb13225c645b46261cefdd5726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Grass_
+    second: {fileID: 2100000, guid: 6f864efb22fd2e34eb0543c75f06040c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivory_
+    second: {fileID: 2100000, guid: 02b573eefef2b644d858c5d06da50935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Terrazzo_
+    second: {fileID: 2100000, guid: 40e6e3849325143418ac9b2c7f04371a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: ebfc431505acbe64893ce21a2863e1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: 88a1eb473d081fc429570a47be3cd03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: f54f70db281e68c4eaf00208c6205b1a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

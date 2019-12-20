@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 34cabf368eb4acb4aaccb2503300ed28
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 55edb0b5a7e87cfc672301f9a4c4b80d
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 46.306156, y: 21.281754, z: -50.882236}
+      lookAt: {x: 7.6838393, y: 4.820964, z: -7.61204}
+      up: {x: -0.18180765, y: 0.9620071, z: 0.20368671}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 46.306156, y: 21.281754, z: -50.882236}
+        lookAt: {x: 7.6838393, y: 4.820964, z: -7.61204}
+        up: {x: -0.18180765, y: 0.9620071, z: 0.20368671}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -0.564674, y: 190.94748, z: 0.6734734}
+        lookAt: {x: -0.564674, y: 6.5259356, z: 0.6734734}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2019.147
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 24002_3d_site
+    100004: Group 2
+    100006: Image 1
+    100008: sectiontree_rounded_sm
+    100010: sectiontree_rounded_sm 1
+    100012: sectiontree_rounded_sm 2
+    100014: sectiontree_rounded_sm 3
+    100016: sectiontree_rounded_sm 4
+    100018: sectiontree_rounded_sm 5
+    100020: sectiontree_rounded_sm 6
+    100022: sectiontree_rounded_sm 7
+    100024: sectiontree_rounded_sm 8
+    100026: sectiontree_rounded_sm 9
+    400000: //RootNode
+    400002: 24002_3d_site
+    400004: Group 2
+    400006: Image 1
+    400008: sectiontree_rounded_sm
+    400010: sectiontree_rounded_sm 1
+    400012: sectiontree_rounded_sm 2
+    400014: sectiontree_rounded_sm 3
+    400016: sectiontree_rounded_sm 4
+    400018: sectiontree_rounded_sm 5
+    400020: sectiontree_rounded_sm 6
+    400022: sectiontree_rounded_sm 7
+    400024: sectiontree_rounded_sm 8
+    400026: sectiontree_rounded_sm 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: mapletree2
+    2100008: OV_paving_pedestrian
+    2100010: OV_paving general
+    2100012: OV_surface_other
+    2100014: OV_paving_vehicle
+    2300000: 24002_3d_site
+    2300002: Group 2
+    2300004: Image 1
+    2300006: sectiontree_rounded_sm
+    2300008: sectiontree_rounded_sm 1
+    2300010: sectiontree_rounded_sm 2
+    2300012: sectiontree_rounded_sm 3
+    2300014: sectiontree_rounded_sm 4
+    2300016: sectiontree_rounded_sm 5
+    2300018: sectiontree_rounded_sm 6
+    2300020: sectiontree_rounded_sm 7
+    2300022: sectiontree_rounded_sm 8
+    2300024: sectiontree_rounded_sm 9
+    3300000: 24002_3d_site
+    3300002: Group 2
+    3300004: Image 1
+    3300006: sectiontree_rounded_sm
+    3300008: sectiontree_rounded_sm 1
+    3300010: sectiontree_rounded_sm 2
+    3300012: sectiontree_rounded_sm 3
+    3300014: sectiontree_rounded_sm 4
+    3300016: sectiontree_rounded_sm 5
+    3300018: sectiontree_rounded_sm 6
+    3300020: sectiontree_rounded_sm 7
+    3300022: sectiontree_rounded_sm 8
+    3300024: sectiontree_rounded_sm 9
+    4300000: Mesh 24002-00
+    4300002: Mesh Group 2
+    4300004: Mesh sectiontree_rounded_sm
+    4300006: Mesh 24002_3d_site
+    6400000: 24002_3d_site
+    6400002: Group 2
+    6400004: Image 1
+    6400006: sectiontree_rounded_sm
+    6400008: sectiontree_rounded_sm 1
+    6400010: sectiontree_rounded_sm 2
+    6400012: sectiontree_rounded_sm 3
+    6400014: sectiontree_rounded_sm 4
+    6400016: sectiontree_rounded_sm 5
+    6400018: sectiontree_rounded_sm 6
+    6400020: sectiontree_rounded_sm 7
+    6400022: sectiontree_rounded_sm 8
+    6400024: sectiontree_rounded_sm 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 0954418d383c5554782342dd65f03033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 1f57ee05572cf6040a7237a1b7af7e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 674aa862c6dd00e45b533c28bd53e92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 81bdcdbd872c734488143dad33ea9243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: f423352082435fc40a2aca91c9d8744d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 8cae4a3a64fc3204095adc0d833ecf75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 2181200af6f146e4e8e739ad8b0d895e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree2
+    second: {fileID: 2100000, guid: cf22b77e8f8319a42b58f53ae23f3906, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

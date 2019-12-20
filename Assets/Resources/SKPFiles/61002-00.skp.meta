@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: e7b1ad8e21c2fa949b840839b81dbda6
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000410000004300000044000000450000004700000048000000490000004b0000004c0000004d0000004f00000050000000510000005300000054000000550000005700000058000000590000005b0000005c0000005d0000005f000000600000006100000062000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fbaba57f87dcbd2e4680214f15d7908f
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -50.624065, y: 31.013824, z: -93.5578}
+      lookAt: {x: 15.069039, y: -14.574303, z: 37.596592}
+      up: {x: 0.13291287, y: 0.954945, z: 0.26535672}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.19655691, y: 210.49057, z: -1.5886285}
+        lookAt: {x: 0.19655691, y: 188.62787, z: -1.5886285}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3026.421
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -50.624065, y: 31.013824, z: -93.5578}
+        lookAt: {x: 15.069039, y: -14.574303, z: 37.596592}
+        up: {x: 0.13291287, y: 0.954945, z: 0.26535672}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -50.624065, y: 31.013824, z: -93.5578}
+        lookAt: {x: 15.069039, y: -14.574303, z: 37.596592}
+        up: {x: 0.13291287, y: 0.954945, z: 0.26535672}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 61002_3d_site
+    100004: deciduous small
+    100006: deciduous small 1
+    100008: deciduous small 2
+    100010: deciduous small 3
+    100012: deciduous small 4
+    100014: deciduous small 5
+    100016: deciduous small 6
+    100018: deciduous small 7
+    100020: deciduoustree
+    100022: deciduoustree 1
+    100024: deciduoustree 2
+    100026: deciduoustree 3
+    100028: deciduoustree 4
+    100030: deciduoustree 5
+    100032: deciduoustree 6
+    100034: deciduoustree 7
+    100036: Door_glass_slider_1.8x.2.08
+    100038: Door_glass_slider_1.8x.2.08 1
+    100040: Door_glass_slider_1.8x.2.08 2
+    100042: Door_plain_0.7x2.1
+    100044: Door_plain_1.0x2.1#1
+    100046: garage_2.85x2.35#1
+    100048: garage_2.85x2.35#1 1
+    100050: garage_2.85x2.35#1 10
+    100052: garage_2.85x2.35#1 11
+    100054: garage_2.85x2.35#1 12
+    100056: garage_2.85x2.35#1 13
+    100058: garage_2.85x2.35#1 14
+    100060: garage_2.85x2.35#1 15
+    100062: garage_2.85x2.35#1 16
+    100064: garage_2.85x2.35#1 2
+    100066: garage_2.85x2.35#1 3
+    100068: garage_2.85x2.35#1 4
+    100070: garage_2.85x2.35#1 5
+    100072: garage_2.85x2.35#1 6
+    100074: garage_2.85x2.35#1 7
+    100076: garage_2.85x2.35#1 8
+    100078: garage_2.85x2.35#1 9
+    100080: Group 11
+    100082: Group 61
+    100084: Group 7
+    100086: Group 9
+    100088: Image 1
+    100090: Window_addition21a#1
+    100092: Window_addition21a#1 1
+    400000: //RootNode
+    400002: 61002_3d_site
+    400004: deciduous small
+    400006: deciduous small 1
+    400008: deciduous small 2
+    400010: deciduous small 3
+    400012: deciduous small 4
+    400014: deciduous small 5
+    400016: deciduous small 6
+    400018: deciduous small 7
+    400020: deciduoustree
+    400022: deciduoustree 1
+    400024: deciduoustree 2
+    400026: deciduoustree 3
+    400028: deciduoustree 4
+    400030: deciduoustree 5
+    400032: deciduoustree 6
+    400034: deciduoustree 7
+    400036: Door_glass_slider_1.8x.2.08
+    400038: Door_glass_slider_1.8x.2.08 1
+    400040: Door_glass_slider_1.8x.2.08 2
+    400042: Door_plain_0.7x2.1
+    400044: Door_plain_1.0x2.1#1
+    400046: garage_2.85x2.35#1
+    400048: garage_2.85x2.35#1 1
+    400050: garage_2.85x2.35#1 10
+    400052: garage_2.85x2.35#1 11
+    400054: garage_2.85x2.35#1 12
+    400056: garage_2.85x2.35#1 13
+    400058: garage_2.85x2.35#1 14
+    400060: garage_2.85x2.35#1 15
+    400062: garage_2.85x2.35#1 16
+    400064: garage_2.85x2.35#1 2
+    400066: garage_2.85x2.35#1 3
+    400068: garage_2.85x2.35#1 4
+    400070: garage_2.85x2.35#1 5
+    400072: garage_2.85x2.35#1 6
+    400074: garage_2.85x2.35#1 7
+    400076: garage_2.85x2.35#1 8
+    400078: garage_2.85x2.35#1 9
+    400080: Group 11
+    400082: Group 61
+    400084: Group 7
+    400086: Group 9
+    400088: Image 1
+    400090: Window_addition21a#1
+    400092: Window_addition21a#1 1
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_bldg_accent
+    2100006: floor-plate_underside
+    2100008: buildingwalls
+    2100010: OV_bldg_wall
+    2100012: ApertureGlass
+    2100014: OV_bldg_roof
+    2100016: 0_label
+    2100018: deciduous
+    2100020: OV_paving_general
+    2100022: paving
+    2100024: turf
+    2100026: OV_paving_pedestrian
+    2100028: OV_shrub_texture
+    2100030: shrub_texture
+    2300000: 61002_3d_site
+    2300002: deciduoustree
+    2300004: deciduoustree 1
+    2300006: deciduoustree 2
+    2300008: deciduoustree 3
+    2300010: deciduoustree 4
+    2300012: deciduoustree 5
+    2300014: deciduoustree 6
+    2300016: deciduoustree 7
+    2300018: Door_glass_slider_1.8x.2.08
+    2300020: Door_glass_slider_1.8x.2.08 1
+    2300022: Door_glass_slider_1.8x.2.08 2
+    2300024: Door_plain_0.7x2.1
+    2300026: Door_plain_1.0x2.1#1
+    2300028: garage_2.85x2.35#1
+    2300030: garage_2.85x2.35#1 1
+    2300032: garage_2.85x2.35#1 10
+    2300034: garage_2.85x2.35#1 11
+    2300036: garage_2.85x2.35#1 12
+    2300038: garage_2.85x2.35#1 13
+    2300040: garage_2.85x2.35#1 14
+    2300042: garage_2.85x2.35#1 15
+    2300044: garage_2.85x2.35#1 16
+    2300046: garage_2.85x2.35#1 2
+    2300048: garage_2.85x2.35#1 3
+    2300050: garage_2.85x2.35#1 4
+    2300052: garage_2.85x2.35#1 5
+    2300054: garage_2.85x2.35#1 6
+    2300056: garage_2.85x2.35#1 7
+    2300058: garage_2.85x2.35#1 8
+    2300060: garage_2.85x2.35#1 9
+    2300062: Group 11
+    2300064: Group 61
+    2300066: Group 7
+    2300068: Group 9
+    2300070: Image 1
+    2300072: Window_addition21a#1
+    2300074: Window_addition21a#1 1
+    3300000: 61002_3d_site
+    3300002: deciduoustree
+    3300004: deciduoustree 1
+    3300006: deciduoustree 2
+    3300008: deciduoustree 3
+    3300010: deciduoustree 4
+    3300012: deciduoustree 5
+    3300014: deciduoustree 6
+    3300016: deciduoustree 7
+    3300018: Door_glass_slider_1.8x.2.08
+    3300020: Door_glass_slider_1.8x.2.08 1
+    3300022: Door_glass_slider_1.8x.2.08 2
+    3300024: Door_plain_0.7x2.1
+    3300026: Door_plain_1.0x2.1#1
+    3300028: garage_2.85x2.35#1
+    3300030: garage_2.85x2.35#1 1
+    3300032: garage_2.85x2.35#1 10
+    3300034: garage_2.85x2.35#1 11
+    3300036: garage_2.85x2.35#1 12
+    3300038: garage_2.85x2.35#1 13
+    3300040: garage_2.85x2.35#1 14
+    3300042: garage_2.85x2.35#1 15
+    3300044: garage_2.85x2.35#1 16
+    3300046: garage_2.85x2.35#1 2
+    3300048: garage_2.85x2.35#1 3
+    3300050: garage_2.85x2.35#1 4
+    3300052: garage_2.85x2.35#1 5
+    3300054: garage_2.85x2.35#1 6
+    3300056: garage_2.85x2.35#1 7
+    3300058: garage_2.85x2.35#1 8
+    3300060: garage_2.85x2.35#1 9
+    3300062: Group 11
+    3300064: Group 61
+    3300066: Group 7
+    3300068: Group 9
+    3300070: Image 1
+    3300072: Window_addition21a#1
+    3300074: Window_addition21a#1 1
+    4300000: Mesh 61002-00
+    4300002: Mesh Group 7
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh garage_2.85x2.35#1
+    4300010: Mesh Door_glass_slider_1.8x.2.08
+    4300012: Mesh Door_plain_1.0x2.1#1
+    4300014: Mesh Door_plain_0.7x2.1
+    4300016: Mesh Window_addition21a#1
+    4300018: Mesh Group 61
+    4300020: Mesh deciduoustree
+    4300022: Mesh deciduoustree
+    4300024: Mesh 61002_3d_site
+    6400000: 61002_3d_site
+    6400002: deciduoustree
+    6400004: deciduoustree 1
+    6400006: deciduoustree 2
+    6400008: deciduoustree 3
+    6400010: deciduoustree 4
+    6400012: deciduoustree 5
+    6400014: deciduoustree 6
+    6400016: deciduoustree 7
+    6400018: Door_glass_slider_1.8x.2.08
+    6400020: Door_glass_slider_1.8x.2.08 1
+    6400022: Door_glass_slider_1.8x.2.08 2
+    6400024: Door_plain_0.7x2.1
+    6400026: Door_plain_1.0x2.1#1
+    6400028: garage_2.85x2.35#1
+    6400030: garage_2.85x2.35#1 1
+    6400032: garage_2.85x2.35#1 10
+    6400034: garage_2.85x2.35#1 11
+    6400036: garage_2.85x2.35#1 12
+    6400038: garage_2.85x2.35#1 13
+    6400040: garage_2.85x2.35#1 14
+    6400042: garage_2.85x2.35#1 15
+    6400044: garage_2.85x2.35#1 16
+    6400046: garage_2.85x2.35#1 2
+    6400048: garage_2.85x2.35#1 3
+    6400050: garage_2.85x2.35#1 4
+    6400052: garage_2.85x2.35#1 5
+    6400054: garage_2.85x2.35#1 6
+    6400056: garage_2.85x2.35#1 7
+    6400058: garage_2.85x2.35#1 8
+    6400060: garage_2.85x2.35#1 9
+    6400062: Group 11
+    6400064: Group 61
+    6400066: Group 7
+    6400068: Group 9
+    6400070: Image 1
+    6400072: Window_addition21a#1
+    6400074: Window_addition21a#1 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 4c6d4c30dbc9f7f4aa759fa4984daf85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: b8d84b058e561954a86dc5c864ea05da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 45fc1dd17500f324b8f0337332af4f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: ad382d62503f7f84baf4477d5bd571f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: a0591ffd2bbe8b64b8befa4abe9abf7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: ae2cceb8ff27edb46a0b2acb3cd2acf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 9d066ad7f2a512a439d558745cffa516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 2161195ac21082148a60c7677bf96908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 6e35887cc51db764ca8c74ff2d6a9b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 8a862ddb8769a4a4cbc2f5f23a961522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 4ab9423925e126a45a76cf6f24e96cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deciduous
+    second: {fileID: 2100000, guid: a6046bcaee933e440b278a843fef6c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor-plate_underside
+    second: {fileID: 2100000, guid: fc6d66e27130c8c41a14e5c043fb3604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paving
+    second: {fileID: 2100000, guid: 6a55d172dd4a2ed498c40cc572f5428c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrub_texture
+    second: {fileID: 2100000, guid: 6925cb74eed7ed543bf829200f15800e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turf
+    second: {fileID: 2100000, guid: 45d3b21086dadaf4e9feabc3b5d774fb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

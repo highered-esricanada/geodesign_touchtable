@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 4f27431f275cce34e96ff546dc843ea5
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100009001000091010000920100009301000094010000950100009601000097010000990100009a0100009c0100009d0100009f010000a0010000a2010000a3010000a5010000a6010000a8010000a9010000ab010000ac010000ae010000af010000b1010000b2010000b4010000b5010000b7010000b8010000ba010000bb010000bd010000be010000c0010000c1010000c3010000c4010000c6010000c7010000c9010000ca010000cc010000cd010000cf010000d0010000d2010000d3010000d5010000d6010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3f408dbc50816076d5075318f505ffdc
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 63.82331, y: 52.108707, z: -115.83959}
+      lookAt: {x: -5762.0674, y: -5288.235, z: 10424.573}
+      up: {x: -0.19609211, y: 0.914156, z: 0.35477695}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 5.9238567, y: 191.78978, z: 0.55689454}
+        lookAt: {x: 5.9238567, y: 11.9636, z: 0.55689454}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 4578.799
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 63.82331, y: 52.108707, z: -115.83959}
+        lookAt: {x: -5762.0674, y: -5288.235, z: 10424.573}
+        up: {x: -0.19609211, y: 0.914156, z: 0.35477695}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 63.82331, y: 52.108707, z: -115.83959}
+        lookAt: {x: -5762.0674, y: -5288.235, z: 10424.573}
+        up: {x: -0.19609211, y: 0.914156, z: 0.35477695}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 63001_3d_building
+    100004: 63001_3d_site
+    100006: 63001_ov
+    100008: Door_com_double_2.2x2.2
+    100010: Door_com_double_2.2x2.2 1
+    100012: Door_com_double_2.2x2.2#2
+    100014: Door_plain_1.0x2.1#1
+    100016: Door_plain_1.0x2.1#1 1
+    100018: gazebo
+    100020: gazebo_cap
+    100022: Image 1
+    100024: scale_obq
+    100026: tree_conifer_S
+    100028: tree_round_S
+    100030: tree_round_S 1
+    100032: tree_round_S 10
+    100034: tree_round_S 11
+    100036: tree_round_S 12
+    100038: tree_round_S 13
+    100040: tree_round_S 14
+    100042: tree_round_S 15
+    100044: tree_round_S 16
+    100046: tree_round_S 17
+    100048: tree_round_S 18
+    100050: tree_round_S 19
+    100052: tree_round_S 2
+    100054: tree_round_S 20
+    100056: tree_round_S 3
+    100058: tree_round_S 4
+    100060: tree_round_S 5
+    100062: tree_round_S 6
+    100064: tree_round_S 7
+    100066: tree_round_S 8
+    100068: tree_round_S 9
+    100070: Window_apron_double_1.86x1.9
+    100072: Window_apron_double_1.86x1.9 1
+    100074: Window_apron_double_1.86x1.9 2
+    100076: Window_apron_double_1.86x1.9 3
+    100078: Window_apron_double_1.86x1.9 4
+    100080: Window_apron_double_1.86x1.9 5
+    100082: Window_apron_double_1.86x1.9 6
+    100084: Window_apron_double_1.86x1.9 7
+    100086: Window_apron_double_1.86x1.9 8
+    100088: Window_apron_double_1.86x1.9 9
+    100090: Window_apron_double_1.86x1.9#1
+    100092: Window_apron_double_1.86x1.9#1 1
+    100094: Window_apron_double_1.86x1.9#1 10
+    100096: Window_apron_double_1.86x1.9#1 11
+    100098: Window_apron_double_1.86x1.9#1 12
+    100100: Window_apron_double_1.86x1.9#1 13
+    100102: Window_apron_double_1.86x1.9#1 14
+    100104: Window_apron_double_1.86x1.9#1 15
+    100106: Window_apron_double_1.86x1.9#1 16
+    100108: Window_apron_double_1.86x1.9#1 17
+    100110: Window_apron_double_1.86x1.9#1 18
+    100112: Window_apron_double_1.86x1.9#1 19
+    100114: Window_apron_double_1.86x1.9#1 2
+    100116: Window_apron_double_1.86x1.9#1 3
+    100118: Window_apron_double_1.86x1.9#1 4
+    100120: Window_apron_double_1.86x1.9#1 5
+    100122: Window_apron_double_1.86x1.9#1 6
+    100124: Window_apron_double_1.86x1.9#1 7
+    100126: Window_apron_double_1.86x1.9#1 8
+    100128: Window_apron_double_1.86x1.9#1 9
+    100130: Window_apron_double_1.86x1.9#10
+    100132: Window_apron_double_1.86x1.9#10 1
+    100134: Window_apron_double_1.86x1.9#11
+    100136: Window_apron_double_1.86x1.9#11 1
+    100138: Window_apron_double_1.86x1.9#11 2
+    100140: Window_apron_double_1.86x1.9#12
+    100142: Window_apron_double_1.86x1.9#12 1
+    100144: Window_apron_double_1.86x1.9#12 2
+    100146: Window_apron_double_1.86x1.9#12 3
+    100148: Window_apron_double_1.86x1.9#13
+    100150: Window_apron_double_1.86x1.9#13 1
+    100152: Window_apron_double_1.86x1.9#13 2
+    100154: Window_apron_double_1.86x1.9#13 3
+    100156: Window_apron_double_1.86x1.9#14
+    100158: Window_apron_double_1.86x1.9#14 1
+    100160: Window_apron_double_1.86x1.9#14 2
+    100162: Window_apron_double_1.86x1.9#14 3
+    100164: Window_apron_double_1.86x1.9#15
+    100166: Window_apron_double_1.86x1.9#15 1
+    100168: Window_apron_double_1.86x1.9#15 2
+    100170: Window_apron_double_1.86x1.9#15 3
+    100172: Window_apron_double_1.86x1.9#16
+    100174: Window_apron_double_1.86x1.9#17
+    100176: Window_apron_double_1.86x1.9#17 1
+    100178: Window_apron_double_1.86x1.9#17 2
+    100180: Window_apron_double_1.86x1.9#18
+    100182: Window_apron_double_1.86x1.9#19
+    100184: Window_apron_double_1.86x1.9#19 1
+    100186: Window_apron_double_1.86x1.9#19 2
+    100188: Window_apron_double_1.86x1.9#19 3
+    100190: Window_apron_double_1.86x1.9#2
+    100192: Window_apron_double_1.86x1.9#2 1
+    100194: Window_apron_double_1.86x1.9#2 2
+    100196: Window_apron_double_1.86x1.9#2 3
+    100198: Window_apron_double_1.86x1.9#2 4
+    100200: Window_apron_double_1.86x1.9#2 5
+    100202: Window_apron_double_1.86x1.9#20
+    100204: Window_apron_double_1.86x1.9#21
+    100206: Window_apron_double_1.86x1.9#22
+    100208: Window_apron_double_1.86x1.9#22 1
+    100210: Window_apron_double_1.86x1.9#22 2
+    100212: Window_apron_double_1.86x1.9#22 3
+    100214: Window_apron_double_1.86x1.9#22 4
+    100216: Window_apron_double_1.86x1.9#23
+    100218: Window_apron_double_1.86x1.9#23 1
+    100220: Window_apron_double_1.86x1.9#23 2
+    100222: Window_apron_double_1.86x1.9#23 3
+    100224: Window_apron_double_1.86x1.9#24
+    100226: Window_apron_double_1.86x1.9#24 1
+    100228: Window_apron_double_1.86x1.9#24 2
+    100230: Window_apron_double_1.86x1.9#24 3
+    100232: Window_apron_double_1.86x1.9#25
+    100234: Window_apron_double_1.86x1.9#25 1
+    100236: Window_apron_double_1.86x1.9#25 2
+    100238: Window_apron_double_1.86x1.9#25 3
+    100240: Window_apron_double_1.86x1.9#27
+    100242: Window_apron_double_1.86x1.9#27 1
+    100244: Window_apron_double_1.86x1.9#27 2
+    100246: Window_apron_double_1.86x1.9#28
+    100248: Window_apron_double_1.86x1.9#29
+    100250: Window_apron_double_1.86x1.9#29 1
+    100252: Window_apron_double_1.86x1.9#29 2
+    100254: Window_apron_double_1.86x1.9#3
+    100256: Window_apron_double_1.86x1.9#3 1
+    100258: Window_apron_double_1.86x1.9#3 10
+    100260: Window_apron_double_1.86x1.9#3 11
+    100262: Window_apron_double_1.86x1.9#3 12
+    100264: Window_apron_double_1.86x1.9#3 13
+    100266: Window_apron_double_1.86x1.9#3 14
+    100268: Window_apron_double_1.86x1.9#3 15
+    100270: Window_apron_double_1.86x1.9#3 16
+    100272: Window_apron_double_1.86x1.9#3 17
+    100274: Window_apron_double_1.86x1.9#3 18
+    100276: Window_apron_double_1.86x1.9#3 19
+    100278: Window_apron_double_1.86x1.9#3 2
+    100280: Window_apron_double_1.86x1.9#3 20
+    100282: Window_apron_double_1.86x1.9#3 21
+    100284: Window_apron_double_1.86x1.9#3 22
+    100286: Window_apron_double_1.86x1.9#3 23
+    100288: Window_apron_double_1.86x1.9#3 24
+    100290: Window_apron_double_1.86x1.9#3 25
+    100292: Window_apron_double_1.86x1.9#3 26
+    100294: Window_apron_double_1.86x1.9#3 27
+    100296: Window_apron_double_1.86x1.9#3 28
+    100298: Window_apron_double_1.86x1.9#3 29
+    100300: Window_apron_double_1.86x1.9#3 3
+    100302: Window_apron_double_1.86x1.9#3 30
+    100304: Window_apron_double_1.86x1.9#3 31
+    100306: Window_apron_double_1.86x1.9#3 32
+    100308: Window_apron_double_1.86x1.9#3 33
+    100310: Window_apron_double_1.86x1.9#3 34
+    100312: Window_apron_double_1.86x1.9#3 35
+    100314: Window_apron_double_1.86x1.9#3 36
+    100316: Window_apron_double_1.86x1.9#3 37
+    100318: Window_apron_double_1.86x1.9#3 38
+    100320: Window_apron_double_1.86x1.9#3 39
+    100322: Window_apron_double_1.86x1.9#3 4
+    100324: Window_apron_double_1.86x1.9#3 40
+    100326: Window_apron_double_1.86x1.9#3 41
+    100328: Window_apron_double_1.86x1.9#3 42
+    100330: Window_apron_double_1.86x1.9#3 43
+    100332: Window_apron_double_1.86x1.9#3 44
+    100334: Window_apron_double_1.86x1.9#3 45
+    100336: Window_apron_double_1.86x1.9#3 46
+    100338: Window_apron_double_1.86x1.9#3 47
+    100340: Window_apron_double_1.86x1.9#3 48
+    100342: Window_apron_double_1.86x1.9#3 5
+    100344: Window_apron_double_1.86x1.9#3 6
+    100346: Window_apron_double_1.86x1.9#3 7
+    100348: Window_apron_double_1.86x1.9#3 8
+    100350: Window_apron_double_1.86x1.9#3 9
+    100352: Window_apron_double_1.86x1.9#30
+    100354: Window_apron_double_1.86x1.9#31
+    100356: Window_apron_double_1.86x1.9#34
+    100358: Window_apron_double_1.86x1.9#34 1
+    100360: Window_apron_double_1.86x1.9#34 2
+    100362: Window_apron_double_1.86x1.9#34 3
+    100364: Window_apron_double_1.86x1.9#36
+    100366: Window_apron_double_1.86x1.9#36 1
+    100368: Window_apron_double_1.86x1.9#36 2
+    100370: Window_apron_double_1.86x1.9#36 3
+    100372: Window_apron_double_1.86x1.9#37
+    100374: Window_apron_double_1.86x1.9#37 1
+    100376: Window_apron_double_1.86x1.9#37 2
+    100378: Window_apron_double_1.86x1.9#37 3
+    100380: Window_apron_double_1.86x1.9#4
+    100382: Window_apron_double_1.86x1.9#4 1
+    100384: Window_apron_double_1.86x1.9#4 2
+    100386: Window_apron_double_1.86x1.9#4 3
+    100388: Window_apron_double_1.86x1.9#4 4
+    100390: Window_apron_double_1.86x1.9#4 5
+    100392: Window_apron_double_1.86x1.9#4 6
+    100394: Window_apron_double_1.86x1.9#4 7
+    100396: Window_apron_double_1.86x1.9#4 8
+    100398: Window_apron_double_1.86x1.9#5
+    100400: Window_apron_double_1.86x1.9#5 1
+    100402: Window_apron_double_1.86x1.9#5 2
+    100404: Window_apron_double_1.86x1.9#5 3
+    100406: Window_apron_double_1.86x1.9#6
+    100408: Window_apron_double_1.86x1.9#6 1
+    100410: Window_apron_double_1.86x1.9#6 2
+    100412: Window_apron_double_1.86x1.9#6 3
+    100414: Window_apron_double_1.86x1.9#7
+    100416: Window_apron_double_1.86x1.9#7 1
+    100418: Window_apron_double_1.86x1.9#7 2
+    100420: Window_apron_double_1.86x1.9#7 3
+    100422: Window_apron_double_1.86x1.9#7 4
+    100424: Window_apron_double_1.86x1.9#7 5
+    100426: Window_apron_double_1.86x1.9#7 6
+    100428: Window_apron_double_1.86x1.9#7 7
+    100430: Window_apron_double_1.86x1.9#8
+    100432: Window_apron_double_1.86x1.9#8 1
+    100434: Window_apron_double_1.86x1.9#8 2
+    100436: Window_apron_double_1.86x1.9#8 3
+    100438: Window_apron_double_1.86x1.9#9
+    100440: Window_apron_double_1.86x1.9#9 1
+    100442: Window_apron_double_1.86x1.9#9 2
+    100444: Window_apron_double_1.86x1.9#9 3
+    400000: //RootNode
+    400002: 63001_3d_building
+    400004: 63001_3d_site
+    400006: 63001_ov
+    400008: Door_com_double_2.2x2.2
+    400010: Door_com_double_2.2x2.2 1
+    400012: Door_com_double_2.2x2.2#2
+    400014: Door_plain_1.0x2.1#1
+    400016: Door_plain_1.0x2.1#1 1
+    400018: gazebo
+    400020: gazebo_cap
+    400022: Image 1
+    400024: scale_obq
+    400026: tree_conifer_S
+    400028: tree_round_S
+    400030: tree_round_S 1
+    400032: tree_round_S 10
+    400034: tree_round_S 11
+    400036: tree_round_S 12
+    400038: tree_round_S 13
+    400040: tree_round_S 14
+    400042: tree_round_S 15
+    400044: tree_round_S 16
+    400046: tree_round_S 17
+    400048: tree_round_S 18
+    400050: tree_round_S 19
+    400052: tree_round_S 2
+    400054: tree_round_S 20
+    400056: tree_round_S 3
+    400058: tree_round_S 4
+    400060: tree_round_S 5
+    400062: tree_round_S 6
+    400064: tree_round_S 7
+    400066: tree_round_S 8
+    400068: tree_round_S 9
+    400070: Window_apron_double_1.86x1.9
+    400072: Window_apron_double_1.86x1.9 1
+    400074: Window_apron_double_1.86x1.9 2
+    400076: Window_apron_double_1.86x1.9 3
+    400078: Window_apron_double_1.86x1.9 4
+    400080: Window_apron_double_1.86x1.9 5
+    400082: Window_apron_double_1.86x1.9 6
+    400084: Window_apron_double_1.86x1.9 7
+    400086: Window_apron_double_1.86x1.9 8
+    400088: Window_apron_double_1.86x1.9 9
+    400090: Window_apron_double_1.86x1.9#1
+    400092: Window_apron_double_1.86x1.9#1 1
+    400094: Window_apron_double_1.86x1.9#1 10
+    400096: Window_apron_double_1.86x1.9#1 11
+    400098: Window_apron_double_1.86x1.9#1 12
+    400100: Window_apron_double_1.86x1.9#1 13
+    400102: Window_apron_double_1.86x1.9#1 14
+    400104: Window_apron_double_1.86x1.9#1 15
+    400106: Window_apron_double_1.86x1.9#1 16
+    400108: Window_apron_double_1.86x1.9#1 17
+    400110: Window_apron_double_1.86x1.9#1 18
+    400112: Window_apron_double_1.86x1.9#1 19
+    400114: Window_apron_double_1.86x1.9#1 2
+    400116: Window_apron_double_1.86x1.9#1 3
+    400118: Window_apron_double_1.86x1.9#1 4
+    400120: Window_apron_double_1.86x1.9#1 5
+    400122: Window_apron_double_1.86x1.9#1 6
+    400124: Window_apron_double_1.86x1.9#1 7
+    400126: Window_apron_double_1.86x1.9#1 8
+    400128: Window_apron_double_1.86x1.9#1 9
+    400130: Window_apron_double_1.86x1.9#10
+    400132: Window_apron_double_1.86x1.9#10 1
+    400134: Window_apron_double_1.86x1.9#11
+    400136: Window_apron_double_1.86x1.9#11 1
+    400138: Window_apron_double_1.86x1.9#11 2
+    400140: Window_apron_double_1.86x1.9#12
+    400142: Window_apron_double_1.86x1.9#12 1
+    400144: Window_apron_double_1.86x1.9#12 2
+    400146: Window_apron_double_1.86x1.9#12 3
+    400148: Window_apron_double_1.86x1.9#13
+    400150: Window_apron_double_1.86x1.9#13 1
+    400152: Window_apron_double_1.86x1.9#13 2
+    400154: Window_apron_double_1.86x1.9#13 3
+    400156: Window_apron_double_1.86x1.9#14
+    400158: Window_apron_double_1.86x1.9#14 1
+    400160: Window_apron_double_1.86x1.9#14 2
+    400162: Window_apron_double_1.86x1.9#14 3
+    400164: Window_apron_double_1.86x1.9#15
+    400166: Window_apron_double_1.86x1.9#15 1
+    400168: Window_apron_double_1.86x1.9#15 2
+    400170: Window_apron_double_1.86x1.9#15 3
+    400172: Window_apron_double_1.86x1.9#16
+    400174: Window_apron_double_1.86x1.9#17
+    400176: Window_apron_double_1.86x1.9#17 1
+    400178: Window_apron_double_1.86x1.9#17 2
+    400180: Window_apron_double_1.86x1.9#18
+    400182: Window_apron_double_1.86x1.9#19
+    400184: Window_apron_double_1.86x1.9#19 1
+    400186: Window_apron_double_1.86x1.9#19 2
+    400188: Window_apron_double_1.86x1.9#19 3
+    400190: Window_apron_double_1.86x1.9#2
+    400192: Window_apron_double_1.86x1.9#2 1
+    400194: Window_apron_double_1.86x1.9#2 2
+    400196: Window_apron_double_1.86x1.9#2 3
+    400198: Window_apron_double_1.86x1.9#2 4
+    400200: Window_apron_double_1.86x1.9#2 5
+    400202: Window_apron_double_1.86x1.9#20
+    400204: Window_apron_double_1.86x1.9#21
+    400206: Window_apron_double_1.86x1.9#22
+    400208: Window_apron_double_1.86x1.9#22 1
+    400210: Window_apron_double_1.86x1.9#22 2
+    400212: Window_apron_double_1.86x1.9#22 3
+    400214: Window_apron_double_1.86x1.9#22 4
+    400216: Window_apron_double_1.86x1.9#23
+    400218: Window_apron_double_1.86x1.9#23 1
+    400220: Window_apron_double_1.86x1.9#23 2
+    400222: Window_apron_double_1.86x1.9#23 3
+    400224: Window_apron_double_1.86x1.9#24
+    400226: Window_apron_double_1.86x1.9#24 1
+    400228: Window_apron_double_1.86x1.9#24 2
+    400230: Window_apron_double_1.86x1.9#24 3
+    400232: Window_apron_double_1.86x1.9#25
+    400234: Window_apron_double_1.86x1.9#25 1
+    400236: Window_apron_double_1.86x1.9#25 2
+    400238: Window_apron_double_1.86x1.9#25 3
+    400240: Window_apron_double_1.86x1.9#27
+    400242: Window_apron_double_1.86x1.9#27 1
+    400244: Window_apron_double_1.86x1.9#27 2
+    400246: Window_apron_double_1.86x1.9#28
+    400248: Window_apron_double_1.86x1.9#29
+    400250: Window_apron_double_1.86x1.9#29 1
+    400252: Window_apron_double_1.86x1.9#29 2
+    400254: Window_apron_double_1.86x1.9#3
+    400256: Window_apron_double_1.86x1.9#3 1
+    400258: Window_apron_double_1.86x1.9#3 10
+    400260: Window_apron_double_1.86x1.9#3 11
+    400262: Window_apron_double_1.86x1.9#3 12
+    400264: Window_apron_double_1.86x1.9#3 13
+    400266: Window_apron_double_1.86x1.9#3 14
+    400268: Window_apron_double_1.86x1.9#3 15
+    400270: Window_apron_double_1.86x1.9#3 16
+    400272: Window_apron_double_1.86x1.9#3 17
+    400274: Window_apron_double_1.86x1.9#3 18
+    400276: Window_apron_double_1.86x1.9#3 19
+    400278: Window_apron_double_1.86x1.9#3 2
+    400280: Window_apron_double_1.86x1.9#3 20
+    400282: Window_apron_double_1.86x1.9#3 21
+    400284: Window_apron_double_1.86x1.9#3 22
+    400286: Window_apron_double_1.86x1.9#3 23
+    400288: Window_apron_double_1.86x1.9#3 24
+    400290: Window_apron_double_1.86x1.9#3 25
+    400292: Window_apron_double_1.86x1.9#3 26
+    400294: Window_apron_double_1.86x1.9#3 27
+    400296: Window_apron_double_1.86x1.9#3 28
+    400298: Window_apron_double_1.86x1.9#3 29
+    400300: Window_apron_double_1.86x1.9#3 3
+    400302: Window_apron_double_1.86x1.9#3 30
+    400304: Window_apron_double_1.86x1.9#3 31
+    400306: Window_apron_double_1.86x1.9#3 32
+    400308: Window_apron_double_1.86x1.9#3 33
+    400310: Window_apron_double_1.86x1.9#3 34
+    400312: Window_apron_double_1.86x1.9#3 35
+    400314: Window_apron_double_1.86x1.9#3 36
+    400316: Window_apron_double_1.86x1.9#3 37
+    400318: Window_apron_double_1.86x1.9#3 38
+    400320: Window_apron_double_1.86x1.9#3 39
+    400322: Window_apron_double_1.86x1.9#3 4
+    400324: Window_apron_double_1.86x1.9#3 40
+    400326: Window_apron_double_1.86x1.9#3 41
+    400328: Window_apron_double_1.86x1.9#3 42
+    400330: Window_apron_double_1.86x1.9#3 43
+    400332: Window_apron_double_1.86x1.9#3 44
+    400334: Window_apron_double_1.86x1.9#3 45
+    400336: Window_apron_double_1.86x1.9#3 46
+    400338: Window_apron_double_1.86x1.9#3 47
+    400340: Window_apron_double_1.86x1.9#3 48
+    400342: Window_apron_double_1.86x1.9#3 5
+    400344: Window_apron_double_1.86x1.9#3 6
+    400346: Window_apron_double_1.86x1.9#3 7
+    400348: Window_apron_double_1.86x1.9#3 8
+    400350: Window_apron_double_1.86x1.9#3 9
+    400352: Window_apron_double_1.86x1.9#30
+    400354: Window_apron_double_1.86x1.9#31
+    400356: Window_apron_double_1.86x1.9#34
+    400358: Window_apron_double_1.86x1.9#34 1
+    400360: Window_apron_double_1.86x1.9#34 2
+    400362: Window_apron_double_1.86x1.9#34 3
+    400364: Window_apron_double_1.86x1.9#36
+    400366: Window_apron_double_1.86x1.9#36 1
+    400368: Window_apron_double_1.86x1.9#36 2
+    400370: Window_apron_double_1.86x1.9#36 3
+    400372: Window_apron_double_1.86x1.9#37
+    400374: Window_apron_double_1.86x1.9#37 1
+    400376: Window_apron_double_1.86x1.9#37 2
+    400378: Window_apron_double_1.86x1.9#37 3
+    400380: Window_apron_double_1.86x1.9#4
+    400382: Window_apron_double_1.86x1.9#4 1
+    400384: Window_apron_double_1.86x1.9#4 2
+    400386: Window_apron_double_1.86x1.9#4 3
+    400388: Window_apron_double_1.86x1.9#4 4
+    400390: Window_apron_double_1.86x1.9#4 5
+    400392: Window_apron_double_1.86x1.9#4 6
+    400394: Window_apron_double_1.86x1.9#4 7
+    400396: Window_apron_double_1.86x1.9#4 8
+    400398: Window_apron_double_1.86x1.9#5
+    400400: Window_apron_double_1.86x1.9#5 1
+    400402: Window_apron_double_1.86x1.9#5 2
+    400404: Window_apron_double_1.86x1.9#5 3
+    400406: Window_apron_double_1.86x1.9#6
+    400408: Window_apron_double_1.86x1.9#6 1
+    400410: Window_apron_double_1.86x1.9#6 2
+    400412: Window_apron_double_1.86x1.9#6 3
+    400414: Window_apron_double_1.86x1.9#7
+    400416: Window_apron_double_1.86x1.9#7 1
+    400418: Window_apron_double_1.86x1.9#7 2
+    400420: Window_apron_double_1.86x1.9#7 3
+    400422: Window_apron_double_1.86x1.9#7 4
+    400424: Window_apron_double_1.86x1.9#7 5
+    400426: Window_apron_double_1.86x1.9#7 6
+    400428: Window_apron_double_1.86x1.9#7 7
+    400430: Window_apron_double_1.86x1.9#8
+    400432: Window_apron_double_1.86x1.9#8 1
+    400434: Window_apron_double_1.86x1.9#8 2
+    400436: Window_apron_double_1.86x1.9#8 3
+    400438: Window_apron_double_1.86x1.9#9
+    400440: Window_apron_double_1.86x1.9#9 1
+    400442: Window_apron_double_1.86x1.9#9 2
+    400444: Window_apron_double_1.86x1.9#9 3
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_bldg_wall
+    2100006: OV_bldg_roof
+    2100008: ApertureGlass
+    2100010: 0_label
+    2100012: OV_shrub_texture
+    2100014: OV_shrub_solid
+    2100016: OV_paving_general
+    2100018: OV_turf_solid
+    2100020: OV_paving_vehicle
+    2100022: OV_paving_pedestrian
+    2100024: conifertree2
+    2100026: mapletree
+    2300000: 63001_3d_building
+    2300002: 63001_3d_site
+    2300004: Door_com_double_2.2x2.2
+    2300006: Door_com_double_2.2x2.2 1
+    2300008: Door_com_double_2.2x2.2#2
+    2300010: Door_plain_1.0x2.1#1
+    2300012: Door_plain_1.0x2.1#1 1
+    2300014: gazebo
+    2300016: gazebo_cap
+    2300018: Image 1
+    2300020: scale_obq
+    2300022: tree_conifer_S
+    2300024: tree_round_S
+    2300026: tree_round_S 1
+    2300028: tree_round_S 10
+    2300030: tree_round_S 11
+    2300032: tree_round_S 12
+    2300034: tree_round_S 13
+    2300036: tree_round_S 14
+    2300038: tree_round_S 15
+    2300040: tree_round_S 16
+    2300042: tree_round_S 17
+    2300044: tree_round_S 18
+    2300046: tree_round_S 19
+    2300048: tree_round_S 2
+    2300050: tree_round_S 20
+    2300052: tree_round_S 3
+    2300054: tree_round_S 4
+    2300056: tree_round_S 5
+    2300058: tree_round_S 6
+    2300060: tree_round_S 7
+    2300062: tree_round_S 8
+    2300064: tree_round_S 9
+    2300066: Window_apron_double_1.86x1.9
+    2300068: Window_apron_double_1.86x1.9 1
+    2300070: Window_apron_double_1.86x1.9 2
+    2300072: Window_apron_double_1.86x1.9 3
+    2300074: Window_apron_double_1.86x1.9 4
+    2300076: Window_apron_double_1.86x1.9 5
+    2300078: Window_apron_double_1.86x1.9 6
+    2300080: Window_apron_double_1.86x1.9 7
+    2300082: Window_apron_double_1.86x1.9 8
+    2300084: Window_apron_double_1.86x1.9 9
+    2300086: Window_apron_double_1.86x1.9#1
+    2300088: Window_apron_double_1.86x1.9#1 1
+    2300090: Window_apron_double_1.86x1.9#1 10
+    2300092: Window_apron_double_1.86x1.9#1 11
+    2300094: Window_apron_double_1.86x1.9#1 12
+    2300096: Window_apron_double_1.86x1.9#1 13
+    2300098: Window_apron_double_1.86x1.9#1 14
+    2300100: Window_apron_double_1.86x1.9#1 15
+    2300102: Window_apron_double_1.86x1.9#1 16
+    2300104: Window_apron_double_1.86x1.9#1 17
+    2300106: Window_apron_double_1.86x1.9#1 18
+    2300108: Window_apron_double_1.86x1.9#1 19
+    2300110: Window_apron_double_1.86x1.9#1 2
+    2300112: Window_apron_double_1.86x1.9#1 3
+    2300114: Window_apron_double_1.86x1.9#1 4
+    2300116: Window_apron_double_1.86x1.9#1 5
+    2300118: Window_apron_double_1.86x1.9#1 6
+    2300120: Window_apron_double_1.86x1.9#1 7
+    2300122: Window_apron_double_1.86x1.9#1 8
+    2300124: Window_apron_double_1.86x1.9#1 9
+    2300126: Window_apron_double_1.86x1.9#10
+    2300128: Window_apron_double_1.86x1.9#10 1
+    2300130: Window_apron_double_1.86x1.9#11
+    2300132: Window_apron_double_1.86x1.9#11 1
+    2300134: Window_apron_double_1.86x1.9#11 2
+    2300136: Window_apron_double_1.86x1.9#12
+    2300138: Window_apron_double_1.86x1.9#12 1
+    2300140: Window_apron_double_1.86x1.9#12 2
+    2300142: Window_apron_double_1.86x1.9#12 3
+    2300144: Window_apron_double_1.86x1.9#13
+    2300146: Window_apron_double_1.86x1.9#13 1
+    2300148: Window_apron_double_1.86x1.9#13 2
+    2300150: Window_apron_double_1.86x1.9#13 3
+    2300152: Window_apron_double_1.86x1.9#14
+    2300154: Window_apron_double_1.86x1.9#14 1
+    2300156: Window_apron_double_1.86x1.9#14 2
+    2300158: Window_apron_double_1.86x1.9#14 3
+    2300160: Window_apron_double_1.86x1.9#15
+    2300162: Window_apron_double_1.86x1.9#15 1
+    2300164: Window_apron_double_1.86x1.9#15 2
+    2300166: Window_apron_double_1.86x1.9#15 3
+    2300168: Window_apron_double_1.86x1.9#16
+    2300170: Window_apron_double_1.86x1.9#17
+    2300172: Window_apron_double_1.86x1.9#17 1
+    2300174: Window_apron_double_1.86x1.9#17 2
+    2300176: Window_apron_double_1.86x1.9#18
+    2300178: Window_apron_double_1.86x1.9#19
+    2300180: Window_apron_double_1.86x1.9#19 1
+    2300182: Window_apron_double_1.86x1.9#19 2
+    2300184: Window_apron_double_1.86x1.9#19 3
+    2300186: Window_apron_double_1.86x1.9#2
+    2300188: Window_apron_double_1.86x1.9#2 1
+    2300190: Window_apron_double_1.86x1.9#2 2
+    2300192: Window_apron_double_1.86x1.9#2 3
+    2300194: Window_apron_double_1.86x1.9#2 4
+    2300196: Window_apron_double_1.86x1.9#2 5
+    2300198: Window_apron_double_1.86x1.9#20
+    2300200: Window_apron_double_1.86x1.9#21
+    2300202: Window_apron_double_1.86x1.9#22
+    2300204: Window_apron_double_1.86x1.9#22 1
+    2300206: Window_apron_double_1.86x1.9#22 2
+    2300208: Window_apron_double_1.86x1.9#22 3
+    2300210: Window_apron_double_1.86x1.9#22 4
+    2300212: Window_apron_double_1.86x1.9#23
+    2300214: Window_apron_double_1.86x1.9#23 1
+    2300216: Window_apron_double_1.86x1.9#23 2
+    2300218: Window_apron_double_1.86x1.9#23 3
+    2300220: Window_apron_double_1.86x1.9#24
+    2300222: Window_apron_double_1.86x1.9#24 1
+    2300224: Window_apron_double_1.86x1.9#24 2
+    2300226: Window_apron_double_1.86x1.9#24 3
+    2300228: Window_apron_double_1.86x1.9#25
+    2300230: Window_apron_double_1.86x1.9#25 1
+    2300232: Window_apron_double_1.86x1.9#25 2
+    2300234: Window_apron_double_1.86x1.9#25 3
+    2300236: Window_apron_double_1.86x1.9#27
+    2300238: Window_apron_double_1.86x1.9#27 1
+    2300240: Window_apron_double_1.86x1.9#27 2
+    2300242: Window_apron_double_1.86x1.9#28
+    2300244: Window_apron_double_1.86x1.9#29
+    2300246: Window_apron_double_1.86x1.9#29 1
+    2300248: Window_apron_double_1.86x1.9#29 2
+    2300250: Window_apron_double_1.86x1.9#3
+    2300252: Window_apron_double_1.86x1.9#3 1
+    2300254: Window_apron_double_1.86x1.9#3 10
+    2300256: Window_apron_double_1.86x1.9#3 11
+    2300258: Window_apron_double_1.86x1.9#3 12
+    2300260: Window_apron_double_1.86x1.9#3 13
+    2300262: Window_apron_double_1.86x1.9#3 14
+    2300264: Window_apron_double_1.86x1.9#3 15
+    2300266: Window_apron_double_1.86x1.9#3 16
+    2300268: Window_apron_double_1.86x1.9#3 17
+    2300270: Window_apron_double_1.86x1.9#3 18
+    2300272: Window_apron_double_1.86x1.9#3 19
+    2300274: Window_apron_double_1.86x1.9#3 2
+    2300276: Window_apron_double_1.86x1.9#3 20
+    2300278: Window_apron_double_1.86x1.9#3 21
+    2300280: Window_apron_double_1.86x1.9#3 22
+    2300282: Window_apron_double_1.86x1.9#3 23
+    2300284: Window_apron_double_1.86x1.9#3 24
+    2300286: Window_apron_double_1.86x1.9#3 25
+    2300288: Window_apron_double_1.86x1.9#3 26
+    2300290: Window_apron_double_1.86x1.9#3 27
+    2300292: Window_apron_double_1.86x1.9#3 28
+    2300294: Window_apron_double_1.86x1.9#3 29
+    2300296: Window_apron_double_1.86x1.9#3 3
+    2300298: Window_apron_double_1.86x1.9#3 30
+    2300300: Window_apron_double_1.86x1.9#3 31
+    2300302: Window_apron_double_1.86x1.9#3 32
+    2300304: Window_apron_double_1.86x1.9#3 33
+    2300306: Window_apron_double_1.86x1.9#3 34
+    2300308: Window_apron_double_1.86x1.9#3 35
+    2300310: Window_apron_double_1.86x1.9#3 36
+    2300312: Window_apron_double_1.86x1.9#3 37
+    2300314: Window_apron_double_1.86x1.9#3 38
+    2300316: Window_apron_double_1.86x1.9#3 39
+    2300318: Window_apron_double_1.86x1.9#3 4
+    2300320: Window_apron_double_1.86x1.9#3 40
+    2300322: Window_apron_double_1.86x1.9#3 41
+    2300324: Window_apron_double_1.86x1.9#3 42
+    2300326: Window_apron_double_1.86x1.9#3 43
+    2300328: Window_apron_double_1.86x1.9#3 44
+    2300330: Window_apron_double_1.86x1.9#3 45
+    2300332: Window_apron_double_1.86x1.9#3 46
+    2300334: Window_apron_double_1.86x1.9#3 47
+    2300336: Window_apron_double_1.86x1.9#3 48
+    2300338: Window_apron_double_1.86x1.9#3 5
+    2300340: Window_apron_double_1.86x1.9#3 6
+    2300342: Window_apron_double_1.86x1.9#3 7
+    2300344: Window_apron_double_1.86x1.9#3 8
+    2300346: Window_apron_double_1.86x1.9#3 9
+    2300348: Window_apron_double_1.86x1.9#30
+    2300350: Window_apron_double_1.86x1.9#31
+    2300352: Window_apron_double_1.86x1.9#34
+    2300354: Window_apron_double_1.86x1.9#34 1
+    2300356: Window_apron_double_1.86x1.9#34 2
+    2300358: Window_apron_double_1.86x1.9#34 3
+    2300360: Window_apron_double_1.86x1.9#36
+    2300362: Window_apron_double_1.86x1.9#36 1
+    2300364: Window_apron_double_1.86x1.9#36 2
+    2300366: Window_apron_double_1.86x1.9#36 3
+    2300368: Window_apron_double_1.86x1.9#37
+    2300370: Window_apron_double_1.86x1.9#37 1
+    2300372: Window_apron_double_1.86x1.9#37 2
+    2300374: Window_apron_double_1.86x1.9#37 3
+    2300376: Window_apron_double_1.86x1.9#4
+    2300378: Window_apron_double_1.86x1.9#4 1
+    2300380: Window_apron_double_1.86x1.9#4 2
+    2300382: Window_apron_double_1.86x1.9#4 3
+    2300384: Window_apron_double_1.86x1.9#4 4
+    2300386: Window_apron_double_1.86x1.9#4 5
+    2300388: Window_apron_double_1.86x1.9#4 6
+    2300390: Window_apron_double_1.86x1.9#4 7
+    2300392: Window_apron_double_1.86x1.9#4 8
+    2300394: Window_apron_double_1.86x1.9#5
+    2300396: Window_apron_double_1.86x1.9#5 1
+    2300398: Window_apron_double_1.86x1.9#5 2
+    2300400: Window_apron_double_1.86x1.9#5 3
+    2300402: Window_apron_double_1.86x1.9#6
+    2300404: Window_apron_double_1.86x1.9#6 1
+    2300406: Window_apron_double_1.86x1.9#6 2
+    2300408: Window_apron_double_1.86x1.9#6 3
+    2300410: Window_apron_double_1.86x1.9#7
+    2300412: Window_apron_double_1.86x1.9#7 1
+    2300414: Window_apron_double_1.86x1.9#7 2
+    2300416: Window_apron_double_1.86x1.9#7 3
+    2300418: Window_apron_double_1.86x1.9#7 4
+    2300420: Window_apron_double_1.86x1.9#7 5
+    2300422: Window_apron_double_1.86x1.9#7 6
+    2300424: Window_apron_double_1.86x1.9#7 7
+    2300426: Window_apron_double_1.86x1.9#8
+    2300428: Window_apron_double_1.86x1.9#8 1
+    2300430: Window_apron_double_1.86x1.9#8 2
+    2300432: Window_apron_double_1.86x1.9#8 3
+    2300434: Window_apron_double_1.86x1.9#9
+    2300436: Window_apron_double_1.86x1.9#9 1
+    2300438: Window_apron_double_1.86x1.9#9 2
+    2300440: Window_apron_double_1.86x1.9#9 3
+    3300000: 63001_3d_building
+    3300002: 63001_3d_site
+    3300004: Door_com_double_2.2x2.2
+    3300006: Door_com_double_2.2x2.2 1
+    3300008: Door_com_double_2.2x2.2#2
+    3300010: Door_plain_1.0x2.1#1
+    3300012: Door_plain_1.0x2.1#1 1
+    3300014: gazebo
+    3300016: gazebo_cap
+    3300018: Image 1
+    3300020: scale_obq
+    3300022: tree_conifer_S
+    3300024: tree_round_S
+    3300026: tree_round_S 1
+    3300028: tree_round_S 10
+    3300030: tree_round_S 11
+    3300032: tree_round_S 12
+    3300034: tree_round_S 13
+    3300036: tree_round_S 14
+    3300038: tree_round_S 15
+    3300040: tree_round_S 16
+    3300042: tree_round_S 17
+    3300044: tree_round_S 18
+    3300046: tree_round_S 19
+    3300048: tree_round_S 2
+    3300050: tree_round_S 20
+    3300052: tree_round_S 3
+    3300054: tree_round_S 4
+    3300056: tree_round_S 5
+    3300058: tree_round_S 6
+    3300060: tree_round_S 7
+    3300062: tree_round_S 8
+    3300064: tree_round_S 9
+    3300066: Window_apron_double_1.86x1.9
+    3300068: Window_apron_double_1.86x1.9 1
+    3300070: Window_apron_double_1.86x1.9 2
+    3300072: Window_apron_double_1.86x1.9 3
+    3300074: Window_apron_double_1.86x1.9 4
+    3300076: Window_apron_double_1.86x1.9 5
+    3300078: Window_apron_double_1.86x1.9 6
+    3300080: Window_apron_double_1.86x1.9 7
+    3300082: Window_apron_double_1.86x1.9 8
+    3300084: Window_apron_double_1.86x1.9 9
+    3300086: Window_apron_double_1.86x1.9#1
+    3300088: Window_apron_double_1.86x1.9#1 1
+    3300090: Window_apron_double_1.86x1.9#1 10
+    3300092: Window_apron_double_1.86x1.9#1 11
+    3300094: Window_apron_double_1.86x1.9#1 12
+    3300096: Window_apron_double_1.86x1.9#1 13
+    3300098: Window_apron_double_1.86x1.9#1 14
+    3300100: Window_apron_double_1.86x1.9#1 15
+    3300102: Window_apron_double_1.86x1.9#1 16
+    3300104: Window_apron_double_1.86x1.9#1 17
+    3300106: Window_apron_double_1.86x1.9#1 18
+    3300108: Window_apron_double_1.86x1.9#1 19
+    3300110: Window_apron_double_1.86x1.9#1 2
+    3300112: Window_apron_double_1.86x1.9#1 3
+    3300114: Window_apron_double_1.86x1.9#1 4
+    3300116: Window_apron_double_1.86x1.9#1 5
+    3300118: Window_apron_double_1.86x1.9#1 6
+    3300120: Window_apron_double_1.86x1.9#1 7
+    3300122: Window_apron_double_1.86x1.9#1 8
+    3300124: Window_apron_double_1.86x1.9#1 9
+    3300126: Window_apron_double_1.86x1.9#10
+    3300128: Window_apron_double_1.86x1.9#10 1
+    3300130: Window_apron_double_1.86x1.9#11
+    3300132: Window_apron_double_1.86x1.9#11 1
+    3300134: Window_apron_double_1.86x1.9#11 2
+    3300136: Window_apron_double_1.86x1.9#12
+    3300138: Window_apron_double_1.86x1.9#12 1
+    3300140: Window_apron_double_1.86x1.9#12 2
+    3300142: Window_apron_double_1.86x1.9#12 3
+    3300144: Window_apron_double_1.86x1.9#13
+    3300146: Window_apron_double_1.86x1.9#13 1
+    3300148: Window_apron_double_1.86x1.9#13 2
+    3300150: Window_apron_double_1.86x1.9#13 3
+    3300152: Window_apron_double_1.86x1.9#14
+    3300154: Window_apron_double_1.86x1.9#14 1
+    3300156: Window_apron_double_1.86x1.9#14 2
+    3300158: Window_apron_double_1.86x1.9#14 3
+    3300160: Window_apron_double_1.86x1.9#15
+    3300162: Window_apron_double_1.86x1.9#15 1
+    3300164: Window_apron_double_1.86x1.9#15 2
+    3300166: Window_apron_double_1.86x1.9#15 3
+    3300168: Window_apron_double_1.86x1.9#16
+    3300170: Window_apron_double_1.86x1.9#17
+    3300172: Window_apron_double_1.86x1.9#17 1
+    3300174: Window_apron_double_1.86x1.9#17 2
+    3300176: Window_apron_double_1.86x1.9#18
+    3300178: Window_apron_double_1.86x1.9#19
+    3300180: Window_apron_double_1.86x1.9#19 1
+    3300182: Window_apron_double_1.86x1.9#19 2
+    3300184: Window_apron_double_1.86x1.9#19 3
+    3300186: Window_apron_double_1.86x1.9#2
+    3300188: Window_apron_double_1.86x1.9#2 1
+    3300190: Window_apron_double_1.86x1.9#2 2
+    3300192: Window_apron_double_1.86x1.9#2 3
+    3300194: Window_apron_double_1.86x1.9#2 4
+    3300196: Window_apron_double_1.86x1.9#2 5
+    3300198: Window_apron_double_1.86x1.9#20
+    3300200: Window_apron_double_1.86x1.9#21
+    3300202: Window_apron_double_1.86x1.9#22
+    3300204: Window_apron_double_1.86x1.9#22 1
+    3300206: Window_apron_double_1.86x1.9#22 2
+    3300208: Window_apron_double_1.86x1.9#22 3
+    3300210: Window_apron_double_1.86x1.9#22 4
+    3300212: Window_apron_double_1.86x1.9#23
+    3300214: Window_apron_double_1.86x1.9#23 1
+    3300216: Window_apron_double_1.86x1.9#23 2
+    3300218: Window_apron_double_1.86x1.9#23 3
+    3300220: Window_apron_double_1.86x1.9#24
+    3300222: Window_apron_double_1.86x1.9#24 1
+    3300224: Window_apron_double_1.86x1.9#24 2
+    3300226: Window_apron_double_1.86x1.9#24 3
+    3300228: Window_apron_double_1.86x1.9#25
+    3300230: Window_apron_double_1.86x1.9#25 1
+    3300232: Window_apron_double_1.86x1.9#25 2
+    3300234: Window_apron_double_1.86x1.9#25 3
+    3300236: Window_apron_double_1.86x1.9#27
+    3300238: Window_apron_double_1.86x1.9#27 1
+    3300240: Window_apron_double_1.86x1.9#27 2
+    3300242: Window_apron_double_1.86x1.9#28
+    3300244: Window_apron_double_1.86x1.9#29
+    3300246: Window_apron_double_1.86x1.9#29 1
+    3300248: Window_apron_double_1.86x1.9#29 2
+    3300250: Window_apron_double_1.86x1.9#3
+    3300252: Window_apron_double_1.86x1.9#3 1
+    3300254: Window_apron_double_1.86x1.9#3 10
+    3300256: Window_apron_double_1.86x1.9#3 11
+    3300258: Window_apron_double_1.86x1.9#3 12
+    3300260: Window_apron_double_1.86x1.9#3 13
+    3300262: Window_apron_double_1.86x1.9#3 14
+    3300264: Window_apron_double_1.86x1.9#3 15
+    3300266: Window_apron_double_1.86x1.9#3 16
+    3300268: Window_apron_double_1.86x1.9#3 17
+    3300270: Window_apron_double_1.86x1.9#3 18
+    3300272: Window_apron_double_1.86x1.9#3 19
+    3300274: Window_apron_double_1.86x1.9#3 2
+    3300276: Window_apron_double_1.86x1.9#3 20
+    3300278: Window_apron_double_1.86x1.9#3 21
+    3300280: Window_apron_double_1.86x1.9#3 22
+    3300282: Window_apron_double_1.86x1.9#3 23
+    3300284: Window_apron_double_1.86x1.9#3 24
+    3300286: Window_apron_double_1.86x1.9#3 25
+    3300288: Window_apron_double_1.86x1.9#3 26
+    3300290: Window_apron_double_1.86x1.9#3 27
+    3300292: Window_apron_double_1.86x1.9#3 28
+    3300294: Window_apron_double_1.86x1.9#3 29
+    3300296: Window_apron_double_1.86x1.9#3 3
+    3300298: Window_apron_double_1.86x1.9#3 30
+    3300300: Window_apron_double_1.86x1.9#3 31
+    3300302: Window_apron_double_1.86x1.9#3 32
+    3300304: Window_apron_double_1.86x1.9#3 33
+    3300306: Window_apron_double_1.86x1.9#3 34
+    3300308: Window_apron_double_1.86x1.9#3 35
+    3300310: Window_apron_double_1.86x1.9#3 36
+    3300312: Window_apron_double_1.86x1.9#3 37
+    3300314: Window_apron_double_1.86x1.9#3 38
+    3300316: Window_apron_double_1.86x1.9#3 39
+    3300318: Window_apron_double_1.86x1.9#3 4
+    3300320: Window_apron_double_1.86x1.9#3 40
+    3300322: Window_apron_double_1.86x1.9#3 41
+    3300324: Window_apron_double_1.86x1.9#3 42
+    3300326: Window_apron_double_1.86x1.9#3 43
+    3300328: Window_apron_double_1.86x1.9#3 44
+    3300330: Window_apron_double_1.86x1.9#3 45
+    3300332: Window_apron_double_1.86x1.9#3 46
+    3300334: Window_apron_double_1.86x1.9#3 47
+    3300336: Window_apron_double_1.86x1.9#3 48
+    3300338: Window_apron_double_1.86x1.9#3 5
+    3300340: Window_apron_double_1.86x1.9#3 6
+    3300342: Window_apron_double_1.86x1.9#3 7
+    3300344: Window_apron_double_1.86x1.9#3 8
+    3300346: Window_apron_double_1.86x1.9#3 9
+    3300348: Window_apron_double_1.86x1.9#30
+    3300350: Window_apron_double_1.86x1.9#31
+    3300352: Window_apron_double_1.86x1.9#34
+    3300354: Window_apron_double_1.86x1.9#34 1
+    3300356: Window_apron_double_1.86x1.9#34 2
+    3300358: Window_apron_double_1.86x1.9#34 3
+    3300360: Window_apron_double_1.86x1.9#36
+    3300362: Window_apron_double_1.86x1.9#36 1
+    3300364: Window_apron_double_1.86x1.9#36 2
+    3300366: Window_apron_double_1.86x1.9#36 3
+    3300368: Window_apron_double_1.86x1.9#37
+    3300370: Window_apron_double_1.86x1.9#37 1
+    3300372: Window_apron_double_1.86x1.9#37 2
+    3300374: Window_apron_double_1.86x1.9#37 3
+    3300376: Window_apron_double_1.86x1.9#4
+    3300378: Window_apron_double_1.86x1.9#4 1
+    3300380: Window_apron_double_1.86x1.9#4 2
+    3300382: Window_apron_double_1.86x1.9#4 3
+    3300384: Window_apron_double_1.86x1.9#4 4
+    3300386: Window_apron_double_1.86x1.9#4 5
+    3300388: Window_apron_double_1.86x1.9#4 6
+    3300390: Window_apron_double_1.86x1.9#4 7
+    3300392: Window_apron_double_1.86x1.9#4 8
+    3300394: Window_apron_double_1.86x1.9#5
+    3300396: Window_apron_double_1.86x1.9#5 1
+    3300398: Window_apron_double_1.86x1.9#5 2
+    3300400: Window_apron_double_1.86x1.9#5 3
+    3300402: Window_apron_double_1.86x1.9#6
+    3300404: Window_apron_double_1.86x1.9#6 1
+    3300406: Window_apron_double_1.86x1.9#6 2
+    3300408: Window_apron_double_1.86x1.9#6 3
+    3300410: Window_apron_double_1.86x1.9#7
+    3300412: Window_apron_double_1.86x1.9#7 1
+    3300414: Window_apron_double_1.86x1.9#7 2
+    3300416: Window_apron_double_1.86x1.9#7 3
+    3300418: Window_apron_double_1.86x1.9#7 4
+    3300420: Window_apron_double_1.86x1.9#7 5
+    3300422: Window_apron_double_1.86x1.9#7 6
+    3300424: Window_apron_double_1.86x1.9#7 7
+    3300426: Window_apron_double_1.86x1.9#8
+    3300428: Window_apron_double_1.86x1.9#8 1
+    3300430: Window_apron_double_1.86x1.9#8 2
+    3300432: Window_apron_double_1.86x1.9#8 3
+    3300434: Window_apron_double_1.86x1.9#9
+    3300436: Window_apron_double_1.86x1.9#9 1
+    3300438: Window_apron_double_1.86x1.9#9 2
+    3300440: Window_apron_double_1.86x1.9#9 3
+    4300000: Mesh 63001-00
+    4300002: Mesh 63001_3d_building
+    4300004: Mesh Window_apron_double_1.86x1.9#3
+    4300006: Mesh Window_apron_double_1.86x1.9#1
+    4300008: Mesh Window_apron_double_1.86x1.9
+    4300010: Mesh Window_apron_double_1.86x1.9#22
+    4300012: Mesh Door_plain_1.0x2.1#1
+    4300014: Mesh Window_apron_double_1.86x1.9#13
+    4300016: Mesh Window_apron_double_1.86x1.9#4
+    4300018: Mesh Window_apron_double_1.86x1.9#2
+    4300020: Mesh Window_apron_double_1.86x1.9#6
+    4300022: Mesh Window_apron_double_1.86x1.9#5
+    4300024: Mesh Window_apron_double_1.86x1.9#7
+    4300026: Mesh Window_apron_double_1.86x1.9#23
+    4300028: Mesh Window_apron_double_1.86x1.9#24
+    4300030: Mesh Window_apron_double_1.86x1.9#25
+    4300032: Mesh Window_apron_double_1.86x1.9#28
+    4300034: Mesh Window_apron_double_1.86x1.9#9
+    4300036: Mesh Window_apron_double_1.86x1.9#10
+    4300038: Mesh Window_apron_double_1.86x1.9#30
+    4300040: Mesh Window_apron_double_1.86x1.9#31
+    4300042: Mesh Window_apron_double_1.86x1.9#34
+    4300044: Mesh Window_apron_double_1.86x1.9#36
+    4300046: Mesh Window_apron_double_1.86x1.9#37
+    4300048: Mesh Window_apron_double_1.86x1.9#11
+    4300050: Mesh Window_apron_double_1.86x1.9#29
+    4300052: Mesh Window_apron_double_1.86x1.9#27
+    4300054: Mesh Window_apron_double_1.86x1.9#8
+    4300056: Mesh Window_apron_double_1.86x1.9#15
+    4300058: Mesh Window_apron_double_1.86x1.9#19
+    4300060: Mesh Door_com_double_2.2x2.2#2
+    4300062: Mesh Window_apron_double_1.86x1.9#12
+    4300064: Mesh Window_apron_double_1.86x1.9#14
+    4300066: Mesh Door_com_double_2.2x2.2
+    4300068: Mesh Window_apron_double_1.86x1.9#16
+    4300070: Mesh Window_apron_double_1.86x1.9#17
+    4300072: Mesh Window_apron_double_1.86x1.9#18
+    4300074: Mesh Window_apron_double_1.86x1.9#20
+    4300076: Mesh Window_apron_double_1.86x1.9#21
+    4300078: Mesh scale_obq
+    4300080: Mesh 63001_3d_site
+    4300082: Mesh gazebo
+    4300084: Mesh gazebo_cap
+    4300086: Mesh tree_conifer_S
+    4300088: Mesh tree_round_S
+    6400000: 63001_3d_building
+    6400002: 63001_3d_site
+    6400004: Door_com_double_2.2x2.2
+    6400006: Door_com_double_2.2x2.2 1
+    6400008: Door_com_double_2.2x2.2#2
+    6400010: Door_plain_1.0x2.1#1
+    6400012: Door_plain_1.0x2.1#1 1
+    6400014: gazebo
+    6400016: gazebo_cap
+    6400018: Image 1
+    6400020: scale_obq
+    6400022: tree_conifer_S
+    6400024: tree_round_S
+    6400026: tree_round_S 1
+    6400028: tree_round_S 10
+    6400030: tree_round_S 11
+    6400032: tree_round_S 12
+    6400034: tree_round_S 13
+    6400036: tree_round_S 14
+    6400038: tree_round_S 15
+    6400040: tree_round_S 16
+    6400042: tree_round_S 17
+    6400044: tree_round_S 18
+    6400046: tree_round_S 19
+    6400048: tree_round_S 2
+    6400050: tree_round_S 20
+    6400052: tree_round_S 3
+    6400054: tree_round_S 4
+    6400056: tree_round_S 5
+    6400058: tree_round_S 6
+    6400060: tree_round_S 7
+    6400062: tree_round_S 8
+    6400064: tree_round_S 9
+    6400066: Window_apron_double_1.86x1.9
+    6400068: Window_apron_double_1.86x1.9 1
+    6400070: Window_apron_double_1.86x1.9 2
+    6400072: Window_apron_double_1.86x1.9 3
+    6400074: Window_apron_double_1.86x1.9 4
+    6400076: Window_apron_double_1.86x1.9 5
+    6400078: Window_apron_double_1.86x1.9 6
+    6400080: Window_apron_double_1.86x1.9 7
+    6400082: Window_apron_double_1.86x1.9 8
+    6400084: Window_apron_double_1.86x1.9 9
+    6400086: Window_apron_double_1.86x1.9#1
+    6400088: Window_apron_double_1.86x1.9#1 1
+    6400090: Window_apron_double_1.86x1.9#1 10
+    6400092: Window_apron_double_1.86x1.9#1 11
+    6400094: Window_apron_double_1.86x1.9#1 12
+    6400096: Window_apron_double_1.86x1.9#1 13
+    6400098: Window_apron_double_1.86x1.9#1 14
+    6400100: Window_apron_double_1.86x1.9#1 15
+    6400102: Window_apron_double_1.86x1.9#1 16
+    6400104: Window_apron_double_1.86x1.9#1 17
+    6400106: Window_apron_double_1.86x1.9#1 18
+    6400108: Window_apron_double_1.86x1.9#1 19
+    6400110: Window_apron_double_1.86x1.9#1 2
+    6400112: Window_apron_double_1.86x1.9#1 3
+    6400114: Window_apron_double_1.86x1.9#1 4
+    6400116: Window_apron_double_1.86x1.9#1 5
+    6400118: Window_apron_double_1.86x1.9#1 6
+    6400120: Window_apron_double_1.86x1.9#1 7
+    6400122: Window_apron_double_1.86x1.9#1 8
+    6400124: Window_apron_double_1.86x1.9#1 9
+    6400126: Window_apron_double_1.86x1.9#10
+    6400128: Window_apron_double_1.86x1.9#10 1
+    6400130: Window_apron_double_1.86x1.9#11
+    6400132: Window_apron_double_1.86x1.9#11 1
+    6400134: Window_apron_double_1.86x1.9#11 2
+    6400136: Window_apron_double_1.86x1.9#12
+    6400138: Window_apron_double_1.86x1.9#12 1
+    6400140: Window_apron_double_1.86x1.9#12 2
+    6400142: Window_apron_double_1.86x1.9#12 3
+    6400144: Window_apron_double_1.86x1.9#13
+    6400146: Window_apron_double_1.86x1.9#13 1
+    6400148: Window_apron_double_1.86x1.9#13 2
+    6400150: Window_apron_double_1.86x1.9#13 3
+    6400152: Window_apron_double_1.86x1.9#14
+    6400154: Window_apron_double_1.86x1.9#14 1
+    6400156: Window_apron_double_1.86x1.9#14 2
+    6400158: Window_apron_double_1.86x1.9#14 3
+    6400160: Window_apron_double_1.86x1.9#15
+    6400162: Window_apron_double_1.86x1.9#15 1
+    6400164: Window_apron_double_1.86x1.9#15 2
+    6400166: Window_apron_double_1.86x1.9#15 3
+    6400168: Window_apron_double_1.86x1.9#16
+    6400170: Window_apron_double_1.86x1.9#17
+    6400172: Window_apron_double_1.86x1.9#17 1
+    6400174: Window_apron_double_1.86x1.9#17 2
+    6400176: Window_apron_double_1.86x1.9#18
+    6400178: Window_apron_double_1.86x1.9#19
+    6400180: Window_apron_double_1.86x1.9#19 1
+    6400182: Window_apron_double_1.86x1.9#19 2
+    6400184: Window_apron_double_1.86x1.9#19 3
+    6400186: Window_apron_double_1.86x1.9#2
+    6400188: Window_apron_double_1.86x1.9#2 1
+    6400190: Window_apron_double_1.86x1.9#2 2
+    6400192: Window_apron_double_1.86x1.9#2 3
+    6400194: Window_apron_double_1.86x1.9#2 4
+    6400196: Window_apron_double_1.86x1.9#2 5
+    6400198: Window_apron_double_1.86x1.9#20
+    6400200: Window_apron_double_1.86x1.9#21
+    6400202: Window_apron_double_1.86x1.9#22
+    6400204: Window_apron_double_1.86x1.9#22 1
+    6400206: Window_apron_double_1.86x1.9#22 2
+    6400208: Window_apron_double_1.86x1.9#22 3
+    6400210: Window_apron_double_1.86x1.9#22 4
+    6400212: Window_apron_double_1.86x1.9#23
+    6400214: Window_apron_double_1.86x1.9#23 1
+    6400216: Window_apron_double_1.86x1.9#23 2
+    6400218: Window_apron_double_1.86x1.9#23 3
+    6400220: Window_apron_double_1.86x1.9#24
+    6400222: Window_apron_double_1.86x1.9#24 1
+    6400224: Window_apron_double_1.86x1.9#24 2
+    6400226: Window_apron_double_1.86x1.9#24 3
+    6400228: Window_apron_double_1.86x1.9#25
+    6400230: Window_apron_double_1.86x1.9#25 1
+    6400232: Window_apron_double_1.86x1.9#25 2
+    6400234: Window_apron_double_1.86x1.9#25 3
+    6400236: Window_apron_double_1.86x1.9#27
+    6400238: Window_apron_double_1.86x1.9#27 1
+    6400240: Window_apron_double_1.86x1.9#27 2
+    6400242: Window_apron_double_1.86x1.9#28
+    6400244: Window_apron_double_1.86x1.9#29
+    6400246: Window_apron_double_1.86x1.9#29 1
+    6400248: Window_apron_double_1.86x1.9#29 2
+    6400250: Window_apron_double_1.86x1.9#3
+    6400252: Window_apron_double_1.86x1.9#3 1
+    6400254: Window_apron_double_1.86x1.9#3 10
+    6400256: Window_apron_double_1.86x1.9#3 11
+    6400258: Window_apron_double_1.86x1.9#3 12
+    6400260: Window_apron_double_1.86x1.9#3 13
+    6400262: Window_apron_double_1.86x1.9#3 14
+    6400264: Window_apron_double_1.86x1.9#3 15
+    6400266: Window_apron_double_1.86x1.9#3 16
+    6400268: Window_apron_double_1.86x1.9#3 17
+    6400270: Window_apron_double_1.86x1.9#3 18
+    6400272: Window_apron_double_1.86x1.9#3 19
+    6400274: Window_apron_double_1.86x1.9#3 2
+    6400276: Window_apron_double_1.86x1.9#3 20
+    6400278: Window_apron_double_1.86x1.9#3 21
+    6400280: Window_apron_double_1.86x1.9#3 22
+    6400282: Window_apron_double_1.86x1.9#3 23
+    6400284: Window_apron_double_1.86x1.9#3 24
+    6400286: Window_apron_double_1.86x1.9#3 25
+    6400288: Window_apron_double_1.86x1.9#3 26
+    6400290: Window_apron_double_1.86x1.9#3 27
+    6400292: Window_apron_double_1.86x1.9#3 28
+    6400294: Window_apron_double_1.86x1.9#3 29
+    6400296: Window_apron_double_1.86x1.9#3 3
+    6400298: Window_apron_double_1.86x1.9#3 30
+    6400300: Window_apron_double_1.86x1.9#3 31
+    6400302: Window_apron_double_1.86x1.9#3 32
+    6400304: Window_apron_double_1.86x1.9#3 33
+    6400306: Window_apron_double_1.86x1.9#3 34
+    6400308: Window_apron_double_1.86x1.9#3 35
+    6400310: Window_apron_double_1.86x1.9#3 36
+    6400312: Window_apron_double_1.86x1.9#3 37
+    6400314: Window_apron_double_1.86x1.9#3 38
+    6400316: Window_apron_double_1.86x1.9#3 39
+    6400318: Window_apron_double_1.86x1.9#3 4
+    6400320: Window_apron_double_1.86x1.9#3 40
+    6400322: Window_apron_double_1.86x1.9#3 41
+    6400324: Window_apron_double_1.86x1.9#3 42
+    6400326: Window_apron_double_1.86x1.9#3 43
+    6400328: Window_apron_double_1.86x1.9#3 44
+    6400330: Window_apron_double_1.86x1.9#3 45
+    6400332: Window_apron_double_1.86x1.9#3 46
+    6400334: Window_apron_double_1.86x1.9#3 47
+    6400336: Window_apron_double_1.86x1.9#3 48
+    6400338: Window_apron_double_1.86x1.9#3 5
+    6400340: Window_apron_double_1.86x1.9#3 6
+    6400342: Window_apron_double_1.86x1.9#3 7
+    6400344: Window_apron_double_1.86x1.9#3 8
+    6400346: Window_apron_double_1.86x1.9#3 9
+    6400348: Window_apron_double_1.86x1.9#30
+    6400350: Window_apron_double_1.86x1.9#31
+    6400352: Window_apron_double_1.86x1.9#34
+    6400354: Window_apron_double_1.86x1.9#34 1
+    6400356: Window_apron_double_1.86x1.9#34 2
+    6400358: Window_apron_double_1.86x1.9#34 3
+    6400360: Window_apron_double_1.86x1.9#36
+    6400362: Window_apron_double_1.86x1.9#36 1
+    6400364: Window_apron_double_1.86x1.9#36 2
+    6400366: Window_apron_double_1.86x1.9#36 3
+    6400368: Window_apron_double_1.86x1.9#37
+    6400370: Window_apron_double_1.86x1.9#37 1
+    6400372: Window_apron_double_1.86x1.9#37 2
+    6400374: Window_apron_double_1.86x1.9#37 3
+    6400376: Window_apron_double_1.86x1.9#4
+    6400378: Window_apron_double_1.86x1.9#4 1
+    6400380: Window_apron_double_1.86x1.9#4 2
+    6400382: Window_apron_double_1.86x1.9#4 3
+    6400384: Window_apron_double_1.86x1.9#4 4
+    6400386: Window_apron_double_1.86x1.9#4 5
+    6400388: Window_apron_double_1.86x1.9#4 6
+    6400390: Window_apron_double_1.86x1.9#4 7
+    6400392: Window_apron_double_1.86x1.9#4 8
+    6400394: Window_apron_double_1.86x1.9#5
+    6400396: Window_apron_double_1.86x1.9#5 1
+    6400398: Window_apron_double_1.86x1.9#5 2
+    6400400: Window_apron_double_1.86x1.9#5 3
+    6400402: Window_apron_double_1.86x1.9#6
+    6400404: Window_apron_double_1.86x1.9#6 1
+    6400406: Window_apron_double_1.86x1.9#6 2
+    6400408: Window_apron_double_1.86x1.9#6 3
+    6400410: Window_apron_double_1.86x1.9#7
+    6400412: Window_apron_double_1.86x1.9#7 1
+    6400414: Window_apron_double_1.86x1.9#7 2
+    6400416: Window_apron_double_1.86x1.9#7 3
+    6400418: Window_apron_double_1.86x1.9#7 4
+    6400420: Window_apron_double_1.86x1.9#7 5
+    6400422: Window_apron_double_1.86x1.9#7 6
+    6400424: Window_apron_double_1.86x1.9#7 7
+    6400426: Window_apron_double_1.86x1.9#8
+    6400428: Window_apron_double_1.86x1.9#8 1
+    6400430: Window_apron_double_1.86x1.9#8 2
+    6400432: Window_apron_double_1.86x1.9#8 3
+    6400434: Window_apron_double_1.86x1.9#9
+    6400436: Window_apron_double_1.86x1.9#9 1
+    6400438: Window_apron_double_1.86x1.9#9 2
+    6400440: Window_apron_double_1.86x1.9#9 3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 917ed9de7ef45da49a8bcec277b138dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: e13e34f91006e394cb9afa61f0871ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 8fe2595a7b5ece74a87f6317731f0cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 178a5d9f696cabb489ff88affeecbef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: cde7add00a3cbf24cac436a00a88f38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 3df48f399f5751f428402ed33d526f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 163afe98150f63e4b8aecfcf383c6a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: b16e491da49c5eb4b9d6d2d7861e09a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 13c6c5ff3325ff0468fc372c1a65d166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: ef51858d558cdd048af0094fca187307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 5e9f64792f5055843a8cd18372a05f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 34914d17629c3d5409fa8aac77708078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 7c99616441f03214783ddfd78acf6713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: d696b718f8086f847b963c17d63627c5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 3fa72fa34101383418055e2d06f6d9db
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000004000000050000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 4fa83481361dafdb92ef5bfcb372a1ac
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -113.34353, y: 102.90728, z: -145.30698}
+      lookAt: {x: 339.79776, y: -372.86374, z: 509.7533}
+      up: {x: 0.2917327, y: 0.85850877, z: 0.4217283}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -7.3666472, y: 1017.50494, z: -8.548171}
+        lookAt: {x: -7.3666472, y: 321.52457, z: -8.548171}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 5305.495
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -113.34353, y: 102.90728, z: -145.30698}
+        lookAt: {x: 339.79776, y: -372.86374, z: 509.7533}
+        up: {x: 0.2917327, y: 0.85850877, z: 0.4217283}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -113.48406, y: 103.13553, z: -145.50993}
+        lookAt: {x: 339.6572, y: -372.6355, z: 509.55032}
+        up: {x: 0.2917327, y: 0.85850877, z: 0.4217283}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 61005_3d_building
+    100004: 61005_plan#1
+    100006: building 1
+    100008: building C
+    100010: Group 14
+    100012: Image 2
+    100014: overhang
+    100016: poll
+    100018: poll 1
+    100020: poll 2
+    100022: poll 3
+    100024: poll 4
+    100026: poll 5
+    100028: poll 6
+    100030: poll#1
+    100032: poll#1 1
+    100034: poll#1 2
+    100036: poll#1 3
+    100038: poll#1 4
+    100040: poll#1 5
+    100042: poll#1 6
+    100044: rounded-sm
+    100046: rounded-sm 1
+    100048: rounded-sm 10
+    100050: rounded-sm 11
+    100052: rounded-sm 12
+    100054: rounded-sm 13
+    100056: rounded-sm 14
+    100058: rounded-sm 15
+    100060: rounded-sm 16
+    100062: rounded-sm 17
+    100064: rounded-sm 18
+    100066: rounded-sm 19
+    100068: rounded-sm 2
+    100070: rounded-sm 20
+    100072: rounded-sm 21
+    100074: rounded-sm 22
+    100076: rounded-sm 23
+    100078: rounded-sm 24
+    100080: rounded-sm 25
+    100082: rounded-sm 26
+    100084: rounded-sm 27
+    100086: rounded-sm 28
+    100088: rounded-sm 29
+    100090: rounded-sm 3
+    100092: rounded-sm 30
+    100094: rounded-sm 31
+    100096: rounded-sm 32
+    100098: rounded-sm 33
+    100100: rounded-sm 34
+    100102: rounded-sm 35
+    100104: rounded-sm 36
+    100106: rounded-sm 37
+    100108: rounded-sm 38
+    100110: rounded-sm 39
+    100112: rounded-sm 4
+    100114: rounded-sm 40
+    100116: rounded-sm 41
+    100118: rounded-sm 42
+    100120: rounded-sm 43
+    100122: rounded-sm 44
+    100124: rounded-sm 45
+    100126: rounded-sm 46
+    100128: rounded-sm 47
+    100130: rounded-sm 48
+    100132: rounded-sm 49
+    100134: rounded-sm 5
+    100136: rounded-sm 6
+    100138: rounded-sm 7
+    100140: rounded-sm 8
+    100142: rounded-sm 9
+    100144: scale_obq
+    400000: //RootNode
+    400002: 61005_3d_building
+    400004: 61005_plan#1
+    400006: building 1
+    400008: building C
+    400010: Group 14
+    400012: Image 2
+    400014: overhang
+    400016: poll
+    400018: poll 1
+    400020: poll 2
+    400022: poll 3
+    400024: poll 4
+    400026: poll 5
+    400028: poll 6
+    400030: poll#1
+    400032: poll#1 1
+    400034: poll#1 2
+    400036: poll#1 3
+    400038: poll#1 4
+    400040: poll#1 5
+    400042: poll#1 6
+    400044: rounded-sm
+    400046: rounded-sm 1
+    400048: rounded-sm 10
+    400050: rounded-sm 11
+    400052: rounded-sm 12
+    400054: rounded-sm 13
+    400056: rounded-sm 14
+    400058: rounded-sm 15
+    400060: rounded-sm 16
+    400062: rounded-sm 17
+    400064: rounded-sm 18
+    400066: rounded-sm 19
+    400068: rounded-sm 2
+    400070: rounded-sm 20
+    400072: rounded-sm 21
+    400074: rounded-sm 22
+    400076: rounded-sm 23
+    400078: rounded-sm 24
+    400080: rounded-sm 25
+    400082: rounded-sm 26
+    400084: rounded-sm 27
+    400086: rounded-sm 28
+    400088: rounded-sm 29
+    400090: rounded-sm 3
+    400092: rounded-sm 30
+    400094: rounded-sm 31
+    400096: rounded-sm 32
+    400098: rounded-sm 33
+    400100: rounded-sm 34
+    400102: rounded-sm 35
+    400104: rounded-sm 36
+    400106: rounded-sm 37
+    400108: rounded-sm 38
+    400110: rounded-sm 39
+    400112: rounded-sm 4
+    400114: rounded-sm 40
+    400116: rounded-sm 41
+    400118: rounded-sm 42
+    400120: rounded-sm 43
+    400122: rounded-sm 44
+    400124: rounded-sm 45
+    400126: rounded-sm 46
+    400128: rounded-sm 47
+    400130: rounded-sm 48
+    400132: rounded-sm 49
+    400134: rounded-sm 5
+    400136: rounded-sm 6
+    400138: rounded-sm 7
+    400140: rounded-sm 8
+    400142: rounded-sm 9
+    400144: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_accent
+    2100008: OV_bldg_wall
+    2100010: OV_paving_pedestrian
+    2100012: OV_shrub_texture
+    2100014: OV_surface_other
+    2100016: OV_turf_solid
+    2100018: LightCaseApertureGlass
+    2100020: mapletree
+    2100022: OV_bldg_roof
+    2100024: E_aperture
+    2100026: E_envelope
+    2300000: //RootNode
+    2300002: building 1
+    2300004: building C
+    2300006: Image 2
+    2300008: overhang
+    2300010: poll
+    2300012: poll 1
+    2300014: poll 2
+    2300016: poll 3
+    2300018: poll 4
+    2300020: poll 5
+    2300022: poll 6
+    2300024: poll#1
+    2300026: poll#1 1
+    2300028: poll#1 2
+    2300030: poll#1 3
+    2300032: poll#1 4
+    2300034: poll#1 5
+    2300036: poll#1 6
+    2300038: rounded-sm
+    2300040: rounded-sm 1
+    2300042: rounded-sm 10
+    2300044: rounded-sm 11
+    2300046: rounded-sm 12
+    2300048: rounded-sm 13
+    2300050: rounded-sm 14
+    2300052: rounded-sm 15
+    2300054: rounded-sm 16
+    2300056: rounded-sm 17
+    2300058: rounded-sm 18
+    2300060: rounded-sm 19
+    2300062: rounded-sm 2
+    2300064: rounded-sm 20
+    2300066: rounded-sm 21
+    2300068: rounded-sm 22
+    2300070: rounded-sm 23
+    2300072: rounded-sm 24
+    2300074: rounded-sm 25
+    2300076: rounded-sm 26
+    2300078: rounded-sm 27
+    2300080: rounded-sm 28
+    2300082: rounded-sm 29
+    2300084: rounded-sm 3
+    2300086: rounded-sm 30
+    2300088: rounded-sm 31
+    2300090: rounded-sm 32
+    2300092: rounded-sm 33
+    2300094: rounded-sm 34
+    2300096: rounded-sm 35
+    2300098: rounded-sm 36
+    2300100: rounded-sm 37
+    2300102: rounded-sm 38
+    2300104: rounded-sm 39
+    2300106: rounded-sm 4
+    2300108: rounded-sm 40
+    2300110: rounded-sm 41
+    2300112: rounded-sm 42
+    2300114: rounded-sm 43
+    2300116: rounded-sm 44
+    2300118: rounded-sm 45
+    2300120: rounded-sm 46
+    2300122: rounded-sm 47
+    2300124: rounded-sm 48
+    2300126: rounded-sm 49
+    2300128: rounded-sm 5
+    2300130: rounded-sm 6
+    2300132: rounded-sm 7
+    2300134: rounded-sm 8
+    2300136: rounded-sm 9
+    2300138: scale_obq
+    3300000: //RootNode
+    3300002: building 1
+    3300004: building C
+    3300006: Image 2
+    3300008: overhang
+    3300010: poll
+    3300012: poll 1
+    3300014: poll 2
+    3300016: poll 3
+    3300018: poll 4
+    3300020: poll 5
+    3300022: poll 6
+    3300024: poll#1
+    3300026: poll#1 1
+    3300028: poll#1 2
+    3300030: poll#1 3
+    3300032: poll#1 4
+    3300034: poll#1 5
+    3300036: poll#1 6
+    3300038: rounded-sm
+    3300040: rounded-sm 1
+    3300042: rounded-sm 10
+    3300044: rounded-sm 11
+    3300046: rounded-sm 12
+    3300048: rounded-sm 13
+    3300050: rounded-sm 14
+    3300052: rounded-sm 15
+    3300054: rounded-sm 16
+    3300056: rounded-sm 17
+    3300058: rounded-sm 18
+    3300060: rounded-sm 19
+    3300062: rounded-sm 2
+    3300064: rounded-sm 20
+    3300066: rounded-sm 21
+    3300068: rounded-sm 22
+    3300070: rounded-sm 23
+    3300072: rounded-sm 24
+    3300074: rounded-sm 25
+    3300076: rounded-sm 26
+    3300078: rounded-sm 27
+    3300080: rounded-sm 28
+    3300082: rounded-sm 29
+    3300084: rounded-sm 3
+    3300086: rounded-sm 30
+    3300088: rounded-sm 31
+    3300090: rounded-sm 32
+    3300092: rounded-sm 33
+    3300094: rounded-sm 34
+    3300096: rounded-sm 35
+    3300098: rounded-sm 36
+    3300100: rounded-sm 37
+    3300102: rounded-sm 38
+    3300104: rounded-sm 39
+    3300106: rounded-sm 4
+    3300108: rounded-sm 40
+    3300110: rounded-sm 41
+    3300112: rounded-sm 42
+    3300114: rounded-sm 43
+    3300116: rounded-sm 44
+    3300118: rounded-sm 45
+    3300120: rounded-sm 46
+    3300122: rounded-sm 47
+    3300124: rounded-sm 48
+    3300126: rounded-sm 49
+    3300128: rounded-sm 5
+    3300130: rounded-sm 6
+    3300132: rounded-sm 7
+    3300134: rounded-sm 8
+    3300136: rounded-sm 9
+    3300138: scale_obq
+    4300000: Mesh 43012-01
+    4300002: Mesh 43012-01
+    4300004: Mesh scale_obq
+    4300006: Mesh building 1
+    4300008: Mesh poll#1
+    4300010: Mesh poll
+    4300012: Mesh overhang
+    4300014: Mesh rounded-sm
+    4300016: Mesh rounded-sm
+    4300018: Mesh building C
+    6400000: //RootNode
+    6400002: building 1
+    6400004: building C
+    6400006: Image 2
+    6400008: overhang
+    6400010: poll
+    6400012: poll 1
+    6400014: poll 2
+    6400016: poll 3
+    6400018: poll 4
+    6400020: poll 5
+    6400022: poll 6
+    6400024: poll#1
+    6400026: poll#1 1
+    6400028: poll#1 2
+    6400030: poll#1 3
+    6400032: poll#1 4
+    6400034: poll#1 5
+    6400036: poll#1 6
+    6400038: rounded-sm
+    6400040: rounded-sm 1
+    6400042: rounded-sm 10
+    6400044: rounded-sm 11
+    6400046: rounded-sm 12
+    6400048: rounded-sm 13
+    6400050: rounded-sm 14
+    6400052: rounded-sm 15
+    6400054: rounded-sm 16
+    6400056: rounded-sm 17
+    6400058: rounded-sm 18
+    6400060: rounded-sm 19
+    6400062: rounded-sm 2
+    6400064: rounded-sm 20
+    6400066: rounded-sm 21
+    6400068: rounded-sm 22
+    6400070: rounded-sm 23
+    6400072: rounded-sm 24
+    6400074: rounded-sm 25
+    6400076: rounded-sm 26
+    6400078: rounded-sm 27
+    6400080: rounded-sm 28
+    6400082: rounded-sm 29
+    6400084: rounded-sm 3
+    6400086: rounded-sm 30
+    6400088: rounded-sm 31
+    6400090: rounded-sm 32
+    6400092: rounded-sm 33
+    6400094: rounded-sm 34
+    6400096: rounded-sm 35
+    6400098: rounded-sm 36
+    6400100: rounded-sm 37
+    6400102: rounded-sm 38
+    6400104: rounded-sm 39
+    6400106: rounded-sm 4
+    6400108: rounded-sm 40
+    6400110: rounded-sm 41
+    6400112: rounded-sm 42
+    6400114: rounded-sm 43
+    6400116: rounded-sm 44
+    6400118: rounded-sm 45
+    6400120: rounded-sm 46
+    6400122: rounded-sm 47
+    6400124: rounded-sm 48
+    6400126: rounded-sm 49
+    6400128: rounded-sm 5
+    6400130: rounded-sm 6
+    6400132: rounded-sm 7
+    6400134: rounded-sm 8
+    6400136: rounded-sm 9
+    6400138: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 2fa68d0547a2c5c409c9c74f44986764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_aperture
+    second: {fileID: 2100000, guid: 35ba458a0d053c249b66c67ec3caa69c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_envelope
+    second: {fileID: 2100000, guid: 0cad738763c59674e83fd0525c112fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: fcdd2a8d50a66a04d8099941b30218a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: c69cd49bd995e654587e21417fc90eec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 47ab61cdb932c204fb546000a907b1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: add4bd9eed87e524992e23048e02b71c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: fa1c9a42805fee74e8cbbed85a18a635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: c7e75b19e7a9bef4f947010e7add058f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: b63af80042233334588e9ee6e2f5eef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 07401f01bb22dcf4cb5beaeb6cdb170d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 91cd3ce48ec7dc54cb04d36ed8d240a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: b00967a6ce335534381ab572bcb991b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 1eb33c97e78684f458503987821818b1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

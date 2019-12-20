@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 6ddd3ec774c3561428f95086acc3e037
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000003000000031000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000400000004100000043000000440000004600000047000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7a4aa7cdcc1c34b5a8d0bdd9df66d3d4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 61.576202, y: 27.734802, z: -56.643703}
+      lookAt: {x: 18.721348, y: 7.3661137, z: -19.447891}
+      up: {x: -0.25514165, y: 0.9412028, z: 0.22144985}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -1.8287529, y: 210.49057, z: -0.42017817}
+        lookAt: {x: -1.8287529, y: 188.695, z: -0.42017817}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2906.1912
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 61.576202, y: 27.734802, z: -56.643703}
+        lookAt: {x: 18.721348, y: 7.3661137, z: -19.447891}
+        up: {x: -0.25514165, y: 0.9412028, z: 0.22144985}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 13
+    100004: Group 15
+    100006: Group 17
+    100008: Group 19
+    100010: Group 21
+    100012: Group 23
+    100014: Group 25
+    100016: Group 27
+    100018: Group 29
+    100020: Group 31
+    100022: Group 33
+    100024: Group 35
+    100026: Group 37
+    100028: Group 39
+    100030: Group 41
+    100032: Image 1
+    100034: rounded-sm#8
+    100036: rounded-sm#8 1
+    100038: rounded-sm#8 2
+    100040: rounded-sm#8 3
+    100042: rounded-sm#8 4
+    100044: rounded-sm#8 5
+    100046: rounded-sm#8 6
+    100048: scale_plan_B
+    100050: tree_bulb_S
+    100052: tree_conifer_S
+    100054: tree_conifer_S 1
+    100056: tree_conifer_S 2
+    100058: tree_round_M
+    100060: wetland_3d_site#1
+    400000: //RootNode
+    400002: Group 13
+    400004: Group 15
+    400006: Group 17
+    400008: Group 19
+    400010: Group 21
+    400012: Group 23
+    400014: Group 25
+    400016: Group 27
+    400018: Group 29
+    400020: Group 31
+    400022: Group 33
+    400024: Group 35
+    400026: Group 37
+    400028: Group 39
+    400030: Group 41
+    400032: Image 1
+    400034: rounded-sm#8
+    400036: rounded-sm#8 1
+    400038: rounded-sm#8 2
+    400040: rounded-sm#8 3
+    400042: rounded-sm#8 4
+    400044: rounded-sm#8 5
+    400046: rounded-sm#8 6
+    400048: scale_plan_B
+    400050: tree_bulb_S
+    400052: tree_conifer_S
+    400054: tree_conifer_S 1
+    400056: tree_conifer_S 2
+    400058: tree_round_M
+    400060: wetland_3d_site#1
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_general
+    2100008: OV_surface_other
+    2100010: OV_paving_pedestrian
+    2100012: OV_shrub_texture
+    2100014: Pcov_shrub
+    2100016: OV_Water
+    2100018: mapletree
+    2100020: conifertree2
+    2100022: roundedtree
+    2300000: Group 13
+    2300002: Group 15
+    2300004: Group 17
+    2300006: Group 19
+    2300008: Group 21
+    2300010: Group 23
+    2300012: Group 25
+    2300014: Group 27
+    2300016: Group 29
+    2300018: Group 31
+    2300020: Group 33
+    2300022: Group 35
+    2300024: Group 37
+    2300026: Group 39
+    2300028: Group 41
+    2300030: Image 1
+    2300032: rounded-sm#8
+    2300034: rounded-sm#8 1
+    2300036: rounded-sm#8 2
+    2300038: rounded-sm#8 3
+    2300040: rounded-sm#8 4
+    2300042: rounded-sm#8 5
+    2300044: rounded-sm#8 6
+    2300046: scale_plan_B
+    2300048: tree_bulb_S
+    2300050: tree_conifer_S
+    2300052: tree_conifer_S 1
+    2300054: tree_conifer_S 2
+    2300056: tree_round_M
+    2300058: wetland_3d_site#1
+    3300000: Group 13
+    3300002: Group 15
+    3300004: Group 17
+    3300006: Group 19
+    3300008: Group 21
+    3300010: Group 23
+    3300012: Group 25
+    3300014: Group 27
+    3300016: Group 29
+    3300018: Group 31
+    3300020: Group 33
+    3300022: Group 35
+    3300024: Group 37
+    3300026: Group 39
+    3300028: Group 41
+    3300030: Image 1
+    3300032: rounded-sm#8
+    3300034: rounded-sm#8 1
+    3300036: rounded-sm#8 2
+    3300038: rounded-sm#8 3
+    3300040: rounded-sm#8 4
+    3300042: rounded-sm#8 5
+    3300044: rounded-sm#8 6
+    3300046: scale_plan_B
+    3300048: tree_bulb_S
+    3300050: tree_conifer_S
+    3300052: tree_conifer_S 1
+    3300054: tree_conifer_S 2
+    3300056: tree_round_M
+    3300058: wetland_3d_site#1
+    4300000: Mesh 13002-00
+    4300002: Mesh scale_plan_B
+    4300004: Mesh wetland_3d_site#1
+    4300006: Mesh Group 13
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Group 19
+    4300014: Mesh Group 21
+    4300016: Mesh Group 23
+    4300018: Mesh Group 25
+    4300020: Mesh Group 27
+    4300022: Mesh Group 29
+    4300024: Mesh Group 31
+    4300026: Mesh Group 33
+    4300028: Mesh Group 35
+    4300030: Mesh Group 37
+    4300032: Mesh Group 39
+    4300034: Mesh Group 41
+    4300036: Mesh rounded-sm#8
+    4300038: Mesh tree_conifer_S
+    4300040: Mesh tree_round_M
+    4300042: Mesh tree_bulb_S
+    6400000: Group 13
+    6400002: Group 15
+    6400004: Group 17
+    6400006: Group 19
+    6400008: Group 21
+    6400010: Group 23
+    6400012: Group 25
+    6400014: Group 27
+    6400016: Group 29
+    6400018: Group 31
+    6400020: Group 33
+    6400022: Group 35
+    6400024: Group 37
+    6400026: Group 39
+    6400028: Group 41
+    6400030: Image 1
+    6400032: rounded-sm#8
+    6400034: rounded-sm#8 1
+    6400036: rounded-sm#8 2
+    6400038: rounded-sm#8 3
+    6400040: rounded-sm#8 4
+    6400042: rounded-sm#8 5
+    6400044: rounded-sm#8 6
+    6400046: scale_plan_B
+    6400048: tree_bulb_S
+    6400050: tree_conifer_S
+    6400052: tree_conifer_S 1
+    6400054: tree_conifer_S 2
+    6400056: tree_round_M
+    6400058: wetland_3d_site#1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: d9f54b33749b6de47924bb22a1c4ee92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: e15a752cb2b00d9458b836e154cda4d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: ca325e10c2139204f9cff8b0868607ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: f9d0919b315ce6a43b358ed29388d512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 31c5b8be8f635e44da1c87a24a59d390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 4ead773a744d6124a9e219f355495049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 333149e994ac2884690907ef603e4cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pcov_shrub
+    second: {fileID: 2100000, guid: 61f2324b40d0ba943a95b1b1905186a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: f14aa5f6ee9bf9f48b5d076ec0b07b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 7b116f8f883f76b4384a1b11160fd94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: aba59cf1ee371c34cba5dd55ffd9ca46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 5414d79be8e6ff047961b37c5162b4bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

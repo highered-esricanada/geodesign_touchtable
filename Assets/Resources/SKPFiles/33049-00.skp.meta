@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: eef61bb3b94818c43b708e8cc45913e6
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000007000000080000000a0000000b0000000e0000000f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 00770f80e2098ae1a4a28c750d8167c1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 50.433422, y: 24.300879, z: -40.952835}
+      lookAt: {x: -4461.4463, y: -2319.3958, z: 5681.5864}
+      up: {x: -0.18956317, y: 0.95197695, z: 0.24042809}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.8361006, y: 98.48532, z: 18.847319}
+        lookAt: {x: 4.8361006, y: 4.8022, z: 18.847319}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 50.433422, y: 24.300879, z: -40.952835}
+        lookAt: {x: -4461.4463, y: -2319.3958, z: 5681.5864}
+        up: {x: -0.18956317, y: 0.95197695, z: 0.24042809}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 50.433422, y: 24.300879, z: -40.952835}
+        lookAt: {x: -4461.4463, y: -2319.3958, z: 5681.5864}
+        up: {x: -0.18956317, y: 0.95197695, z: 0.24042809}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33049_3d_building1#1
+    100004: 33049_3d_site
+    100006: Image 1
+    100008: scale_obq
+    400000: //RootNode
+    400002: 33049_3d_building1#1
+    400004: 33049_3d_site
+    400006: Image 1
+    400008: scale_obq
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_paving_vehicle
+    2100006: OV_paving general
+    2100008: OV_bldg_wall
+    2100010: OV_bldg_roof
+    2100012: LightCaseApertureGlass
+    2100014: OV_shrub_texture
+    2100016: OV_bldg_accent
+    2100018: F_unconditioned
+    2300000: 33049_3d_building1#1
+    2300002: 33049_3d_site
+    2300004: Image 1
+    2300006: scale_obq
+    3300000: 33049_3d_building1#1
+    3300002: 33049_3d_site
+    3300004: Image 1
+    3300006: scale_obq
+    4300000: Mesh 33049-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 33049_3d_site
+    4300006: Mesh 33049_3d_building1#1
+    6400000: 33049_3d_building1#1
+    6400002: 33049_3d_site
+    6400004: Image 1
+    6400006: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 3788d8ffee8a33442b876c394997e41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_unconditioned
+    second: {fileID: 2100000, guid: af2adad3e3800e04991fd567b57d31fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: c690c8ec53909dc4b8615a141bb36c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 1870bc14dd03b2f4aade97690c1d57d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 1c00982743521774bb1d29a0b76ba883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 14142ba3df157064e918ecbf4d78affb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 4628748341a39a64c9c0e233772c4046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 22d40365e62fead46bcd8f6bb3bd8c81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 6fafdb6e34b23e24d912e1b72736fd15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 8fb95fb53b0346848b1b13efb76e32f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

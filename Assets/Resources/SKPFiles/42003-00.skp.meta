@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: c20717705445f474ea0ad98a47dac3fd
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008300000084000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 300725d906ba5feae4f1c1db696313ce
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 36.676086, y: 18.739191, z: -35.820976}
+      lookAt: {x: -31.505856, y: -18.759956, z: 24.847158}
+      up: {x: -0.2839245, y: 0.9249661, z: 0.25263536}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -5.093012, y: 98.48532, z: 0.0062446147}
+        lookAt: {x: -5.093012, y: 4.8022, z: 0.0062446147}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1961.7076
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 36.676086, y: 18.739191, z: -35.820976}
+        lookAt: {x: -31.505856, y: -18.759956, z: 24.847158}
+        up: {x: -0.2839245, y: 0.9249661, z: 0.25263536}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 36.676086, y: 18.739191, z: -35.820976}
+        lookAt: {x: 32.90423, y: 16.66472, z: -32.464783}
+        up: {x: -0.2839245, y: 0.9249661, z: 0.25263536}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 42003_3d_building
+    100004: 42003_3d_site
+    100006: Component#3
+    100008: Component#3 1
+    100010: Component#3 2
+    100012: Component#3 3
+    100014: Component#3 4
+    100016: Component#3 5
+    100018: Component#3 6
+    100020: Component#3 7
+    100022: Component#3 8
+    100024: Component#3 9
+    100026: Component#4
+    100028: Component#4 1
+    100030: Component#4 2
+    100032: Component#4 3
+    100034: Component#4 4
+    100036: Component#4 5
+    100038: Component#4 6
+    100040: Component#4 7
+    100042: Component#4 8
+    100044: Component#4 9
+    100046: Door_glass_1.0x2.18
+    100048: Door_glass_1.0x2.18 1
+    100050: Door_glass_1.0x2.18 10
+    100052: Door_glass_1.0x2.18 11
+    100054: Door_glass_1.0x2.18 2
+    100056: Door_glass_1.0x2.18 3
+    100058: Door_glass_1.0x2.18 4
+    100060: Door_glass_1.0x2.18 5
+    100062: Door_glass_1.0x2.18 6
+    100064: Door_glass_1.0x2.18 7
+    100066: Door_glass_1.0x2.18 8
+    100068: Door_glass_1.0x2.18 9
+    100070: Image 1
+    100072: m-awning
+    100074: m-awning 1
+    100076: m-awning 2
+    100078: m-awning 3
+    100080: m-awning 4
+    100082: m-awning 5
+    100084: m-awning 6
+    100086: m-awning 7
+    100088: scale_obq
+    100090: window21c
+    100092: window21c 1
+    100094: window21c 10
+    100096: window21c 11
+    100098: window21c 12
+    100100: window21c 13
+    100102: window21c 14
+    100104: window21c 15
+    100106: window21c 16
+    100108: window21c 17
+    100110: window21c 18
+    100112: window21c 2
+    100114: window21c 3
+    100116: window21c 4
+    100118: window21c 5
+    100120: window21c 6
+    100122: window21c 7
+    100124: window21c 8
+    100126: window21c 9
+    400000: //RootNode
+    400002: 42003_3d_building
+    400004: 42003_3d_site
+    400006: Component#3
+    400008: Component#3 1
+    400010: Component#3 2
+    400012: Component#3 3
+    400014: Component#3 4
+    400016: Component#3 5
+    400018: Component#3 6
+    400020: Component#3 7
+    400022: Component#3 8
+    400024: Component#3 9
+    400026: Component#4
+    400028: Component#4 1
+    400030: Component#4 2
+    400032: Component#4 3
+    400034: Component#4 4
+    400036: Component#4 5
+    400038: Component#4 6
+    400040: Component#4 7
+    400042: Component#4 8
+    400044: Component#4 9
+    400046: Door_glass_1.0x2.18
+    400048: Door_glass_1.0x2.18 1
+    400050: Door_glass_1.0x2.18 10
+    400052: Door_glass_1.0x2.18 11
+    400054: Door_glass_1.0x2.18 2
+    400056: Door_glass_1.0x2.18 3
+    400058: Door_glass_1.0x2.18 4
+    400060: Door_glass_1.0x2.18 5
+    400062: Door_glass_1.0x2.18 6
+    400064: Door_glass_1.0x2.18 7
+    400066: Door_glass_1.0x2.18 8
+    400068: Door_glass_1.0x2.18 9
+    400070: Image 1
+    400072: m-awning
+    400074: m-awning 1
+    400076: m-awning 2
+    400078: m-awning 3
+    400080: m-awning 4
+    400082: m-awning 5
+    400084: m-awning 6
+    400086: m-awning 7
+    400088: scale_obq
+    400090: window21c
+    400092: window21c 1
+    400094: window21c 10
+    400096: window21c 11
+    400098: window21c 12
+    400100: window21c 13
+    400102: window21c 14
+    400104: window21c 15
+    400106: window21c 16
+    400108: window21c 17
+    400110: window21c 18
+    400112: window21c 2
+    400114: window21c 3
+    400116: window21c 4
+    400118: window21c 5
+    400120: window21c 6
+    400122: window21c 7
+    400124: window21c 8
+    400126: window21c 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_bldg_accent
+    2100010: OV_bldg_roof
+    2100012: buildingwalls
+    2100014: modelroof
+    2100016: ApertureGlass
+    2100018: OV_paving_pedestrian
+    2100020: OV_paving_vehicle
+    2100022: OV_shrub_texture
+    2300000: 42003_3d_building
+    2300002: 42003_3d_site
+    2300004: Component#3
+    2300006: Component#3 1
+    2300008: Component#3 2
+    2300010: Component#3 3
+    2300012: Component#3 4
+    2300014: Component#3 5
+    2300016: Component#3 6
+    2300018: Component#3 7
+    2300020: Component#3 8
+    2300022: Component#3 9
+    2300024: Component#4
+    2300026: Component#4 1
+    2300028: Component#4 2
+    2300030: Component#4 3
+    2300032: Component#4 4
+    2300034: Component#4 5
+    2300036: Component#4 6
+    2300038: Component#4 7
+    2300040: Component#4 8
+    2300042: Component#4 9
+    2300044: Door_glass_1.0x2.18
+    2300046: Door_glass_1.0x2.18 1
+    2300048: Door_glass_1.0x2.18 10
+    2300050: Door_glass_1.0x2.18 11
+    2300052: Door_glass_1.0x2.18 2
+    2300054: Door_glass_1.0x2.18 3
+    2300056: Door_glass_1.0x2.18 4
+    2300058: Door_glass_1.0x2.18 5
+    2300060: Door_glass_1.0x2.18 6
+    2300062: Door_glass_1.0x2.18 7
+    2300064: Door_glass_1.0x2.18 8
+    2300066: Door_glass_1.0x2.18 9
+    2300068: Image 1
+    2300070: m-awning
+    2300072: m-awning 1
+    2300074: m-awning 2
+    2300076: m-awning 3
+    2300078: m-awning 4
+    2300080: m-awning 5
+    2300082: m-awning 6
+    2300084: m-awning 7
+    2300086: scale_obq
+    2300088: window21c
+    2300090: window21c 1
+    2300092: window21c 10
+    2300094: window21c 11
+    2300096: window21c 12
+    2300098: window21c 13
+    2300100: window21c 14
+    2300102: window21c 15
+    2300104: window21c 16
+    2300106: window21c 17
+    2300108: window21c 18
+    2300110: window21c 2
+    2300112: window21c 3
+    2300114: window21c 4
+    2300116: window21c 5
+    2300118: window21c 6
+    2300120: window21c 7
+    2300122: window21c 8
+    2300124: window21c 9
+    3300000: 42003_3d_building
+    3300002: 42003_3d_site
+    3300004: Component#3
+    3300006: Component#3 1
+    3300008: Component#3 2
+    3300010: Component#3 3
+    3300012: Component#3 4
+    3300014: Component#3 5
+    3300016: Component#3 6
+    3300018: Component#3 7
+    3300020: Component#3 8
+    3300022: Component#3 9
+    3300024: Component#4
+    3300026: Component#4 1
+    3300028: Component#4 2
+    3300030: Component#4 3
+    3300032: Component#4 4
+    3300034: Component#4 5
+    3300036: Component#4 6
+    3300038: Component#4 7
+    3300040: Component#4 8
+    3300042: Component#4 9
+    3300044: Door_glass_1.0x2.18
+    3300046: Door_glass_1.0x2.18 1
+    3300048: Door_glass_1.0x2.18 10
+    3300050: Door_glass_1.0x2.18 11
+    3300052: Door_glass_1.0x2.18 2
+    3300054: Door_glass_1.0x2.18 3
+    3300056: Door_glass_1.0x2.18 4
+    3300058: Door_glass_1.0x2.18 5
+    3300060: Door_glass_1.0x2.18 6
+    3300062: Door_glass_1.0x2.18 7
+    3300064: Door_glass_1.0x2.18 8
+    3300066: Door_glass_1.0x2.18 9
+    3300068: Image 1
+    3300070: m-awning
+    3300072: m-awning 1
+    3300074: m-awning 2
+    3300076: m-awning 3
+    3300078: m-awning 4
+    3300080: m-awning 5
+    3300082: m-awning 6
+    3300084: m-awning 7
+    3300086: scale_obq
+    3300088: window21c
+    3300090: window21c 1
+    3300092: window21c 10
+    3300094: window21c 11
+    3300096: window21c 12
+    3300098: window21c 13
+    3300100: window21c 14
+    3300102: window21c 15
+    3300104: window21c 16
+    3300106: window21c 17
+    3300108: window21c 18
+    3300110: window21c 2
+    3300112: window21c 3
+    3300114: window21c 4
+    3300116: window21c 5
+    3300118: window21c 6
+    3300120: window21c 7
+    3300122: window21c 8
+    3300124: window21c 9
+    4300000: Mesh 42003-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 42003_3d_building
+    4300006: Mesh Component#3
+    4300008: Mesh Component#4
+    4300010: Mesh window21c
+    4300012: Mesh Door_glass_1.0x2.18
+    4300014: Mesh m-awning
+    4300016: Mesh 42003_3d_site
+    6400000: 42003_3d_building
+    6400002: 42003_3d_site
+    6400004: Component#3
+    6400006: Component#3 1
+    6400008: Component#3 2
+    6400010: Component#3 3
+    6400012: Component#3 4
+    6400014: Component#3 5
+    6400016: Component#3 6
+    6400018: Component#3 7
+    6400020: Component#3 8
+    6400022: Component#3 9
+    6400024: Component#4
+    6400026: Component#4 1
+    6400028: Component#4 2
+    6400030: Component#4 3
+    6400032: Component#4 4
+    6400034: Component#4 5
+    6400036: Component#4 6
+    6400038: Component#4 7
+    6400040: Component#4 8
+    6400042: Component#4 9
+    6400044: Door_glass_1.0x2.18
+    6400046: Door_glass_1.0x2.18 1
+    6400048: Door_glass_1.0x2.18 10
+    6400050: Door_glass_1.0x2.18 11
+    6400052: Door_glass_1.0x2.18 2
+    6400054: Door_glass_1.0x2.18 3
+    6400056: Door_glass_1.0x2.18 4
+    6400058: Door_glass_1.0x2.18 5
+    6400060: Door_glass_1.0x2.18 6
+    6400062: Door_glass_1.0x2.18 7
+    6400064: Door_glass_1.0x2.18 8
+    6400066: Door_glass_1.0x2.18 9
+    6400068: Image 1
+    6400070: m-awning
+    6400072: m-awning 1
+    6400074: m-awning 2
+    6400076: m-awning 3
+    6400078: m-awning 4
+    6400080: m-awning 5
+    6400082: m-awning 6
+    6400084: m-awning 7
+    6400086: scale_obq
+    6400088: window21c
+    6400090: window21c 1
+    6400092: window21c 10
+    6400094: window21c 11
+    6400096: window21c 12
+    6400098: window21c 13
+    6400100: window21c 14
+    6400102: window21c 15
+    6400104: window21c 16
+    6400106: window21c 17
+    6400108: window21c 18
+    6400110: window21c 2
+    6400112: window21c 3
+    6400114: window21c 4
+    6400116: window21c 5
+    6400118: window21c 6
+    6400120: window21c 7
+    6400122: window21c 8
+    6400124: window21c 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: e3765e3e934445a4a8f0b06c6fdd118c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: cfb21d8baf9684f45916bd5371eac62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 2282f070d1be68d439b7a013164f867a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: ee4e2d1aac907b74cbf9a4e6060796c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 78518a82aee719b4298acb38b4df1a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: f1659caaf51562747973e2e93e73658d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 91a30c377ed4c7d4ab3ef7b69ea29c2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 39aa5641ce63f7041acb985250e92be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 9fae7b2ca43035f4f870575d8a98bc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 921b34dca6649184aaeff8b1d243e69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: f478bc2e18d7ebd498cd45aa025e9c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: 5c457a65c993c3a4e814d70f9a513e0c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

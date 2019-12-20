@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: d6dd335deb8d1f542a5b17df789838ce
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a00000023000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ba4a98b08ded9b84a7c3ea67f7b9b838
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -98.26698, y: 57.897533, z: -98.66584}
+      lookAt: {x: -4.0353003, y: 8.277679, z: -4.3202}
+      up: {x: 0.24660009, y: 0.93721414, z: 0.24661323}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.2448392e-14, y: 178.62447, z: -9.05623}
+        lookAt: {x: 3.032028e-14, y: 12.051208, z: -6.4687357}
+        up: {x: 1.1308621e-18, y: 0.015531798, z: 0.9998794}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3514.847
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -98.26698, y: 57.897533, z: -98.66584}
+        lookAt: {x: -4.0353003, y: 8.277679, z: -4.3202}
+        up: {x: 0.24660009, y: 0.93721414, z: 0.24661323}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -98.26698, y: 57.897533, z: -98.66584}
+        lookAt: {x: -4.0353003, y: 8.277679, z: -4.3202}
+        up: {x: 0.24660009, y: 0.93721414, z: 0.24661323}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3d_massing
+    100004: 3d_outline
+    100006: Image 1
+    100008: scale_obq
+    400000: //RootNode
+    400002: 3d_massing
+    400004: 3d_outline
+    400006: Image 1
+    400008: scale_obq
+    2100000: Material 1
+    2100002: 0_label
+    2100004: '[0065_Lime]'
+    2300000: 3d_massing
+    2300002: Image 1
+    2300004: scale_obq
+    3300000: 3d_massing
+    3300002: Image 1
+    3300004: scale_obq
+    4300000: Mesh 33030-06
+    4300002: Mesh scale_obq
+    4300004: Mesh 3d_massing
+    6400000: 3d_massing
+    6400002: Image 1
+    6400004: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 3e5e513d059ee564397f598c08f4d4eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 985200e221016e543b2651696c53b07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0065_Lime]'
+    second: {fileID: 2100000, guid: 50e53120d00b5b3408c8f9a8c9376105, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

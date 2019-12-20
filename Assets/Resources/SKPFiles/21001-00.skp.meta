@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 83acfdf006f43764999c6977cc25d76d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000b0000000c0000000d0000000e000000100000001100000013000000140000001600000017000000190000001a0000001c0000001d0000001f000000200000002200000023000000250000002600000028000000290000002b0000002c0000002e0000002f0000003000000031000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a43e569da926c2867cfa1f10d6ba0fb2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 47.49248, y: 35.539974, z: -50.74631}
+      lookAt: {x: 4.825275, y: 10.349279, z: -13.11159}
+      up: {x: -0.30362418, y: 0.91437894, z: 0.2678125}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 47.49248, y: 35.539974, z: -50.74631}
+        lookAt: {x: 4.825275, y: 10.349279, z: -13.11159}
+        up: {x: -0.30362418, y: 0.91437894, z: 0.2678125}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -0.064967625, y: 210.49057, z: 1.7057207}
+        lookAt: {x: -0.064967625, y: 188.8354, z: 1.7057207}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2239.3972
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 21001_3d_site
+    100004: Image 1
+    100006: rounded-lg
+    100008: rounded-lg 1
+    100010: rounded-sm
+    100012: rounded-sm 1
+    100014: scale_obq
+    100016: tree_bulb_M
+    100018: tree_column_M
+    100020: tree_fan_M
+    100022: tree_fan_S
+    100024: tree_fan_S 1
+    100026: tree_round_L
+    100028: tree_round_L#1
+    100030: tree_round_M
+    100032: tree_round_M 1
+    400000: //RootNode
+    400002: 21001_3d_site
+    400004: Image 1
+    400006: rounded-lg
+    400008: rounded-lg 1
+    400010: rounded-sm
+    400012: rounded-sm 1
+    400014: scale_obq
+    400016: tree_bulb_M
+    400018: tree_column_M
+    400020: tree_fan_M
+    400022: tree_fan_S
+    400024: tree_fan_S 1
+    400026: tree_round_L
+    400028: tree_round_L#1
+    400030: tree_round_M
+    400032: tree_round_M 1
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_paving_pedestrian
+    2100006: OV_shrub_texture
+    2100008: OV_turf_solid
+    2100010: roundedtree
+    2100012: fantree
+    2100014: mapletree
+    2100016: columnartree
+    2300000: 21001_3d_site
+    2300002: Image 1
+    2300004: rounded-lg
+    2300006: rounded-lg 1
+    2300008: rounded-sm
+    2300010: rounded-sm 1
+    2300012: scale_obq
+    2300014: tree_bulb_M
+    2300016: tree_column_M
+    2300018: tree_fan_M
+    2300020: tree_fan_S
+    2300022: tree_fan_S 1
+    2300024: tree_round_L
+    2300026: tree_round_L#1
+    2300028: tree_round_M
+    2300030: tree_round_M 1
+    3300000: 21001_3d_site
+    3300002: Image 1
+    3300004: rounded-lg
+    3300006: rounded-lg 1
+    3300008: rounded-sm
+    3300010: rounded-sm 1
+    3300012: scale_obq
+    3300014: tree_bulb_M
+    3300016: tree_column_M
+    3300018: tree_fan_M
+    3300020: tree_fan_S
+    3300022: tree_fan_S 1
+    3300024: tree_round_L
+    3300026: tree_round_L#1
+    3300028: tree_round_M
+    3300030: tree_round_M 1
+    4300000: Mesh 21001-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 21001_3d_site
+    4300006: Mesh tree_bulb_M
+    4300008: Mesh tree_fan_M
+    4300010: Mesh rounded-sm
+    4300012: Mesh tree_round_M
+    4300014: Mesh tree_fan_S
+    4300016: Mesh tree_column_M
+    4300018: Mesh tree_round_L
+    4300020: Mesh tree_round_L#1
+    4300022: Mesh rounded-lg
+    6400000: 21001_3d_site
+    6400002: Image 1
+    6400004: rounded-lg
+    6400006: rounded-lg 1
+    6400008: rounded-sm
+    6400010: rounded-sm 1
+    6400012: scale_obq
+    6400014: tree_bulb_M
+    6400016: tree_column_M
+    6400018: tree_fan_M
+    6400020: tree_fan_S
+    6400022: tree_fan_S 1
+    6400024: tree_round_L
+    6400026: tree_round_L#1
+    6400028: tree_round_M
+    6400030: tree_round_M 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 5150e58098c76a9439b00248370b42be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 6a6f9a5b3a07c514182d61d605a68d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 0f3545f646c711742af5c9ac41ed6f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 0b6726cdd3e55cd4d997fabb1cfe644f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 67493d072f6e1a246ac88e57b63cc2ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: columnartree
+    second: {fileID: 2100000, guid: 5faab90f309e6fb4fbef843175dfeac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: fb96e819729db8c41b3ff2a2b92ea40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 267c0a4f895e94d429c9cbf868ea8a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: f936caf421e76c74a8c0ad9b038f6d51, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

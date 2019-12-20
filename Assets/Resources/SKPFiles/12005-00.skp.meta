@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 9ecb1a696c424414f921afb952ee4499
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001200000013000000150000001600000018000000190000001b0000001c0000001e0000001f00000021000000220000002400000025000000260000002700000028000000290000002a0000002b0000002d0000002e0000002f000000300000003200000033000000350000003600000037000000380000003a0000003b0000003d0000003e000000400000004100000043000000440000004600000047000000490000004a0000004c0000004d0000004f000000500000005200000053000000550000005600000058000000590000005b0000005c0000005d0000005e000000600000006100000063000000640000006600000067000000690000006a0000006c0000006d0000006f000000700000007200000073000000740000007500000077000000780000007a0000007b0000007d0000007e000000800000008100000083000000840000008600000087000000890000008a0000008c0000008d0000008f000000900000009200000093000000940000009500000097000000980000009a0000009b0000009c0000009d0000009f000000a0000000a2000000a3000000a5000000a6000000a8000000a9000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000be000000bf000000c1000000c2000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e9000000ea000000ec000000ed000000ef000000f0000000f2000000f3000000f5000000f6000000f8000000f9000000fb000000fc000000fe000000ff0000000101000002010000040100000501000007010000080100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002d0100002e010000300100003101000033010000340100003601000037010000390100003a0100003c0100003d0100003f010000400100004201000043010000450100004601000048010000490100004b0100004c0100004e0100004f0100005101000052010000540100005501000057010000580100005a0100005b0100005d0100005e010000600100006101000063010000640100006601000067010000
+  assetHash:
+    serializedVersion: 2
+    Hash: d72e9099d23a4df6ad5f91b27ea36a87
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 104.41094, y: 31.032585, z: -55.10355}
+      lookAt: {x: -7.087819, y: -23.43001, z: 34.962997}
+      up: {x: -0.27631143, y: 0.934791, z: 0.22319904}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 104.41094, y: 31.032585, z: -55.10355}
+        lookAt: {x: -7.087819, y: -23.43001, z: 34.962997}
+        up: {x: -0.27631143, y: 0.934791, z: 0.22319904}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 3.0936546, y: 191.04675, z: 3.7667139}
+        lookAt: {x: 3.0936546, y: 7.3982873, z: 3.7667139}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3507.6008
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 12005_3d_building
+    100004: 12005_3d_site
+    100006: 12005_canopy
+    100008: 12005_canopy 1
+    100010: 12005_canopy 10
+    100012: 12005_canopy 11
+    100014: 12005_canopy 12
+    100016: 12005_canopy 13
+    100018: 12005_canopy 14
+    100020: 12005_canopy 15
+    100022: 12005_canopy 16
+    100024: 12005_canopy 2
+    100026: 12005_canopy 3
+    100028: 12005_canopy 4
+    100030: 12005_canopy 5
+    100032: 12005_canopy 6
+    100034: 12005_canopy 7
+    100036: 12005_canopy 8
+    100038: 12005_canopy 9
+    100040: bulb tree-sm
+    100042: bulb tree-sm 1
+    100044: bulb tree-sm 10
+    100046: bulb tree-sm 11
+    100048: bulb tree-sm 12
+    100050: bulb tree-sm 13
+    100052: bulb tree-sm 14
+    100054: bulb tree-sm 15
+    100056: bulb tree-sm 16
+    100058: bulb tree-sm 17
+    100060: bulb tree-sm 18
+    100062: bulb tree-sm 19
+    100064: bulb tree-sm 2
+    100066: bulb tree-sm 3
+    100068: bulb tree-sm 4
+    100070: bulb tree-sm 5
+    100072: bulb tree-sm 6
+    100074: bulb tree-sm 7
+    100076: bulb tree-sm 8
+    100078: bulb tree-sm 9
+    100080: conical-sm
+    100082: conical-sm 1
+    100084: conical-sm 10
+    100086: conical-sm 11
+    100088: conical-sm 12
+    100090: conical-sm 13
+    100092: conical-sm 14
+    100094: conical-sm 15
+    100096: conical-sm 2
+    100098: conical-sm 3
+    100100: conical-sm 4
+    100102: conical-sm 5
+    100104: conical-sm 6
+    100106: conical-sm 7
+    100108: conical-sm 8
+    100110: conical-sm 9
+    100112: conifer-sm
+    100114: conifer-sm 1
+    100116: conifer-sm 10
+    100118: conifer-sm 11
+    100120: conifer-sm 12
+    100122: conifer-sm 13
+    100124: conifer-sm 14
+    100126: conifer-sm 15
+    100128: conifer-sm 16
+    100130: conifer-sm 17
+    100132: conifer-sm 18
+    100134: conifer-sm 19
+    100136: conifer-sm 2
+    100138: conifer-sm 20
+    100140: conifer-sm 21
+    100142: conifer-sm 22
+    100144: conifer-sm 23
+    100146: conifer-sm 24
+    100148: conifer-sm 3
+    100150: conifer-sm 4
+    100152: conifer-sm 5
+    100154: conifer-sm 6
+    100156: conifer-sm 7
+    100158: conifer-sm 8
+    100160: conifer-sm 9
+    100162: fantree-sm
+    100164: fantree-sm 1
+    100166: fantree-sm 10
+    100168: fantree-sm 11
+    100170: fantree-sm 12
+    100172: fantree-sm 13
+    100174: fantree-sm 14
+    100176: fantree-sm 15
+    100178: fantree-sm 16
+    100180: fantree-sm 17
+    100182: fantree-sm 18
+    100184: fantree-sm 19
+    100186: fantree-sm 2
+    100188: fantree-sm 20
+    100190: fantree-sm 3
+    100192: fantree-sm 4
+    100194: fantree-sm 5
+    100196: fantree-sm 6
+    100198: fantree-sm 7
+    100200: fantree-sm 8
+    100202: fantree-sm 9
+    100204: Group 12
+    100206: Group 13
+    100208: Image 2
+    100210: rounded-med
+    100212: rounded-med 1
+    100214: rounded-med 2
+    100216: rounded-med 3
+    100218: rounded-med 4
+    100220: rounded-med 5
+    100222: rounded-med 6
+    100224: rounded-med 7
+    100226: rounded-med 8
+    100228: rounded-med 9
+    100230: rounded-sm
+    100232: rounded-sm 1
+    100234: rounded-sm 10
+    100236: rounded-sm 11
+    100238: rounded-sm 12
+    100240: rounded-sm 13
+    100242: rounded-sm 14
+    100244: rounded-sm 15
+    100246: rounded-sm 16
+    100248: rounded-sm 17
+    100250: rounded-sm 18
+    100252: rounded-sm 19
+    100254: rounded-sm 2
+    100256: rounded-sm 20
+    100258: rounded-sm 21
+    100260: rounded-sm 3
+    100262: rounded-sm 4
+    100264: rounded-sm 5
+    100266: rounded-sm 6
+    100268: rounded-sm 7
+    100270: rounded-sm 8
+    100272: rounded-sm 9
+    100274: scale_obq
+    400000: //RootNode
+    400002: 12005_3d_building
+    400004: 12005_3d_site
+    400006: 12005_canopy
+    400008: 12005_canopy 1
+    400010: 12005_canopy 10
+    400012: 12005_canopy 11
+    400014: 12005_canopy 12
+    400016: 12005_canopy 13
+    400018: 12005_canopy 14
+    400020: 12005_canopy 15
+    400022: 12005_canopy 16
+    400024: 12005_canopy 2
+    400026: 12005_canopy 3
+    400028: 12005_canopy 4
+    400030: 12005_canopy 5
+    400032: 12005_canopy 6
+    400034: 12005_canopy 7
+    400036: 12005_canopy 8
+    400038: 12005_canopy 9
+    400040: bulb tree-sm
+    400042: bulb tree-sm 1
+    400044: bulb tree-sm 10
+    400046: bulb tree-sm 11
+    400048: bulb tree-sm 12
+    400050: bulb tree-sm 13
+    400052: bulb tree-sm 14
+    400054: bulb tree-sm 15
+    400056: bulb tree-sm 16
+    400058: bulb tree-sm 17
+    400060: bulb tree-sm 18
+    400062: bulb tree-sm 19
+    400064: bulb tree-sm 2
+    400066: bulb tree-sm 3
+    400068: bulb tree-sm 4
+    400070: bulb tree-sm 5
+    400072: bulb tree-sm 6
+    400074: bulb tree-sm 7
+    400076: bulb tree-sm 8
+    400078: bulb tree-sm 9
+    400080: conical-sm
+    400082: conical-sm 1
+    400084: conical-sm 10
+    400086: conical-sm 11
+    400088: conical-sm 12
+    400090: conical-sm 13
+    400092: conical-sm 14
+    400094: conical-sm 15
+    400096: conical-sm 2
+    400098: conical-sm 3
+    400100: conical-sm 4
+    400102: conical-sm 5
+    400104: conical-sm 6
+    400106: conical-sm 7
+    400108: conical-sm 8
+    400110: conical-sm 9
+    400112: conifer-sm
+    400114: conifer-sm 1
+    400116: conifer-sm 10
+    400118: conifer-sm 11
+    400120: conifer-sm 12
+    400122: conifer-sm 13
+    400124: conifer-sm 14
+    400126: conifer-sm 15
+    400128: conifer-sm 16
+    400130: conifer-sm 17
+    400132: conifer-sm 18
+    400134: conifer-sm 19
+    400136: conifer-sm 2
+    400138: conifer-sm 20
+    400140: conifer-sm 21
+    400142: conifer-sm 22
+    400144: conifer-sm 23
+    400146: conifer-sm 24
+    400148: conifer-sm 3
+    400150: conifer-sm 4
+    400152: conifer-sm 5
+    400154: conifer-sm 6
+    400156: conifer-sm 7
+    400158: conifer-sm 8
+    400160: conifer-sm 9
+    400162: fantree-sm
+    400164: fantree-sm 1
+    400166: fantree-sm 10
+    400168: fantree-sm 11
+    400170: fantree-sm 12
+    400172: fantree-sm 13
+    400174: fantree-sm 14
+    400176: fantree-sm 15
+    400178: fantree-sm 16
+    400180: fantree-sm 17
+    400182: fantree-sm 18
+    400184: fantree-sm 19
+    400186: fantree-sm 2
+    400188: fantree-sm 20
+    400190: fantree-sm 3
+    400192: fantree-sm 4
+    400194: fantree-sm 5
+    400196: fantree-sm 6
+    400198: fantree-sm 7
+    400200: fantree-sm 8
+    400202: fantree-sm 9
+    400204: Group 12
+    400206: Group 13
+    400208: Image 2
+    400210: rounded-med
+    400212: rounded-med 1
+    400214: rounded-med 2
+    400216: rounded-med 3
+    400218: rounded-med 4
+    400220: rounded-med 5
+    400222: rounded-med 6
+    400224: rounded-med 7
+    400226: rounded-med 8
+    400228: rounded-med 9
+    400230: rounded-sm
+    400232: rounded-sm 1
+    400234: rounded-sm 10
+    400236: rounded-sm 11
+    400238: rounded-sm 12
+    400240: rounded-sm 13
+    400242: rounded-sm 14
+    400244: rounded-sm 15
+    400246: rounded-sm 16
+    400248: rounded-sm 17
+    400250: rounded-sm 18
+    400252: rounded-sm 19
+    400254: rounded-sm 2
+    400256: rounded-sm 20
+    400258: rounded-sm 21
+    400260: rounded-sm 3
+    400262: rounded-sm 4
+    400264: rounded-sm 5
+    400266: rounded-sm 6
+    400268: rounded-sm 7
+    400270: rounded-sm 8
+    400272: rounded-sm 9
+    400274: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving general
+    2100008: OV_shrub_texture
+    2100010: OV_surface_other
+    2100012: OV_paving_pedestrian
+    2100014: OV_bldg_wall
+    2100016: OV_Water
+    2100018: conifertree2
+    2100020: mapletree
+    2100022: conicaltree1
+    2100024: OV_bldg_roof
+    2100026: roundedtree
+    2100028: fantree
+    2300000: //RootNode
+    2300002: 12005_3d_building
+    2300004: 12005_3d_site
+    2300006: 12005_canopy
+    2300008: 12005_canopy 1
+    2300010: 12005_canopy 10
+    2300012: 12005_canopy 11
+    2300014: 12005_canopy 12
+    2300016: 12005_canopy 13
+    2300018: 12005_canopy 14
+    2300020: 12005_canopy 15
+    2300022: 12005_canopy 16
+    2300024: 12005_canopy 2
+    2300026: 12005_canopy 3
+    2300028: 12005_canopy 4
+    2300030: 12005_canopy 5
+    2300032: 12005_canopy 6
+    2300034: 12005_canopy 7
+    2300036: 12005_canopy 8
+    2300038: 12005_canopy 9
+    2300040: bulb tree-sm
+    2300042: bulb tree-sm 1
+    2300044: bulb tree-sm 10
+    2300046: bulb tree-sm 11
+    2300048: bulb tree-sm 12
+    2300050: bulb tree-sm 13
+    2300052: bulb tree-sm 14
+    2300054: bulb tree-sm 15
+    2300056: bulb tree-sm 16
+    2300058: bulb tree-sm 17
+    2300060: bulb tree-sm 18
+    2300062: bulb tree-sm 19
+    2300064: bulb tree-sm 2
+    2300066: bulb tree-sm 3
+    2300068: bulb tree-sm 4
+    2300070: bulb tree-sm 5
+    2300072: bulb tree-sm 6
+    2300074: bulb tree-sm 7
+    2300076: bulb tree-sm 8
+    2300078: bulb tree-sm 9
+    2300080: conical-sm
+    2300082: conical-sm 1
+    2300084: conical-sm 10
+    2300086: conical-sm 11
+    2300088: conical-sm 12
+    2300090: conical-sm 13
+    2300092: conical-sm 14
+    2300094: conical-sm 15
+    2300096: conical-sm 2
+    2300098: conical-sm 3
+    2300100: conical-sm 4
+    2300102: conical-sm 5
+    2300104: conical-sm 6
+    2300106: conical-sm 7
+    2300108: conical-sm 8
+    2300110: conical-sm 9
+    2300112: conifer-sm
+    2300114: conifer-sm 1
+    2300116: conifer-sm 10
+    2300118: conifer-sm 11
+    2300120: conifer-sm 12
+    2300122: conifer-sm 13
+    2300124: conifer-sm 14
+    2300126: conifer-sm 15
+    2300128: conifer-sm 16
+    2300130: conifer-sm 17
+    2300132: conifer-sm 18
+    2300134: conifer-sm 19
+    2300136: conifer-sm 2
+    2300138: conifer-sm 20
+    2300140: conifer-sm 21
+    2300142: conifer-sm 22
+    2300144: conifer-sm 23
+    2300146: conifer-sm 24
+    2300148: conifer-sm 3
+    2300150: conifer-sm 4
+    2300152: conifer-sm 5
+    2300154: conifer-sm 6
+    2300156: conifer-sm 7
+    2300158: conifer-sm 8
+    2300160: conifer-sm 9
+    2300162: fantree-sm
+    2300164: fantree-sm 1
+    2300166: fantree-sm 10
+    2300168: fantree-sm 11
+    2300170: fantree-sm 12
+    2300172: fantree-sm 13
+    2300174: fantree-sm 14
+    2300176: fantree-sm 15
+    2300178: fantree-sm 16
+    2300180: fantree-sm 17
+    2300182: fantree-sm 18
+    2300184: fantree-sm 19
+    2300186: fantree-sm 2
+    2300188: fantree-sm 20
+    2300190: fantree-sm 3
+    2300192: fantree-sm 4
+    2300194: fantree-sm 5
+    2300196: fantree-sm 6
+    2300198: fantree-sm 7
+    2300200: fantree-sm 8
+    2300202: fantree-sm 9
+    2300204: Group 13
+    2300206: Image 2
+    2300208: rounded-med
+    2300210: rounded-med 1
+    2300212: rounded-med 2
+    2300214: rounded-med 3
+    2300216: rounded-med 4
+    2300218: rounded-med 5
+    2300220: rounded-med 6
+    2300222: rounded-med 7
+    2300224: rounded-med 8
+    2300226: rounded-med 9
+    2300228: rounded-sm
+    2300230: rounded-sm 1
+    2300232: rounded-sm 10
+    2300234: rounded-sm 11
+    2300236: rounded-sm 12
+    2300238: rounded-sm 13
+    2300240: rounded-sm 14
+    2300242: rounded-sm 15
+    2300244: rounded-sm 16
+    2300246: rounded-sm 17
+    2300248: rounded-sm 18
+    2300250: rounded-sm 19
+    2300252: rounded-sm 2
+    2300254: rounded-sm 20
+    2300256: rounded-sm 21
+    2300258: rounded-sm 3
+    2300260: rounded-sm 4
+    2300262: rounded-sm 5
+    2300264: rounded-sm 6
+    2300266: rounded-sm 7
+    2300268: rounded-sm 8
+    2300270: rounded-sm 9
+    2300272: scale_obq
+    3300000: //RootNode
+    3300002: 12005_3d_building
+    3300004: 12005_3d_site
+    3300006: 12005_canopy
+    3300008: 12005_canopy 1
+    3300010: 12005_canopy 10
+    3300012: 12005_canopy 11
+    3300014: 12005_canopy 12
+    3300016: 12005_canopy 13
+    3300018: 12005_canopy 14
+    3300020: 12005_canopy 15
+    3300022: 12005_canopy 16
+    3300024: 12005_canopy 2
+    3300026: 12005_canopy 3
+    3300028: 12005_canopy 4
+    3300030: 12005_canopy 5
+    3300032: 12005_canopy 6
+    3300034: 12005_canopy 7
+    3300036: 12005_canopy 8
+    3300038: 12005_canopy 9
+    3300040: bulb tree-sm
+    3300042: bulb tree-sm 1
+    3300044: bulb tree-sm 10
+    3300046: bulb tree-sm 11
+    3300048: bulb tree-sm 12
+    3300050: bulb tree-sm 13
+    3300052: bulb tree-sm 14
+    3300054: bulb tree-sm 15
+    3300056: bulb tree-sm 16
+    3300058: bulb tree-sm 17
+    3300060: bulb tree-sm 18
+    3300062: bulb tree-sm 19
+    3300064: bulb tree-sm 2
+    3300066: bulb tree-sm 3
+    3300068: bulb tree-sm 4
+    3300070: bulb tree-sm 5
+    3300072: bulb tree-sm 6
+    3300074: bulb tree-sm 7
+    3300076: bulb tree-sm 8
+    3300078: bulb tree-sm 9
+    3300080: conical-sm
+    3300082: conical-sm 1
+    3300084: conical-sm 10
+    3300086: conical-sm 11
+    3300088: conical-sm 12
+    3300090: conical-sm 13
+    3300092: conical-sm 14
+    3300094: conical-sm 15
+    3300096: conical-sm 2
+    3300098: conical-sm 3
+    3300100: conical-sm 4
+    3300102: conical-sm 5
+    3300104: conical-sm 6
+    3300106: conical-sm 7
+    3300108: conical-sm 8
+    3300110: conical-sm 9
+    3300112: conifer-sm
+    3300114: conifer-sm 1
+    3300116: conifer-sm 10
+    3300118: conifer-sm 11
+    3300120: conifer-sm 12
+    3300122: conifer-sm 13
+    3300124: conifer-sm 14
+    3300126: conifer-sm 15
+    3300128: conifer-sm 16
+    3300130: conifer-sm 17
+    3300132: conifer-sm 18
+    3300134: conifer-sm 19
+    3300136: conifer-sm 2
+    3300138: conifer-sm 20
+    3300140: conifer-sm 21
+    3300142: conifer-sm 22
+    3300144: conifer-sm 23
+    3300146: conifer-sm 24
+    3300148: conifer-sm 3
+    3300150: conifer-sm 4
+    3300152: conifer-sm 5
+    3300154: conifer-sm 6
+    3300156: conifer-sm 7
+    3300158: conifer-sm 8
+    3300160: conifer-sm 9
+    3300162: fantree-sm
+    3300164: fantree-sm 1
+    3300166: fantree-sm 10
+    3300168: fantree-sm 11
+    3300170: fantree-sm 12
+    3300172: fantree-sm 13
+    3300174: fantree-sm 14
+    3300176: fantree-sm 15
+    3300178: fantree-sm 16
+    3300180: fantree-sm 17
+    3300182: fantree-sm 18
+    3300184: fantree-sm 19
+    3300186: fantree-sm 2
+    3300188: fantree-sm 20
+    3300190: fantree-sm 3
+    3300192: fantree-sm 4
+    3300194: fantree-sm 5
+    3300196: fantree-sm 6
+    3300198: fantree-sm 7
+    3300200: fantree-sm 8
+    3300202: fantree-sm 9
+    3300204: Group 13
+    3300206: Image 2
+    3300208: rounded-med
+    3300210: rounded-med 1
+    3300212: rounded-med 2
+    3300214: rounded-med 3
+    3300216: rounded-med 4
+    3300218: rounded-med 5
+    3300220: rounded-med 6
+    3300222: rounded-med 7
+    3300224: rounded-med 8
+    3300226: rounded-med 9
+    3300228: rounded-sm
+    3300230: rounded-sm 1
+    3300232: rounded-sm 10
+    3300234: rounded-sm 11
+    3300236: rounded-sm 12
+    3300238: rounded-sm 13
+    3300240: rounded-sm 14
+    3300242: rounded-sm 15
+    3300244: rounded-sm 16
+    3300246: rounded-sm 17
+    3300248: rounded-sm 18
+    3300250: rounded-sm 19
+    3300252: rounded-sm 2
+    3300254: rounded-sm 20
+    3300256: rounded-sm 21
+    3300258: rounded-sm 3
+    3300260: rounded-sm 4
+    3300262: rounded-sm 5
+    3300264: rounded-sm 6
+    3300266: rounded-sm 7
+    3300268: rounded-sm 8
+    3300270: rounded-sm 9
+    3300272: scale_obq
+    4300000: Mesh 12005-00
+    4300002: Mesh 12005-00
+    4300004: Mesh scale_obq
+    4300006: Mesh 12005_3d_site
+    4300008: Mesh Group 13
+    4300010: Mesh conifer-sm
+    4300012: Mesh rounded-sm
+    4300014: Mesh rounded-med
+    4300016: Mesh conical-sm
+    4300018: Mesh 12005_3d_building
+    4300020: Mesh bulb tree-sm
+    4300022: Mesh rounded-med
+    4300024: Mesh 12005_canopy
+    4300026: Mesh fantree-sm
+    6400000: //RootNode
+    6400002: 12005_3d_building
+    6400004: 12005_3d_site
+    6400006: 12005_canopy
+    6400008: 12005_canopy 1
+    6400010: 12005_canopy 10
+    6400012: 12005_canopy 11
+    6400014: 12005_canopy 12
+    6400016: 12005_canopy 13
+    6400018: 12005_canopy 14
+    6400020: 12005_canopy 15
+    6400022: 12005_canopy 16
+    6400024: 12005_canopy 2
+    6400026: 12005_canopy 3
+    6400028: 12005_canopy 4
+    6400030: 12005_canopy 5
+    6400032: 12005_canopy 6
+    6400034: 12005_canopy 7
+    6400036: 12005_canopy 8
+    6400038: 12005_canopy 9
+    6400040: bulb tree-sm
+    6400042: bulb tree-sm 1
+    6400044: bulb tree-sm 10
+    6400046: bulb tree-sm 11
+    6400048: bulb tree-sm 12
+    6400050: bulb tree-sm 13
+    6400052: bulb tree-sm 14
+    6400054: bulb tree-sm 15
+    6400056: bulb tree-sm 16
+    6400058: bulb tree-sm 17
+    6400060: bulb tree-sm 18
+    6400062: bulb tree-sm 19
+    6400064: bulb tree-sm 2
+    6400066: bulb tree-sm 3
+    6400068: bulb tree-sm 4
+    6400070: bulb tree-sm 5
+    6400072: bulb tree-sm 6
+    6400074: bulb tree-sm 7
+    6400076: bulb tree-sm 8
+    6400078: bulb tree-sm 9
+    6400080: conical-sm
+    6400082: conical-sm 1
+    6400084: conical-sm 10
+    6400086: conical-sm 11
+    6400088: conical-sm 12
+    6400090: conical-sm 13
+    6400092: conical-sm 14
+    6400094: conical-sm 15
+    6400096: conical-sm 2
+    6400098: conical-sm 3
+    6400100: conical-sm 4
+    6400102: conical-sm 5
+    6400104: conical-sm 6
+    6400106: conical-sm 7
+    6400108: conical-sm 8
+    6400110: conical-sm 9
+    6400112: conifer-sm
+    6400114: conifer-sm 1
+    6400116: conifer-sm 10
+    6400118: conifer-sm 11
+    6400120: conifer-sm 12
+    6400122: conifer-sm 13
+    6400124: conifer-sm 14
+    6400126: conifer-sm 15
+    6400128: conifer-sm 16
+    6400130: conifer-sm 17
+    6400132: conifer-sm 18
+    6400134: conifer-sm 19
+    6400136: conifer-sm 2
+    6400138: conifer-sm 20
+    6400140: conifer-sm 21
+    6400142: conifer-sm 22
+    6400144: conifer-sm 23
+    6400146: conifer-sm 24
+    6400148: conifer-sm 3
+    6400150: conifer-sm 4
+    6400152: conifer-sm 5
+    6400154: conifer-sm 6
+    6400156: conifer-sm 7
+    6400158: conifer-sm 8
+    6400160: conifer-sm 9
+    6400162: fantree-sm
+    6400164: fantree-sm 1
+    6400166: fantree-sm 10
+    6400168: fantree-sm 11
+    6400170: fantree-sm 12
+    6400172: fantree-sm 13
+    6400174: fantree-sm 14
+    6400176: fantree-sm 15
+    6400178: fantree-sm 16
+    6400180: fantree-sm 17
+    6400182: fantree-sm 18
+    6400184: fantree-sm 19
+    6400186: fantree-sm 2
+    6400188: fantree-sm 20
+    6400190: fantree-sm 3
+    6400192: fantree-sm 4
+    6400194: fantree-sm 5
+    6400196: fantree-sm 6
+    6400198: fantree-sm 7
+    6400200: fantree-sm 8
+    6400202: fantree-sm 9
+    6400204: Group 13
+    6400206: Image 2
+    6400208: rounded-med
+    6400210: rounded-med 1
+    6400212: rounded-med 2
+    6400214: rounded-med 3
+    6400216: rounded-med 4
+    6400218: rounded-med 5
+    6400220: rounded-med 6
+    6400222: rounded-med 7
+    6400224: rounded-med 8
+    6400226: rounded-med 9
+    6400228: rounded-sm
+    6400230: rounded-sm 1
+    6400232: rounded-sm 10
+    6400234: rounded-sm 11
+    6400236: rounded-sm 12
+    6400238: rounded-sm 13
+    6400240: rounded-sm 14
+    6400242: rounded-sm 15
+    6400244: rounded-sm 16
+    6400246: rounded-sm 17
+    6400248: rounded-sm 18
+    6400250: rounded-sm 19
+    6400252: rounded-sm 2
+    6400254: rounded-sm 20
+    6400256: rounded-sm 21
+    6400258: rounded-sm 3
+    6400260: rounded-sm 4
+    6400262: rounded-sm 5
+    6400264: rounded-sm 6
+    6400266: rounded-sm 7
+    6400268: rounded-sm 8
+    6400270: rounded-sm 9
+    6400272: scale_obq
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 2385435cd2b656d4886f45f557d85e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: ea9311fea073f3944bed2a180591e57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: fe3ca2cdc1c1b014b979d193464a4d55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: ec2443ad500b73141b4cbc3aca35521f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 5955adc16d001bc4e8f9386713aeaafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: dee2cf8a3f43b3c4bad68f0917cb05a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 2a2760eb3f35062479b81b42955096ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: abc54a41740460943851ab2a48c86dc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: ef12a637261dca04887d5a7e113a2a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 632fc03b05256354888e01f30ff05af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conicaltree1
+    second: {fileID: 2100000, guid: 3257a1e01912acb41ae46f2a19196075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 881d5b20701961b45ab0370231fc93d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: dcf24b30bede0d742b185fd92374a116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 4af6d820b1e386a45aab25d7725016dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 465a0cb1efd566d41bc4ffcc766ae0bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

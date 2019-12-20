@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 669dc00c79ad9d646b8c92d087113b8c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000007000000080000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001f01000020010000210100002201000023010000240100002601000027010000290100002a0100002c0100002d0100002e0100002f0100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e01000040010000410100004201000043010000450100004601000048010000490100004b0100004c0100004d0100004e0100004f010000500100005201000053010000550100005601000057010000580100005a0100005b0100005d0100005e0100006001000061010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006e0100006f01000070010000710100007301000074010000760100007701000078010000790100007b0100007c0100007e0100007f01000081010000820100008301000084010000850100008601000088010000890100008b0100008c0100008e0100008f01000091010000920100009301000094010000950100009601000098010000990100009a0100009b0100009c0100009d0100009f010000a0010000a1010000a2010000a4010000a5010000a6010000a7010000a9010000aa010000ab010000ac010000ad010000ae010000b0010000b1010000b3010000b4010000b6010000b7010000b8010000b9010000bb010000bc010000be010000bf010000c1010000c2010000c3010000c4010000c6010000c7010000c8010000c9010000cb010000cc010000cd010000ce010000d0010000d1010000d2010000d3010000d4010000d5010000d7010000d8010000d9010000da010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f02000020020000210200002202000023020000240200002502000026020000270200002802000029020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 74060ed8a9e474fc4a6a6dc3ab41ecfc
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 120.78945, y: 73.35184, z: -128.37875}
+      lookAt: {x: -74.21777, y: -54.74044, z: 83.36034}
+      up: {x: -0.27541736, y: 0.91362756, z: 0.2990485}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -4.6838627, y: 210.49057, z: 3.7853158}
+        lookAt: {x: -4.6838627, y: -18822.877, z: 3.7853158}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 6076.124
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 120.78945, y: 73.35184, z: -128.37875}
+        lookAt: {x: -74.21777, y: -54.74044, z: 83.36034}
+        up: {x: -0.27541736, y: 0.91362756, z: 0.2990485}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 120.78945, y: 73.35184, z: -128.37875}
+        lookAt: {x: -74.21777, y: -54.74044, z: 83.36034}
+        up: {x: -0.27541736, y: 0.91362756, z: 0.2990485}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 12012_3d_building
+    100004: 12012_3d_site
+    100006: bulb tree-sm
+    100008: bulb tree-sm 1
+    100010: bulb tree-sm 10
+    100012: bulb tree-sm 11
+    100014: bulb tree-sm 12
+    100016: bulb tree-sm 13
+    100018: bulb tree-sm 14
+    100020: bulb tree-sm 15
+    100022: bulb tree-sm 16
+    100024: bulb tree-sm 17
+    100026: bulb tree-sm 18
+    100028: bulb tree-sm 19
+    100030: bulb tree-sm 2
+    100032: bulb tree-sm 20
+    100034: bulb tree-sm 21
+    100036: bulb tree-sm 22
+    100038: bulb tree-sm 23
+    100040: bulb tree-sm 24
+    100042: bulb tree-sm 25
+    100044: bulb tree-sm 26
+    100046: bulb tree-sm 27
+    100048: bulb tree-sm 28
+    100050: bulb tree-sm 29
+    100052: bulb tree-sm 3
+    100054: bulb tree-sm 30
+    100056: bulb tree-sm 31
+    100058: bulb tree-sm 32
+    100060: bulb tree-sm 33
+    100062: bulb tree-sm 34
+    100064: bulb tree-sm 35
+    100066: bulb tree-sm 36
+    100068: bulb tree-sm 37
+    100070: bulb tree-sm 38
+    100072: bulb tree-sm 39
+    100074: bulb tree-sm 4
+    100076: bulb tree-sm 5
+    100078: bulb tree-sm 6
+    100080: bulb tree-sm 7
+    100082: bulb tree-sm 8
+    100084: bulb tree-sm 9
+    100086: door_header#1
+    100088: Door_plain_0.85x2.1
+    100090: Door_plain_0.85x2.1 1
+    100092: Door_plain_0.85x2.1 2
+    100094: Door_plain_0.85x2.1 3
+    100096: Door_plain_0.85x2.1 4
+    100098: Door_plain_0.85x2.1 5
+    100100: garage_door1#2
+    100102: Group 13
+    100104: Group 15
+    100106: Group 162
+    100108: Group 163
+    100110: Group 165
+    100112: Group 167
+    100114: Group 169
+    100116: Group 17
+    100118: Group 171
+    100120: Group 173
+    100122: Group 175
+    100124: Group 177
+    100126: Group 179
+    100128: Group 181
+    100130: Group 183
+    100132: Group 185
+    100134: Group 187
+    100136: Group 189
+    100138: Group 19
+    100140: Group 191
+    100142: Group 193
+    100144: Group 195
+    100146: Group 197
+    100148: Group 199
+    100150: Group 201
+    100152: Group 203
+    100154: Group 205
+    100156: Group 207
+    100158: Group 209
+    100160: Group 21
+    100162: Group 211
+    100164: Group 213
+    100166: Group 215
+    100168: Group 217
+    100170: Group 219
+    100172: Group 221
+    100174: Group 223
+    100176: Group 225
+    100178: Group 227
+    100180: Group 229
+    100182: Group 23
+    100184: Group 231
+    100186: Group 233
+    100188: Group 235
+    100190: Group 237
+    100192: Group 239
+    100194: Group 241
+    100196: Group 243
+    100198: Group 245
+    100200: Group 247
+    100202: Group 249
+    100204: Group 251
+    100206: Group 253
+    100208: Group 255
+    100210: Group 257
+    100212: Group 259
+    100214: Group 261
+    100216: Group 263
+    100218: Group 265
+    100220: Group 267
+    100222: Group 269
+    100224: Group 271
+    100226: Group 273
+    100228: Group 275
+    100230: Group 277
+    100232: Image 1
+    100234: rounded-med
+    100236: rounded-med 1
+    100238: rounded-med 10
+    100240: rounded-med 11
+    100242: rounded-med 12
+    100244: rounded-med 13
+    100246: rounded-med 14
+    100248: rounded-med 15
+    100250: rounded-med 16
+    100252: rounded-med 17
+    100254: rounded-med 18
+    100256: rounded-med 19
+    100258: rounded-med 2
+    100260: rounded-med 20
+    100262: rounded-med 21
+    100264: rounded-med 22
+    100266: rounded-med 23
+    100268: rounded-med 24
+    100270: rounded-med 25
+    100272: rounded-med 26
+    100274: rounded-med 27
+    100276: rounded-med 28
+    100278: rounded-med 29
+    100280: rounded-med 3
+    100282: rounded-med 30
+    100284: rounded-med 31
+    100286: rounded-med 32
+    100288: rounded-med 33
+    100290: rounded-med 34
+    100292: rounded-med 35
+    100294: rounded-med 36
+    100296: rounded-med 37
+    100298: rounded-med 38
+    100300: rounded-med 39
+    100302: rounded-med 4
+    100304: rounded-med 40
+    100306: rounded-med 41
+    100308: rounded-med 42
+    100310: rounded-med 43
+    100312: rounded-med 44
+    100314: rounded-med 45
+    100316: rounded-med 46
+    100318: rounded-med 47
+    100320: rounded-med 48
+    100322: rounded-med 49
+    100324: rounded-med 5
+    100326: rounded-med 50
+    100328: rounded-med 51
+    100330: rounded-med 52
+    100332: rounded-med 53
+    100334: rounded-med 54
+    100336: rounded-med 55
+    100338: rounded-med 56
+    100340: rounded-med 57
+    100342: rounded-med 58
+    100344: rounded-med 59
+    100346: rounded-med 6
+    100348: rounded-med 60
+    100350: rounded-med 61
+    100352: rounded-med 62
+    100354: rounded-med 63
+    100356: rounded-med 7
+    100358: rounded-med 8
+    100360: rounded-med 9
+    100362: rounded-sm
+    100364: rounded-sm 1
+    100366: rounded-sm 10
+    100368: rounded-sm 11
+    100370: rounded-sm 12
+    100372: rounded-sm 13
+    100374: rounded-sm 2
+    100376: rounded-sm 3
+    100378: rounded-sm 4
+    100380: rounded-sm 5
+    100382: rounded-sm 6
+    100384: rounded-sm 7
+    100386: rounded-sm 8
+    100388: rounded-sm 9
+    100390: scale_obq
+    100392: window
+    100394: window 1
+    100396: window 2
+    100398: window 3
+    100400: window 4
+    100402: window 5
+    100404: Window_sill_double_0.91x1.05
+    100406: Window_sill_double_0.91x1.05 1
+    100408: Window_sill_double_0.91x1.05 2
+    100410: windowSlider48x48#1
+    100412: windowSlider48x48#1 1
+    100414: windowSlider48x48#1 10
+    100416: windowSlider48x48#1 11
+    100418: windowSlider48x48#1 12
+    100420: windowSlider48x48#1 13
+    100422: windowSlider48x48#1 14
+    100424: windowSlider48x48#1 15
+    100426: windowSlider48x48#1 16
+    100428: windowSlider48x48#1 17
+    100430: windowSlider48x48#1 18
+    100432: windowSlider48x48#1 19
+    100434: windowSlider48x48#1 2
+    100436: windowSlider48x48#1 20
+    100438: windowSlider48x48#1 21
+    100440: windowSlider48x48#1 22
+    100442: windowSlider48x48#1 23
+    100444: windowSlider48x48#1 24
+    100446: windowSlider48x48#1 25
+    100448: windowSlider48x48#1 26
+    100450: windowSlider48x48#1 27
+    100452: windowSlider48x48#1 28
+    100454: windowSlider48x48#1 29
+    100456: windowSlider48x48#1 3
+    100458: windowSlider48x48#1 30
+    100460: windowSlider48x48#1 31
+    100462: windowSlider48x48#1 32
+    100464: windowSlider48x48#1 33
+    100466: windowSlider48x48#1 34
+    100468: windowSlider48x48#1 35
+    100470: windowSlider48x48#1 36
+    100472: windowSlider48x48#1 37
+    100474: windowSlider48x48#1 38
+    100476: windowSlider48x48#1 39
+    100478: windowSlider48x48#1 4
+    100480: windowSlider48x48#1 40
+    100482: windowSlider48x48#1 41
+    100484: windowSlider48x48#1 42
+    100486: windowSlider48x48#1 43
+    100488: windowSlider48x48#1 44
+    100490: windowSlider48x48#1 45
+    100492: windowSlider48x48#1 46
+    100494: windowSlider48x48#1 47
+    100496: windowSlider48x48#1 48
+    100498: windowSlider48x48#1 49
+    100500: windowSlider48x48#1 5
+    100502: windowSlider48x48#1 6
+    100504: windowSlider48x48#1 7
+    100506: windowSlider48x48#1 8
+    100508: windowSlider48x48#1 9
+    400000: //RootNode
+    400002: 12012_3d_building
+    400004: 12012_3d_site
+    400006: bulb tree-sm
+    400008: bulb tree-sm 1
+    400010: bulb tree-sm 10
+    400012: bulb tree-sm 11
+    400014: bulb tree-sm 12
+    400016: bulb tree-sm 13
+    400018: bulb tree-sm 14
+    400020: bulb tree-sm 15
+    400022: bulb tree-sm 16
+    400024: bulb tree-sm 17
+    400026: bulb tree-sm 18
+    400028: bulb tree-sm 19
+    400030: bulb tree-sm 2
+    400032: bulb tree-sm 20
+    400034: bulb tree-sm 21
+    400036: bulb tree-sm 22
+    400038: bulb tree-sm 23
+    400040: bulb tree-sm 24
+    400042: bulb tree-sm 25
+    400044: bulb tree-sm 26
+    400046: bulb tree-sm 27
+    400048: bulb tree-sm 28
+    400050: bulb tree-sm 29
+    400052: bulb tree-sm 3
+    400054: bulb tree-sm 30
+    400056: bulb tree-sm 31
+    400058: bulb tree-sm 32
+    400060: bulb tree-sm 33
+    400062: bulb tree-sm 34
+    400064: bulb tree-sm 35
+    400066: bulb tree-sm 36
+    400068: bulb tree-sm 37
+    400070: bulb tree-sm 38
+    400072: bulb tree-sm 39
+    400074: bulb tree-sm 4
+    400076: bulb tree-sm 5
+    400078: bulb tree-sm 6
+    400080: bulb tree-sm 7
+    400082: bulb tree-sm 8
+    400084: bulb tree-sm 9
+    400086: door_header#1
+    400088: Door_plain_0.85x2.1
+    400090: Door_plain_0.85x2.1 1
+    400092: Door_plain_0.85x2.1 2
+    400094: Door_plain_0.85x2.1 3
+    400096: Door_plain_0.85x2.1 4
+    400098: Door_plain_0.85x2.1 5
+    400100: garage_door1#2
+    400102: Group 13
+    400104: Group 15
+    400106: Group 162
+    400108: Group 163
+    400110: Group 165
+    400112: Group 167
+    400114: Group 169
+    400116: Group 17
+    400118: Group 171
+    400120: Group 173
+    400122: Group 175
+    400124: Group 177
+    400126: Group 179
+    400128: Group 181
+    400130: Group 183
+    400132: Group 185
+    400134: Group 187
+    400136: Group 189
+    400138: Group 19
+    400140: Group 191
+    400142: Group 193
+    400144: Group 195
+    400146: Group 197
+    400148: Group 199
+    400150: Group 201
+    400152: Group 203
+    400154: Group 205
+    400156: Group 207
+    400158: Group 209
+    400160: Group 21
+    400162: Group 211
+    400164: Group 213
+    400166: Group 215
+    400168: Group 217
+    400170: Group 219
+    400172: Group 221
+    400174: Group 223
+    400176: Group 225
+    400178: Group 227
+    400180: Group 229
+    400182: Group 23
+    400184: Group 231
+    400186: Group 233
+    400188: Group 235
+    400190: Group 237
+    400192: Group 239
+    400194: Group 241
+    400196: Group 243
+    400198: Group 245
+    400200: Group 247
+    400202: Group 249
+    400204: Group 251
+    400206: Group 253
+    400208: Group 255
+    400210: Group 257
+    400212: Group 259
+    400214: Group 261
+    400216: Group 263
+    400218: Group 265
+    400220: Group 267
+    400222: Group 269
+    400224: Group 271
+    400226: Group 273
+    400228: Group 275
+    400230: Group 277
+    400232: Image 1
+    400234: rounded-med
+    400236: rounded-med 1
+    400238: rounded-med 10
+    400240: rounded-med 11
+    400242: rounded-med 12
+    400244: rounded-med 13
+    400246: rounded-med 14
+    400248: rounded-med 15
+    400250: rounded-med 16
+    400252: rounded-med 17
+    400254: rounded-med 18
+    400256: rounded-med 19
+    400258: rounded-med 2
+    400260: rounded-med 20
+    400262: rounded-med 21
+    400264: rounded-med 22
+    400266: rounded-med 23
+    400268: rounded-med 24
+    400270: rounded-med 25
+    400272: rounded-med 26
+    400274: rounded-med 27
+    400276: rounded-med 28
+    400278: rounded-med 29
+    400280: rounded-med 3
+    400282: rounded-med 30
+    400284: rounded-med 31
+    400286: rounded-med 32
+    400288: rounded-med 33
+    400290: rounded-med 34
+    400292: rounded-med 35
+    400294: rounded-med 36
+    400296: rounded-med 37
+    400298: rounded-med 38
+    400300: rounded-med 39
+    400302: rounded-med 4
+    400304: rounded-med 40
+    400306: rounded-med 41
+    400308: rounded-med 42
+    400310: rounded-med 43
+    400312: rounded-med 44
+    400314: rounded-med 45
+    400316: rounded-med 46
+    400318: rounded-med 47
+    400320: rounded-med 48
+    400322: rounded-med 49
+    400324: rounded-med 5
+    400326: rounded-med 50
+    400328: rounded-med 51
+    400330: rounded-med 52
+    400332: rounded-med 53
+    400334: rounded-med 54
+    400336: rounded-med 55
+    400338: rounded-med 56
+    400340: rounded-med 57
+    400342: rounded-med 58
+    400344: rounded-med 59
+    400346: rounded-med 6
+    400348: rounded-med 60
+    400350: rounded-med 61
+    400352: rounded-med 62
+    400354: rounded-med 63
+    400356: rounded-med 7
+    400358: rounded-med 8
+    400360: rounded-med 9
+    400362: rounded-sm
+    400364: rounded-sm 1
+    400366: rounded-sm 10
+    400368: rounded-sm 11
+    400370: rounded-sm 12
+    400372: rounded-sm 13
+    400374: rounded-sm 2
+    400376: rounded-sm 3
+    400378: rounded-sm 4
+    400380: rounded-sm 5
+    400382: rounded-sm 6
+    400384: rounded-sm 7
+    400386: rounded-sm 8
+    400388: rounded-sm 9
+    400390: scale_obq
+    400392: window
+    400394: window 1
+    400396: window 2
+    400398: window 3
+    400400: window 4
+    400402: window 5
+    400404: Window_sill_double_0.91x1.05
+    400406: Window_sill_double_0.91x1.05 1
+    400408: Window_sill_double_0.91x1.05 2
+    400410: windowSlider48x48#1
+    400412: windowSlider48x48#1 1
+    400414: windowSlider48x48#1 10
+    400416: windowSlider48x48#1 11
+    400418: windowSlider48x48#1 12
+    400420: windowSlider48x48#1 13
+    400422: windowSlider48x48#1 14
+    400424: windowSlider48x48#1 15
+    400426: windowSlider48x48#1 16
+    400428: windowSlider48x48#1 17
+    400430: windowSlider48x48#1 18
+    400432: windowSlider48x48#1 19
+    400434: windowSlider48x48#1 2
+    400436: windowSlider48x48#1 20
+    400438: windowSlider48x48#1 21
+    400440: windowSlider48x48#1 22
+    400442: windowSlider48x48#1 23
+    400444: windowSlider48x48#1 24
+    400446: windowSlider48x48#1 25
+    400448: windowSlider48x48#1 26
+    400450: windowSlider48x48#1 27
+    400452: windowSlider48x48#1 28
+    400454: windowSlider48x48#1 29
+    400456: windowSlider48x48#1 3
+    400458: windowSlider48x48#1 30
+    400460: windowSlider48x48#1 31
+    400462: windowSlider48x48#1 32
+    400464: windowSlider48x48#1 33
+    400466: windowSlider48x48#1 34
+    400468: windowSlider48x48#1 35
+    400470: windowSlider48x48#1 36
+    400472: windowSlider48x48#1 37
+    400474: windowSlider48x48#1 38
+    400476: windowSlider48x48#1 39
+    400478: windowSlider48x48#1 4
+    400480: windowSlider48x48#1 40
+    400482: windowSlider48x48#1 41
+    400484: windowSlider48x48#1 42
+    400486: windowSlider48x48#1 43
+    400488: windowSlider48x48#1 44
+    400490: windowSlider48x48#1 45
+    400492: windowSlider48x48#1 46
+    400494: windowSlider48x48#1 47
+    400496: windowSlider48x48#1 48
+    400498: windowSlider48x48#1 49
+    400500: windowSlider48x48#1 5
+    400502: windowSlider48x48#1 6
+    400504: windowSlider48x48#1 7
+    400506: windowSlider48x48#1 8
+    400508: windowSlider48x48#1 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_bldg_roof
+    2100010: buildingwalls
+    2100012: ApertureGlass
+    2100014: _Ivory_
+    2100016: OV_shrub_texture
+    2100018: OV_surface_other
+    2100020: OV_paving_pedestrian
+    2100022: OV_paving_general
+    2100024: OV_Water
+    2100026: pedestrian_paved
+    2100028: OV_turf_solid
+    2100030: mapletree
+    2100032: roundedtree
+    2300000: 12012_3d_building
+    2300002: 12012_3d_site
+    2300004: bulb tree-sm
+    2300006: bulb tree-sm 1
+    2300008: bulb tree-sm 10
+    2300010: bulb tree-sm 11
+    2300012: bulb tree-sm 12
+    2300014: bulb tree-sm 13
+    2300016: bulb tree-sm 14
+    2300018: bulb tree-sm 15
+    2300020: bulb tree-sm 16
+    2300022: bulb tree-sm 17
+    2300024: bulb tree-sm 18
+    2300026: bulb tree-sm 19
+    2300028: bulb tree-sm 2
+    2300030: bulb tree-sm 20
+    2300032: bulb tree-sm 21
+    2300034: bulb tree-sm 22
+    2300036: bulb tree-sm 23
+    2300038: bulb tree-sm 24
+    2300040: bulb tree-sm 25
+    2300042: bulb tree-sm 26
+    2300044: bulb tree-sm 27
+    2300046: bulb tree-sm 28
+    2300048: bulb tree-sm 29
+    2300050: bulb tree-sm 3
+    2300052: bulb tree-sm 30
+    2300054: bulb tree-sm 31
+    2300056: bulb tree-sm 32
+    2300058: bulb tree-sm 33
+    2300060: bulb tree-sm 34
+    2300062: bulb tree-sm 35
+    2300064: bulb tree-sm 36
+    2300066: bulb tree-sm 37
+    2300068: bulb tree-sm 38
+    2300070: bulb tree-sm 39
+    2300072: bulb tree-sm 4
+    2300074: bulb tree-sm 5
+    2300076: bulb tree-sm 6
+    2300078: bulb tree-sm 7
+    2300080: bulb tree-sm 8
+    2300082: bulb tree-sm 9
+    2300084: door_header#1
+    2300086: Door_plain_0.85x2.1
+    2300088: Door_plain_0.85x2.1 1
+    2300090: Door_plain_0.85x2.1 2
+    2300092: Door_plain_0.85x2.1 3
+    2300094: Door_plain_0.85x2.1 4
+    2300096: Door_plain_0.85x2.1 5
+    2300098: garage_door1#2
+    2300100: Group 13
+    2300102: Group 15
+    2300104: Group 163
+    2300106: Group 165
+    2300108: Group 167
+    2300110: Group 169
+    2300112: Group 17
+    2300114: Group 171
+    2300116: Group 173
+    2300118: Group 175
+    2300120: Group 177
+    2300122: Group 179
+    2300124: Group 181
+    2300126: Group 183
+    2300128: Group 185
+    2300130: Group 187
+    2300132: Group 189
+    2300134: Group 19
+    2300136: Group 191
+    2300138: Group 193
+    2300140: Group 195
+    2300142: Group 197
+    2300144: Group 199
+    2300146: Group 201
+    2300148: Group 203
+    2300150: Group 205
+    2300152: Group 207
+    2300154: Group 209
+    2300156: Group 21
+    2300158: Group 211
+    2300160: Group 213
+    2300162: Group 215
+    2300164: Group 217
+    2300166: Group 219
+    2300168: Group 221
+    2300170: Group 223
+    2300172: Group 225
+    2300174: Group 227
+    2300176: Group 229
+    2300178: Group 23
+    2300180: Group 231
+    2300182: Group 233
+    2300184: Group 235
+    2300186: Group 237
+    2300188: Group 239
+    2300190: Group 241
+    2300192: Group 243
+    2300194: Group 245
+    2300196: Group 247
+    2300198: Group 249
+    2300200: Group 251
+    2300202: Group 253
+    2300204: Group 255
+    2300206: Group 257
+    2300208: Group 259
+    2300210: Group 261
+    2300212: Group 263
+    2300214: Group 265
+    2300216: Group 267
+    2300218: Group 269
+    2300220: Group 271
+    2300222: Group 273
+    2300224: Group 275
+    2300226: Image 1
+    2300228: rounded-med
+    2300230: rounded-med 1
+    2300232: rounded-med 10
+    2300234: rounded-med 11
+    2300236: rounded-med 12
+    2300238: rounded-med 13
+    2300240: rounded-med 14
+    2300242: rounded-med 15
+    2300244: rounded-med 16
+    2300246: rounded-med 17
+    2300248: rounded-med 18
+    2300250: rounded-med 19
+    2300252: rounded-med 2
+    2300254: rounded-med 20
+    2300256: rounded-med 21
+    2300258: rounded-med 22
+    2300260: rounded-med 23
+    2300262: rounded-med 24
+    2300264: rounded-med 25
+    2300266: rounded-med 26
+    2300268: rounded-med 27
+    2300270: rounded-med 28
+    2300272: rounded-med 29
+    2300274: rounded-med 3
+    2300276: rounded-med 30
+    2300278: rounded-med 31
+    2300280: rounded-med 32
+    2300282: rounded-med 33
+    2300284: rounded-med 34
+    2300286: rounded-med 35
+    2300288: rounded-med 36
+    2300290: rounded-med 37
+    2300292: rounded-med 38
+    2300294: rounded-med 39
+    2300296: rounded-med 4
+    2300298: rounded-med 40
+    2300300: rounded-med 41
+    2300302: rounded-med 42
+    2300304: rounded-med 43
+    2300306: rounded-med 44
+    2300308: rounded-med 45
+    2300310: rounded-med 46
+    2300312: rounded-med 47
+    2300314: rounded-med 48
+    2300316: rounded-med 49
+    2300318: rounded-med 5
+    2300320: rounded-med 50
+    2300322: rounded-med 51
+    2300324: rounded-med 52
+    2300326: rounded-med 53
+    2300328: rounded-med 54
+    2300330: rounded-med 55
+    2300332: rounded-med 56
+    2300334: rounded-med 57
+    2300336: rounded-med 58
+    2300338: rounded-med 59
+    2300340: rounded-med 6
+    2300342: rounded-med 60
+    2300344: rounded-med 61
+    2300346: rounded-med 62
+    2300348: rounded-med 63
+    2300350: rounded-med 7
+    2300352: rounded-med 8
+    2300354: rounded-med 9
+    2300356: rounded-sm
+    2300358: rounded-sm 1
+    2300360: rounded-sm 10
+    2300362: rounded-sm 11
+    2300364: rounded-sm 12
+    2300366: rounded-sm 13
+    2300368: rounded-sm 2
+    2300370: rounded-sm 3
+    2300372: rounded-sm 4
+    2300374: rounded-sm 5
+    2300376: rounded-sm 6
+    2300378: rounded-sm 7
+    2300380: rounded-sm 8
+    2300382: rounded-sm 9
+    2300384: scale_obq
+    2300386: window
+    2300388: window 1
+    2300390: window 2
+    2300392: window 3
+    2300394: window 4
+    2300396: window 5
+    2300398: Window_sill_double_0.91x1.05
+    2300400: Window_sill_double_0.91x1.05 1
+    2300402: Window_sill_double_0.91x1.05 2
+    2300404: windowSlider48x48#1
+    2300406: windowSlider48x48#1 1
+    2300408: windowSlider48x48#1 10
+    2300410: windowSlider48x48#1 11
+    2300412: windowSlider48x48#1 12
+    2300414: windowSlider48x48#1 13
+    2300416: windowSlider48x48#1 14
+    2300418: windowSlider48x48#1 15
+    2300420: windowSlider48x48#1 16
+    2300422: windowSlider48x48#1 17
+    2300424: windowSlider48x48#1 18
+    2300426: windowSlider48x48#1 19
+    2300428: windowSlider48x48#1 2
+    2300430: windowSlider48x48#1 20
+    2300432: windowSlider48x48#1 21
+    2300434: windowSlider48x48#1 22
+    2300436: windowSlider48x48#1 23
+    2300438: windowSlider48x48#1 24
+    2300440: windowSlider48x48#1 25
+    2300442: windowSlider48x48#1 26
+    2300444: windowSlider48x48#1 27
+    2300446: windowSlider48x48#1 28
+    2300448: windowSlider48x48#1 29
+    2300450: windowSlider48x48#1 3
+    2300452: windowSlider48x48#1 30
+    2300454: windowSlider48x48#1 31
+    2300456: windowSlider48x48#1 32
+    2300458: windowSlider48x48#1 33
+    2300460: windowSlider48x48#1 34
+    2300462: windowSlider48x48#1 35
+    2300464: windowSlider48x48#1 36
+    2300466: windowSlider48x48#1 37
+    2300468: windowSlider48x48#1 38
+    2300470: windowSlider48x48#1 39
+    2300472: windowSlider48x48#1 4
+    2300474: windowSlider48x48#1 40
+    2300476: windowSlider48x48#1 41
+    2300478: windowSlider48x48#1 42
+    2300480: windowSlider48x48#1 43
+    2300482: windowSlider48x48#1 44
+    2300484: windowSlider48x48#1 45
+    2300486: windowSlider48x48#1 46
+    2300488: windowSlider48x48#1 47
+    2300490: windowSlider48x48#1 48
+    2300492: windowSlider48x48#1 49
+    2300494: windowSlider48x48#1 5
+    2300496: windowSlider48x48#1 6
+    2300498: windowSlider48x48#1 7
+    2300500: windowSlider48x48#1 8
+    2300502: windowSlider48x48#1 9
+    3300000: 12012_3d_building
+    3300002: 12012_3d_site
+    3300004: bulb tree-sm
+    3300006: bulb tree-sm 1
+    3300008: bulb tree-sm 10
+    3300010: bulb tree-sm 11
+    3300012: bulb tree-sm 12
+    3300014: bulb tree-sm 13
+    3300016: bulb tree-sm 14
+    3300018: bulb tree-sm 15
+    3300020: bulb tree-sm 16
+    3300022: bulb tree-sm 17
+    3300024: bulb tree-sm 18
+    3300026: bulb tree-sm 19
+    3300028: bulb tree-sm 2
+    3300030: bulb tree-sm 20
+    3300032: bulb tree-sm 21
+    3300034: bulb tree-sm 22
+    3300036: bulb tree-sm 23
+    3300038: bulb tree-sm 24
+    3300040: bulb tree-sm 25
+    3300042: bulb tree-sm 26
+    3300044: bulb tree-sm 27
+    3300046: bulb tree-sm 28
+    3300048: bulb tree-sm 29
+    3300050: bulb tree-sm 3
+    3300052: bulb tree-sm 30
+    3300054: bulb tree-sm 31
+    3300056: bulb tree-sm 32
+    3300058: bulb tree-sm 33
+    3300060: bulb tree-sm 34
+    3300062: bulb tree-sm 35
+    3300064: bulb tree-sm 36
+    3300066: bulb tree-sm 37
+    3300068: bulb tree-sm 38
+    3300070: bulb tree-sm 39
+    3300072: bulb tree-sm 4
+    3300074: bulb tree-sm 5
+    3300076: bulb tree-sm 6
+    3300078: bulb tree-sm 7
+    3300080: bulb tree-sm 8
+    3300082: bulb tree-sm 9
+    3300084: door_header#1
+    3300086: Door_plain_0.85x2.1
+    3300088: Door_plain_0.85x2.1 1
+    3300090: Door_plain_0.85x2.1 2
+    3300092: Door_plain_0.85x2.1 3
+    3300094: Door_plain_0.85x2.1 4
+    3300096: Door_plain_0.85x2.1 5
+    3300098: garage_door1#2
+    3300100: Group 13
+    3300102: Group 15
+    3300104: Group 163
+    3300106: Group 165
+    3300108: Group 167
+    3300110: Group 169
+    3300112: Group 17
+    3300114: Group 171
+    3300116: Group 173
+    3300118: Group 175
+    3300120: Group 177
+    3300122: Group 179
+    3300124: Group 181
+    3300126: Group 183
+    3300128: Group 185
+    3300130: Group 187
+    3300132: Group 189
+    3300134: Group 19
+    3300136: Group 191
+    3300138: Group 193
+    3300140: Group 195
+    3300142: Group 197
+    3300144: Group 199
+    3300146: Group 201
+    3300148: Group 203
+    3300150: Group 205
+    3300152: Group 207
+    3300154: Group 209
+    3300156: Group 21
+    3300158: Group 211
+    3300160: Group 213
+    3300162: Group 215
+    3300164: Group 217
+    3300166: Group 219
+    3300168: Group 221
+    3300170: Group 223
+    3300172: Group 225
+    3300174: Group 227
+    3300176: Group 229
+    3300178: Group 23
+    3300180: Group 231
+    3300182: Group 233
+    3300184: Group 235
+    3300186: Group 237
+    3300188: Group 239
+    3300190: Group 241
+    3300192: Group 243
+    3300194: Group 245
+    3300196: Group 247
+    3300198: Group 249
+    3300200: Group 251
+    3300202: Group 253
+    3300204: Group 255
+    3300206: Group 257
+    3300208: Group 259
+    3300210: Group 261
+    3300212: Group 263
+    3300214: Group 265
+    3300216: Group 267
+    3300218: Group 269
+    3300220: Group 271
+    3300222: Group 273
+    3300224: Group 275
+    3300226: Image 1
+    3300228: rounded-med
+    3300230: rounded-med 1
+    3300232: rounded-med 10
+    3300234: rounded-med 11
+    3300236: rounded-med 12
+    3300238: rounded-med 13
+    3300240: rounded-med 14
+    3300242: rounded-med 15
+    3300244: rounded-med 16
+    3300246: rounded-med 17
+    3300248: rounded-med 18
+    3300250: rounded-med 19
+    3300252: rounded-med 2
+    3300254: rounded-med 20
+    3300256: rounded-med 21
+    3300258: rounded-med 22
+    3300260: rounded-med 23
+    3300262: rounded-med 24
+    3300264: rounded-med 25
+    3300266: rounded-med 26
+    3300268: rounded-med 27
+    3300270: rounded-med 28
+    3300272: rounded-med 29
+    3300274: rounded-med 3
+    3300276: rounded-med 30
+    3300278: rounded-med 31
+    3300280: rounded-med 32
+    3300282: rounded-med 33
+    3300284: rounded-med 34
+    3300286: rounded-med 35
+    3300288: rounded-med 36
+    3300290: rounded-med 37
+    3300292: rounded-med 38
+    3300294: rounded-med 39
+    3300296: rounded-med 4
+    3300298: rounded-med 40
+    3300300: rounded-med 41
+    3300302: rounded-med 42
+    3300304: rounded-med 43
+    3300306: rounded-med 44
+    3300308: rounded-med 45
+    3300310: rounded-med 46
+    3300312: rounded-med 47
+    3300314: rounded-med 48
+    3300316: rounded-med 49
+    3300318: rounded-med 5
+    3300320: rounded-med 50
+    3300322: rounded-med 51
+    3300324: rounded-med 52
+    3300326: rounded-med 53
+    3300328: rounded-med 54
+    3300330: rounded-med 55
+    3300332: rounded-med 56
+    3300334: rounded-med 57
+    3300336: rounded-med 58
+    3300338: rounded-med 59
+    3300340: rounded-med 6
+    3300342: rounded-med 60
+    3300344: rounded-med 61
+    3300346: rounded-med 62
+    3300348: rounded-med 63
+    3300350: rounded-med 7
+    3300352: rounded-med 8
+    3300354: rounded-med 9
+    3300356: rounded-sm
+    3300358: rounded-sm 1
+    3300360: rounded-sm 10
+    3300362: rounded-sm 11
+    3300364: rounded-sm 12
+    3300366: rounded-sm 13
+    3300368: rounded-sm 2
+    3300370: rounded-sm 3
+    3300372: rounded-sm 4
+    3300374: rounded-sm 5
+    3300376: rounded-sm 6
+    3300378: rounded-sm 7
+    3300380: rounded-sm 8
+    3300382: rounded-sm 9
+    3300384: scale_obq
+    3300386: window
+    3300388: window 1
+    3300390: window 2
+    3300392: window 3
+    3300394: window 4
+    3300396: window 5
+    3300398: Window_sill_double_0.91x1.05
+    3300400: Window_sill_double_0.91x1.05 1
+    3300402: Window_sill_double_0.91x1.05 2
+    3300404: windowSlider48x48#1
+    3300406: windowSlider48x48#1 1
+    3300408: windowSlider48x48#1 10
+    3300410: windowSlider48x48#1 11
+    3300412: windowSlider48x48#1 12
+    3300414: windowSlider48x48#1 13
+    3300416: windowSlider48x48#1 14
+    3300418: windowSlider48x48#1 15
+    3300420: windowSlider48x48#1 16
+    3300422: windowSlider48x48#1 17
+    3300424: windowSlider48x48#1 18
+    3300426: windowSlider48x48#1 19
+    3300428: windowSlider48x48#1 2
+    3300430: windowSlider48x48#1 20
+    3300432: windowSlider48x48#1 21
+    3300434: windowSlider48x48#1 22
+    3300436: windowSlider48x48#1 23
+    3300438: windowSlider48x48#1 24
+    3300440: windowSlider48x48#1 25
+    3300442: windowSlider48x48#1 26
+    3300444: windowSlider48x48#1 27
+    3300446: windowSlider48x48#1 28
+    3300448: windowSlider48x48#1 29
+    3300450: windowSlider48x48#1 3
+    3300452: windowSlider48x48#1 30
+    3300454: windowSlider48x48#1 31
+    3300456: windowSlider48x48#1 32
+    3300458: windowSlider48x48#1 33
+    3300460: windowSlider48x48#1 34
+    3300462: windowSlider48x48#1 35
+    3300464: windowSlider48x48#1 36
+    3300466: windowSlider48x48#1 37
+    3300468: windowSlider48x48#1 38
+    3300470: windowSlider48x48#1 39
+    3300472: windowSlider48x48#1 4
+    3300474: windowSlider48x48#1 40
+    3300476: windowSlider48x48#1 41
+    3300478: windowSlider48x48#1 42
+    3300480: windowSlider48x48#1 43
+    3300482: windowSlider48x48#1 44
+    3300484: windowSlider48x48#1 45
+    3300486: windowSlider48x48#1 46
+    3300488: windowSlider48x48#1 47
+    3300490: windowSlider48x48#1 48
+    3300492: windowSlider48x48#1 49
+    3300494: windowSlider48x48#1 5
+    3300496: windowSlider48x48#1 6
+    3300498: windowSlider48x48#1 7
+    3300500: windowSlider48x48#1 8
+    3300502: windowSlider48x48#1 9
+    4300000: Mesh 12012-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 12012_3d_building
+    4300006: Mesh Group 13
+    4300008: Mesh Group 15
+    4300010: Mesh Group 21
+    4300012: Mesh Door_plain_0.85x2.1
+    4300014: Mesh windowSlider48x48#1
+    4300016: Mesh Window_sill_double_0.91x1.05
+    4300018: Mesh garage_door1#2
+    4300020: Mesh window
+    4300022: Mesh door_header#1
+    4300024: Mesh 12012_3d_site
+    4300026: Mesh Group 163
+    4300028: Mesh Group 165
+    4300030: Mesh Group 167
+    4300032: Mesh Group 169
+    4300034: Mesh Group 171
+    4300036: Mesh Group 175
+    4300038: Mesh Group 177
+    4300040: Mesh Group 179
+    4300042: Mesh Group 181
+    4300044: Mesh Group 183
+    4300046: Mesh Group 185
+    4300048: Mesh Group 187
+    4300050: Mesh Group 191
+    4300052: Mesh Group 197
+    4300054: Mesh Group 199
+    4300056: Mesh Group 203
+    4300058: Mesh Group 205
+    4300060: Mesh Group 207
+    4300062: Mesh Group 209
+    4300064: Mesh Group 211
+    4300066: Mesh Group 213
+    4300068: Mesh Group 219
+    4300070: Mesh Group 225
+    4300072: Mesh Group 227
+    4300074: Mesh Group 229
+    4300076: Mesh Group 233
+    4300078: Mesh Group 235
+    4300080: Mesh Group 241
+    4300082: Mesh Group 249
+    4300084: Mesh Group 251
+    4300086: Mesh Group 253
+    4300088: Mesh Group 261
+    4300090: Mesh Group 267
+    4300092: Mesh rounded-med
+    4300094: Mesh rounded-sm
+    4300096: Mesh bulb tree-sm
+    6400000: 12012_3d_building
+    6400002: 12012_3d_site
+    6400004: bulb tree-sm
+    6400006: bulb tree-sm 1
+    6400008: bulb tree-sm 10
+    6400010: bulb tree-sm 11
+    6400012: bulb tree-sm 12
+    6400014: bulb tree-sm 13
+    6400016: bulb tree-sm 14
+    6400018: bulb tree-sm 15
+    6400020: bulb tree-sm 16
+    6400022: bulb tree-sm 17
+    6400024: bulb tree-sm 18
+    6400026: bulb tree-sm 19
+    6400028: bulb tree-sm 2
+    6400030: bulb tree-sm 20
+    6400032: bulb tree-sm 21
+    6400034: bulb tree-sm 22
+    6400036: bulb tree-sm 23
+    6400038: bulb tree-sm 24
+    6400040: bulb tree-sm 25
+    6400042: bulb tree-sm 26
+    6400044: bulb tree-sm 27
+    6400046: bulb tree-sm 28
+    6400048: bulb tree-sm 29
+    6400050: bulb tree-sm 3
+    6400052: bulb tree-sm 30
+    6400054: bulb tree-sm 31
+    6400056: bulb tree-sm 32
+    6400058: bulb tree-sm 33
+    6400060: bulb tree-sm 34
+    6400062: bulb tree-sm 35
+    6400064: bulb tree-sm 36
+    6400066: bulb tree-sm 37
+    6400068: bulb tree-sm 38
+    6400070: bulb tree-sm 39
+    6400072: bulb tree-sm 4
+    6400074: bulb tree-sm 5
+    6400076: bulb tree-sm 6
+    6400078: bulb tree-sm 7
+    6400080: bulb tree-sm 8
+    6400082: bulb tree-sm 9
+    6400084: door_header#1
+    6400086: Door_plain_0.85x2.1
+    6400088: Door_plain_0.85x2.1 1
+    6400090: Door_plain_0.85x2.1 2
+    6400092: Door_plain_0.85x2.1 3
+    6400094: Door_plain_0.85x2.1 4
+    6400096: Door_plain_0.85x2.1 5
+    6400098: garage_door1#2
+    6400100: Group 13
+    6400102: Group 15
+    6400104: Group 163
+    6400106: Group 165
+    6400108: Group 167
+    6400110: Group 169
+    6400112: Group 17
+    6400114: Group 171
+    6400116: Group 173
+    6400118: Group 175
+    6400120: Group 177
+    6400122: Group 179
+    6400124: Group 181
+    6400126: Group 183
+    6400128: Group 185
+    6400130: Group 187
+    6400132: Group 189
+    6400134: Group 19
+    6400136: Group 191
+    6400138: Group 193
+    6400140: Group 195
+    6400142: Group 197
+    6400144: Group 199
+    6400146: Group 201
+    6400148: Group 203
+    6400150: Group 205
+    6400152: Group 207
+    6400154: Group 209
+    6400156: Group 21
+    6400158: Group 211
+    6400160: Group 213
+    6400162: Group 215
+    6400164: Group 217
+    6400166: Group 219
+    6400168: Group 221
+    6400170: Group 223
+    6400172: Group 225
+    6400174: Group 227
+    6400176: Group 229
+    6400178: Group 23
+    6400180: Group 231
+    6400182: Group 233
+    6400184: Group 235
+    6400186: Group 237
+    6400188: Group 239
+    6400190: Group 241
+    6400192: Group 243
+    6400194: Group 245
+    6400196: Group 247
+    6400198: Group 249
+    6400200: Group 251
+    6400202: Group 253
+    6400204: Group 255
+    6400206: Group 257
+    6400208: Group 259
+    6400210: Group 261
+    6400212: Group 263
+    6400214: Group 265
+    6400216: Group 267
+    6400218: Group 269
+    6400220: Group 271
+    6400222: Group 273
+    6400224: Group 275
+    6400226: Image 1
+    6400228: rounded-med
+    6400230: rounded-med 1
+    6400232: rounded-med 10
+    6400234: rounded-med 11
+    6400236: rounded-med 12
+    6400238: rounded-med 13
+    6400240: rounded-med 14
+    6400242: rounded-med 15
+    6400244: rounded-med 16
+    6400246: rounded-med 17
+    6400248: rounded-med 18
+    6400250: rounded-med 19
+    6400252: rounded-med 2
+    6400254: rounded-med 20
+    6400256: rounded-med 21
+    6400258: rounded-med 22
+    6400260: rounded-med 23
+    6400262: rounded-med 24
+    6400264: rounded-med 25
+    6400266: rounded-med 26
+    6400268: rounded-med 27
+    6400270: rounded-med 28
+    6400272: rounded-med 29
+    6400274: rounded-med 3
+    6400276: rounded-med 30
+    6400278: rounded-med 31
+    6400280: rounded-med 32
+    6400282: rounded-med 33
+    6400284: rounded-med 34
+    6400286: rounded-med 35
+    6400288: rounded-med 36
+    6400290: rounded-med 37
+    6400292: rounded-med 38
+    6400294: rounded-med 39
+    6400296: rounded-med 4
+    6400298: rounded-med 40
+    6400300: rounded-med 41
+    6400302: rounded-med 42
+    6400304: rounded-med 43
+    6400306: rounded-med 44
+    6400308: rounded-med 45
+    6400310: rounded-med 46
+    6400312: rounded-med 47
+    6400314: rounded-med 48
+    6400316: rounded-med 49
+    6400318: rounded-med 5
+    6400320: rounded-med 50
+    6400322: rounded-med 51
+    6400324: rounded-med 52
+    6400326: rounded-med 53
+    6400328: rounded-med 54
+    6400330: rounded-med 55
+    6400332: rounded-med 56
+    6400334: rounded-med 57
+    6400336: rounded-med 58
+    6400338: rounded-med 59
+    6400340: rounded-med 6
+    6400342: rounded-med 60
+    6400344: rounded-med 61
+    6400346: rounded-med 62
+    6400348: rounded-med 63
+    6400350: rounded-med 7
+    6400352: rounded-med 8
+    6400354: rounded-med 9
+    6400356: rounded-sm
+    6400358: rounded-sm 1
+    6400360: rounded-sm 10
+    6400362: rounded-sm 11
+    6400364: rounded-sm 12
+    6400366: rounded-sm 13
+    6400368: rounded-sm 2
+    6400370: rounded-sm 3
+    6400372: rounded-sm 4
+    6400374: rounded-sm 5
+    6400376: rounded-sm 6
+    6400378: rounded-sm 7
+    6400380: rounded-sm 8
+    6400382: rounded-sm 9
+    6400384: scale_obq
+    6400386: window
+    6400388: window 1
+    6400390: window 2
+    6400392: window 3
+    6400394: window 4
+    6400396: window 5
+    6400398: Window_sill_double_0.91x1.05
+    6400400: Window_sill_double_0.91x1.05 1
+    6400402: Window_sill_double_0.91x1.05 2
+    6400404: windowSlider48x48#1
+    6400406: windowSlider48x48#1 1
+    6400408: windowSlider48x48#1 10
+    6400410: windowSlider48x48#1 11
+    6400412: windowSlider48x48#1 12
+    6400414: windowSlider48x48#1 13
+    6400416: windowSlider48x48#1 14
+    6400418: windowSlider48x48#1 15
+    6400420: windowSlider48x48#1 16
+    6400422: windowSlider48x48#1 17
+    6400424: windowSlider48x48#1 18
+    6400426: windowSlider48x48#1 19
+    6400428: windowSlider48x48#1 2
+    6400430: windowSlider48x48#1 20
+    6400432: windowSlider48x48#1 21
+    6400434: windowSlider48x48#1 22
+    6400436: windowSlider48x48#1 23
+    6400438: windowSlider48x48#1 24
+    6400440: windowSlider48x48#1 25
+    6400442: windowSlider48x48#1 26
+    6400444: windowSlider48x48#1 27
+    6400446: windowSlider48x48#1 28
+    6400448: windowSlider48x48#1 29
+    6400450: windowSlider48x48#1 3
+    6400452: windowSlider48x48#1 30
+    6400454: windowSlider48x48#1 31
+    6400456: windowSlider48x48#1 32
+    6400458: windowSlider48x48#1 33
+    6400460: windowSlider48x48#1 34
+    6400462: windowSlider48x48#1 35
+    6400464: windowSlider48x48#1 36
+    6400466: windowSlider48x48#1 37
+    6400468: windowSlider48x48#1 38
+    6400470: windowSlider48x48#1 39
+    6400472: windowSlider48x48#1 4
+    6400474: windowSlider48x48#1 40
+    6400476: windowSlider48x48#1 41
+    6400478: windowSlider48x48#1 42
+    6400480: windowSlider48x48#1 43
+    6400482: windowSlider48x48#1 44
+    6400484: windowSlider48x48#1 45
+    6400486: windowSlider48x48#1 46
+    6400488: windowSlider48x48#1 47
+    6400490: windowSlider48x48#1 48
+    6400492: windowSlider48x48#1 49
+    6400494: windowSlider48x48#1 5
+    6400496: windowSlider48x48#1 6
+    6400498: windowSlider48x48#1 7
+    6400500: windowSlider48x48#1 8
+    6400502: windowSlider48x48#1 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 1f1dec62c6a3b4140ae904322270a743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 0ba8d6cfcf96ee545b95d822e0572661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: edca78f8d64c70f4d9474f52b676e689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: af3504d5874bb374b93f2d6d4d053edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: ab033e5b898a7c64d8a821fe09b54337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 9e33f162b2cb56c419179b8726969ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: f184b4b5c3ad32e4f94b6749fa4e57ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: af876c143b484764e87ec7f8ee15d325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: dadd1d1ebf59ba54f966ad0826d94dd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 0bc2de4379df64747b56dc3185897ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 82275ccb898b8f9408eefe1c4e755393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivory_
+    second: {fileID: 2100000, guid: 3859bd5324a4c654ebd85ca21b4926d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: c3e168bfaca46414aa67171ce786ff8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: f6c7f178edc5fb04ca293959a90b5b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 829f169cee5623646a2901a91cded1e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: 1b14efeb5374bd24ea3bd30bdd122dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 268a6c97c5a29d649ae1d66cb6944be7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

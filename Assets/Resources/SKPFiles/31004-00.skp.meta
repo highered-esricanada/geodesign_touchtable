@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: d10afc330628ab446a9dc4b1499a4624
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007b0000007c0000007e0000007f0000008100000082000000840000008500000087000000880000008a0000008b0000008d0000008e0000009000000091000000930000009400000096000000970000009e0000009f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ff631ea5839f57e21e9f77831d428cbb
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 39.452713, y: 24.579739, z: -46.98653}
+      lookAt: {x: 8.76249, y: 3.8128881, z: -8.695734}
+      up: {x: -0.24374023, y: 0.9209298, z: 0.30410358}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 1.8895642, y: 88.39093, z: -2.9129517}
+        lookAt: {x: 1.8895642, y: 5.6637015, z: -2.9129517}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1993.6428
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 39.452713, y: 24.579739, z: -46.98653}
+        lookAt: {x: 8.76249, y: 3.8128881, z: -8.695734}
+        up: {x: -0.24374023, y: 0.9209298, z: 0.30410358}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 39.452713, y: 24.579739, z: -46.98653}
+        lookAt: {x: 8.76249, y: 3.8128881, z: -8.695734}
+        up: {x: -0.24374023, y: 0.9209298, z: 0.30410358}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 31004_3d_building
+    100004: 31004_3d_building_A
+    100006: 31004_3d_building_B
+    100008: 31004_3d_site
+    100010: 31004_ov
+    100012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    100014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    100016: Door_lite_1.15x2.2#1
+    100018: Door_lite_1.15x2.2#1 1
+    100020: DoubleDoors
+    100022: DoubleDoors 1
+    100024: DoubleDoors 2
+    100026: Group 6
+    100028: Image 1
+    100030: scale_obq
+    100032: tree_bulb_S
+    100034: tree_bulb_S 1
+    100036: tree_bulb_S 2
+    100038: tree_conifer_S
+    100040: tree_fan_S
+    100042: tree_fan_S 1
+    100044: tree_fan_S 2
+    100046: tree_round_S
+    100048: tree_round_S 1
+    100050: tree_round_S 2
+    100052: tree_round_S 3
+    100054: WindowDoubleHung35x63
+    100056: WindowDoubleHung35x63 1
+    100058: WindowDoubleHung35x63 10
+    100060: WindowDoubleHung35x63 11
+    100062: WindowDoubleHung35x63 12
+    100064: WindowDoubleHung35x63 13
+    100066: WindowDoubleHung35x63 14
+    100068: WindowDoubleHung35x63 15
+    100070: WindowDoubleHung35x63 16
+    100072: WindowDoubleHung35x63 17
+    100074: WindowDoubleHung35x63 18
+    100076: WindowDoubleHung35x63 19
+    100078: WindowDoubleHung35x63 2
+    100080: WindowDoubleHung35x63 20
+    100082: WindowDoubleHung35x63 3
+    100084: WindowDoubleHung35x63 4
+    100086: WindowDoubleHung35x63 5
+    100088: WindowDoubleHung35x63 6
+    100090: WindowDoubleHung35x63 7
+    100092: WindowDoubleHung35x63 8
+    100094: WindowDoubleHung35x63 9
+    100096: windowSlider48x48
+    100098: windowSlider48x48 1
+    100100: windowSlider48x48 10
+    100102: windowSlider48x48 11
+    100104: windowSlider48x48 12
+    100106: windowSlider48x48 13
+    100108: windowSlider48x48 14
+    100110: windowSlider48x48 15
+    100112: windowSlider48x48 16
+    100114: windowSlider48x48 17
+    100116: windowSlider48x48 18
+    100118: windowSlider48x48 19
+    100120: windowSlider48x48 2
+    100122: windowSlider48x48 20
+    100124: windowSlider48x48 21
+    100126: windowSlider48x48 22
+    100128: windowSlider48x48 23
+    100130: windowSlider48x48 24
+    100132: windowSlider48x48 25
+    100134: windowSlider48x48 26
+    100136: windowSlider48x48 3
+    100138: windowSlider48x48 4
+    100140: windowSlider48x48 5
+    100142: windowSlider48x48 6
+    100144: windowSlider48x48 7
+    100146: windowSlider48x48 8
+    100148: windowSlider48x48 9
+    400000: //RootNode
+    400002: 31004_3d_building
+    400004: 31004_3d_building_A
+    400006: 31004_3d_building_B
+    400008: 31004_3d_site
+    400010: 31004_ov
+    400012: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    400014: Door-SglExtHeaderWLite 3'-0x6'-8#1 1
+    400016: Door_lite_1.15x2.2#1
+    400018: Door_lite_1.15x2.2#1 1
+    400020: DoubleDoors
+    400022: DoubleDoors 1
+    400024: DoubleDoors 2
+    400026: Group 6
+    400028: Image 1
+    400030: scale_obq
+    400032: tree_bulb_S
+    400034: tree_bulb_S 1
+    400036: tree_bulb_S 2
+    400038: tree_conifer_S
+    400040: tree_fan_S
+    400042: tree_fan_S 1
+    400044: tree_fan_S 2
+    400046: tree_round_S
+    400048: tree_round_S 1
+    400050: tree_round_S 2
+    400052: tree_round_S 3
+    400054: WindowDoubleHung35x63
+    400056: WindowDoubleHung35x63 1
+    400058: WindowDoubleHung35x63 10
+    400060: WindowDoubleHung35x63 11
+    400062: WindowDoubleHung35x63 12
+    400064: WindowDoubleHung35x63 13
+    400066: WindowDoubleHung35x63 14
+    400068: WindowDoubleHung35x63 15
+    400070: WindowDoubleHung35x63 16
+    400072: WindowDoubleHung35x63 17
+    400074: WindowDoubleHung35x63 18
+    400076: WindowDoubleHung35x63 19
+    400078: WindowDoubleHung35x63 2
+    400080: WindowDoubleHung35x63 20
+    400082: WindowDoubleHung35x63 3
+    400084: WindowDoubleHung35x63 4
+    400086: WindowDoubleHung35x63 5
+    400088: WindowDoubleHung35x63 6
+    400090: WindowDoubleHung35x63 7
+    400092: WindowDoubleHung35x63 8
+    400094: WindowDoubleHung35x63 9
+    400096: windowSlider48x48
+    400098: windowSlider48x48 1
+    400100: windowSlider48x48 10
+    400102: windowSlider48x48 11
+    400104: windowSlider48x48 12
+    400106: windowSlider48x48 13
+    400108: windowSlider48x48 14
+    400110: windowSlider48x48 15
+    400112: windowSlider48x48 16
+    400114: windowSlider48x48 17
+    400116: windowSlider48x48 18
+    400118: windowSlider48x48 19
+    400120: windowSlider48x48 2
+    400122: windowSlider48x48 20
+    400124: windowSlider48x48 21
+    400126: windowSlider48x48 22
+    400128: windowSlider48x48 23
+    400130: windowSlider48x48 24
+    400132: windowSlider48x48 25
+    400134: windowSlider48x48 26
+    400136: windowSlider48x48 3
+    400138: windowSlider48x48 4
+    400140: windowSlider48x48 5
+    400142: windowSlider48x48 6
+    400144: windowSlider48x48 7
+    400146: windowSlider48x48 8
+    400148: windowSlider48x48 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_bldg_wall
+    2100006: OV_paving_general
+    2100008: OV_bldg_roof
+    2100010: OV_paving_pedestrian
+    2100012: ApertureGlass
+    2100014: OV_turf_solid
+    2100016: OV_shrub_solid
+    2100018: OV_shrub_texture
+    2100020: OV_paving_vehicle
+    2100022: roundedtree
+    2100024: conifertree2
+    2100026: mapletree
+    2100028: fantree
+    2100030: 0_label
+    2300000: 31004_3d_building_A
+    2300002: 31004_3d_building_B
+    2300004: 31004_3d_site
+    2300006: Door_lite_1.15x2.2#1
+    2300008: Door_lite_1.15x2.2#1 1
+    2300010: DoubleDoors
+    2300012: DoubleDoors 1
+    2300014: DoubleDoors 2
+    2300016: Group 6
+    2300018: Image 1
+    2300020: scale_obq
+    2300022: tree_bulb_S
+    2300024: tree_bulb_S 1
+    2300026: tree_bulb_S 2
+    2300028: tree_conifer_S
+    2300030: tree_fan_S
+    2300032: tree_fan_S 1
+    2300034: tree_fan_S 2
+    2300036: tree_round_S
+    2300038: tree_round_S 1
+    2300040: tree_round_S 2
+    2300042: tree_round_S 3
+    2300044: WindowDoubleHung35x63
+    2300046: WindowDoubleHung35x63 1
+    2300048: WindowDoubleHung35x63 10
+    2300050: WindowDoubleHung35x63 11
+    2300052: WindowDoubleHung35x63 12
+    2300054: WindowDoubleHung35x63 13
+    2300056: WindowDoubleHung35x63 14
+    2300058: WindowDoubleHung35x63 15
+    2300060: WindowDoubleHung35x63 16
+    2300062: WindowDoubleHung35x63 17
+    2300064: WindowDoubleHung35x63 18
+    2300066: WindowDoubleHung35x63 19
+    2300068: WindowDoubleHung35x63 2
+    2300070: WindowDoubleHung35x63 20
+    2300072: WindowDoubleHung35x63 3
+    2300074: WindowDoubleHung35x63 4
+    2300076: WindowDoubleHung35x63 5
+    2300078: WindowDoubleHung35x63 6
+    2300080: WindowDoubleHung35x63 7
+    2300082: WindowDoubleHung35x63 8
+    2300084: WindowDoubleHung35x63 9
+    2300086: windowSlider48x48
+    2300088: windowSlider48x48 1
+    2300090: windowSlider48x48 10
+    2300092: windowSlider48x48 11
+    2300094: windowSlider48x48 12
+    2300096: windowSlider48x48 13
+    2300098: windowSlider48x48 14
+    2300100: windowSlider48x48 15
+    2300102: windowSlider48x48 16
+    2300104: windowSlider48x48 17
+    2300106: windowSlider48x48 18
+    2300108: windowSlider48x48 19
+    2300110: windowSlider48x48 2
+    2300112: windowSlider48x48 20
+    2300114: windowSlider48x48 21
+    2300116: windowSlider48x48 22
+    2300118: windowSlider48x48 23
+    2300120: windowSlider48x48 24
+    2300122: windowSlider48x48 25
+    2300124: windowSlider48x48 26
+    2300126: windowSlider48x48 3
+    2300128: windowSlider48x48 4
+    2300130: windowSlider48x48 5
+    2300132: windowSlider48x48 6
+    2300134: windowSlider48x48 7
+    2300136: windowSlider48x48 8
+    2300138: windowSlider48x48 9
+    3300000: 31004_3d_building_A
+    3300002: 31004_3d_building_B
+    3300004: 31004_3d_site
+    3300006: Door_lite_1.15x2.2#1
+    3300008: Door_lite_1.15x2.2#1 1
+    3300010: DoubleDoors
+    3300012: DoubleDoors 1
+    3300014: DoubleDoors 2
+    3300016: Group 6
+    3300018: Image 1
+    3300020: scale_obq
+    3300022: tree_bulb_S
+    3300024: tree_bulb_S 1
+    3300026: tree_bulb_S 2
+    3300028: tree_conifer_S
+    3300030: tree_fan_S
+    3300032: tree_fan_S 1
+    3300034: tree_fan_S 2
+    3300036: tree_round_S
+    3300038: tree_round_S 1
+    3300040: tree_round_S 2
+    3300042: tree_round_S 3
+    3300044: WindowDoubleHung35x63
+    3300046: WindowDoubleHung35x63 1
+    3300048: WindowDoubleHung35x63 10
+    3300050: WindowDoubleHung35x63 11
+    3300052: WindowDoubleHung35x63 12
+    3300054: WindowDoubleHung35x63 13
+    3300056: WindowDoubleHung35x63 14
+    3300058: WindowDoubleHung35x63 15
+    3300060: WindowDoubleHung35x63 16
+    3300062: WindowDoubleHung35x63 17
+    3300064: WindowDoubleHung35x63 18
+    3300066: WindowDoubleHung35x63 19
+    3300068: WindowDoubleHung35x63 2
+    3300070: WindowDoubleHung35x63 20
+    3300072: WindowDoubleHung35x63 3
+    3300074: WindowDoubleHung35x63 4
+    3300076: WindowDoubleHung35x63 5
+    3300078: WindowDoubleHung35x63 6
+    3300080: WindowDoubleHung35x63 7
+    3300082: WindowDoubleHung35x63 8
+    3300084: WindowDoubleHung35x63 9
+    3300086: windowSlider48x48
+    3300088: windowSlider48x48 1
+    3300090: windowSlider48x48 10
+    3300092: windowSlider48x48 11
+    3300094: windowSlider48x48 12
+    3300096: windowSlider48x48 13
+    3300098: windowSlider48x48 14
+    3300100: windowSlider48x48 15
+    3300102: windowSlider48x48 16
+    3300104: windowSlider48x48 17
+    3300106: windowSlider48x48 18
+    3300108: windowSlider48x48 19
+    3300110: windowSlider48x48 2
+    3300112: windowSlider48x48 20
+    3300114: windowSlider48x48 21
+    3300116: windowSlider48x48 22
+    3300118: windowSlider48x48 23
+    3300120: windowSlider48x48 24
+    3300122: windowSlider48x48 25
+    3300124: windowSlider48x48 26
+    3300126: windowSlider48x48 3
+    3300128: windowSlider48x48 4
+    3300130: windowSlider48x48 5
+    3300132: windowSlider48x48 6
+    3300134: windowSlider48x48 7
+    3300136: windowSlider48x48 8
+    3300138: windowSlider48x48 9
+    4300000: Mesh 31004-00
+    4300002: Mesh 31004_3d_building_A
+    4300004: Mesh Group 6
+    4300006: Mesh windowSlider48x48
+    4300008: Mesh WindowDoubleHung35x63
+    4300010: Mesh DoubleDoors
+    4300012: Mesh Door_lite_1.15x2.2#1
+    4300014: Mesh 31004_3d_building_B
+    4300016: Mesh 31004_3d_site
+    4300018: Mesh tree_bulb_S
+    4300020: Mesh tree_conifer_S
+    4300022: Mesh tree_round_S
+    4300024: Mesh tree_fan_S
+    4300026: Mesh scale_obq
+    6400000: 31004_3d_building_A
+    6400002: 31004_3d_building_B
+    6400004: 31004_3d_site
+    6400006: Door_lite_1.15x2.2#1
+    6400008: Door_lite_1.15x2.2#1 1
+    6400010: DoubleDoors
+    6400012: DoubleDoors 1
+    6400014: DoubleDoors 2
+    6400016: Group 6
+    6400018: Image 1
+    6400020: scale_obq
+    6400022: tree_bulb_S
+    6400024: tree_bulb_S 1
+    6400026: tree_bulb_S 2
+    6400028: tree_conifer_S
+    6400030: tree_fan_S
+    6400032: tree_fan_S 1
+    6400034: tree_fan_S 2
+    6400036: tree_round_S
+    6400038: tree_round_S 1
+    6400040: tree_round_S 2
+    6400042: tree_round_S 3
+    6400044: WindowDoubleHung35x63
+    6400046: WindowDoubleHung35x63 1
+    6400048: WindowDoubleHung35x63 10
+    6400050: WindowDoubleHung35x63 11
+    6400052: WindowDoubleHung35x63 12
+    6400054: WindowDoubleHung35x63 13
+    6400056: WindowDoubleHung35x63 14
+    6400058: WindowDoubleHung35x63 15
+    6400060: WindowDoubleHung35x63 16
+    6400062: WindowDoubleHung35x63 17
+    6400064: WindowDoubleHung35x63 18
+    6400066: WindowDoubleHung35x63 19
+    6400068: WindowDoubleHung35x63 2
+    6400070: WindowDoubleHung35x63 20
+    6400072: WindowDoubleHung35x63 3
+    6400074: WindowDoubleHung35x63 4
+    6400076: WindowDoubleHung35x63 5
+    6400078: WindowDoubleHung35x63 6
+    6400080: WindowDoubleHung35x63 7
+    6400082: WindowDoubleHung35x63 8
+    6400084: WindowDoubleHung35x63 9
+    6400086: windowSlider48x48
+    6400088: windowSlider48x48 1
+    6400090: windowSlider48x48 10
+    6400092: windowSlider48x48 11
+    6400094: windowSlider48x48 12
+    6400096: windowSlider48x48 13
+    6400098: windowSlider48x48 14
+    6400100: windowSlider48x48 15
+    6400102: windowSlider48x48 16
+    6400104: windowSlider48x48 17
+    6400106: windowSlider48x48 18
+    6400108: windowSlider48x48 19
+    6400110: windowSlider48x48 2
+    6400112: windowSlider48x48 20
+    6400114: windowSlider48x48 21
+    6400116: windowSlider48x48 22
+    6400118: windowSlider48x48 23
+    6400120: windowSlider48x48 24
+    6400122: windowSlider48x48 25
+    6400124: windowSlider48x48 26
+    6400126: windowSlider48x48 3
+    6400128: windowSlider48x48 4
+    6400130: windowSlider48x48 5
+    6400132: windowSlider48x48 6
+    6400134: windowSlider48x48 7
+    6400136: windowSlider48x48 8
+    6400138: windowSlider48x48 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 3be9d0cafeafcb64381472cc4e978046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 4287980ec67dd504d8ca51e2ecaa82d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 5a24e8c8faa8fe54a9067756f0b17afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 9de788e8f03dce94495d2f1c94823202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 9a1be81f086885741a4584ff298b5c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 1c98bb7de4031ec4dae503d38c8a529c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 3a5fac6294bc26842b0f52c08e2a3fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 094dcefe674df2b4ca65aaf1a3383a57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: a0f6b765fba9aaa4689f04892c322d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: ceff661694b2b8e4580df6b47472b7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 04c94a51bc30fac4cb7b9dcba1d0d386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 1a5fdd9a5a592664f914622abfff1cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 8b28a36d092cdde4cad7cf4a0def7777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: 9c548578545d935419c8803655f5f6f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 21cc8e508f78d1945a3e580fa7930979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 5a916ce0e9f4ec24dad725d5c9500599, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 94e97f1b62d17f44c814ee5b5b267d44
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000d0000000e0000000f00000052000000530000005400000055000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7e7f78d3d8b95cd89bec6b1b6252163e
+  longitude: -123.181618
+  latitude: 49.266227
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -110.13157, y: 63.04915, z: 107.36322}
+      lookAt: {x: -2.8811643, y: 7.1429815, z: 0.9037707}
+      up: {x: 0.24538219, y: 0.93787533, z: -0.24531098}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 5.2555152e-14, y: 172.54697, z: 4.042704e-15}
+        lookAt: {x: 3.7539392e-14, y: 14.7128525, z: 2.8876456e-15}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3330.041
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -110.13157, y: 63.04915, z: 107.36322}
+        lookAt: {x: -2.8811643, y: 7.1429815, z: 0.9037707}
+        up: {x: 0.24538219, y: 0.93787533, z: -0.24531098}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -110.13157, y: 63.04915, z: 107.36322}
+        lookAt: {x: -2.8811643, y: 7.1429815, z: 0.9037707}
+        up: {x: 0.24538219, y: 0.93787533, z: -0.24531098}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3d_massing
+    100004: Component#2
+    100006: Group 84
+    100008: Image 1
+    100010: scale_plan_B
+    400000: //RootNode
+    400002: 3d_massing
+    400004: Component#2
+    400006: Group 84
+    400008: Image 1
+    400010: scale_plan_B
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_roof1
+    2100008: M_residential1
+    2300000: 3d_massing
+    2300002: Group 84
+    2300004: Image 1
+    2300006: scale_plan_B
+    3300000: 3d_massing
+    3300002: Group 84
+    3300004: Image 1
+    3300006: scale_plan_B
+    4300000: Mesh 33039-01
+    4300002: Mesh scale_plan_B
+    4300004: Mesh 3d_massing
+    4300006: Mesh Group 84
+    6400000: 3d_massing
+    6400002: Group 84
+    6400004: Image 1
+    6400006: scale_plan_B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 50a4c526212f04447a1ae2b5b28f160f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_residential1
+    second: {fileID: 2100000, guid: bfa7e99e8a55d9c4a9fd7504633fdf82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: a4998614f184d9e42b189ee31a65e272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof1
+    second: {fileID: 2100000, guid: fbc02d11f318c7b40bf599c95158cbf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 968f8577a9b4b524b985a1602a10e03b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

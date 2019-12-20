@@ -1,0 +1,2308 @@
+fileFormatVersion: 2
+guid: 89b3a4509a1775f46ab3d4d0e56fcd11
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f03000030030000
+  assetHash:
+    serializedVersion: 2
+    Hash: dbab684fc2e945169573d894cd4244fd
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -66.59514, y: 41.907288, z: -43.651505}
+      lookAt: {x: 2364.5898, y: -1422.3131, z: 1407.6932}
+      up: {x: 0.39441055, y: 0.8882584, z: 0.2354513}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 2.2116017, y: 104.10265, z: -6.379807}
+        lookAt: {x: 2.2116017, y: 8.546856, z: -6.379807}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2126.8804
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -66.59514, y: 41.907288, z: -43.651505}
+        lookAt: {x: 2364.5898, y: -1422.3131, z: 1407.6932}
+        up: {x: 0.39441055, y: 0.8882584, z: 0.2354513}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -66.59514, y: 41.907288, z: -43.651505}
+        lookAt: {x: 2364.5898, y: -1422.3131, z: 1407.6932}
+        up: {x: 0.39441055, y: 0.8882584, z: 0.2354513}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33017_3d_site
+    100004: A1
+    100006: a10
+    100008: A2
+    100010: A3
+    100012: a4
+    100014: a5
+    100016: a6
+    100018: a7
+    100020: a8
+    100022: a9
+    100024: awning_big
+    100026: awning_bigthing
+    100028: awning_small
+    100030: awning_small 1
+    100032: awning_small 2
+    100034: awning_small 3
+    100036: awning_small 4
+    100038: awning_small 5
+    100040: awning_small 6
+    100042: awning_small 7
+    100044: backcoverthing
+    100046: bulbtree-sm
+    100048: bulbtree-sm 1
+    100050: bulbtree-sm 2
+    100052: bulbtree-sm 3
+    100054: bulbtree-sm 4
+    100056: bulbtree-sm 5
+    100058: bulbtree-sm 6
+    100060: Door_com_double_3.55x2.60
+    100062: Door_glass_1.0x2.18
+    100064: Door_glass_1.0x2.18 1
+    100066: Door_glass_1.0x2.18 10
+    100068: Door_glass_1.0x2.18 11
+    100070: Door_glass_1.0x2.18 12
+    100072: Door_glass_1.0x2.18 2
+    100074: Door_glass_1.0x2.18 3
+    100076: Door_glass_1.0x2.18 4
+    100078: Door_glass_1.0x2.18 5
+    100080: Door_glass_1.0x2.18 6
+    100082: Door_glass_1.0x2.18 7
+    100084: Door_glass_1.0x2.18 8
+    100086: Door_glass_1.0x2.18 9
+    100088: Door_glass_double_1.95x2.18
+    100090: Door_glass_double_1.95x2.18 1
+    100092: Door_glass_double_1.95x2.18 10
+    100094: Door_glass_double_1.95x2.18 11
+    100096: Door_glass_double_1.95x2.18 12
+    100098: Door_glass_double_1.95x2.18 13
+    100100: Door_glass_double_1.95x2.18 14
+    100102: Door_glass_double_1.95x2.18 15
+    100104: Door_glass_double_1.95x2.18 16
+    100106: Door_glass_double_1.95x2.18 17
+    100108: Door_glass_double_1.95x2.18 18
+    100110: Door_glass_double_1.95x2.18 19
+    100112: Door_glass_double_1.95x2.18 2
+    100114: Door_glass_double_1.95x2.18 20
+    100116: Door_glass_double_1.95x2.18 21
+    100118: Door_glass_double_1.95x2.18 22
+    100120: Door_glass_double_1.95x2.18 23
+    100122: Door_glass_double_1.95x2.18 24
+    100124: Door_glass_double_1.95x2.18 25
+    100126: Door_glass_double_1.95x2.18 26
+    100128: Door_glass_double_1.95x2.18 27
+    100130: Door_glass_double_1.95x2.18 28
+    100132: Door_glass_double_1.95x2.18 29
+    100134: Door_glass_double_1.95x2.18 3
+    100136: Door_glass_double_1.95x2.18 30
+    100138: Door_glass_double_1.95x2.18 31
+    100140: Door_glass_double_1.95x2.18 32
+    100142: Door_glass_double_1.95x2.18 33
+    100144: Door_glass_double_1.95x2.18 34
+    100146: Door_glass_double_1.95x2.18 35
+    100148: Door_glass_double_1.95x2.18 36
+    100150: Door_glass_double_1.95x2.18 37
+    100152: Door_glass_double_1.95x2.18 38
+    100154: Door_glass_double_1.95x2.18 39
+    100156: Door_glass_double_1.95x2.18 4
+    100158: Door_glass_double_1.95x2.18 40
+    100160: Door_glass_double_1.95x2.18 41
+    100162: Door_glass_double_1.95x2.18 42
+    100164: Door_glass_double_1.95x2.18 43
+    100166: Door_glass_double_1.95x2.18 5
+    100168: Door_glass_double_1.95x2.18 6
+    100170: Door_glass_double_1.95x2.18 7
+    100172: Door_glass_double_1.95x2.18 8
+    100174: Door_glass_double_1.95x2.18 9
+    100176: Door_glass_slider_1.8x.2.08
+    100178: Door_glass_slider_1.8x.2.08 1
+    100180: Door_glass_slider_1.8x.2.08 2
+    100182: east_facadeq
+    100184: fantree-sm
+    100186: fantree-sm 1
+    100188: fantree-sm 2
+    100190: fantree-sm 3
+    100192: fantree-sm 4
+    100194: fantree-sm 5
+    100196: fantree-sm 6
+    100198: fantree-sm 7
+    100200: fantree-sm 8
+    100202: fantree-sm 9
+    100204: fountain
+    100206: glass
+    100208: glass 1
+    100210: glass 10
+    100212: glass 11
+    100214: glass 12
+    100216: glass 13
+    100218: glass 14
+    100220: glass 15
+    100222: glass 16
+    100224: glass 17
+    100226: glass 18
+    100228: glass 19
+    100230: glass 2
+    100232: glass 20
+    100234: glass 21
+    100236: glass 22
+    100238: glass 23
+    100240: glass 3
+    100242: glass 4
+    100244: glass 5
+    100246: glass 6
+    100248: glass 7
+    100250: glass 8
+    100252: glass 9
+    100254: glass1
+    100256: glass_arm
+    100258: glass_arm 1
+    100260: glass_arm 10
+    100262: glass_arm 11
+    100264: glass_arm 12
+    100266: glass_arm 13
+    100268: glass_arm 14
+    100270: glass_arm 15
+    100272: glass_arm 16
+    100274: glass_arm 17
+    100276: glass_arm 18
+    100278: glass_arm 19
+    100280: glass_arm 2
+    100282: glass_arm 20
+    100284: glass_arm 21
+    100286: glass_arm 22
+    100288: glass_arm 23
+    100290: glass_arm 24
+    100292: glass_arm 25
+    100294: glass_arm 26
+    100296: glass_arm 27
+    100298: glass_arm 28
+    100300: glass_arm 29
+    100302: glass_arm 3
+    100304: glass_arm 30
+    100306: glass_arm 31
+    100308: glass_arm 32
+    100310: glass_arm 33
+    100312: glass_arm 34
+    100314: glass_arm 35
+    100316: glass_arm 36
+    100318: glass_arm 37
+    100320: glass_arm 38
+    100322: glass_arm 39
+    100324: glass_arm 4
+    100326: glass_arm 40
+    100328: glass_arm 41
+    100330: glass_arm 42
+    100332: glass_arm 43
+    100334: glass_arm 44
+    100336: glass_arm 45
+    100338: glass_arm 46
+    100340: glass_arm 47
+    100342: glass_arm 48
+    100344: glass_arm 49
+    100346: glass_arm 5
+    100348: glass_arm 50
+    100350: glass_arm 51
+    100352: glass_arm 52
+    100354: glass_arm 53
+    100356: glass_arm 54
+    100358: glass_arm 55
+    100360: glass_arm 56
+    100362: glass_arm 57
+    100364: glass_arm 58
+    100366: glass_arm 59
+    100368: glass_arm 6
+    100370: glass_arm 60
+    100372: glass_arm 7
+    100374: glass_arm 8
+    100376: glass_arm 9
+    100378: glassbig
+    100380: Image 1
+    100382: north_facade
+    100384: scale_obq
+    100386: Skylight_0.72x1.0
+    100388: Skylight_0.72x1.0 1
+    100390: Skylight_0.72x1.0 2
+    100392: south_facade
+    100394: stairblock
+    100396: stairblock 1
+    100398: stairblock 2
+    100400: stairblock2
+    100402: stairblock2 1
+    100404: stairblock2 2
+    100406: stairblockSMALL
+    100408: stairblockSMALL 1
+    100410: stairblockSMALL 2
+    100412: stairblockSMALL 3
+    100414: stairblockSMALL 4
+    100416: stairblockSMALL 5
+    100418: stairblockSMALL 6
+    100420: stairblockSMALL 7
+    100422: stump3
+    100424: stump4
+    100426: west_facade
+    100428: Window_doublehung_0.6x1.5
+    100430: Window_doublehung_0.6x1.5 1
+    100432: Window_doublehung_0.6x1.5 10
+    100434: Window_doublehung_0.6x1.5 11
+    100436: Window_doublehung_0.6x1.5 12
+    100438: Window_doublehung_0.6x1.5 13
+    100440: Window_doublehung_0.6x1.5 14
+    100442: Window_doublehung_0.6x1.5 2
+    100444: Window_doublehung_0.6x1.5 3
+    100446: Window_doublehung_0.6x1.5 4
+    100448: Window_doublehung_0.6x1.5 5
+    100450: Window_doublehung_0.6x1.5 6
+    100452: Window_doublehung_0.6x1.5 7
+    100454: Window_doublehung_0.6x1.5 8
+    100456: Window_doublehung_0.6x1.5 9
+    100458: Window_doublehung_0.89x1.17
+    100460: Window_doublehung_0.89x1.17 1
+    100462: Window_doublehung_0.89x1.17 10
+    100464: Window_doublehung_0.89x1.17 11
+    100466: Window_doublehung_0.89x1.17 12
+    100468: Window_doublehung_0.89x1.17 2
+    100470: Window_doublehung_0.89x1.17 3
+    100472: Window_doublehung_0.89x1.17 4
+    100474: Window_doublehung_0.89x1.17 5
+    100476: Window_doublehung_0.89x1.17 6
+    100478: Window_doublehung_0.89x1.17 7
+    100480: Window_doublehung_0.89x1.17 8
+    100482: Window_doublehung_0.89x1.17 9
+    100484: Window_muntin_0.91x1.05
+    100486: Window_muntin_0.91x1.05 1
+    100488: Window_muntin_0.91x1.05 10
+    100490: Window_muntin_0.91x1.05 11
+    100492: Window_muntin_0.91x1.05 12
+    100494: Window_muntin_0.91x1.05 13
+    100496: Window_muntin_0.91x1.05 14
+    100498: Window_muntin_0.91x1.05 15
+    100500: Window_muntin_0.91x1.05 16
+    100502: Window_muntin_0.91x1.05 17
+    100504: Window_muntin_0.91x1.05 18
+    100506: Window_muntin_0.91x1.05 19
+    100508: Window_muntin_0.91x1.05 2
+    100510: Window_muntin_0.91x1.05 20
+    100512: Window_muntin_0.91x1.05 21
+    100514: Window_muntin_0.91x1.05 22
+    100516: Window_muntin_0.91x1.05 23
+    100518: Window_muntin_0.91x1.05 24
+    100520: Window_muntin_0.91x1.05 25
+    100522: Window_muntin_0.91x1.05 26
+    100524: Window_muntin_0.91x1.05 27
+    100526: Window_muntin_0.91x1.05 28
+    100528: Window_muntin_0.91x1.05 29
+    100530: Window_muntin_0.91x1.05 3
+    100532: Window_muntin_0.91x1.05 30
+    100534: Window_muntin_0.91x1.05 31
+    100536: Window_muntin_0.91x1.05 32
+    100538: Window_muntin_0.91x1.05 33
+    100540: Window_muntin_0.91x1.05 34
+    100542: Window_muntin_0.91x1.05 35
+    100544: Window_muntin_0.91x1.05 36
+    100546: Window_muntin_0.91x1.05 4
+    100548: Window_muntin_0.91x1.05 5
+    100550: Window_muntin_0.91x1.05 6
+    100552: Window_muntin_0.91x1.05 7
+    100554: Window_muntin_0.91x1.05 8
+    100556: Window_muntin_0.91x1.05 9
+    100558: Window_muntin_1.53x1.5
+    100560: Window_muntin_1.53x1.5 1
+    100562: Window_muntin_1.53x1.5 10
+    100564: Window_muntin_1.53x1.5 11
+    100566: Window_muntin_1.53x1.5 12
+    100568: Window_muntin_1.53x1.5 13
+    100570: Window_muntin_1.53x1.5 14
+    100572: Window_muntin_1.53x1.5 15
+    100574: Window_muntin_1.53x1.5 16
+    100576: Window_muntin_1.53x1.5 17
+    100578: Window_muntin_1.53x1.5 18
+    100580: Window_muntin_1.53x1.5 19
+    100582: Window_muntin_1.53x1.5 2
+    100584: Window_muntin_1.53x1.5 20
+    100586: Window_muntin_1.53x1.5 21
+    100588: Window_muntin_1.53x1.5 22
+    100590: Window_muntin_1.53x1.5 23
+    100592: Window_muntin_1.53x1.5 24
+    100594: Window_muntin_1.53x1.5 25
+    100596: Window_muntin_1.53x1.5 26
+    100598: Window_muntin_1.53x1.5 27
+    100600: Window_muntin_1.53x1.5 28
+    100602: Window_muntin_1.53x1.5 29
+    100604: Window_muntin_1.53x1.5 3
+    100606: Window_muntin_1.53x1.5 30
+    100608: Window_muntin_1.53x1.5 31
+    100610: Window_muntin_1.53x1.5 32
+    100612: Window_muntin_1.53x1.5 33
+    100614: Window_muntin_1.53x1.5 34
+    100616: Window_muntin_1.53x1.5 35
+    100618: Window_muntin_1.53x1.5 36
+    100620: Window_muntin_1.53x1.5 37
+    100622: Window_muntin_1.53x1.5 38
+    100624: Window_muntin_1.53x1.5 39
+    100626: Window_muntin_1.53x1.5 4
+    100628: Window_muntin_1.53x1.5 40
+    100630: Window_muntin_1.53x1.5 41
+    100632: Window_muntin_1.53x1.5 42
+    100634: Window_muntin_1.53x1.5 43
+    100636: Window_muntin_1.53x1.5 44
+    100638: Window_muntin_1.53x1.5 45
+    100640: Window_muntin_1.53x1.5 46
+    100642: Window_muntin_1.53x1.5 47
+    100644: Window_muntin_1.53x1.5 48
+    100646: Window_muntin_1.53x1.5 49
+    100648: Window_muntin_1.53x1.5 5
+    100650: Window_muntin_1.53x1.5 50
+    100652: Window_muntin_1.53x1.5 51
+    100654: Window_muntin_1.53x1.5 52
+    100656: Window_muntin_1.53x1.5 6
+    100658: Window_muntin_1.53x1.5 7
+    100660: Window_muntin_1.53x1.5 8
+    100662: Window_muntin_1.53x1.5 9
+    100664: Window_muntin_2.0x1.5
+    100666: Window_muntin_2.0x1.5 1
+    100668: Window_muntin_2.0x1.5 10
+    100670: Window_muntin_2.0x1.5 11
+    100672: Window_muntin_2.0x1.5 12
+    100674: Window_muntin_2.0x1.5 13
+    100676: Window_muntin_2.0x1.5 14
+    100678: Window_muntin_2.0x1.5 15
+    100680: Window_muntin_2.0x1.5 16
+    100682: Window_muntin_2.0x1.5 17
+    100684: Window_muntin_2.0x1.5 18
+    100686: Window_muntin_2.0x1.5 19
+    100688: Window_muntin_2.0x1.5 2
+    100690: Window_muntin_2.0x1.5 20
+    100692: Window_muntin_2.0x1.5 21
+    100694: Window_muntin_2.0x1.5 22
+    100696: Window_muntin_2.0x1.5 23
+    100698: Window_muntin_2.0x1.5 24
+    100700: Window_muntin_2.0x1.5 25
+    100702: Window_muntin_2.0x1.5 26
+    100704: Window_muntin_2.0x1.5 27
+    100706: Window_muntin_2.0x1.5 28
+    100708: Window_muntin_2.0x1.5 29
+    100710: Window_muntin_2.0x1.5 3
+    100712: Window_muntin_2.0x1.5 30
+    100714: Window_muntin_2.0x1.5 31
+    100716: Window_muntin_2.0x1.5 32
+    100718: Window_muntin_2.0x1.5 33
+    100720: Window_muntin_2.0x1.5 34
+    100722: Window_muntin_2.0x1.5 35
+    100724: Window_muntin_2.0x1.5 36
+    100726: Window_muntin_2.0x1.5 37
+    100728: Window_muntin_2.0x1.5 38
+    100730: Window_muntin_2.0x1.5 39
+    100732: Window_muntin_2.0x1.5 4
+    100734: Window_muntin_2.0x1.5 40
+    100736: Window_muntin_2.0x1.5 41
+    100738: Window_muntin_2.0x1.5 42
+    100740: Window_muntin_2.0x1.5 43
+    100742: Window_muntin_2.0x1.5 44
+    100744: Window_muntin_2.0x1.5 45
+    100746: Window_muntin_2.0x1.5 46
+    100748: Window_muntin_2.0x1.5 47
+    100750: Window_muntin_2.0x1.5 48
+    100752: Window_muntin_2.0x1.5 49
+    100754: Window_muntin_2.0x1.5 5
+    100756: Window_muntin_2.0x1.5 50
+    100758: Window_muntin_2.0x1.5 51
+    100760: Window_muntin_2.0x1.5 52
+    100762: Window_muntin_2.0x1.5 53
+    100764: Window_muntin_2.0x1.5 54
+    100766: Window_muntin_2.0x1.5 55
+    100768: Window_muntin_2.0x1.5 56
+    100770: Window_muntin_2.0x1.5 57
+    100772: Window_muntin_2.0x1.5 58
+    100774: Window_muntin_2.0x1.5 59
+    100776: Window_muntin_2.0x1.5 6
+    100778: Window_muntin_2.0x1.5 60
+    100780: Window_muntin_2.0x1.5 61
+    100782: Window_muntin_2.0x1.5 62
+    100784: Window_muntin_2.0x1.5 63
+    100786: Window_muntin_2.0x1.5 64
+    100788: Window_muntin_2.0x1.5 65
+    100790: Window_muntin_2.0x1.5 66
+    100792: Window_muntin_2.0x1.5 67
+    100794: Window_muntin_2.0x1.5 68
+    100796: Window_muntin_2.0x1.5 69
+    100798: Window_muntin_2.0x1.5 7
+    100800: Window_muntin_2.0x1.5 70
+    100802: Window_muntin_2.0x1.5 71
+    100804: Window_muntin_2.0x1.5 72
+    100806: Window_muntin_2.0x1.5 73
+    100808: Window_muntin_2.0x1.5 74
+    100810: Window_muntin_2.0x1.5 75
+    100812: Window_muntin_2.0x1.5 76
+    100814: Window_muntin_2.0x1.5 77
+    100816: Window_muntin_2.0x1.5 78
+    100818: Window_muntin_2.0x1.5 79
+    100820: Window_muntin_2.0x1.5 8
+    100822: Window_muntin_2.0x1.5 9
+    400000: //RootNode
+    400002: 33017_3d_site
+    400004: A1
+    400006: a10
+    400008: A2
+    400010: A3
+    400012: a4
+    400014: a5
+    400016: a6
+    400018: a7
+    400020: a8
+    400022: a9
+    400024: awning_big
+    400026: awning_bigthing
+    400028: awning_small
+    400030: awning_small 1
+    400032: awning_small 2
+    400034: awning_small 3
+    400036: awning_small 4
+    400038: awning_small 5
+    400040: awning_small 6
+    400042: awning_small 7
+    400044: backcoverthing
+    400046: bulbtree-sm
+    400048: bulbtree-sm 1
+    400050: bulbtree-sm 2
+    400052: bulbtree-sm 3
+    400054: bulbtree-sm 4
+    400056: bulbtree-sm 5
+    400058: bulbtree-sm 6
+    400060: Door_com_double_3.55x2.60
+    400062: Door_glass_1.0x2.18
+    400064: Door_glass_1.0x2.18 1
+    400066: Door_glass_1.0x2.18 10
+    400068: Door_glass_1.0x2.18 11
+    400070: Door_glass_1.0x2.18 12
+    400072: Door_glass_1.0x2.18 2
+    400074: Door_glass_1.0x2.18 3
+    400076: Door_glass_1.0x2.18 4
+    400078: Door_glass_1.0x2.18 5
+    400080: Door_glass_1.0x2.18 6
+    400082: Door_glass_1.0x2.18 7
+    400084: Door_glass_1.0x2.18 8
+    400086: Door_glass_1.0x2.18 9
+    400088: Door_glass_double_1.95x2.18
+    400090: Door_glass_double_1.95x2.18 1
+    400092: Door_glass_double_1.95x2.18 10
+    400094: Door_glass_double_1.95x2.18 11
+    400096: Door_glass_double_1.95x2.18 12
+    400098: Door_glass_double_1.95x2.18 13
+    400100: Door_glass_double_1.95x2.18 14
+    400102: Door_glass_double_1.95x2.18 15
+    400104: Door_glass_double_1.95x2.18 16
+    400106: Door_glass_double_1.95x2.18 17
+    400108: Door_glass_double_1.95x2.18 18
+    400110: Door_glass_double_1.95x2.18 19
+    400112: Door_glass_double_1.95x2.18 2
+    400114: Door_glass_double_1.95x2.18 20
+    400116: Door_glass_double_1.95x2.18 21
+    400118: Door_glass_double_1.95x2.18 22
+    400120: Door_glass_double_1.95x2.18 23
+    400122: Door_glass_double_1.95x2.18 24
+    400124: Door_glass_double_1.95x2.18 25
+    400126: Door_glass_double_1.95x2.18 26
+    400128: Door_glass_double_1.95x2.18 27
+    400130: Door_glass_double_1.95x2.18 28
+    400132: Door_glass_double_1.95x2.18 29
+    400134: Door_glass_double_1.95x2.18 3
+    400136: Door_glass_double_1.95x2.18 30
+    400138: Door_glass_double_1.95x2.18 31
+    400140: Door_glass_double_1.95x2.18 32
+    400142: Door_glass_double_1.95x2.18 33
+    400144: Door_glass_double_1.95x2.18 34
+    400146: Door_glass_double_1.95x2.18 35
+    400148: Door_glass_double_1.95x2.18 36
+    400150: Door_glass_double_1.95x2.18 37
+    400152: Door_glass_double_1.95x2.18 38
+    400154: Door_glass_double_1.95x2.18 39
+    400156: Door_glass_double_1.95x2.18 4
+    400158: Door_glass_double_1.95x2.18 40
+    400160: Door_glass_double_1.95x2.18 41
+    400162: Door_glass_double_1.95x2.18 42
+    400164: Door_glass_double_1.95x2.18 43
+    400166: Door_glass_double_1.95x2.18 5
+    400168: Door_glass_double_1.95x2.18 6
+    400170: Door_glass_double_1.95x2.18 7
+    400172: Door_glass_double_1.95x2.18 8
+    400174: Door_glass_double_1.95x2.18 9
+    400176: Door_glass_slider_1.8x.2.08
+    400178: Door_glass_slider_1.8x.2.08 1
+    400180: Door_glass_slider_1.8x.2.08 2
+    400182: east_facadeq
+    400184: fantree-sm
+    400186: fantree-sm 1
+    400188: fantree-sm 2
+    400190: fantree-sm 3
+    400192: fantree-sm 4
+    400194: fantree-sm 5
+    400196: fantree-sm 6
+    400198: fantree-sm 7
+    400200: fantree-sm 8
+    400202: fantree-sm 9
+    400204: fountain
+    400206: glass
+    400208: glass 1
+    400210: glass 10
+    400212: glass 11
+    400214: glass 12
+    400216: glass 13
+    400218: glass 14
+    400220: glass 15
+    400222: glass 16
+    400224: glass 17
+    400226: glass 18
+    400228: glass 19
+    400230: glass 2
+    400232: glass 20
+    400234: glass 21
+    400236: glass 22
+    400238: glass 23
+    400240: glass 3
+    400242: glass 4
+    400244: glass 5
+    400246: glass 6
+    400248: glass 7
+    400250: glass 8
+    400252: glass 9
+    400254: glass1
+    400256: glass_arm
+    400258: glass_arm 1
+    400260: glass_arm 10
+    400262: glass_arm 11
+    400264: glass_arm 12
+    400266: glass_arm 13
+    400268: glass_arm 14
+    400270: glass_arm 15
+    400272: glass_arm 16
+    400274: glass_arm 17
+    400276: glass_arm 18
+    400278: glass_arm 19
+    400280: glass_arm 2
+    400282: glass_arm 20
+    400284: glass_arm 21
+    400286: glass_arm 22
+    400288: glass_arm 23
+    400290: glass_arm 24
+    400292: glass_arm 25
+    400294: glass_arm 26
+    400296: glass_arm 27
+    400298: glass_arm 28
+    400300: glass_arm 29
+    400302: glass_arm 3
+    400304: glass_arm 30
+    400306: glass_arm 31
+    400308: glass_arm 32
+    400310: glass_arm 33
+    400312: glass_arm 34
+    400314: glass_arm 35
+    400316: glass_arm 36
+    400318: glass_arm 37
+    400320: glass_arm 38
+    400322: glass_arm 39
+    400324: glass_arm 4
+    400326: glass_arm 40
+    400328: glass_arm 41
+    400330: glass_arm 42
+    400332: glass_arm 43
+    400334: glass_arm 44
+    400336: glass_arm 45
+    400338: glass_arm 46
+    400340: glass_arm 47
+    400342: glass_arm 48
+    400344: glass_arm 49
+    400346: glass_arm 5
+    400348: glass_arm 50
+    400350: glass_arm 51
+    400352: glass_arm 52
+    400354: glass_arm 53
+    400356: glass_arm 54
+    400358: glass_arm 55
+    400360: glass_arm 56
+    400362: glass_arm 57
+    400364: glass_arm 58
+    400366: glass_arm 59
+    400368: glass_arm 6
+    400370: glass_arm 60
+    400372: glass_arm 7
+    400374: glass_arm 8
+    400376: glass_arm 9
+    400378: glassbig
+    400380: Image 1
+    400382: north_facade
+    400384: scale_obq
+    400386: Skylight_0.72x1.0
+    400388: Skylight_0.72x1.0 1
+    400390: Skylight_0.72x1.0 2
+    400392: south_facade
+    400394: stairblock
+    400396: stairblock 1
+    400398: stairblock 2
+    400400: stairblock2
+    400402: stairblock2 1
+    400404: stairblock2 2
+    400406: stairblockSMALL
+    400408: stairblockSMALL 1
+    400410: stairblockSMALL 2
+    400412: stairblockSMALL 3
+    400414: stairblockSMALL 4
+    400416: stairblockSMALL 5
+    400418: stairblockSMALL 6
+    400420: stairblockSMALL 7
+    400422: stump3
+    400424: stump4
+    400426: west_facade
+    400428: Window_doublehung_0.6x1.5
+    400430: Window_doublehung_0.6x1.5 1
+    400432: Window_doublehung_0.6x1.5 10
+    400434: Window_doublehung_0.6x1.5 11
+    400436: Window_doublehung_0.6x1.5 12
+    400438: Window_doublehung_0.6x1.5 13
+    400440: Window_doublehung_0.6x1.5 14
+    400442: Window_doublehung_0.6x1.5 2
+    400444: Window_doublehung_0.6x1.5 3
+    400446: Window_doublehung_0.6x1.5 4
+    400448: Window_doublehung_0.6x1.5 5
+    400450: Window_doublehung_0.6x1.5 6
+    400452: Window_doublehung_0.6x1.5 7
+    400454: Window_doublehung_0.6x1.5 8
+    400456: Window_doublehung_0.6x1.5 9
+    400458: Window_doublehung_0.89x1.17
+    400460: Window_doublehung_0.89x1.17 1
+    400462: Window_doublehung_0.89x1.17 10
+    400464: Window_doublehung_0.89x1.17 11
+    400466: Window_doublehung_0.89x1.17 12
+    400468: Window_doublehung_0.89x1.17 2
+    400470: Window_doublehung_0.89x1.17 3
+    400472: Window_doublehung_0.89x1.17 4
+    400474: Window_doublehung_0.89x1.17 5
+    400476: Window_doublehung_0.89x1.17 6
+    400478: Window_doublehung_0.89x1.17 7
+    400480: Window_doublehung_0.89x1.17 8
+    400482: Window_doublehung_0.89x1.17 9
+    400484: Window_muntin_0.91x1.05
+    400486: Window_muntin_0.91x1.05 1
+    400488: Window_muntin_0.91x1.05 10
+    400490: Window_muntin_0.91x1.05 11
+    400492: Window_muntin_0.91x1.05 12
+    400494: Window_muntin_0.91x1.05 13
+    400496: Window_muntin_0.91x1.05 14
+    400498: Window_muntin_0.91x1.05 15
+    400500: Window_muntin_0.91x1.05 16
+    400502: Window_muntin_0.91x1.05 17
+    400504: Window_muntin_0.91x1.05 18
+    400506: Window_muntin_0.91x1.05 19
+    400508: Window_muntin_0.91x1.05 2
+    400510: Window_muntin_0.91x1.05 20
+    400512: Window_muntin_0.91x1.05 21
+    400514: Window_muntin_0.91x1.05 22
+    400516: Window_muntin_0.91x1.05 23
+    400518: Window_muntin_0.91x1.05 24
+    400520: Window_muntin_0.91x1.05 25
+    400522: Window_muntin_0.91x1.05 26
+    400524: Window_muntin_0.91x1.05 27
+    400526: Window_muntin_0.91x1.05 28
+    400528: Window_muntin_0.91x1.05 29
+    400530: Window_muntin_0.91x1.05 3
+    400532: Window_muntin_0.91x1.05 30
+    400534: Window_muntin_0.91x1.05 31
+    400536: Window_muntin_0.91x1.05 32
+    400538: Window_muntin_0.91x1.05 33
+    400540: Window_muntin_0.91x1.05 34
+    400542: Window_muntin_0.91x1.05 35
+    400544: Window_muntin_0.91x1.05 36
+    400546: Window_muntin_0.91x1.05 4
+    400548: Window_muntin_0.91x1.05 5
+    400550: Window_muntin_0.91x1.05 6
+    400552: Window_muntin_0.91x1.05 7
+    400554: Window_muntin_0.91x1.05 8
+    400556: Window_muntin_0.91x1.05 9
+    400558: Window_muntin_1.53x1.5
+    400560: Window_muntin_1.53x1.5 1
+    400562: Window_muntin_1.53x1.5 10
+    400564: Window_muntin_1.53x1.5 11
+    400566: Window_muntin_1.53x1.5 12
+    400568: Window_muntin_1.53x1.5 13
+    400570: Window_muntin_1.53x1.5 14
+    400572: Window_muntin_1.53x1.5 15
+    400574: Window_muntin_1.53x1.5 16
+    400576: Window_muntin_1.53x1.5 17
+    400578: Window_muntin_1.53x1.5 18
+    400580: Window_muntin_1.53x1.5 19
+    400582: Window_muntin_1.53x1.5 2
+    400584: Window_muntin_1.53x1.5 20
+    400586: Window_muntin_1.53x1.5 21
+    400588: Window_muntin_1.53x1.5 22
+    400590: Window_muntin_1.53x1.5 23
+    400592: Window_muntin_1.53x1.5 24
+    400594: Window_muntin_1.53x1.5 25
+    400596: Window_muntin_1.53x1.5 26
+    400598: Window_muntin_1.53x1.5 27
+    400600: Window_muntin_1.53x1.5 28
+    400602: Window_muntin_1.53x1.5 29
+    400604: Window_muntin_1.53x1.5 3
+    400606: Window_muntin_1.53x1.5 30
+    400608: Window_muntin_1.53x1.5 31
+    400610: Window_muntin_1.53x1.5 32
+    400612: Window_muntin_1.53x1.5 33
+    400614: Window_muntin_1.53x1.5 34
+    400616: Window_muntin_1.53x1.5 35
+    400618: Window_muntin_1.53x1.5 36
+    400620: Window_muntin_1.53x1.5 37
+    400622: Window_muntin_1.53x1.5 38
+    400624: Window_muntin_1.53x1.5 39
+    400626: Window_muntin_1.53x1.5 4
+    400628: Window_muntin_1.53x1.5 40
+    400630: Window_muntin_1.53x1.5 41
+    400632: Window_muntin_1.53x1.5 42
+    400634: Window_muntin_1.53x1.5 43
+    400636: Window_muntin_1.53x1.5 44
+    400638: Window_muntin_1.53x1.5 45
+    400640: Window_muntin_1.53x1.5 46
+    400642: Window_muntin_1.53x1.5 47
+    400644: Window_muntin_1.53x1.5 48
+    400646: Window_muntin_1.53x1.5 49
+    400648: Window_muntin_1.53x1.5 5
+    400650: Window_muntin_1.53x1.5 50
+    400652: Window_muntin_1.53x1.5 51
+    400654: Window_muntin_1.53x1.5 52
+    400656: Window_muntin_1.53x1.5 6
+    400658: Window_muntin_1.53x1.5 7
+    400660: Window_muntin_1.53x1.5 8
+    400662: Window_muntin_1.53x1.5 9
+    400664: Window_muntin_2.0x1.5
+    400666: Window_muntin_2.0x1.5 1
+    400668: Window_muntin_2.0x1.5 10
+    400670: Window_muntin_2.0x1.5 11
+    400672: Window_muntin_2.0x1.5 12
+    400674: Window_muntin_2.0x1.5 13
+    400676: Window_muntin_2.0x1.5 14
+    400678: Window_muntin_2.0x1.5 15
+    400680: Window_muntin_2.0x1.5 16
+    400682: Window_muntin_2.0x1.5 17
+    400684: Window_muntin_2.0x1.5 18
+    400686: Window_muntin_2.0x1.5 19
+    400688: Window_muntin_2.0x1.5 2
+    400690: Window_muntin_2.0x1.5 20
+    400692: Window_muntin_2.0x1.5 21
+    400694: Window_muntin_2.0x1.5 22
+    400696: Window_muntin_2.0x1.5 23
+    400698: Window_muntin_2.0x1.5 24
+    400700: Window_muntin_2.0x1.5 25
+    400702: Window_muntin_2.0x1.5 26
+    400704: Window_muntin_2.0x1.5 27
+    400706: Window_muntin_2.0x1.5 28
+    400708: Window_muntin_2.0x1.5 29
+    400710: Window_muntin_2.0x1.5 3
+    400712: Window_muntin_2.0x1.5 30
+    400714: Window_muntin_2.0x1.5 31
+    400716: Window_muntin_2.0x1.5 32
+    400718: Window_muntin_2.0x1.5 33
+    400720: Window_muntin_2.0x1.5 34
+    400722: Window_muntin_2.0x1.5 35
+    400724: Window_muntin_2.0x1.5 36
+    400726: Window_muntin_2.0x1.5 37
+    400728: Window_muntin_2.0x1.5 38
+    400730: Window_muntin_2.0x1.5 39
+    400732: Window_muntin_2.0x1.5 4
+    400734: Window_muntin_2.0x1.5 40
+    400736: Window_muntin_2.0x1.5 41
+    400738: Window_muntin_2.0x1.5 42
+    400740: Window_muntin_2.0x1.5 43
+    400742: Window_muntin_2.0x1.5 44
+    400744: Window_muntin_2.0x1.5 45
+    400746: Window_muntin_2.0x1.5 46
+    400748: Window_muntin_2.0x1.5 47
+    400750: Window_muntin_2.0x1.5 48
+    400752: Window_muntin_2.0x1.5 49
+    400754: Window_muntin_2.0x1.5 5
+    400756: Window_muntin_2.0x1.5 50
+    400758: Window_muntin_2.0x1.5 51
+    400760: Window_muntin_2.0x1.5 52
+    400762: Window_muntin_2.0x1.5 53
+    400764: Window_muntin_2.0x1.5 54
+    400766: Window_muntin_2.0x1.5 55
+    400768: Window_muntin_2.0x1.5 56
+    400770: Window_muntin_2.0x1.5 57
+    400772: Window_muntin_2.0x1.5 58
+    400774: Window_muntin_2.0x1.5 59
+    400776: Window_muntin_2.0x1.5 6
+    400778: Window_muntin_2.0x1.5 60
+    400780: Window_muntin_2.0x1.5 61
+    400782: Window_muntin_2.0x1.5 62
+    400784: Window_muntin_2.0x1.5 63
+    400786: Window_muntin_2.0x1.5 64
+    400788: Window_muntin_2.0x1.5 65
+    400790: Window_muntin_2.0x1.5 66
+    400792: Window_muntin_2.0x1.5 67
+    400794: Window_muntin_2.0x1.5 68
+    400796: Window_muntin_2.0x1.5 69
+    400798: Window_muntin_2.0x1.5 7
+    400800: Window_muntin_2.0x1.5 70
+    400802: Window_muntin_2.0x1.5 71
+    400804: Window_muntin_2.0x1.5 72
+    400806: Window_muntin_2.0x1.5 73
+    400808: Window_muntin_2.0x1.5 74
+    400810: Window_muntin_2.0x1.5 75
+    400812: Window_muntin_2.0x1.5 76
+    400814: Window_muntin_2.0x1.5 77
+    400816: Window_muntin_2.0x1.5 78
+    400818: Window_muntin_2.0x1.5 79
+    400820: Window_muntin_2.0x1.5 8
+    400822: Window_muntin_2.0x1.5 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall1
+    2100008: F_unconditioned
+    2100010: OV_shrub_solid
+    2100012: OV_bldg_roof
+    2100014: ApertureGlass
+    2100016: OV_paving_pedestrian
+    2100018: OV_shrub_texture
+    2100020: OV_bldg_accent
+    2100022: OV_turf_solid
+    2100024: OV_paving_vehicle
+    2100026: OV_surface_other
+    2100028: OV_Water
+    2100030: roundedtree
+    2100032: fantree
+    2300000: 33017_3d_site
+    2300002: A1
+    2300004: a10
+    2300006: A2
+    2300008: A3
+    2300010: a4
+    2300012: a5
+    2300014: a6
+    2300016: a7
+    2300018: a8
+    2300020: a9
+    2300022: awning_bigthing
+    2300024: bulbtree-sm
+    2300026: bulbtree-sm 1
+    2300028: bulbtree-sm 2
+    2300030: bulbtree-sm 3
+    2300032: bulbtree-sm 4
+    2300034: bulbtree-sm 5
+    2300036: bulbtree-sm 6
+    2300038: Door_com_double_3.55x2.60
+    2300040: Door_glass_1.0x2.18
+    2300042: Door_glass_1.0x2.18 1
+    2300044: Door_glass_1.0x2.18 10
+    2300046: Door_glass_1.0x2.18 11
+    2300048: Door_glass_1.0x2.18 12
+    2300050: Door_glass_1.0x2.18 2
+    2300052: Door_glass_1.0x2.18 3
+    2300054: Door_glass_1.0x2.18 4
+    2300056: Door_glass_1.0x2.18 5
+    2300058: Door_glass_1.0x2.18 6
+    2300060: Door_glass_1.0x2.18 7
+    2300062: Door_glass_1.0x2.18 8
+    2300064: Door_glass_1.0x2.18 9
+    2300066: Door_glass_double_1.95x2.18
+    2300068: Door_glass_double_1.95x2.18 1
+    2300070: Door_glass_double_1.95x2.18 10
+    2300072: Door_glass_double_1.95x2.18 11
+    2300074: Door_glass_double_1.95x2.18 12
+    2300076: Door_glass_double_1.95x2.18 13
+    2300078: Door_glass_double_1.95x2.18 14
+    2300080: Door_glass_double_1.95x2.18 15
+    2300082: Door_glass_double_1.95x2.18 16
+    2300084: Door_glass_double_1.95x2.18 17
+    2300086: Door_glass_double_1.95x2.18 18
+    2300088: Door_glass_double_1.95x2.18 19
+    2300090: Door_glass_double_1.95x2.18 2
+    2300092: Door_glass_double_1.95x2.18 20
+    2300094: Door_glass_double_1.95x2.18 21
+    2300096: Door_glass_double_1.95x2.18 22
+    2300098: Door_glass_double_1.95x2.18 23
+    2300100: Door_glass_double_1.95x2.18 24
+    2300102: Door_glass_double_1.95x2.18 25
+    2300104: Door_glass_double_1.95x2.18 26
+    2300106: Door_glass_double_1.95x2.18 27
+    2300108: Door_glass_double_1.95x2.18 28
+    2300110: Door_glass_double_1.95x2.18 29
+    2300112: Door_glass_double_1.95x2.18 3
+    2300114: Door_glass_double_1.95x2.18 30
+    2300116: Door_glass_double_1.95x2.18 31
+    2300118: Door_glass_double_1.95x2.18 32
+    2300120: Door_glass_double_1.95x2.18 33
+    2300122: Door_glass_double_1.95x2.18 34
+    2300124: Door_glass_double_1.95x2.18 35
+    2300126: Door_glass_double_1.95x2.18 36
+    2300128: Door_glass_double_1.95x2.18 37
+    2300130: Door_glass_double_1.95x2.18 38
+    2300132: Door_glass_double_1.95x2.18 39
+    2300134: Door_glass_double_1.95x2.18 4
+    2300136: Door_glass_double_1.95x2.18 40
+    2300138: Door_glass_double_1.95x2.18 41
+    2300140: Door_glass_double_1.95x2.18 42
+    2300142: Door_glass_double_1.95x2.18 43
+    2300144: Door_glass_double_1.95x2.18 5
+    2300146: Door_glass_double_1.95x2.18 6
+    2300148: Door_glass_double_1.95x2.18 7
+    2300150: Door_glass_double_1.95x2.18 8
+    2300152: Door_glass_double_1.95x2.18 9
+    2300154: Door_glass_slider_1.8x.2.08
+    2300156: Door_glass_slider_1.8x.2.08 1
+    2300158: Door_glass_slider_1.8x.2.08 2
+    2300160: east_facadeq
+    2300162: fantree-sm
+    2300164: fantree-sm 1
+    2300166: fantree-sm 2
+    2300168: fantree-sm 3
+    2300170: fantree-sm 4
+    2300172: fantree-sm 5
+    2300174: fantree-sm 6
+    2300176: fantree-sm 7
+    2300178: fantree-sm 8
+    2300180: fantree-sm 9
+    2300182: fountain
+    2300184: glass
+    2300186: glass 1
+    2300188: glass 10
+    2300190: glass 11
+    2300192: glass 12
+    2300194: glass 13
+    2300196: glass 14
+    2300198: glass 15
+    2300200: glass 16
+    2300202: glass 17
+    2300204: glass 18
+    2300206: glass 19
+    2300208: glass 2
+    2300210: glass 20
+    2300212: glass 21
+    2300214: glass 22
+    2300216: glass 23
+    2300218: glass 3
+    2300220: glass 4
+    2300222: glass 5
+    2300224: glass 6
+    2300226: glass 7
+    2300228: glass 8
+    2300230: glass 9
+    2300232: glass1
+    2300234: glass_arm
+    2300236: glass_arm 1
+    2300238: glass_arm 10
+    2300240: glass_arm 11
+    2300242: glass_arm 12
+    2300244: glass_arm 13
+    2300246: glass_arm 14
+    2300248: glass_arm 15
+    2300250: glass_arm 16
+    2300252: glass_arm 17
+    2300254: glass_arm 18
+    2300256: glass_arm 19
+    2300258: glass_arm 2
+    2300260: glass_arm 20
+    2300262: glass_arm 21
+    2300264: glass_arm 22
+    2300266: glass_arm 23
+    2300268: glass_arm 24
+    2300270: glass_arm 25
+    2300272: glass_arm 26
+    2300274: glass_arm 27
+    2300276: glass_arm 28
+    2300278: glass_arm 29
+    2300280: glass_arm 3
+    2300282: glass_arm 30
+    2300284: glass_arm 31
+    2300286: glass_arm 32
+    2300288: glass_arm 33
+    2300290: glass_arm 34
+    2300292: glass_arm 35
+    2300294: glass_arm 36
+    2300296: glass_arm 37
+    2300298: glass_arm 38
+    2300300: glass_arm 39
+    2300302: glass_arm 4
+    2300304: glass_arm 40
+    2300306: glass_arm 41
+    2300308: glass_arm 42
+    2300310: glass_arm 43
+    2300312: glass_arm 44
+    2300314: glass_arm 45
+    2300316: glass_arm 46
+    2300318: glass_arm 47
+    2300320: glass_arm 48
+    2300322: glass_arm 49
+    2300324: glass_arm 5
+    2300326: glass_arm 50
+    2300328: glass_arm 51
+    2300330: glass_arm 52
+    2300332: glass_arm 53
+    2300334: glass_arm 54
+    2300336: glass_arm 55
+    2300338: glass_arm 56
+    2300340: glass_arm 57
+    2300342: glass_arm 58
+    2300344: glass_arm 59
+    2300346: glass_arm 6
+    2300348: glass_arm 60
+    2300350: glass_arm 7
+    2300352: glass_arm 8
+    2300354: glass_arm 9
+    2300356: glassbig
+    2300358: Image 1
+    2300360: north_facade
+    2300362: scale_obq
+    2300364: Skylight_0.72x1.0
+    2300366: Skylight_0.72x1.0 1
+    2300368: Skylight_0.72x1.0 2
+    2300370: south_facade
+    2300372: stairblock
+    2300374: stairblock 1
+    2300376: stairblock 2
+    2300378: stairblock2
+    2300380: stairblock2 1
+    2300382: stairblock2 2
+    2300384: stairblockSMALL
+    2300386: stairblockSMALL 1
+    2300388: stairblockSMALL 2
+    2300390: stairblockSMALL 3
+    2300392: stairblockSMALL 4
+    2300394: stairblockSMALL 5
+    2300396: stairblockSMALL 6
+    2300398: stairblockSMALL 7
+    2300400: stump3
+    2300402: stump4
+    2300404: west_facade
+    2300406: Window_doublehung_0.6x1.5
+    2300408: Window_doublehung_0.6x1.5 1
+    2300410: Window_doublehung_0.6x1.5 10
+    2300412: Window_doublehung_0.6x1.5 11
+    2300414: Window_doublehung_0.6x1.5 12
+    2300416: Window_doublehung_0.6x1.5 13
+    2300418: Window_doublehung_0.6x1.5 14
+    2300420: Window_doublehung_0.6x1.5 2
+    2300422: Window_doublehung_0.6x1.5 3
+    2300424: Window_doublehung_0.6x1.5 4
+    2300426: Window_doublehung_0.6x1.5 5
+    2300428: Window_doublehung_0.6x1.5 6
+    2300430: Window_doublehung_0.6x1.5 7
+    2300432: Window_doublehung_0.6x1.5 8
+    2300434: Window_doublehung_0.6x1.5 9
+    2300436: Window_doublehung_0.89x1.17
+    2300438: Window_doublehung_0.89x1.17 1
+    2300440: Window_doublehung_0.89x1.17 10
+    2300442: Window_doublehung_0.89x1.17 11
+    2300444: Window_doublehung_0.89x1.17 12
+    2300446: Window_doublehung_0.89x1.17 2
+    2300448: Window_doublehung_0.89x1.17 3
+    2300450: Window_doublehung_0.89x1.17 4
+    2300452: Window_doublehung_0.89x1.17 5
+    2300454: Window_doublehung_0.89x1.17 6
+    2300456: Window_doublehung_0.89x1.17 7
+    2300458: Window_doublehung_0.89x1.17 8
+    2300460: Window_doublehung_0.89x1.17 9
+    2300462: Window_muntin_0.91x1.05
+    2300464: Window_muntin_0.91x1.05 1
+    2300466: Window_muntin_0.91x1.05 10
+    2300468: Window_muntin_0.91x1.05 11
+    2300470: Window_muntin_0.91x1.05 12
+    2300472: Window_muntin_0.91x1.05 13
+    2300474: Window_muntin_0.91x1.05 14
+    2300476: Window_muntin_0.91x1.05 15
+    2300478: Window_muntin_0.91x1.05 16
+    2300480: Window_muntin_0.91x1.05 17
+    2300482: Window_muntin_0.91x1.05 18
+    2300484: Window_muntin_0.91x1.05 19
+    2300486: Window_muntin_0.91x1.05 2
+    2300488: Window_muntin_0.91x1.05 20
+    2300490: Window_muntin_0.91x1.05 21
+    2300492: Window_muntin_0.91x1.05 22
+    2300494: Window_muntin_0.91x1.05 23
+    2300496: Window_muntin_0.91x1.05 24
+    2300498: Window_muntin_0.91x1.05 25
+    2300500: Window_muntin_0.91x1.05 26
+    2300502: Window_muntin_0.91x1.05 27
+    2300504: Window_muntin_0.91x1.05 28
+    2300506: Window_muntin_0.91x1.05 29
+    2300508: Window_muntin_0.91x1.05 3
+    2300510: Window_muntin_0.91x1.05 30
+    2300512: Window_muntin_0.91x1.05 31
+    2300514: Window_muntin_0.91x1.05 32
+    2300516: Window_muntin_0.91x1.05 33
+    2300518: Window_muntin_0.91x1.05 34
+    2300520: Window_muntin_0.91x1.05 35
+    2300522: Window_muntin_0.91x1.05 36
+    2300524: Window_muntin_0.91x1.05 4
+    2300526: Window_muntin_0.91x1.05 5
+    2300528: Window_muntin_0.91x1.05 6
+    2300530: Window_muntin_0.91x1.05 7
+    2300532: Window_muntin_0.91x1.05 8
+    2300534: Window_muntin_0.91x1.05 9
+    2300536: Window_muntin_1.53x1.5
+    2300538: Window_muntin_1.53x1.5 1
+    2300540: Window_muntin_1.53x1.5 10
+    2300542: Window_muntin_1.53x1.5 11
+    2300544: Window_muntin_1.53x1.5 12
+    2300546: Window_muntin_1.53x1.5 13
+    2300548: Window_muntin_1.53x1.5 14
+    2300550: Window_muntin_1.53x1.5 15
+    2300552: Window_muntin_1.53x1.5 16
+    2300554: Window_muntin_1.53x1.5 17
+    2300556: Window_muntin_1.53x1.5 18
+    2300558: Window_muntin_1.53x1.5 19
+    2300560: Window_muntin_1.53x1.5 2
+    2300562: Window_muntin_1.53x1.5 20
+    2300564: Window_muntin_1.53x1.5 21
+    2300566: Window_muntin_1.53x1.5 22
+    2300568: Window_muntin_1.53x1.5 23
+    2300570: Window_muntin_1.53x1.5 24
+    2300572: Window_muntin_1.53x1.5 25
+    2300574: Window_muntin_1.53x1.5 26
+    2300576: Window_muntin_1.53x1.5 27
+    2300578: Window_muntin_1.53x1.5 28
+    2300580: Window_muntin_1.53x1.5 29
+    2300582: Window_muntin_1.53x1.5 3
+    2300584: Window_muntin_1.53x1.5 30
+    2300586: Window_muntin_1.53x1.5 31
+    2300588: Window_muntin_1.53x1.5 32
+    2300590: Window_muntin_1.53x1.5 33
+    2300592: Window_muntin_1.53x1.5 34
+    2300594: Window_muntin_1.53x1.5 35
+    2300596: Window_muntin_1.53x1.5 36
+    2300598: Window_muntin_1.53x1.5 37
+    2300600: Window_muntin_1.53x1.5 38
+    2300602: Window_muntin_1.53x1.5 39
+    2300604: Window_muntin_1.53x1.5 4
+    2300606: Window_muntin_1.53x1.5 40
+    2300608: Window_muntin_1.53x1.5 41
+    2300610: Window_muntin_1.53x1.5 42
+    2300612: Window_muntin_1.53x1.5 43
+    2300614: Window_muntin_1.53x1.5 44
+    2300616: Window_muntin_1.53x1.5 45
+    2300618: Window_muntin_1.53x1.5 46
+    2300620: Window_muntin_1.53x1.5 47
+    2300622: Window_muntin_1.53x1.5 48
+    2300624: Window_muntin_1.53x1.5 49
+    2300626: Window_muntin_1.53x1.5 5
+    2300628: Window_muntin_1.53x1.5 50
+    2300630: Window_muntin_1.53x1.5 51
+    2300632: Window_muntin_1.53x1.5 52
+    2300634: Window_muntin_1.53x1.5 6
+    2300636: Window_muntin_1.53x1.5 7
+    2300638: Window_muntin_1.53x1.5 8
+    2300640: Window_muntin_1.53x1.5 9
+    2300642: Window_muntin_2.0x1.5
+    2300644: Window_muntin_2.0x1.5 1
+    2300646: Window_muntin_2.0x1.5 10
+    2300648: Window_muntin_2.0x1.5 11
+    2300650: Window_muntin_2.0x1.5 12
+    2300652: Window_muntin_2.0x1.5 13
+    2300654: Window_muntin_2.0x1.5 14
+    2300656: Window_muntin_2.0x1.5 15
+    2300658: Window_muntin_2.0x1.5 16
+    2300660: Window_muntin_2.0x1.5 17
+    2300662: Window_muntin_2.0x1.5 18
+    2300664: Window_muntin_2.0x1.5 19
+    2300666: Window_muntin_2.0x1.5 2
+    2300668: Window_muntin_2.0x1.5 20
+    2300670: Window_muntin_2.0x1.5 21
+    2300672: Window_muntin_2.0x1.5 22
+    2300674: Window_muntin_2.0x1.5 23
+    2300676: Window_muntin_2.0x1.5 24
+    2300678: Window_muntin_2.0x1.5 25
+    2300680: Window_muntin_2.0x1.5 26
+    2300682: Window_muntin_2.0x1.5 27
+    2300684: Window_muntin_2.0x1.5 28
+    2300686: Window_muntin_2.0x1.5 29
+    2300688: Window_muntin_2.0x1.5 3
+    2300690: Window_muntin_2.0x1.5 30
+    2300692: Window_muntin_2.0x1.5 31
+    2300694: Window_muntin_2.0x1.5 32
+    2300696: Window_muntin_2.0x1.5 33
+    2300698: Window_muntin_2.0x1.5 34
+    2300700: Window_muntin_2.0x1.5 35
+    2300702: Window_muntin_2.0x1.5 36
+    2300704: Window_muntin_2.0x1.5 37
+    2300706: Window_muntin_2.0x1.5 38
+    2300708: Window_muntin_2.0x1.5 39
+    2300710: Window_muntin_2.0x1.5 4
+    2300712: Window_muntin_2.0x1.5 40
+    2300714: Window_muntin_2.0x1.5 41
+    2300716: Window_muntin_2.0x1.5 42
+    2300718: Window_muntin_2.0x1.5 43
+    2300720: Window_muntin_2.0x1.5 44
+    2300722: Window_muntin_2.0x1.5 45
+    2300724: Window_muntin_2.0x1.5 46
+    2300726: Window_muntin_2.0x1.5 47
+    2300728: Window_muntin_2.0x1.5 48
+    2300730: Window_muntin_2.0x1.5 49
+    2300732: Window_muntin_2.0x1.5 5
+    2300734: Window_muntin_2.0x1.5 50
+    2300736: Window_muntin_2.0x1.5 51
+    2300738: Window_muntin_2.0x1.5 52
+    2300740: Window_muntin_2.0x1.5 53
+    2300742: Window_muntin_2.0x1.5 54
+    2300744: Window_muntin_2.0x1.5 55
+    2300746: Window_muntin_2.0x1.5 56
+    2300748: Window_muntin_2.0x1.5 57
+    2300750: Window_muntin_2.0x1.5 58
+    2300752: Window_muntin_2.0x1.5 59
+    2300754: Window_muntin_2.0x1.5 6
+    2300756: Window_muntin_2.0x1.5 60
+    2300758: Window_muntin_2.0x1.5 61
+    2300760: Window_muntin_2.0x1.5 62
+    2300762: Window_muntin_2.0x1.5 63
+    2300764: Window_muntin_2.0x1.5 64
+    2300766: Window_muntin_2.0x1.5 65
+    2300768: Window_muntin_2.0x1.5 66
+    2300770: Window_muntin_2.0x1.5 67
+    2300772: Window_muntin_2.0x1.5 68
+    2300774: Window_muntin_2.0x1.5 69
+    2300776: Window_muntin_2.0x1.5 7
+    2300778: Window_muntin_2.0x1.5 70
+    2300780: Window_muntin_2.0x1.5 71
+    2300782: Window_muntin_2.0x1.5 72
+    2300784: Window_muntin_2.0x1.5 73
+    2300786: Window_muntin_2.0x1.5 74
+    2300788: Window_muntin_2.0x1.5 75
+    2300790: Window_muntin_2.0x1.5 76
+    2300792: Window_muntin_2.0x1.5 77
+    2300794: Window_muntin_2.0x1.5 78
+    2300796: Window_muntin_2.0x1.5 79
+    2300798: Window_muntin_2.0x1.5 8
+    2300800: Window_muntin_2.0x1.5 9
+    3300000: 33017_3d_site
+    3300002: A1
+    3300004: a10
+    3300006: A2
+    3300008: A3
+    3300010: a4
+    3300012: a5
+    3300014: a6
+    3300016: a7
+    3300018: a8
+    3300020: a9
+    3300022: awning_bigthing
+    3300024: bulbtree-sm
+    3300026: bulbtree-sm 1
+    3300028: bulbtree-sm 2
+    3300030: bulbtree-sm 3
+    3300032: bulbtree-sm 4
+    3300034: bulbtree-sm 5
+    3300036: bulbtree-sm 6
+    3300038: Door_com_double_3.55x2.60
+    3300040: Door_glass_1.0x2.18
+    3300042: Door_glass_1.0x2.18 1
+    3300044: Door_glass_1.0x2.18 10
+    3300046: Door_glass_1.0x2.18 11
+    3300048: Door_glass_1.0x2.18 12
+    3300050: Door_glass_1.0x2.18 2
+    3300052: Door_glass_1.0x2.18 3
+    3300054: Door_glass_1.0x2.18 4
+    3300056: Door_glass_1.0x2.18 5
+    3300058: Door_glass_1.0x2.18 6
+    3300060: Door_glass_1.0x2.18 7
+    3300062: Door_glass_1.0x2.18 8
+    3300064: Door_glass_1.0x2.18 9
+    3300066: Door_glass_double_1.95x2.18
+    3300068: Door_glass_double_1.95x2.18 1
+    3300070: Door_glass_double_1.95x2.18 10
+    3300072: Door_glass_double_1.95x2.18 11
+    3300074: Door_glass_double_1.95x2.18 12
+    3300076: Door_glass_double_1.95x2.18 13
+    3300078: Door_glass_double_1.95x2.18 14
+    3300080: Door_glass_double_1.95x2.18 15
+    3300082: Door_glass_double_1.95x2.18 16
+    3300084: Door_glass_double_1.95x2.18 17
+    3300086: Door_glass_double_1.95x2.18 18
+    3300088: Door_glass_double_1.95x2.18 19
+    3300090: Door_glass_double_1.95x2.18 2
+    3300092: Door_glass_double_1.95x2.18 20
+    3300094: Door_glass_double_1.95x2.18 21
+    3300096: Door_glass_double_1.95x2.18 22
+    3300098: Door_glass_double_1.95x2.18 23
+    3300100: Door_glass_double_1.95x2.18 24
+    3300102: Door_glass_double_1.95x2.18 25
+    3300104: Door_glass_double_1.95x2.18 26
+    3300106: Door_glass_double_1.95x2.18 27
+    3300108: Door_glass_double_1.95x2.18 28
+    3300110: Door_glass_double_1.95x2.18 29
+    3300112: Door_glass_double_1.95x2.18 3
+    3300114: Door_glass_double_1.95x2.18 30
+    3300116: Door_glass_double_1.95x2.18 31
+    3300118: Door_glass_double_1.95x2.18 32
+    3300120: Door_glass_double_1.95x2.18 33
+    3300122: Door_glass_double_1.95x2.18 34
+    3300124: Door_glass_double_1.95x2.18 35
+    3300126: Door_glass_double_1.95x2.18 36
+    3300128: Door_glass_double_1.95x2.18 37
+    3300130: Door_glass_double_1.95x2.18 38
+    3300132: Door_glass_double_1.95x2.18 39
+    3300134: Door_glass_double_1.95x2.18 4
+    3300136: Door_glass_double_1.95x2.18 40
+    3300138: Door_glass_double_1.95x2.18 41
+    3300140: Door_glass_double_1.95x2.18 42
+    3300142: Door_glass_double_1.95x2.18 43
+    3300144: Door_glass_double_1.95x2.18 5
+    3300146: Door_glass_double_1.95x2.18 6
+    3300148: Door_glass_double_1.95x2.18 7
+    3300150: Door_glass_double_1.95x2.18 8
+    3300152: Door_glass_double_1.95x2.18 9
+    3300154: Door_glass_slider_1.8x.2.08
+    3300156: Door_glass_slider_1.8x.2.08 1
+    3300158: Door_glass_slider_1.8x.2.08 2
+    3300160: east_facadeq
+    3300162: fantree-sm
+    3300164: fantree-sm 1
+    3300166: fantree-sm 2
+    3300168: fantree-sm 3
+    3300170: fantree-sm 4
+    3300172: fantree-sm 5
+    3300174: fantree-sm 6
+    3300176: fantree-sm 7
+    3300178: fantree-sm 8
+    3300180: fantree-sm 9
+    3300182: fountain
+    3300184: glass
+    3300186: glass 1
+    3300188: glass 10
+    3300190: glass 11
+    3300192: glass 12
+    3300194: glass 13
+    3300196: glass 14
+    3300198: glass 15
+    3300200: glass 16
+    3300202: glass 17
+    3300204: glass 18
+    3300206: glass 19
+    3300208: glass 2
+    3300210: glass 20
+    3300212: glass 21
+    3300214: glass 22
+    3300216: glass 23
+    3300218: glass 3
+    3300220: glass 4
+    3300222: glass 5
+    3300224: glass 6
+    3300226: glass 7
+    3300228: glass 8
+    3300230: glass 9
+    3300232: glass1
+    3300234: glass_arm
+    3300236: glass_arm 1
+    3300238: glass_arm 10
+    3300240: glass_arm 11
+    3300242: glass_arm 12
+    3300244: glass_arm 13
+    3300246: glass_arm 14
+    3300248: glass_arm 15
+    3300250: glass_arm 16
+    3300252: glass_arm 17
+    3300254: glass_arm 18
+    3300256: glass_arm 19
+    3300258: glass_arm 2
+    3300260: glass_arm 20
+    3300262: glass_arm 21
+    3300264: glass_arm 22
+    3300266: glass_arm 23
+    3300268: glass_arm 24
+    3300270: glass_arm 25
+    3300272: glass_arm 26
+    3300274: glass_arm 27
+    3300276: glass_arm 28
+    3300278: glass_arm 29
+    3300280: glass_arm 3
+    3300282: glass_arm 30
+    3300284: glass_arm 31
+    3300286: glass_arm 32
+    3300288: glass_arm 33
+    3300290: glass_arm 34
+    3300292: glass_arm 35
+    3300294: glass_arm 36
+    3300296: glass_arm 37
+    3300298: glass_arm 38
+    3300300: glass_arm 39
+    3300302: glass_arm 4
+    3300304: glass_arm 40
+    3300306: glass_arm 41
+    3300308: glass_arm 42
+    3300310: glass_arm 43
+    3300312: glass_arm 44
+    3300314: glass_arm 45
+    3300316: glass_arm 46
+    3300318: glass_arm 47
+    3300320: glass_arm 48
+    3300322: glass_arm 49
+    3300324: glass_arm 5
+    3300326: glass_arm 50
+    3300328: glass_arm 51
+    3300330: glass_arm 52
+    3300332: glass_arm 53
+    3300334: glass_arm 54
+    3300336: glass_arm 55
+    3300338: glass_arm 56
+    3300340: glass_arm 57
+    3300342: glass_arm 58
+    3300344: glass_arm 59
+    3300346: glass_arm 6
+    3300348: glass_arm 60
+    3300350: glass_arm 7
+    3300352: glass_arm 8
+    3300354: glass_arm 9
+    3300356: glassbig
+    3300358: Image 1
+    3300360: north_facade
+    3300362: scale_obq
+    3300364: Skylight_0.72x1.0
+    3300366: Skylight_0.72x1.0 1
+    3300368: Skylight_0.72x1.0 2
+    3300370: south_facade
+    3300372: stairblock
+    3300374: stairblock 1
+    3300376: stairblock 2
+    3300378: stairblock2
+    3300380: stairblock2 1
+    3300382: stairblock2 2
+    3300384: stairblockSMALL
+    3300386: stairblockSMALL 1
+    3300388: stairblockSMALL 2
+    3300390: stairblockSMALL 3
+    3300392: stairblockSMALL 4
+    3300394: stairblockSMALL 5
+    3300396: stairblockSMALL 6
+    3300398: stairblockSMALL 7
+    3300400: stump3
+    3300402: stump4
+    3300404: west_facade
+    3300406: Window_doublehung_0.6x1.5
+    3300408: Window_doublehung_0.6x1.5 1
+    3300410: Window_doublehung_0.6x1.5 10
+    3300412: Window_doublehung_0.6x1.5 11
+    3300414: Window_doublehung_0.6x1.5 12
+    3300416: Window_doublehung_0.6x1.5 13
+    3300418: Window_doublehung_0.6x1.5 14
+    3300420: Window_doublehung_0.6x1.5 2
+    3300422: Window_doublehung_0.6x1.5 3
+    3300424: Window_doublehung_0.6x1.5 4
+    3300426: Window_doublehung_0.6x1.5 5
+    3300428: Window_doublehung_0.6x1.5 6
+    3300430: Window_doublehung_0.6x1.5 7
+    3300432: Window_doublehung_0.6x1.5 8
+    3300434: Window_doublehung_0.6x1.5 9
+    3300436: Window_doublehung_0.89x1.17
+    3300438: Window_doublehung_0.89x1.17 1
+    3300440: Window_doublehung_0.89x1.17 10
+    3300442: Window_doublehung_0.89x1.17 11
+    3300444: Window_doublehung_0.89x1.17 12
+    3300446: Window_doublehung_0.89x1.17 2
+    3300448: Window_doublehung_0.89x1.17 3
+    3300450: Window_doublehung_0.89x1.17 4
+    3300452: Window_doublehung_0.89x1.17 5
+    3300454: Window_doublehung_0.89x1.17 6
+    3300456: Window_doublehung_0.89x1.17 7
+    3300458: Window_doublehung_0.89x1.17 8
+    3300460: Window_doublehung_0.89x1.17 9
+    3300462: Window_muntin_0.91x1.05
+    3300464: Window_muntin_0.91x1.05 1
+    3300466: Window_muntin_0.91x1.05 10
+    3300468: Window_muntin_0.91x1.05 11
+    3300470: Window_muntin_0.91x1.05 12
+    3300472: Window_muntin_0.91x1.05 13
+    3300474: Window_muntin_0.91x1.05 14
+    3300476: Window_muntin_0.91x1.05 15
+    3300478: Window_muntin_0.91x1.05 16
+    3300480: Window_muntin_0.91x1.05 17
+    3300482: Window_muntin_0.91x1.05 18
+    3300484: Window_muntin_0.91x1.05 19
+    3300486: Window_muntin_0.91x1.05 2
+    3300488: Window_muntin_0.91x1.05 20
+    3300490: Window_muntin_0.91x1.05 21
+    3300492: Window_muntin_0.91x1.05 22
+    3300494: Window_muntin_0.91x1.05 23
+    3300496: Window_muntin_0.91x1.05 24
+    3300498: Window_muntin_0.91x1.05 25
+    3300500: Window_muntin_0.91x1.05 26
+    3300502: Window_muntin_0.91x1.05 27
+    3300504: Window_muntin_0.91x1.05 28
+    3300506: Window_muntin_0.91x1.05 29
+    3300508: Window_muntin_0.91x1.05 3
+    3300510: Window_muntin_0.91x1.05 30
+    3300512: Window_muntin_0.91x1.05 31
+    3300514: Window_muntin_0.91x1.05 32
+    3300516: Window_muntin_0.91x1.05 33
+    3300518: Window_muntin_0.91x1.05 34
+    3300520: Window_muntin_0.91x1.05 35
+    3300522: Window_muntin_0.91x1.05 36
+    3300524: Window_muntin_0.91x1.05 4
+    3300526: Window_muntin_0.91x1.05 5
+    3300528: Window_muntin_0.91x1.05 6
+    3300530: Window_muntin_0.91x1.05 7
+    3300532: Window_muntin_0.91x1.05 8
+    3300534: Window_muntin_0.91x1.05 9
+    3300536: Window_muntin_1.53x1.5
+    3300538: Window_muntin_1.53x1.5 1
+    3300540: Window_muntin_1.53x1.5 10
+    3300542: Window_muntin_1.53x1.5 11
+    3300544: Window_muntin_1.53x1.5 12
+    3300546: Window_muntin_1.53x1.5 13
+    3300548: Window_muntin_1.53x1.5 14
+    3300550: Window_muntin_1.53x1.5 15
+    3300552: Window_muntin_1.53x1.5 16
+    3300554: Window_muntin_1.53x1.5 17
+    3300556: Window_muntin_1.53x1.5 18
+    3300558: Window_muntin_1.53x1.5 19
+    3300560: Window_muntin_1.53x1.5 2
+    3300562: Window_muntin_1.53x1.5 20
+    3300564: Window_muntin_1.53x1.5 21
+    3300566: Window_muntin_1.53x1.5 22
+    3300568: Window_muntin_1.53x1.5 23
+    3300570: Window_muntin_1.53x1.5 24
+    3300572: Window_muntin_1.53x1.5 25
+    3300574: Window_muntin_1.53x1.5 26
+    3300576: Window_muntin_1.53x1.5 27
+    3300578: Window_muntin_1.53x1.5 28
+    3300580: Window_muntin_1.53x1.5 29
+    3300582: Window_muntin_1.53x1.5 3
+    3300584: Window_muntin_1.53x1.5 30
+    3300586: Window_muntin_1.53x1.5 31
+    3300588: Window_muntin_1.53x1.5 32
+    3300590: Window_muntin_1.53x1.5 33
+    3300592: Window_muntin_1.53x1.5 34
+    3300594: Window_muntin_1.53x1.5 35
+    3300596: Window_muntin_1.53x1.5 36
+    3300598: Window_muntin_1.53x1.5 37
+    3300600: Window_muntin_1.53x1.5 38
+    3300602: Window_muntin_1.53x1.5 39
+    3300604: Window_muntin_1.53x1.5 4
+    3300606: Window_muntin_1.53x1.5 40
+    3300608: Window_muntin_1.53x1.5 41
+    3300610: Window_muntin_1.53x1.5 42
+    3300612: Window_muntin_1.53x1.5 43
+    3300614: Window_muntin_1.53x1.5 44
+    3300616: Window_muntin_1.53x1.5 45
+    3300618: Window_muntin_1.53x1.5 46
+    3300620: Window_muntin_1.53x1.5 47
+    3300622: Window_muntin_1.53x1.5 48
+    3300624: Window_muntin_1.53x1.5 49
+    3300626: Window_muntin_1.53x1.5 5
+    3300628: Window_muntin_1.53x1.5 50
+    3300630: Window_muntin_1.53x1.5 51
+    3300632: Window_muntin_1.53x1.5 52
+    3300634: Window_muntin_1.53x1.5 6
+    3300636: Window_muntin_1.53x1.5 7
+    3300638: Window_muntin_1.53x1.5 8
+    3300640: Window_muntin_1.53x1.5 9
+    3300642: Window_muntin_2.0x1.5
+    3300644: Window_muntin_2.0x1.5 1
+    3300646: Window_muntin_2.0x1.5 10
+    3300648: Window_muntin_2.0x1.5 11
+    3300650: Window_muntin_2.0x1.5 12
+    3300652: Window_muntin_2.0x1.5 13
+    3300654: Window_muntin_2.0x1.5 14
+    3300656: Window_muntin_2.0x1.5 15
+    3300658: Window_muntin_2.0x1.5 16
+    3300660: Window_muntin_2.0x1.5 17
+    3300662: Window_muntin_2.0x1.5 18
+    3300664: Window_muntin_2.0x1.5 19
+    3300666: Window_muntin_2.0x1.5 2
+    3300668: Window_muntin_2.0x1.5 20
+    3300670: Window_muntin_2.0x1.5 21
+    3300672: Window_muntin_2.0x1.5 22
+    3300674: Window_muntin_2.0x1.5 23
+    3300676: Window_muntin_2.0x1.5 24
+    3300678: Window_muntin_2.0x1.5 25
+    3300680: Window_muntin_2.0x1.5 26
+    3300682: Window_muntin_2.0x1.5 27
+    3300684: Window_muntin_2.0x1.5 28
+    3300686: Window_muntin_2.0x1.5 29
+    3300688: Window_muntin_2.0x1.5 3
+    3300690: Window_muntin_2.0x1.5 30
+    3300692: Window_muntin_2.0x1.5 31
+    3300694: Window_muntin_2.0x1.5 32
+    3300696: Window_muntin_2.0x1.5 33
+    3300698: Window_muntin_2.0x1.5 34
+    3300700: Window_muntin_2.0x1.5 35
+    3300702: Window_muntin_2.0x1.5 36
+    3300704: Window_muntin_2.0x1.5 37
+    3300706: Window_muntin_2.0x1.5 38
+    3300708: Window_muntin_2.0x1.5 39
+    3300710: Window_muntin_2.0x1.5 4
+    3300712: Window_muntin_2.0x1.5 40
+    3300714: Window_muntin_2.0x1.5 41
+    3300716: Window_muntin_2.0x1.5 42
+    3300718: Window_muntin_2.0x1.5 43
+    3300720: Window_muntin_2.0x1.5 44
+    3300722: Window_muntin_2.0x1.5 45
+    3300724: Window_muntin_2.0x1.5 46
+    3300726: Window_muntin_2.0x1.5 47
+    3300728: Window_muntin_2.0x1.5 48
+    3300730: Window_muntin_2.0x1.5 49
+    3300732: Window_muntin_2.0x1.5 5
+    3300734: Window_muntin_2.0x1.5 50
+    3300736: Window_muntin_2.0x1.5 51
+    3300738: Window_muntin_2.0x1.5 52
+    3300740: Window_muntin_2.0x1.5 53
+    3300742: Window_muntin_2.0x1.5 54
+    3300744: Window_muntin_2.0x1.5 55
+    3300746: Window_muntin_2.0x1.5 56
+    3300748: Window_muntin_2.0x1.5 57
+    3300750: Window_muntin_2.0x1.5 58
+    3300752: Window_muntin_2.0x1.5 59
+    3300754: Window_muntin_2.0x1.5 6
+    3300756: Window_muntin_2.0x1.5 60
+    3300758: Window_muntin_2.0x1.5 61
+    3300760: Window_muntin_2.0x1.5 62
+    3300762: Window_muntin_2.0x1.5 63
+    3300764: Window_muntin_2.0x1.5 64
+    3300766: Window_muntin_2.0x1.5 65
+    3300768: Window_muntin_2.0x1.5 66
+    3300770: Window_muntin_2.0x1.5 67
+    3300772: Window_muntin_2.0x1.5 68
+    3300774: Window_muntin_2.0x1.5 69
+    3300776: Window_muntin_2.0x1.5 7
+    3300778: Window_muntin_2.0x1.5 70
+    3300780: Window_muntin_2.0x1.5 71
+    3300782: Window_muntin_2.0x1.5 72
+    3300784: Window_muntin_2.0x1.5 73
+    3300786: Window_muntin_2.0x1.5 74
+    3300788: Window_muntin_2.0x1.5 75
+    3300790: Window_muntin_2.0x1.5 76
+    3300792: Window_muntin_2.0x1.5 77
+    3300794: Window_muntin_2.0x1.5 78
+    3300796: Window_muntin_2.0x1.5 79
+    3300798: Window_muntin_2.0x1.5 8
+    3300800: Window_muntin_2.0x1.5 9
+    4300000: Mesh 33017-00
+    4300002: Mesh scale_obq
+    4300004: Mesh a9
+    4300006: Mesh Skylight_0.72x1.0
+    4300008: Mesh a8
+    4300010: Mesh Window_doublehung_0.89x1.17
+    4300012: Mesh Door_com_double_3.55x2.60
+    4300014: Mesh Window_doublehung_0.6x1.5
+    4300016: Mesh Window_muntin_2.0x1.5
+    4300018: Mesh Door_glass_double_1.95x2.18
+    4300020: Mesh Window_muntin_1.53x1.5
+    4300022: Mesh Door_glass_slider_1.8x.2.08
+    4300024: Mesh Window_muntin_0.91x1.05
+    4300026: Mesh a7
+    4300028: Mesh Door_glass_1.0x2.18
+    4300030: Mesh a6
+    4300032: Mesh a5
+    4300034: Mesh a4
+    4300036: Mesh A3
+    4300038: Mesh A2
+    4300040: Mesh a10
+    4300042: Mesh west_facade
+    4300044: Mesh south_facade
+    4300046: Mesh north_facade
+    4300048: Mesh east_facadeq
+    4300050: Mesh stairblock
+    4300052: Mesh stairblockSMALL
+    4300054: Mesh stairblock2
+    4300056: Mesh 33017_3d_site
+    4300058: Mesh A1
+    4300060: Mesh stump3
+    4300062: Mesh stump4
+    4300064: Mesh glass_arm
+    4300066: Mesh glass
+    4300068: Mesh awning_bigthing
+    4300070: Mesh glass1
+    4300072: Mesh glassbig
+    4300074: Mesh bulbtree-sm
+    4300076: Mesh fantree-sm
+    4300078: Mesh glass
+    4300080: Mesh fountain
+    6400000: 33017_3d_site
+    6400002: A1
+    6400004: a10
+    6400006: A2
+    6400008: A3
+    6400010: a4
+    6400012: a5
+    6400014: a6
+    6400016: a7
+    6400018: a8
+    6400020: a9
+    6400022: awning_bigthing
+    6400024: bulbtree-sm
+    6400026: bulbtree-sm 1
+    6400028: bulbtree-sm 2
+    6400030: bulbtree-sm 3
+    6400032: bulbtree-sm 4
+    6400034: bulbtree-sm 5
+    6400036: bulbtree-sm 6
+    6400038: Door_com_double_3.55x2.60
+    6400040: Door_glass_1.0x2.18
+    6400042: Door_glass_1.0x2.18 1
+    6400044: Door_glass_1.0x2.18 10
+    6400046: Door_glass_1.0x2.18 11
+    6400048: Door_glass_1.0x2.18 12
+    6400050: Door_glass_1.0x2.18 2
+    6400052: Door_glass_1.0x2.18 3
+    6400054: Door_glass_1.0x2.18 4
+    6400056: Door_glass_1.0x2.18 5
+    6400058: Door_glass_1.0x2.18 6
+    6400060: Door_glass_1.0x2.18 7
+    6400062: Door_glass_1.0x2.18 8
+    6400064: Door_glass_1.0x2.18 9
+    6400066: Door_glass_double_1.95x2.18
+    6400068: Door_glass_double_1.95x2.18 1
+    6400070: Door_glass_double_1.95x2.18 10
+    6400072: Door_glass_double_1.95x2.18 11
+    6400074: Door_glass_double_1.95x2.18 12
+    6400076: Door_glass_double_1.95x2.18 13
+    6400078: Door_glass_double_1.95x2.18 14
+    6400080: Door_glass_double_1.95x2.18 15
+    6400082: Door_glass_double_1.95x2.18 16
+    6400084: Door_glass_double_1.95x2.18 17
+    6400086: Door_glass_double_1.95x2.18 18
+    6400088: Door_glass_double_1.95x2.18 19
+    6400090: Door_glass_double_1.95x2.18 2
+    6400092: Door_glass_double_1.95x2.18 20
+    6400094: Door_glass_double_1.95x2.18 21
+    6400096: Door_glass_double_1.95x2.18 22
+    6400098: Door_glass_double_1.95x2.18 23
+    6400100: Door_glass_double_1.95x2.18 24
+    6400102: Door_glass_double_1.95x2.18 25
+    6400104: Door_glass_double_1.95x2.18 26
+    6400106: Door_glass_double_1.95x2.18 27
+    6400108: Door_glass_double_1.95x2.18 28
+    6400110: Door_glass_double_1.95x2.18 29
+    6400112: Door_glass_double_1.95x2.18 3
+    6400114: Door_glass_double_1.95x2.18 30
+    6400116: Door_glass_double_1.95x2.18 31
+    6400118: Door_glass_double_1.95x2.18 32
+    6400120: Door_glass_double_1.95x2.18 33
+    6400122: Door_glass_double_1.95x2.18 34
+    6400124: Door_glass_double_1.95x2.18 35
+    6400126: Door_glass_double_1.95x2.18 36
+    6400128: Door_glass_double_1.95x2.18 37
+    6400130: Door_glass_double_1.95x2.18 38
+    6400132: Door_glass_double_1.95x2.18 39
+    6400134: Door_glass_double_1.95x2.18 4
+    6400136: Door_glass_double_1.95x2.18 40
+    6400138: Door_glass_double_1.95x2.18 41
+    6400140: Door_glass_double_1.95x2.18 42
+    6400142: Door_glass_double_1.95x2.18 43
+    6400144: Door_glass_double_1.95x2.18 5
+    6400146: Door_glass_double_1.95x2.18 6
+    6400148: Door_glass_double_1.95x2.18 7
+    6400150: Door_glass_double_1.95x2.18 8
+    6400152: Door_glass_double_1.95x2.18 9
+    6400154: Door_glass_slider_1.8x.2.08
+    6400156: Door_glass_slider_1.8x.2.08 1
+    6400158: Door_glass_slider_1.8x.2.08 2
+    6400160: east_facadeq
+    6400162: fantree-sm
+    6400164: fantree-sm 1
+    6400166: fantree-sm 2
+    6400168: fantree-sm 3
+    6400170: fantree-sm 4
+    6400172: fantree-sm 5
+    6400174: fantree-sm 6
+    6400176: fantree-sm 7
+    6400178: fantree-sm 8
+    6400180: fantree-sm 9
+    6400182: fountain
+    6400184: glass
+    6400186: glass 1
+    6400188: glass 10
+    6400190: glass 11
+    6400192: glass 12
+    6400194: glass 13
+    6400196: glass 14
+    6400198: glass 15
+    6400200: glass 16
+    6400202: glass 17
+    6400204: glass 18
+    6400206: glass 19
+    6400208: glass 2
+    6400210: glass 20
+    6400212: glass 21
+    6400214: glass 22
+    6400216: glass 23
+    6400218: glass 3
+    6400220: glass 4
+    6400222: glass 5
+    6400224: glass 6
+    6400226: glass 7
+    6400228: glass 8
+    6400230: glass 9
+    6400232: glass1
+    6400234: glass_arm
+    6400236: glass_arm 1
+    6400238: glass_arm 10
+    6400240: glass_arm 11
+    6400242: glass_arm 12
+    6400244: glass_arm 13
+    6400246: glass_arm 14
+    6400248: glass_arm 15
+    6400250: glass_arm 16
+    6400252: glass_arm 17
+    6400254: glass_arm 18
+    6400256: glass_arm 19
+    6400258: glass_arm 2
+    6400260: glass_arm 20
+    6400262: glass_arm 21
+    6400264: glass_arm 22
+    6400266: glass_arm 23
+    6400268: glass_arm 24
+    6400270: glass_arm 25
+    6400272: glass_arm 26
+    6400274: glass_arm 27
+    6400276: glass_arm 28
+    6400278: glass_arm 29
+    6400280: glass_arm 3
+    6400282: glass_arm 30
+    6400284: glass_arm 31
+    6400286: glass_arm 32
+    6400288: glass_arm 33
+    6400290: glass_arm 34
+    6400292: glass_arm 35
+    6400294: glass_arm 36
+    6400296: glass_arm 37
+    6400298: glass_arm 38
+    6400300: glass_arm 39
+    6400302: glass_arm 4
+    6400304: glass_arm 40
+    6400306: glass_arm 41
+    6400308: glass_arm 42
+    6400310: glass_arm 43
+    6400312: glass_arm 44
+    6400314: glass_arm 45
+    6400316: glass_arm 46
+    6400318: glass_arm 47
+    6400320: glass_arm 48
+    6400322: glass_arm 49
+    6400324: glass_arm 5
+    6400326: glass_arm 50
+    6400328: glass_arm 51
+    6400330: glass_arm 52
+    6400332: glass_arm 53
+    6400334: glass_arm 54
+    6400336: glass_arm 55
+    6400338: glass_arm 56
+    6400340: glass_arm 57
+    6400342: glass_arm 58
+    6400344: glass_arm 59
+    6400346: glass_arm 6
+    6400348: glass_arm 60
+    6400350: glass_arm 7
+    6400352: glass_arm 8
+    6400354: glass_arm 9
+    6400356: glassbig
+    6400358: Image 1
+    6400360: north_facade
+    6400362: scale_obq
+    6400364: Skylight_0.72x1.0
+    6400366: Skylight_0.72x1.0 1
+    6400368: Skylight_0.72x1.0 2
+    6400370: south_facade
+    6400372: stairblock
+    6400374: stairblock 1
+    6400376: stairblock 2
+    6400378: stairblock2
+    6400380: stairblock2 1
+    6400382: stairblock2 2
+    6400384: stairblockSMALL
+    6400386: stairblockSMALL 1
+    6400388: stairblockSMALL 2
+    6400390: stairblockSMALL 3
+    6400392: stairblockSMALL 4
+    6400394: stairblockSMALL 5
+    6400396: stairblockSMALL 6
+    6400398: stairblockSMALL 7
+    6400400: stump3
+    6400402: stump4
+    6400404: west_facade
+    6400406: Window_doublehung_0.6x1.5
+    6400408: Window_doublehung_0.6x1.5 1
+    6400410: Window_doublehung_0.6x1.5 10
+    6400412: Window_doublehung_0.6x1.5 11
+    6400414: Window_doublehung_0.6x1.5 12
+    6400416: Window_doublehung_0.6x1.5 13
+    6400418: Window_doublehung_0.6x1.5 14
+    6400420: Window_doublehung_0.6x1.5 2
+    6400422: Window_doublehung_0.6x1.5 3
+    6400424: Window_doublehung_0.6x1.5 4
+    6400426: Window_doublehung_0.6x1.5 5
+    6400428: Window_doublehung_0.6x1.5 6
+    6400430: Window_doublehung_0.6x1.5 7
+    6400432: Window_doublehung_0.6x1.5 8
+    6400434: Window_doublehung_0.6x1.5 9
+    6400436: Window_doublehung_0.89x1.17
+    6400438: Window_doublehung_0.89x1.17 1
+    6400440: Window_doublehung_0.89x1.17 10
+    6400442: Window_doublehung_0.89x1.17 11
+    6400444: Window_doublehung_0.89x1.17 12
+    6400446: Window_doublehung_0.89x1.17 2
+    6400448: Window_doublehung_0.89x1.17 3
+    6400450: Window_doublehung_0.89x1.17 4
+    6400452: Window_doublehung_0.89x1.17 5
+    6400454: Window_doublehung_0.89x1.17 6
+    6400456: Window_doublehung_0.89x1.17 7
+    6400458: Window_doublehung_0.89x1.17 8
+    6400460: Window_doublehung_0.89x1.17 9
+    6400462: Window_muntin_0.91x1.05
+    6400464: Window_muntin_0.91x1.05 1
+    6400466: Window_muntin_0.91x1.05 10
+    6400468: Window_muntin_0.91x1.05 11
+    6400470: Window_muntin_0.91x1.05 12
+    6400472: Window_muntin_0.91x1.05 13
+    6400474: Window_muntin_0.91x1.05 14
+    6400476: Window_muntin_0.91x1.05 15
+    6400478: Window_muntin_0.91x1.05 16
+    6400480: Window_muntin_0.91x1.05 17
+    6400482: Window_muntin_0.91x1.05 18
+    6400484: Window_muntin_0.91x1.05 19
+    6400486: Window_muntin_0.91x1.05 2
+    6400488: Window_muntin_0.91x1.05 20
+    6400490: Window_muntin_0.91x1.05 21
+    6400492: Window_muntin_0.91x1.05 22
+    6400494: Window_muntin_0.91x1.05 23
+    6400496: Window_muntin_0.91x1.05 24
+    6400498: Window_muntin_0.91x1.05 25
+    6400500: Window_muntin_0.91x1.05 26
+    6400502: Window_muntin_0.91x1.05 27
+    6400504: Window_muntin_0.91x1.05 28
+    6400506: Window_muntin_0.91x1.05 29
+    6400508: Window_muntin_0.91x1.05 3
+    6400510: Window_muntin_0.91x1.05 30
+    6400512: Window_muntin_0.91x1.05 31
+    6400514: Window_muntin_0.91x1.05 32
+    6400516: Window_muntin_0.91x1.05 33
+    6400518: Window_muntin_0.91x1.05 34
+    6400520: Window_muntin_0.91x1.05 35
+    6400522: Window_muntin_0.91x1.05 36
+    6400524: Window_muntin_0.91x1.05 4
+    6400526: Window_muntin_0.91x1.05 5
+    6400528: Window_muntin_0.91x1.05 6
+    6400530: Window_muntin_0.91x1.05 7
+    6400532: Window_muntin_0.91x1.05 8
+    6400534: Window_muntin_0.91x1.05 9
+    6400536: Window_muntin_1.53x1.5
+    6400538: Window_muntin_1.53x1.5 1
+    6400540: Window_muntin_1.53x1.5 10
+    6400542: Window_muntin_1.53x1.5 11
+    6400544: Window_muntin_1.53x1.5 12
+    6400546: Window_muntin_1.53x1.5 13
+    6400548: Window_muntin_1.53x1.5 14
+    6400550: Window_muntin_1.53x1.5 15
+    6400552: Window_muntin_1.53x1.5 16
+    6400554: Window_muntin_1.53x1.5 17
+    6400556: Window_muntin_1.53x1.5 18
+    6400558: Window_muntin_1.53x1.5 19
+    6400560: Window_muntin_1.53x1.5 2
+    6400562: Window_muntin_1.53x1.5 20
+    6400564: Window_muntin_1.53x1.5 21
+    6400566: Window_muntin_1.53x1.5 22
+    6400568: Window_muntin_1.53x1.5 23
+    6400570: Window_muntin_1.53x1.5 24
+    6400572: Window_muntin_1.53x1.5 25
+    6400574: Window_muntin_1.53x1.5 26
+    6400576: Window_muntin_1.53x1.5 27
+    6400578: Window_muntin_1.53x1.5 28
+    6400580: Window_muntin_1.53x1.5 29
+    6400582: Window_muntin_1.53x1.5 3
+    6400584: Window_muntin_1.53x1.5 30
+    6400586: Window_muntin_1.53x1.5 31
+    6400588: Window_muntin_1.53x1.5 32
+    6400590: Window_muntin_1.53x1.5 33
+    6400592: Window_muntin_1.53x1.5 34
+    6400594: Window_muntin_1.53x1.5 35
+    6400596: Window_muntin_1.53x1.5 36
+    6400598: Window_muntin_1.53x1.5 37
+    6400600: Window_muntin_1.53x1.5 38
+    6400602: Window_muntin_1.53x1.5 39
+    6400604: Window_muntin_1.53x1.5 4
+    6400606: Window_muntin_1.53x1.5 40
+    6400608: Window_muntin_1.53x1.5 41
+    6400610: Window_muntin_1.53x1.5 42
+    6400612: Window_muntin_1.53x1.5 43
+    6400614: Window_muntin_1.53x1.5 44
+    6400616: Window_muntin_1.53x1.5 45
+    6400618: Window_muntin_1.53x1.5 46
+    6400620: Window_muntin_1.53x1.5 47
+    6400622: Window_muntin_1.53x1.5 48
+    6400624: Window_muntin_1.53x1.5 49
+    6400626: Window_muntin_1.53x1.5 5
+    6400628: Window_muntin_1.53x1.5 50
+    6400630: Window_muntin_1.53x1.5 51
+    6400632: Window_muntin_1.53x1.5 52
+    6400634: Window_muntin_1.53x1.5 6
+    6400636: Window_muntin_1.53x1.5 7
+    6400638: Window_muntin_1.53x1.5 8
+    6400640: Window_muntin_1.53x1.5 9
+    6400642: Window_muntin_2.0x1.5
+    6400644: Window_muntin_2.0x1.5 1
+    6400646: Window_muntin_2.0x1.5 10
+    6400648: Window_muntin_2.0x1.5 11
+    6400650: Window_muntin_2.0x1.5 12
+    6400652: Window_muntin_2.0x1.5 13
+    6400654: Window_muntin_2.0x1.5 14
+    6400656: Window_muntin_2.0x1.5 15
+    6400658: Window_muntin_2.0x1.5 16
+    6400660: Window_muntin_2.0x1.5 17
+    6400662: Window_muntin_2.0x1.5 18
+    6400664: Window_muntin_2.0x1.5 19
+    6400666: Window_muntin_2.0x1.5 2
+    6400668: Window_muntin_2.0x1.5 20
+    6400670: Window_muntin_2.0x1.5 21
+    6400672: Window_muntin_2.0x1.5 22
+    6400674: Window_muntin_2.0x1.5 23
+    6400676: Window_muntin_2.0x1.5 24
+    6400678: Window_muntin_2.0x1.5 25
+    6400680: Window_muntin_2.0x1.5 26
+    6400682: Window_muntin_2.0x1.5 27
+    6400684: Window_muntin_2.0x1.5 28
+    6400686: Window_muntin_2.0x1.5 29
+    6400688: Window_muntin_2.0x1.5 3
+    6400690: Window_muntin_2.0x1.5 30
+    6400692: Window_muntin_2.0x1.5 31
+    6400694: Window_muntin_2.0x1.5 32
+    6400696: Window_muntin_2.0x1.5 33
+    6400698: Window_muntin_2.0x1.5 34
+    6400700: Window_muntin_2.0x1.5 35
+    6400702: Window_muntin_2.0x1.5 36
+    6400704: Window_muntin_2.0x1.5 37
+    6400706: Window_muntin_2.0x1.5 38
+    6400708: Window_muntin_2.0x1.5 39
+    6400710: Window_muntin_2.0x1.5 4
+    6400712: Window_muntin_2.0x1.5 40
+    6400714: Window_muntin_2.0x1.5 41
+    6400716: Window_muntin_2.0x1.5 42
+    6400718: Window_muntin_2.0x1.5 43
+    6400720: Window_muntin_2.0x1.5 44
+    6400722: Window_muntin_2.0x1.5 45
+    6400724: Window_muntin_2.0x1.5 46
+    6400726: Window_muntin_2.0x1.5 47
+    6400728: Window_muntin_2.0x1.5 48
+    6400730: Window_muntin_2.0x1.5 49
+    6400732: Window_muntin_2.0x1.5 5
+    6400734: Window_muntin_2.0x1.5 50
+    6400736: Window_muntin_2.0x1.5 51
+    6400738: Window_muntin_2.0x1.5 52
+    6400740: Window_muntin_2.0x1.5 53
+    6400742: Window_muntin_2.0x1.5 54
+    6400744: Window_muntin_2.0x1.5 55
+    6400746: Window_muntin_2.0x1.5 56
+    6400748: Window_muntin_2.0x1.5 57
+    6400750: Window_muntin_2.0x1.5 58
+    6400752: Window_muntin_2.0x1.5 59
+    6400754: Window_muntin_2.0x1.5 6
+    6400756: Window_muntin_2.0x1.5 60
+    6400758: Window_muntin_2.0x1.5 61
+    6400760: Window_muntin_2.0x1.5 62
+    6400762: Window_muntin_2.0x1.5 63
+    6400764: Window_muntin_2.0x1.5 64
+    6400766: Window_muntin_2.0x1.5 65
+    6400768: Window_muntin_2.0x1.5 66
+    6400770: Window_muntin_2.0x1.5 67
+    6400772: Window_muntin_2.0x1.5 68
+    6400774: Window_muntin_2.0x1.5 69
+    6400776: Window_muntin_2.0x1.5 7
+    6400778: Window_muntin_2.0x1.5 70
+    6400780: Window_muntin_2.0x1.5 71
+    6400782: Window_muntin_2.0x1.5 72
+    6400784: Window_muntin_2.0x1.5 73
+    6400786: Window_muntin_2.0x1.5 74
+    6400788: Window_muntin_2.0x1.5 75
+    6400790: Window_muntin_2.0x1.5 76
+    6400792: Window_muntin_2.0x1.5 77
+    6400794: Window_muntin_2.0x1.5 78
+    6400796: Window_muntin_2.0x1.5 79
+    6400798: Window_muntin_2.0x1.5 8
+    6400800: Window_muntin_2.0x1.5 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 8138ff1afd7bd7942b518318cc1e8363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: b740deb20cb70b544bcc71ea58d3c916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_unconditioned
+    second: {fileID: 2100000, guid: bf06a275815db3e4eba93d199f436e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 30d41022b22c3d64e84da18238786f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: c2576e4ab3a7ce549827878b5a0d161e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: a09fd8f552109474bb665234787bde67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 1cd0b4e5b31b602449726a30a1c5aea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall1
+    second: {fileID: 2100000, guid: 7147fd17174e510458b1badf1c205eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 96fc6ca1b0362b445bd80832b546fed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: b5d5ec8e4e09f3d4896680e328d58ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 8f81467f96dc9cf47b1425f66d503514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 5ef6c7d8bc24a5d45891708501ed6353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 3b27b9a51740f7f43996117c789c935c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 44986d6ebb3264244be2aa9fd1f09acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: a28f956f9d97c15479772e24e21da0e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: e9b9c78a5fc9637439a10068ee40670b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: b0baaa84a16ebb4408186598b571eea1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

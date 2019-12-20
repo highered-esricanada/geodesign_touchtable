@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 421e852d1e132524490538e0dcb39316
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0b204e067c0f79ad8c0d94a0b4a0fb7c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -99.61541, y: 59.757214, z: -81.43482}
+      lookAt: {x: 35.436718, y: -18.274305, z: 8.290543}
+      up: {x: 0.36120126, y: 0.9010807, z: 0.23997337}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -1.0103476, y: 210.49057, z: -11.297532}
+        lookAt: {x: -1.0103476, y: 187.98576, z: -11.297532}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 4800.3467
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -99.61541, y: 59.757214, z: -81.43482}
+        lookAt: {x: 35.436718, y: -18.274305, z: 8.290543}
+        up: {x: 0.36120126, y: 0.9010807, z: 0.23997337}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 13003_3d site
+    100004: 13003_log
+    100006: 13003_log 1
+    100008: 13003_log 2
+    100010: 13003_log 3
+    100012: 13003_log 4
+    100014: 13003_log 5
+    100016: 13003_log 6
+    100018: 13003_log 7
+    100020: 13003_log 8
+    100022: 13003_log#1
+    100024: 13003_log#1 1
+    100026: conifer-med
+    100028: conifer-med 1
+    100030: conifer-med 2
+    100032: conifer-med 3
+    100034: conifer-med 4
+    100036: conifer-med 5
+    100038: conifer-med 6
+    100040: conifer-med 7
+    100042: fantree-med
+    100044: fantree-med 1
+    100046: fantree-med 10
+    100048: fantree-med 11
+    100050: fantree-med 12
+    100052: fantree-med 13
+    100054: fantree-med 14
+    100056: fantree-med 15
+    100058: fantree-med 16
+    100060: fantree-med 17
+    100062: fantree-med 18
+    100064: fantree-med 19
+    100066: fantree-med 2
+    100068: fantree-med 20
+    100070: fantree-med 21
+    100072: fantree-med 22
+    100074: fantree-med 23
+    100076: fantree-med 24
+    100078: fantree-med 25
+    100080: fantree-med 26
+    100082: fantree-med 27
+    100084: fantree-med 28
+    100086: fantree-med 29
+    100088: fantree-med 3
+    100090: fantree-med 30
+    100092: fantree-med 31
+    100094: fantree-med 32
+    100096: fantree-med 33
+    100098: fantree-med 34
+    100100: fantree-med 35
+    100102: fantree-med 36
+    100104: fantree-med 37
+    100106: fantree-med 38
+    100108: fantree-med 39
+    100110: fantree-med 4
+    100112: fantree-med 40
+    100114: fantree-med 41
+    100116: fantree-med 42
+    100118: fantree-med 43
+    100120: fantree-med 44
+    100122: fantree-med 45
+    100124: fantree-med 46
+    100126: fantree-med 47
+    100128: fantree-med 48
+    100130: fantree-med 49
+    100132: fantree-med 5
+    100134: fantree-med 50
+    100136: fantree-med 51
+    100138: fantree-med 52
+    100140: fantree-med 53
+    100142: fantree-med 54
+    100144: fantree-med 55
+    100146: fantree-med 56
+    100148: fantree-med 57
+    100150: fantree-med 58
+    100152: fantree-med 59
+    100154: fantree-med 6
+    100156: fantree-med 60
+    100158: fantree-med 61
+    100160: fantree-med 62
+    100162: fantree-med 63
+    100164: fantree-med 64
+    100166: fantree-med 65
+    100168: fantree-med 66
+    100170: fantree-med 67
+    100172: fantree-med 68
+    100174: fantree-med 69
+    100176: fantree-med 7
+    100178: fantree-med 70
+    100180: fantree-med 71
+    100182: fantree-med 72
+    100184: fantree-med 73
+    100186: fantree-med 74
+    100188: fantree-med 75
+    100190: fantree-med 76
+    100192: fantree-med 77
+    100194: fantree-med 78
+    100196: fantree-med 8
+    100198: fantree-med 9
+    100200: Group 2
+    100202: Image 1
+    400000: //RootNode
+    400002: 13003_3d site
+    400004: 13003_log
+    400006: 13003_log 1
+    400008: 13003_log 2
+    400010: 13003_log 3
+    400012: 13003_log 4
+    400014: 13003_log 5
+    400016: 13003_log 6
+    400018: 13003_log 7
+    400020: 13003_log 8
+    400022: 13003_log#1
+    400024: 13003_log#1 1
+    400026: conifer-med
+    400028: conifer-med 1
+    400030: conifer-med 2
+    400032: conifer-med 3
+    400034: conifer-med 4
+    400036: conifer-med 5
+    400038: conifer-med 6
+    400040: conifer-med 7
+    400042: fantree-med
+    400044: fantree-med 1
+    400046: fantree-med 10
+    400048: fantree-med 11
+    400050: fantree-med 12
+    400052: fantree-med 13
+    400054: fantree-med 14
+    400056: fantree-med 15
+    400058: fantree-med 16
+    400060: fantree-med 17
+    400062: fantree-med 18
+    400064: fantree-med 19
+    400066: fantree-med 2
+    400068: fantree-med 20
+    400070: fantree-med 21
+    400072: fantree-med 22
+    400074: fantree-med 23
+    400076: fantree-med 24
+    400078: fantree-med 25
+    400080: fantree-med 26
+    400082: fantree-med 27
+    400084: fantree-med 28
+    400086: fantree-med 29
+    400088: fantree-med 3
+    400090: fantree-med 30
+    400092: fantree-med 31
+    400094: fantree-med 32
+    400096: fantree-med 33
+    400098: fantree-med 34
+    400100: fantree-med 35
+    400102: fantree-med 36
+    400104: fantree-med 37
+    400106: fantree-med 38
+    400108: fantree-med 39
+    400110: fantree-med 4
+    400112: fantree-med 40
+    400114: fantree-med 41
+    400116: fantree-med 42
+    400118: fantree-med 43
+    400120: fantree-med 44
+    400122: fantree-med 45
+    400124: fantree-med 46
+    400126: fantree-med 47
+    400128: fantree-med 48
+    400130: fantree-med 49
+    400132: fantree-med 5
+    400134: fantree-med 50
+    400136: fantree-med 51
+    400138: fantree-med 52
+    400140: fantree-med 53
+    400142: fantree-med 54
+    400144: fantree-med 55
+    400146: fantree-med 56
+    400148: fantree-med 57
+    400150: fantree-med 58
+    400152: fantree-med 59
+    400154: fantree-med 6
+    400156: fantree-med 60
+    400158: fantree-med 61
+    400160: fantree-med 62
+    400162: fantree-med 63
+    400164: fantree-med 64
+    400166: fantree-med 65
+    400168: fantree-med 66
+    400170: fantree-med 67
+    400172: fantree-med 68
+    400174: fantree-med 69
+    400176: fantree-med 7
+    400178: fantree-med 70
+    400180: fantree-med 71
+    400182: fantree-med 72
+    400184: fantree-med 73
+    400186: fantree-med 74
+    400188: fantree-med 75
+    400190: fantree-med 76
+    400192: fantree-med 77
+    400194: fantree-med 78
+    400196: fantree-med 8
+    400198: fantree-med 9
+    400200: Group 2
+    400202: Image 1
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_turf_solid
+    2100008: OV_shrub_texture
+    2100010: OV_paving general
+    2100012: OV_paving_pedestrian
+    2100014: OV_surface_other
+    2100016: OV_Water
+    2100018: OV_paving_vehicle
+    2100020: Pcov_shrub
+    2100022: conifertree1
+    2100024: fantree
+    2300000: 13003_3d site
+    2300002: 13003_log
+    2300004: 13003_log 1
+    2300006: 13003_log 2
+    2300008: 13003_log 3
+    2300010: 13003_log 4
+    2300012: 13003_log 5
+    2300014: 13003_log 6
+    2300016: 13003_log 7
+    2300018: 13003_log 8
+    2300020: 13003_log#1
+    2300022: 13003_log#1 1
+    2300024: conifer-med
+    2300026: conifer-med 1
+    2300028: conifer-med 2
+    2300030: conifer-med 3
+    2300032: conifer-med 4
+    2300034: conifer-med 5
+    2300036: conifer-med 6
+    2300038: conifer-med 7
+    2300040: fantree-med
+    2300042: fantree-med 1
+    2300044: fantree-med 10
+    2300046: fantree-med 11
+    2300048: fantree-med 12
+    2300050: fantree-med 13
+    2300052: fantree-med 14
+    2300054: fantree-med 15
+    2300056: fantree-med 16
+    2300058: fantree-med 17
+    2300060: fantree-med 18
+    2300062: fantree-med 19
+    2300064: fantree-med 2
+    2300066: fantree-med 20
+    2300068: fantree-med 21
+    2300070: fantree-med 22
+    2300072: fantree-med 23
+    2300074: fantree-med 24
+    2300076: fantree-med 25
+    2300078: fantree-med 26
+    2300080: fantree-med 27
+    2300082: fantree-med 28
+    2300084: fantree-med 29
+    2300086: fantree-med 3
+    2300088: fantree-med 30
+    2300090: fantree-med 31
+    2300092: fantree-med 32
+    2300094: fantree-med 33
+    2300096: fantree-med 34
+    2300098: fantree-med 35
+    2300100: fantree-med 36
+    2300102: fantree-med 37
+    2300104: fantree-med 38
+    2300106: fantree-med 39
+    2300108: fantree-med 4
+    2300110: fantree-med 40
+    2300112: fantree-med 41
+    2300114: fantree-med 42
+    2300116: fantree-med 43
+    2300118: fantree-med 44
+    2300120: fantree-med 45
+    2300122: fantree-med 46
+    2300124: fantree-med 47
+    2300126: fantree-med 48
+    2300128: fantree-med 49
+    2300130: fantree-med 5
+    2300132: fantree-med 50
+    2300134: fantree-med 51
+    2300136: fantree-med 52
+    2300138: fantree-med 53
+    2300140: fantree-med 54
+    2300142: fantree-med 55
+    2300144: fantree-med 56
+    2300146: fantree-med 57
+    2300148: fantree-med 58
+    2300150: fantree-med 59
+    2300152: fantree-med 6
+    2300154: fantree-med 60
+    2300156: fantree-med 61
+    2300158: fantree-med 62
+    2300160: fantree-med 63
+    2300162: fantree-med 64
+    2300164: fantree-med 65
+    2300166: fantree-med 66
+    2300168: fantree-med 67
+    2300170: fantree-med 68
+    2300172: fantree-med 69
+    2300174: fantree-med 7
+    2300176: fantree-med 70
+    2300178: fantree-med 71
+    2300180: fantree-med 72
+    2300182: fantree-med 73
+    2300184: fantree-med 74
+    2300186: fantree-med 75
+    2300188: fantree-med 76
+    2300190: fantree-med 77
+    2300192: fantree-med 78
+    2300194: fantree-med 8
+    2300196: fantree-med 9
+    2300198: Group 2
+    2300200: Image 1
+    3300000: 13003_3d site
+    3300002: 13003_log
+    3300004: 13003_log 1
+    3300006: 13003_log 2
+    3300008: 13003_log 3
+    3300010: 13003_log 4
+    3300012: 13003_log 5
+    3300014: 13003_log 6
+    3300016: 13003_log 7
+    3300018: 13003_log 8
+    3300020: 13003_log#1
+    3300022: 13003_log#1 1
+    3300024: conifer-med
+    3300026: conifer-med 1
+    3300028: conifer-med 2
+    3300030: conifer-med 3
+    3300032: conifer-med 4
+    3300034: conifer-med 5
+    3300036: conifer-med 6
+    3300038: conifer-med 7
+    3300040: fantree-med
+    3300042: fantree-med 1
+    3300044: fantree-med 10
+    3300046: fantree-med 11
+    3300048: fantree-med 12
+    3300050: fantree-med 13
+    3300052: fantree-med 14
+    3300054: fantree-med 15
+    3300056: fantree-med 16
+    3300058: fantree-med 17
+    3300060: fantree-med 18
+    3300062: fantree-med 19
+    3300064: fantree-med 2
+    3300066: fantree-med 20
+    3300068: fantree-med 21
+    3300070: fantree-med 22
+    3300072: fantree-med 23
+    3300074: fantree-med 24
+    3300076: fantree-med 25
+    3300078: fantree-med 26
+    3300080: fantree-med 27
+    3300082: fantree-med 28
+    3300084: fantree-med 29
+    3300086: fantree-med 3
+    3300088: fantree-med 30
+    3300090: fantree-med 31
+    3300092: fantree-med 32
+    3300094: fantree-med 33
+    3300096: fantree-med 34
+    3300098: fantree-med 35
+    3300100: fantree-med 36
+    3300102: fantree-med 37
+    3300104: fantree-med 38
+    3300106: fantree-med 39
+    3300108: fantree-med 4
+    3300110: fantree-med 40
+    3300112: fantree-med 41
+    3300114: fantree-med 42
+    3300116: fantree-med 43
+    3300118: fantree-med 44
+    3300120: fantree-med 45
+    3300122: fantree-med 46
+    3300124: fantree-med 47
+    3300126: fantree-med 48
+    3300128: fantree-med 49
+    3300130: fantree-med 5
+    3300132: fantree-med 50
+    3300134: fantree-med 51
+    3300136: fantree-med 52
+    3300138: fantree-med 53
+    3300140: fantree-med 54
+    3300142: fantree-med 55
+    3300144: fantree-med 56
+    3300146: fantree-med 57
+    3300148: fantree-med 58
+    3300150: fantree-med 59
+    3300152: fantree-med 6
+    3300154: fantree-med 60
+    3300156: fantree-med 61
+    3300158: fantree-med 62
+    3300160: fantree-med 63
+    3300162: fantree-med 64
+    3300164: fantree-med 65
+    3300166: fantree-med 66
+    3300168: fantree-med 67
+    3300170: fantree-med 68
+    3300172: fantree-med 69
+    3300174: fantree-med 7
+    3300176: fantree-med 70
+    3300178: fantree-med 71
+    3300180: fantree-med 72
+    3300182: fantree-med 73
+    3300184: fantree-med 74
+    3300186: fantree-med 75
+    3300188: fantree-med 76
+    3300190: fantree-med 77
+    3300192: fantree-med 78
+    3300194: fantree-med 8
+    3300196: fantree-med 9
+    3300198: Group 2
+    3300200: Image 1
+    4300000: Mesh 13003-00
+    4300002: Mesh Group 2
+    4300004: Mesh 13003_3d site
+    4300006: Mesh 13003_log
+    4300008: Mesh 13003_log#1
+    4300010: Mesh conifer-med
+    4300012: Mesh fantree-med
+    6400000: 13003_3d site
+    6400002: 13003_log
+    6400004: 13003_log 1
+    6400006: 13003_log 2
+    6400008: 13003_log 3
+    6400010: 13003_log 4
+    6400012: 13003_log 5
+    6400014: 13003_log 6
+    6400016: 13003_log 7
+    6400018: 13003_log 8
+    6400020: 13003_log#1
+    6400022: 13003_log#1 1
+    6400024: conifer-med
+    6400026: conifer-med 1
+    6400028: conifer-med 2
+    6400030: conifer-med 3
+    6400032: conifer-med 4
+    6400034: conifer-med 5
+    6400036: conifer-med 6
+    6400038: conifer-med 7
+    6400040: fantree-med
+    6400042: fantree-med 1
+    6400044: fantree-med 10
+    6400046: fantree-med 11
+    6400048: fantree-med 12
+    6400050: fantree-med 13
+    6400052: fantree-med 14
+    6400054: fantree-med 15
+    6400056: fantree-med 16
+    6400058: fantree-med 17
+    6400060: fantree-med 18
+    6400062: fantree-med 19
+    6400064: fantree-med 2
+    6400066: fantree-med 20
+    6400068: fantree-med 21
+    6400070: fantree-med 22
+    6400072: fantree-med 23
+    6400074: fantree-med 24
+    6400076: fantree-med 25
+    6400078: fantree-med 26
+    6400080: fantree-med 27
+    6400082: fantree-med 28
+    6400084: fantree-med 29
+    6400086: fantree-med 3
+    6400088: fantree-med 30
+    6400090: fantree-med 31
+    6400092: fantree-med 32
+    6400094: fantree-med 33
+    6400096: fantree-med 34
+    6400098: fantree-med 35
+    6400100: fantree-med 36
+    6400102: fantree-med 37
+    6400104: fantree-med 38
+    6400106: fantree-med 39
+    6400108: fantree-med 4
+    6400110: fantree-med 40
+    6400112: fantree-med 41
+    6400114: fantree-med 42
+    6400116: fantree-med 43
+    6400118: fantree-med 44
+    6400120: fantree-med 45
+    6400122: fantree-med 46
+    6400124: fantree-med 47
+    6400126: fantree-med 48
+    6400128: fantree-med 49
+    6400130: fantree-med 5
+    6400132: fantree-med 50
+    6400134: fantree-med 51
+    6400136: fantree-med 52
+    6400138: fantree-med 53
+    6400140: fantree-med 54
+    6400142: fantree-med 55
+    6400144: fantree-med 56
+    6400146: fantree-med 57
+    6400148: fantree-med 58
+    6400150: fantree-med 59
+    6400152: fantree-med 6
+    6400154: fantree-med 60
+    6400156: fantree-med 61
+    6400158: fantree-med 62
+    6400160: fantree-med 63
+    6400162: fantree-med 64
+    6400164: fantree-med 65
+    6400166: fantree-med 66
+    6400168: fantree-med 67
+    6400170: fantree-med 68
+    6400172: fantree-med 69
+    6400174: fantree-med 7
+    6400176: fantree-med 70
+    6400178: fantree-med 71
+    6400180: fantree-med 72
+    6400182: fantree-med 73
+    6400184: fantree-med 74
+    6400186: fantree-med 75
+    6400188: fantree-med 76
+    6400190: fantree-med 77
+    6400192: fantree-med 78
+    6400194: fantree-med 8
+    6400196: fantree-med 9
+    6400198: Group 2
+    6400200: Image 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 55825b9a65bf0c74f8337c9e0d0f7293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 299d2af1757880c42a61a230193c8799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: 1779ee740acba27439699f485f982cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 5005eeda5e7363d4081b70f7e92f2c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 19a5116c05c952f4cad7953818b4f579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 60fc28edf7c9a22419ba33841464b3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: a2be4257a6555a3479e815e0a9d1e9e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 3002f38c9f3156c4f9a26f564fdd42eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 07c203df70f7dd349827f9555f332e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pcov_shrub
+    second: {fileID: 2100000, guid: 14f545b68b7fc5a45986f0046412cd00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 055b691b0f8049f4fa3513c1c8e2d3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree1
+    second: {fileID: 2100000, guid: b9576c0646dbe4446b3c54b6ca4e5794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantree
+    second: {fileID: 2100000, guid: ea13149b010b94945abf615bf7bbec54, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

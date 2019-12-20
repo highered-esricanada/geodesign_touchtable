@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 65421773c2a85fd429f1d0d52a9d666c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000
+  assetHash:
+    serializedVersion: 2
+    Hash: dbe17d94dcb9b9c827d13e51b0d84ab6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 73.92077, y: 34.058136, z: -74.280945}
+      lookAt: {x: -1.9369998, y: -14.038111, z: 3.246301}
+      up: {x: -0.28349486, y: 0.914158, z: 0.28973404}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -0.47992352, y: 98.48532, z: -1.2628492}
+        lookAt: {x: -0.47992352, y: 4.8022, z: -1.2628492}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3545.8472
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 73.92077, y: 34.058136, z: -74.280945}
+        lookAt: {x: -1.9369998, y: -14.038111, z: 3.246301}
+        up: {x: -0.28349486, y: 0.914158, z: 0.28973404}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 73.92077, y: 34.058136, z: -74.280945}
+        lookAt: {x: -1.9369998, y: -14.038111, z: 3.246301}
+        up: {x: -0.28349486, y: 0.914158, z: 0.28973404}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 43007_3d building
+    100004: 43007_3d site
+    100006: atrium
+    100008: Balcony
+    100010: Balcony 1
+    100012: Balcony 10
+    100014: Balcony 11
+    100016: Balcony 12
+    100018: Balcony 13
+    100020: Balcony 14
+    100022: Balcony 15
+    100024: Balcony 16
+    100026: Balcony 17
+    100028: Balcony 18
+    100030: Balcony 19
+    100032: Balcony 2
+    100034: Balcony 20
+    100036: Balcony 21
+    100038: Balcony 22
+    100040: Balcony 23
+    100042: Balcony 24
+    100044: Balcony 25
+    100046: Balcony 26
+    100048: Balcony 27
+    100050: Balcony 28
+    100052: Balcony 29
+    100054: Balcony 3
+    100056: Balcony 30
+    100058: Balcony 31
+    100060: Balcony 32
+    100062: Balcony 33
+    100064: Balcony 34
+    100066: Balcony 35
+    100068: Balcony 36
+    100070: Balcony 37
+    100072: Balcony 38
+    100074: Balcony 39
+    100076: Balcony 4
+    100078: Balcony 40
+    100080: Balcony 41
+    100082: Balcony 42
+    100084: Balcony 43
+    100086: Balcony 44
+    100088: Balcony 45
+    100090: Balcony 46
+    100092: Balcony 47
+    100094: Balcony 48
+    100096: Balcony 49
+    100098: Balcony 5
+    100100: Balcony 50
+    100102: Balcony 51
+    100104: Balcony 52
+    100106: Balcony 53
+    100108: Balcony 54
+    100110: Balcony 55
+    100112: Balcony 56
+    100114: Balcony 57
+    100116: Balcony 58
+    100118: Balcony 59
+    100120: Balcony 6
+    100122: Balcony 60
+    100124: Balcony 61
+    100126: Balcony 62
+    100128: Balcony 63
+    100130: Balcony 64
+    100132: Balcony 65
+    100134: Balcony 66
+    100136: Balcony 67
+    100138: Balcony 68
+    100140: Balcony 69
+    100142: Balcony 7
+    100144: Balcony 70
+    100146: Balcony 71
+    100148: Balcony 72
+    100150: Balcony 73
+    100152: Balcony 74
+    100154: Balcony 75
+    100156: Balcony 76
+    100158: Balcony 77
+    100160: Balcony 78
+    100162: Balcony 79
+    100164: Balcony 8
+    100166: Balcony 80
+    100168: Balcony 81
+    100170: Balcony 82
+    100172: Balcony 83
+    100174: Balcony 84
+    100176: Balcony 85
+    100178: Balcony 9
+    100180: Balcony#1
+    100182: Balcony#1 1
+    100184: Balcony#1 2
+    100186: Balcony#1 3
+    100188: Column
+    100190: Column 1
+    100192: Door3-0x6-8RHRev#1
+    100194: Door_glass_1.0x2.18#1
+    100196: Door_glass_1.0x2.18#1 1
+    100198: Door_glass_1.0x2.18#1 2
+    100200: Door_glass_1.0x2.18#1 3
+    100202: Door_glass_1.0x2.18#1 4
+    100204: Door_glass_1.0x2.18#1 5
+    100206: Door_glass_slider_1.8x.2.08
+    100208: Door_glass_slider_1.8x.2.08 1
+    100210: Door_glass_slider_1.8x.2.08 10
+    100212: Door_glass_slider_1.8x.2.08 11
+    100214: Door_glass_slider_1.8x.2.08 12
+    100216: Door_glass_slider_1.8x.2.08 13
+    100218: Door_glass_slider_1.8x.2.08 14
+    100220: Door_glass_slider_1.8x.2.08 15
+    100222: Door_glass_slider_1.8x.2.08 16
+    100224: Door_glass_slider_1.8x.2.08 17
+    100226: Door_glass_slider_1.8x.2.08 18
+    100228: Door_glass_slider_1.8x.2.08 19
+    100230: Door_glass_slider_1.8x.2.08 2
+    100232: Door_glass_slider_1.8x.2.08 20
+    100234: Door_glass_slider_1.8x.2.08 21
+    100236: Door_glass_slider_1.8x.2.08 22
+    100238: Door_glass_slider_1.8x.2.08 23
+    100240: Door_glass_slider_1.8x.2.08 24
+    100242: Door_glass_slider_1.8x.2.08 25
+    100244: Door_glass_slider_1.8x.2.08 26
+    100246: Door_glass_slider_1.8x.2.08 27
+    100248: Door_glass_slider_1.8x.2.08 28
+    100250: Door_glass_slider_1.8x.2.08 29
+    100252: Door_glass_slider_1.8x.2.08 3
+    100254: Door_glass_slider_1.8x.2.08 30
+    100256: Door_glass_slider_1.8x.2.08 31
+    100258: Door_glass_slider_1.8x.2.08 32
+    100260: Door_glass_slider_1.8x.2.08 33
+    100262: Door_glass_slider_1.8x.2.08 34
+    100264: Door_glass_slider_1.8x.2.08 35
+    100266: Door_glass_slider_1.8x.2.08 36
+    100268: Door_glass_slider_1.8x.2.08 37
+    100270: Door_glass_slider_1.8x.2.08 38
+    100272: Door_glass_slider_1.8x.2.08 39
+    100274: Door_glass_slider_1.8x.2.08 4
+    100276: Door_glass_slider_1.8x.2.08 40
+    100278: Door_glass_slider_1.8x.2.08 41
+    100280: Door_glass_slider_1.8x.2.08 42
+    100282: Door_glass_slider_1.8x.2.08 43
+    100284: Door_glass_slider_1.8x.2.08 44
+    100286: Door_glass_slider_1.8x.2.08 45
+    100288: Door_glass_slider_1.8x.2.08 46
+    100290: Door_glass_slider_1.8x.2.08 47
+    100292: Door_glass_slider_1.8x.2.08 48
+    100294: Door_glass_slider_1.8x.2.08 49
+    100296: Door_glass_slider_1.8x.2.08 5
+    100298: Door_glass_slider_1.8x.2.08 50
+    100300: Door_glass_slider_1.8x.2.08 51
+    100302: Door_glass_slider_1.8x.2.08 52
+    100304: Door_glass_slider_1.8x.2.08 53
+    100306: Door_glass_slider_1.8x.2.08 54
+    100308: Door_glass_slider_1.8x.2.08 55
+    100310: Door_glass_slider_1.8x.2.08 56
+    100312: Door_glass_slider_1.8x.2.08 57
+    100314: Door_glass_slider_1.8x.2.08 58
+    100316: Door_glass_slider_1.8x.2.08 59
+    100318: Door_glass_slider_1.8x.2.08 6
+    100320: Door_glass_slider_1.8x.2.08 60
+    100322: Door_glass_slider_1.8x.2.08 61
+    100324: Door_glass_slider_1.8x.2.08 62
+    100326: Door_glass_slider_1.8x.2.08 63
+    100328: Door_glass_slider_1.8x.2.08 64
+    100330: Door_glass_slider_1.8x.2.08 65
+    100332: Door_glass_slider_1.8x.2.08 66
+    100334: Door_glass_slider_1.8x.2.08 67
+    100336: Door_glass_slider_1.8x.2.08 68
+    100338: Door_glass_slider_1.8x.2.08 69
+    100340: Door_glass_slider_1.8x.2.08 7
+    100342: Door_glass_slider_1.8x.2.08 70
+    100344: Door_glass_slider_1.8x.2.08 71
+    100346: Door_glass_slider_1.8x.2.08 72
+    100348: Door_glass_slider_1.8x.2.08 73
+    100350: Door_glass_slider_1.8x.2.08 74
+    100352: Door_glass_slider_1.8x.2.08 75
+    100354: Door_glass_slider_1.8x.2.08 76
+    100356: Door_glass_slider_1.8x.2.08 77
+    100358: Door_glass_slider_1.8x.2.08 78
+    100360: Door_glass_slider_1.8x.2.08 79
+    100362: Door_glass_slider_1.8x.2.08 8
+    100364: Door_glass_slider_1.8x.2.08 80
+    100366: Door_glass_slider_1.8x.2.08 81
+    100368: Door_glass_slider_1.8x.2.08 82
+    100370: Door_glass_slider_1.8x.2.08 83
+    100372: Door_glass_slider_1.8x.2.08 84
+    100374: Door_glass_slider_1.8x.2.08 85
+    100376: Door_glass_slider_1.8x.2.08 86
+    100378: Door_glass_slider_1.8x.2.08 87
+    100380: Door_glass_slider_1.8x.2.08 88
+    100382: Door_glass_slider_1.8x.2.08 89
+    100384: Door_glass_slider_1.8x.2.08 9
+    100386: Door_glass_slider_1.8x.2.08 90
+    100388: Door_glass_slider_1.8x.2.08 91
+    100390: Door_plain_1.0x2.1
+    100392: Door_plain_1.0x2.1 1
+    100394: Door_plain_1.0x2.1 2
+    100396: DoorKnob
+    100398: DoorKnob 1
+    100400: DoubleDoors
+    100402: DoubleDoors 1
+    100404: DoubleDoors 2
+    100406: DoubleDoors 3
+    100408: DoubleDoors 4
+    100410: DoubleDoors 5
+    100412: FlushDoor36#1
+    100414: Image 1
+    100416: scale_obq
+    100418: ShopWindow
+    100420: ShopWindow 1
+    100422: ShopWindow 10
+    100424: ShopWindow 11
+    100426: ShopWindow 2
+    100428: ShopWindow 3
+    100430: ShopWindow 4
+    100432: ShopWindow 5
+    100434: ShopWindow 6
+    100436: ShopWindow 7
+    100438: ShopWindow 8
+    100440: ShopWindow 9
+    100442: ShopWindow#2
+    100444: skylight
+    400000: //RootNode
+    400002: 43007_3d building
+    400004: 43007_3d site
+    400006: atrium
+    400008: Balcony
+    400010: Balcony 1
+    400012: Balcony 10
+    400014: Balcony 11
+    400016: Balcony 12
+    400018: Balcony 13
+    400020: Balcony 14
+    400022: Balcony 15
+    400024: Balcony 16
+    400026: Balcony 17
+    400028: Balcony 18
+    400030: Balcony 19
+    400032: Balcony 2
+    400034: Balcony 20
+    400036: Balcony 21
+    400038: Balcony 22
+    400040: Balcony 23
+    400042: Balcony 24
+    400044: Balcony 25
+    400046: Balcony 26
+    400048: Balcony 27
+    400050: Balcony 28
+    400052: Balcony 29
+    400054: Balcony 3
+    400056: Balcony 30
+    400058: Balcony 31
+    400060: Balcony 32
+    400062: Balcony 33
+    400064: Balcony 34
+    400066: Balcony 35
+    400068: Balcony 36
+    400070: Balcony 37
+    400072: Balcony 38
+    400074: Balcony 39
+    400076: Balcony 4
+    400078: Balcony 40
+    400080: Balcony 41
+    400082: Balcony 42
+    400084: Balcony 43
+    400086: Balcony 44
+    400088: Balcony 45
+    400090: Balcony 46
+    400092: Balcony 47
+    400094: Balcony 48
+    400096: Balcony 49
+    400098: Balcony 5
+    400100: Balcony 50
+    400102: Balcony 51
+    400104: Balcony 52
+    400106: Balcony 53
+    400108: Balcony 54
+    400110: Balcony 55
+    400112: Balcony 56
+    400114: Balcony 57
+    400116: Balcony 58
+    400118: Balcony 59
+    400120: Balcony 6
+    400122: Balcony 60
+    400124: Balcony 61
+    400126: Balcony 62
+    400128: Balcony 63
+    400130: Balcony 64
+    400132: Balcony 65
+    400134: Balcony 66
+    400136: Balcony 67
+    400138: Balcony 68
+    400140: Balcony 69
+    400142: Balcony 7
+    400144: Balcony 70
+    400146: Balcony 71
+    400148: Balcony 72
+    400150: Balcony 73
+    400152: Balcony 74
+    400154: Balcony 75
+    400156: Balcony 76
+    400158: Balcony 77
+    400160: Balcony 78
+    400162: Balcony 79
+    400164: Balcony 8
+    400166: Balcony 80
+    400168: Balcony 81
+    400170: Balcony 82
+    400172: Balcony 83
+    400174: Balcony 84
+    400176: Balcony 85
+    400178: Balcony 9
+    400180: Balcony#1
+    400182: Balcony#1 1
+    400184: Balcony#1 2
+    400186: Balcony#1 3
+    400188: Column
+    400190: Column 1
+    400192: Door3-0x6-8RHRev#1
+    400194: Door_glass_1.0x2.18#1
+    400196: Door_glass_1.0x2.18#1 1
+    400198: Door_glass_1.0x2.18#1 2
+    400200: Door_glass_1.0x2.18#1 3
+    400202: Door_glass_1.0x2.18#1 4
+    400204: Door_glass_1.0x2.18#1 5
+    400206: Door_glass_slider_1.8x.2.08
+    400208: Door_glass_slider_1.8x.2.08 1
+    400210: Door_glass_slider_1.8x.2.08 10
+    400212: Door_glass_slider_1.8x.2.08 11
+    400214: Door_glass_slider_1.8x.2.08 12
+    400216: Door_glass_slider_1.8x.2.08 13
+    400218: Door_glass_slider_1.8x.2.08 14
+    400220: Door_glass_slider_1.8x.2.08 15
+    400222: Door_glass_slider_1.8x.2.08 16
+    400224: Door_glass_slider_1.8x.2.08 17
+    400226: Door_glass_slider_1.8x.2.08 18
+    400228: Door_glass_slider_1.8x.2.08 19
+    400230: Door_glass_slider_1.8x.2.08 2
+    400232: Door_glass_slider_1.8x.2.08 20
+    400234: Door_glass_slider_1.8x.2.08 21
+    400236: Door_glass_slider_1.8x.2.08 22
+    400238: Door_glass_slider_1.8x.2.08 23
+    400240: Door_glass_slider_1.8x.2.08 24
+    400242: Door_glass_slider_1.8x.2.08 25
+    400244: Door_glass_slider_1.8x.2.08 26
+    400246: Door_glass_slider_1.8x.2.08 27
+    400248: Door_glass_slider_1.8x.2.08 28
+    400250: Door_glass_slider_1.8x.2.08 29
+    400252: Door_glass_slider_1.8x.2.08 3
+    400254: Door_glass_slider_1.8x.2.08 30
+    400256: Door_glass_slider_1.8x.2.08 31
+    400258: Door_glass_slider_1.8x.2.08 32
+    400260: Door_glass_slider_1.8x.2.08 33
+    400262: Door_glass_slider_1.8x.2.08 34
+    400264: Door_glass_slider_1.8x.2.08 35
+    400266: Door_glass_slider_1.8x.2.08 36
+    400268: Door_glass_slider_1.8x.2.08 37
+    400270: Door_glass_slider_1.8x.2.08 38
+    400272: Door_glass_slider_1.8x.2.08 39
+    400274: Door_glass_slider_1.8x.2.08 4
+    400276: Door_glass_slider_1.8x.2.08 40
+    400278: Door_glass_slider_1.8x.2.08 41
+    400280: Door_glass_slider_1.8x.2.08 42
+    400282: Door_glass_slider_1.8x.2.08 43
+    400284: Door_glass_slider_1.8x.2.08 44
+    400286: Door_glass_slider_1.8x.2.08 45
+    400288: Door_glass_slider_1.8x.2.08 46
+    400290: Door_glass_slider_1.8x.2.08 47
+    400292: Door_glass_slider_1.8x.2.08 48
+    400294: Door_glass_slider_1.8x.2.08 49
+    400296: Door_glass_slider_1.8x.2.08 5
+    400298: Door_glass_slider_1.8x.2.08 50
+    400300: Door_glass_slider_1.8x.2.08 51
+    400302: Door_glass_slider_1.8x.2.08 52
+    400304: Door_glass_slider_1.8x.2.08 53
+    400306: Door_glass_slider_1.8x.2.08 54
+    400308: Door_glass_slider_1.8x.2.08 55
+    400310: Door_glass_slider_1.8x.2.08 56
+    400312: Door_glass_slider_1.8x.2.08 57
+    400314: Door_glass_slider_1.8x.2.08 58
+    400316: Door_glass_slider_1.8x.2.08 59
+    400318: Door_glass_slider_1.8x.2.08 6
+    400320: Door_glass_slider_1.8x.2.08 60
+    400322: Door_glass_slider_1.8x.2.08 61
+    400324: Door_glass_slider_1.8x.2.08 62
+    400326: Door_glass_slider_1.8x.2.08 63
+    400328: Door_glass_slider_1.8x.2.08 64
+    400330: Door_glass_slider_1.8x.2.08 65
+    400332: Door_glass_slider_1.8x.2.08 66
+    400334: Door_glass_slider_1.8x.2.08 67
+    400336: Door_glass_slider_1.8x.2.08 68
+    400338: Door_glass_slider_1.8x.2.08 69
+    400340: Door_glass_slider_1.8x.2.08 7
+    400342: Door_glass_slider_1.8x.2.08 70
+    400344: Door_glass_slider_1.8x.2.08 71
+    400346: Door_glass_slider_1.8x.2.08 72
+    400348: Door_glass_slider_1.8x.2.08 73
+    400350: Door_glass_slider_1.8x.2.08 74
+    400352: Door_glass_slider_1.8x.2.08 75
+    400354: Door_glass_slider_1.8x.2.08 76
+    400356: Door_glass_slider_1.8x.2.08 77
+    400358: Door_glass_slider_1.8x.2.08 78
+    400360: Door_glass_slider_1.8x.2.08 79
+    400362: Door_glass_slider_1.8x.2.08 8
+    400364: Door_glass_slider_1.8x.2.08 80
+    400366: Door_glass_slider_1.8x.2.08 81
+    400368: Door_glass_slider_1.8x.2.08 82
+    400370: Door_glass_slider_1.8x.2.08 83
+    400372: Door_glass_slider_1.8x.2.08 84
+    400374: Door_glass_slider_1.8x.2.08 85
+    400376: Door_glass_slider_1.8x.2.08 86
+    400378: Door_glass_slider_1.8x.2.08 87
+    400380: Door_glass_slider_1.8x.2.08 88
+    400382: Door_glass_slider_1.8x.2.08 89
+    400384: Door_glass_slider_1.8x.2.08 9
+    400386: Door_glass_slider_1.8x.2.08 90
+    400388: Door_glass_slider_1.8x.2.08 91
+    400390: Door_plain_1.0x2.1
+    400392: Door_plain_1.0x2.1 1
+    400394: Door_plain_1.0x2.1 2
+    400396: DoorKnob
+    400398: DoorKnob 1
+    400400: DoubleDoors
+    400402: DoubleDoors 1
+    400404: DoubleDoors 2
+    400406: DoubleDoors 3
+    400408: DoubleDoors 4
+    400410: DoubleDoors 5
+    400412: FlushDoor36#1
+    400414: Image 1
+    400416: scale_obq
+    400418: ShopWindow
+    400420: ShopWindow 1
+    400422: ShopWindow 10
+    400424: ShopWindow 11
+    400426: ShopWindow 2
+    400428: ShopWindow 3
+    400430: ShopWindow 4
+    400432: ShopWindow 5
+    400434: ShopWindow 6
+    400436: ShopWindow 7
+    400438: ShopWindow 8
+    400440: ShopWindow 9
+    400442: ShopWindow#2
+    400444: skylight
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_bldg_wall
+    2100006: OV_bldg_roof
+    2100008: ApertureGlass
+    2100010: OV_turf_solid
+    2100012: OV_paving_vehicle
+    2100014: paving
+    2100016: OV_paving_pedestrian
+    2100018: turf
+    2100020: pedestrian_paved
+    2100022: _Ivy_ copy
+    2300000: 43007_3d building
+    2300002: 43007_3d site
+    2300004: atrium
+    2300006: Balcony
+    2300008: Balcony 1
+    2300010: Balcony 10
+    2300012: Balcony 11
+    2300014: Balcony 12
+    2300016: Balcony 13
+    2300018: Balcony 14
+    2300020: Balcony 15
+    2300022: Balcony 16
+    2300024: Balcony 17
+    2300026: Balcony 18
+    2300028: Balcony 19
+    2300030: Balcony 2
+    2300032: Balcony 20
+    2300034: Balcony 21
+    2300036: Balcony 22
+    2300038: Balcony 23
+    2300040: Balcony 24
+    2300042: Balcony 25
+    2300044: Balcony 26
+    2300046: Balcony 27
+    2300048: Balcony 28
+    2300050: Balcony 29
+    2300052: Balcony 3
+    2300054: Balcony 30
+    2300056: Balcony 31
+    2300058: Balcony 32
+    2300060: Balcony 33
+    2300062: Balcony 34
+    2300064: Balcony 35
+    2300066: Balcony 36
+    2300068: Balcony 37
+    2300070: Balcony 38
+    2300072: Balcony 39
+    2300074: Balcony 4
+    2300076: Balcony 40
+    2300078: Balcony 41
+    2300080: Balcony 42
+    2300082: Balcony 43
+    2300084: Balcony 44
+    2300086: Balcony 45
+    2300088: Balcony 46
+    2300090: Balcony 47
+    2300092: Balcony 48
+    2300094: Balcony 49
+    2300096: Balcony 5
+    2300098: Balcony 50
+    2300100: Balcony 51
+    2300102: Balcony 52
+    2300104: Balcony 53
+    2300106: Balcony 54
+    2300108: Balcony 55
+    2300110: Balcony 56
+    2300112: Balcony 57
+    2300114: Balcony 58
+    2300116: Balcony 59
+    2300118: Balcony 6
+    2300120: Balcony 60
+    2300122: Balcony 61
+    2300124: Balcony 62
+    2300126: Balcony 63
+    2300128: Balcony 64
+    2300130: Balcony 65
+    2300132: Balcony 66
+    2300134: Balcony 67
+    2300136: Balcony 68
+    2300138: Balcony 69
+    2300140: Balcony 7
+    2300142: Balcony 70
+    2300144: Balcony 71
+    2300146: Balcony 72
+    2300148: Balcony 73
+    2300150: Balcony 74
+    2300152: Balcony 75
+    2300154: Balcony 76
+    2300156: Balcony 77
+    2300158: Balcony 78
+    2300160: Balcony 79
+    2300162: Balcony 8
+    2300164: Balcony 80
+    2300166: Balcony 81
+    2300168: Balcony 82
+    2300170: Balcony 83
+    2300172: Balcony 84
+    2300174: Balcony 85
+    2300176: Balcony 9
+    2300178: Balcony#1
+    2300180: Balcony#1 1
+    2300182: Balcony#1 2
+    2300184: Balcony#1 3
+    2300186: Column
+    2300188: Column 1
+    2300190: Door3-0x6-8RHRev#1
+    2300192: Door_glass_1.0x2.18#1
+    2300194: Door_glass_1.0x2.18#1 1
+    2300196: Door_glass_1.0x2.18#1 2
+    2300198: Door_glass_1.0x2.18#1 3
+    2300200: Door_glass_1.0x2.18#1 4
+    2300202: Door_glass_1.0x2.18#1 5
+    2300204: Door_glass_slider_1.8x.2.08
+    2300206: Door_glass_slider_1.8x.2.08 1
+    2300208: Door_glass_slider_1.8x.2.08 10
+    2300210: Door_glass_slider_1.8x.2.08 11
+    2300212: Door_glass_slider_1.8x.2.08 12
+    2300214: Door_glass_slider_1.8x.2.08 13
+    2300216: Door_glass_slider_1.8x.2.08 14
+    2300218: Door_glass_slider_1.8x.2.08 15
+    2300220: Door_glass_slider_1.8x.2.08 16
+    2300222: Door_glass_slider_1.8x.2.08 17
+    2300224: Door_glass_slider_1.8x.2.08 18
+    2300226: Door_glass_slider_1.8x.2.08 19
+    2300228: Door_glass_slider_1.8x.2.08 2
+    2300230: Door_glass_slider_1.8x.2.08 20
+    2300232: Door_glass_slider_1.8x.2.08 21
+    2300234: Door_glass_slider_1.8x.2.08 22
+    2300236: Door_glass_slider_1.8x.2.08 23
+    2300238: Door_glass_slider_1.8x.2.08 24
+    2300240: Door_glass_slider_1.8x.2.08 25
+    2300242: Door_glass_slider_1.8x.2.08 26
+    2300244: Door_glass_slider_1.8x.2.08 27
+    2300246: Door_glass_slider_1.8x.2.08 28
+    2300248: Door_glass_slider_1.8x.2.08 29
+    2300250: Door_glass_slider_1.8x.2.08 3
+    2300252: Door_glass_slider_1.8x.2.08 30
+    2300254: Door_glass_slider_1.8x.2.08 31
+    2300256: Door_glass_slider_1.8x.2.08 32
+    2300258: Door_glass_slider_1.8x.2.08 33
+    2300260: Door_glass_slider_1.8x.2.08 34
+    2300262: Door_glass_slider_1.8x.2.08 35
+    2300264: Door_glass_slider_1.8x.2.08 36
+    2300266: Door_glass_slider_1.8x.2.08 37
+    2300268: Door_glass_slider_1.8x.2.08 38
+    2300270: Door_glass_slider_1.8x.2.08 39
+    2300272: Door_glass_slider_1.8x.2.08 4
+    2300274: Door_glass_slider_1.8x.2.08 40
+    2300276: Door_glass_slider_1.8x.2.08 41
+    2300278: Door_glass_slider_1.8x.2.08 42
+    2300280: Door_glass_slider_1.8x.2.08 43
+    2300282: Door_glass_slider_1.8x.2.08 44
+    2300284: Door_glass_slider_1.8x.2.08 45
+    2300286: Door_glass_slider_1.8x.2.08 46
+    2300288: Door_glass_slider_1.8x.2.08 47
+    2300290: Door_glass_slider_1.8x.2.08 48
+    2300292: Door_glass_slider_1.8x.2.08 49
+    2300294: Door_glass_slider_1.8x.2.08 5
+    2300296: Door_glass_slider_1.8x.2.08 50
+    2300298: Door_glass_slider_1.8x.2.08 51
+    2300300: Door_glass_slider_1.8x.2.08 52
+    2300302: Door_glass_slider_1.8x.2.08 53
+    2300304: Door_glass_slider_1.8x.2.08 54
+    2300306: Door_glass_slider_1.8x.2.08 55
+    2300308: Door_glass_slider_1.8x.2.08 56
+    2300310: Door_glass_slider_1.8x.2.08 57
+    2300312: Door_glass_slider_1.8x.2.08 58
+    2300314: Door_glass_slider_1.8x.2.08 59
+    2300316: Door_glass_slider_1.8x.2.08 6
+    2300318: Door_glass_slider_1.8x.2.08 60
+    2300320: Door_glass_slider_1.8x.2.08 61
+    2300322: Door_glass_slider_1.8x.2.08 62
+    2300324: Door_glass_slider_1.8x.2.08 63
+    2300326: Door_glass_slider_1.8x.2.08 64
+    2300328: Door_glass_slider_1.8x.2.08 65
+    2300330: Door_glass_slider_1.8x.2.08 66
+    2300332: Door_glass_slider_1.8x.2.08 67
+    2300334: Door_glass_slider_1.8x.2.08 68
+    2300336: Door_glass_slider_1.8x.2.08 69
+    2300338: Door_glass_slider_1.8x.2.08 7
+    2300340: Door_glass_slider_1.8x.2.08 70
+    2300342: Door_glass_slider_1.8x.2.08 71
+    2300344: Door_glass_slider_1.8x.2.08 72
+    2300346: Door_glass_slider_1.8x.2.08 73
+    2300348: Door_glass_slider_1.8x.2.08 74
+    2300350: Door_glass_slider_1.8x.2.08 75
+    2300352: Door_glass_slider_1.8x.2.08 76
+    2300354: Door_glass_slider_1.8x.2.08 77
+    2300356: Door_glass_slider_1.8x.2.08 78
+    2300358: Door_glass_slider_1.8x.2.08 79
+    2300360: Door_glass_slider_1.8x.2.08 8
+    2300362: Door_glass_slider_1.8x.2.08 80
+    2300364: Door_glass_slider_1.8x.2.08 81
+    2300366: Door_glass_slider_1.8x.2.08 82
+    2300368: Door_glass_slider_1.8x.2.08 83
+    2300370: Door_glass_slider_1.8x.2.08 84
+    2300372: Door_glass_slider_1.8x.2.08 85
+    2300374: Door_glass_slider_1.8x.2.08 86
+    2300376: Door_glass_slider_1.8x.2.08 87
+    2300378: Door_glass_slider_1.8x.2.08 88
+    2300380: Door_glass_slider_1.8x.2.08 89
+    2300382: Door_glass_slider_1.8x.2.08 9
+    2300384: Door_glass_slider_1.8x.2.08 90
+    2300386: Door_glass_slider_1.8x.2.08 91
+    2300388: Door_plain_1.0x2.1
+    2300390: Door_plain_1.0x2.1 1
+    2300392: Door_plain_1.0x2.1 2
+    2300394: DoorKnob
+    2300396: DoorKnob 1
+    2300398: DoubleDoors
+    2300400: DoubleDoors 1
+    2300402: DoubleDoors 2
+    2300404: DoubleDoors 3
+    2300406: DoubleDoors 4
+    2300408: DoubleDoors 5
+    2300410: FlushDoor36#1
+    2300412: Image 1
+    2300414: scale_obq
+    2300416: ShopWindow
+    2300418: ShopWindow 1
+    2300420: ShopWindow 10
+    2300422: ShopWindow 11
+    2300424: ShopWindow 2
+    2300426: ShopWindow 3
+    2300428: ShopWindow 4
+    2300430: ShopWindow 5
+    2300432: ShopWindow 6
+    2300434: ShopWindow 7
+    2300436: ShopWindow 8
+    2300438: ShopWindow 9
+    2300440: ShopWindow#2
+    2300442: skylight
+    3300000: 43007_3d building
+    3300002: 43007_3d site
+    3300004: atrium
+    3300006: Balcony
+    3300008: Balcony 1
+    3300010: Balcony 10
+    3300012: Balcony 11
+    3300014: Balcony 12
+    3300016: Balcony 13
+    3300018: Balcony 14
+    3300020: Balcony 15
+    3300022: Balcony 16
+    3300024: Balcony 17
+    3300026: Balcony 18
+    3300028: Balcony 19
+    3300030: Balcony 2
+    3300032: Balcony 20
+    3300034: Balcony 21
+    3300036: Balcony 22
+    3300038: Balcony 23
+    3300040: Balcony 24
+    3300042: Balcony 25
+    3300044: Balcony 26
+    3300046: Balcony 27
+    3300048: Balcony 28
+    3300050: Balcony 29
+    3300052: Balcony 3
+    3300054: Balcony 30
+    3300056: Balcony 31
+    3300058: Balcony 32
+    3300060: Balcony 33
+    3300062: Balcony 34
+    3300064: Balcony 35
+    3300066: Balcony 36
+    3300068: Balcony 37
+    3300070: Balcony 38
+    3300072: Balcony 39
+    3300074: Balcony 4
+    3300076: Balcony 40
+    3300078: Balcony 41
+    3300080: Balcony 42
+    3300082: Balcony 43
+    3300084: Balcony 44
+    3300086: Balcony 45
+    3300088: Balcony 46
+    3300090: Balcony 47
+    3300092: Balcony 48
+    3300094: Balcony 49
+    3300096: Balcony 5
+    3300098: Balcony 50
+    3300100: Balcony 51
+    3300102: Balcony 52
+    3300104: Balcony 53
+    3300106: Balcony 54
+    3300108: Balcony 55
+    3300110: Balcony 56
+    3300112: Balcony 57
+    3300114: Balcony 58
+    3300116: Balcony 59
+    3300118: Balcony 6
+    3300120: Balcony 60
+    3300122: Balcony 61
+    3300124: Balcony 62
+    3300126: Balcony 63
+    3300128: Balcony 64
+    3300130: Balcony 65
+    3300132: Balcony 66
+    3300134: Balcony 67
+    3300136: Balcony 68
+    3300138: Balcony 69
+    3300140: Balcony 7
+    3300142: Balcony 70
+    3300144: Balcony 71
+    3300146: Balcony 72
+    3300148: Balcony 73
+    3300150: Balcony 74
+    3300152: Balcony 75
+    3300154: Balcony 76
+    3300156: Balcony 77
+    3300158: Balcony 78
+    3300160: Balcony 79
+    3300162: Balcony 8
+    3300164: Balcony 80
+    3300166: Balcony 81
+    3300168: Balcony 82
+    3300170: Balcony 83
+    3300172: Balcony 84
+    3300174: Balcony 85
+    3300176: Balcony 9
+    3300178: Balcony#1
+    3300180: Balcony#1 1
+    3300182: Balcony#1 2
+    3300184: Balcony#1 3
+    3300186: Column
+    3300188: Column 1
+    3300190: Door3-0x6-8RHRev#1
+    3300192: Door_glass_1.0x2.18#1
+    3300194: Door_glass_1.0x2.18#1 1
+    3300196: Door_glass_1.0x2.18#1 2
+    3300198: Door_glass_1.0x2.18#1 3
+    3300200: Door_glass_1.0x2.18#1 4
+    3300202: Door_glass_1.0x2.18#1 5
+    3300204: Door_glass_slider_1.8x.2.08
+    3300206: Door_glass_slider_1.8x.2.08 1
+    3300208: Door_glass_slider_1.8x.2.08 10
+    3300210: Door_glass_slider_1.8x.2.08 11
+    3300212: Door_glass_slider_1.8x.2.08 12
+    3300214: Door_glass_slider_1.8x.2.08 13
+    3300216: Door_glass_slider_1.8x.2.08 14
+    3300218: Door_glass_slider_1.8x.2.08 15
+    3300220: Door_glass_slider_1.8x.2.08 16
+    3300222: Door_glass_slider_1.8x.2.08 17
+    3300224: Door_glass_slider_1.8x.2.08 18
+    3300226: Door_glass_slider_1.8x.2.08 19
+    3300228: Door_glass_slider_1.8x.2.08 2
+    3300230: Door_glass_slider_1.8x.2.08 20
+    3300232: Door_glass_slider_1.8x.2.08 21
+    3300234: Door_glass_slider_1.8x.2.08 22
+    3300236: Door_glass_slider_1.8x.2.08 23
+    3300238: Door_glass_slider_1.8x.2.08 24
+    3300240: Door_glass_slider_1.8x.2.08 25
+    3300242: Door_glass_slider_1.8x.2.08 26
+    3300244: Door_glass_slider_1.8x.2.08 27
+    3300246: Door_glass_slider_1.8x.2.08 28
+    3300248: Door_glass_slider_1.8x.2.08 29
+    3300250: Door_glass_slider_1.8x.2.08 3
+    3300252: Door_glass_slider_1.8x.2.08 30
+    3300254: Door_glass_slider_1.8x.2.08 31
+    3300256: Door_glass_slider_1.8x.2.08 32
+    3300258: Door_glass_slider_1.8x.2.08 33
+    3300260: Door_glass_slider_1.8x.2.08 34
+    3300262: Door_glass_slider_1.8x.2.08 35
+    3300264: Door_glass_slider_1.8x.2.08 36
+    3300266: Door_glass_slider_1.8x.2.08 37
+    3300268: Door_glass_slider_1.8x.2.08 38
+    3300270: Door_glass_slider_1.8x.2.08 39
+    3300272: Door_glass_slider_1.8x.2.08 4
+    3300274: Door_glass_slider_1.8x.2.08 40
+    3300276: Door_glass_slider_1.8x.2.08 41
+    3300278: Door_glass_slider_1.8x.2.08 42
+    3300280: Door_glass_slider_1.8x.2.08 43
+    3300282: Door_glass_slider_1.8x.2.08 44
+    3300284: Door_glass_slider_1.8x.2.08 45
+    3300286: Door_glass_slider_1.8x.2.08 46
+    3300288: Door_glass_slider_1.8x.2.08 47
+    3300290: Door_glass_slider_1.8x.2.08 48
+    3300292: Door_glass_slider_1.8x.2.08 49
+    3300294: Door_glass_slider_1.8x.2.08 5
+    3300296: Door_glass_slider_1.8x.2.08 50
+    3300298: Door_glass_slider_1.8x.2.08 51
+    3300300: Door_glass_slider_1.8x.2.08 52
+    3300302: Door_glass_slider_1.8x.2.08 53
+    3300304: Door_glass_slider_1.8x.2.08 54
+    3300306: Door_glass_slider_1.8x.2.08 55
+    3300308: Door_glass_slider_1.8x.2.08 56
+    3300310: Door_glass_slider_1.8x.2.08 57
+    3300312: Door_glass_slider_1.8x.2.08 58
+    3300314: Door_glass_slider_1.8x.2.08 59
+    3300316: Door_glass_slider_1.8x.2.08 6
+    3300318: Door_glass_slider_1.8x.2.08 60
+    3300320: Door_glass_slider_1.8x.2.08 61
+    3300322: Door_glass_slider_1.8x.2.08 62
+    3300324: Door_glass_slider_1.8x.2.08 63
+    3300326: Door_glass_slider_1.8x.2.08 64
+    3300328: Door_glass_slider_1.8x.2.08 65
+    3300330: Door_glass_slider_1.8x.2.08 66
+    3300332: Door_glass_slider_1.8x.2.08 67
+    3300334: Door_glass_slider_1.8x.2.08 68
+    3300336: Door_glass_slider_1.8x.2.08 69
+    3300338: Door_glass_slider_1.8x.2.08 7
+    3300340: Door_glass_slider_1.8x.2.08 70
+    3300342: Door_glass_slider_1.8x.2.08 71
+    3300344: Door_glass_slider_1.8x.2.08 72
+    3300346: Door_glass_slider_1.8x.2.08 73
+    3300348: Door_glass_slider_1.8x.2.08 74
+    3300350: Door_glass_slider_1.8x.2.08 75
+    3300352: Door_glass_slider_1.8x.2.08 76
+    3300354: Door_glass_slider_1.8x.2.08 77
+    3300356: Door_glass_slider_1.8x.2.08 78
+    3300358: Door_glass_slider_1.8x.2.08 79
+    3300360: Door_glass_slider_1.8x.2.08 8
+    3300362: Door_glass_slider_1.8x.2.08 80
+    3300364: Door_glass_slider_1.8x.2.08 81
+    3300366: Door_glass_slider_1.8x.2.08 82
+    3300368: Door_glass_slider_1.8x.2.08 83
+    3300370: Door_glass_slider_1.8x.2.08 84
+    3300372: Door_glass_slider_1.8x.2.08 85
+    3300374: Door_glass_slider_1.8x.2.08 86
+    3300376: Door_glass_slider_1.8x.2.08 87
+    3300378: Door_glass_slider_1.8x.2.08 88
+    3300380: Door_glass_slider_1.8x.2.08 89
+    3300382: Door_glass_slider_1.8x.2.08 9
+    3300384: Door_glass_slider_1.8x.2.08 90
+    3300386: Door_glass_slider_1.8x.2.08 91
+    3300388: Door_plain_1.0x2.1
+    3300390: Door_plain_1.0x2.1 1
+    3300392: Door_plain_1.0x2.1 2
+    3300394: DoorKnob
+    3300396: DoorKnob 1
+    3300398: DoubleDoors
+    3300400: DoubleDoors 1
+    3300402: DoubleDoors 2
+    3300404: DoubleDoors 3
+    3300406: DoubleDoors 4
+    3300408: DoubleDoors 5
+    3300410: FlushDoor36#1
+    3300412: Image 1
+    3300414: scale_obq
+    3300416: ShopWindow
+    3300418: ShopWindow 1
+    3300420: ShopWindow 10
+    3300422: ShopWindow 11
+    3300424: ShopWindow 2
+    3300426: ShopWindow 3
+    3300428: ShopWindow 4
+    3300430: ShopWindow 5
+    3300432: ShopWindow 6
+    3300434: ShopWindow 7
+    3300436: ShopWindow 8
+    3300438: ShopWindow 9
+    3300440: ShopWindow#2
+    3300442: skylight
+    4300000: Mesh 43007-01
+    4300002: Mesh scale_obq
+    4300004: Mesh 43007_3d building
+    4300006: Mesh DoubleDoors
+    4300008: Mesh ShopWindow
+    4300010: Mesh Column
+    4300012: Mesh Door_plain_1.0x2.1
+    4300014: Mesh atrium
+    4300016: Mesh skylight
+    4300018: Mesh ShopWindow#2
+    4300020: Mesh Balcony
+    4300022: Mesh Door_glass_slider_1.8x.2.08
+    4300024: Mesh Balcony#1
+    4300026: Mesh Door_glass_1.0x2.18#1
+    4300028: Mesh Door3-0x6-8RHRev#1
+    4300030: Mesh FlushDoor36#1
+    4300032: Mesh DoorKnob
+    4300034: Mesh 43007_3d site
+    6400000: 43007_3d building
+    6400002: 43007_3d site
+    6400004: atrium
+    6400006: Balcony
+    6400008: Balcony 1
+    6400010: Balcony 10
+    6400012: Balcony 11
+    6400014: Balcony 12
+    6400016: Balcony 13
+    6400018: Balcony 14
+    6400020: Balcony 15
+    6400022: Balcony 16
+    6400024: Balcony 17
+    6400026: Balcony 18
+    6400028: Balcony 19
+    6400030: Balcony 2
+    6400032: Balcony 20
+    6400034: Balcony 21
+    6400036: Balcony 22
+    6400038: Balcony 23
+    6400040: Balcony 24
+    6400042: Balcony 25
+    6400044: Balcony 26
+    6400046: Balcony 27
+    6400048: Balcony 28
+    6400050: Balcony 29
+    6400052: Balcony 3
+    6400054: Balcony 30
+    6400056: Balcony 31
+    6400058: Balcony 32
+    6400060: Balcony 33
+    6400062: Balcony 34
+    6400064: Balcony 35
+    6400066: Balcony 36
+    6400068: Balcony 37
+    6400070: Balcony 38
+    6400072: Balcony 39
+    6400074: Balcony 4
+    6400076: Balcony 40
+    6400078: Balcony 41
+    6400080: Balcony 42
+    6400082: Balcony 43
+    6400084: Balcony 44
+    6400086: Balcony 45
+    6400088: Balcony 46
+    6400090: Balcony 47
+    6400092: Balcony 48
+    6400094: Balcony 49
+    6400096: Balcony 5
+    6400098: Balcony 50
+    6400100: Balcony 51
+    6400102: Balcony 52
+    6400104: Balcony 53
+    6400106: Balcony 54
+    6400108: Balcony 55
+    6400110: Balcony 56
+    6400112: Balcony 57
+    6400114: Balcony 58
+    6400116: Balcony 59
+    6400118: Balcony 6
+    6400120: Balcony 60
+    6400122: Balcony 61
+    6400124: Balcony 62
+    6400126: Balcony 63
+    6400128: Balcony 64
+    6400130: Balcony 65
+    6400132: Balcony 66
+    6400134: Balcony 67
+    6400136: Balcony 68
+    6400138: Balcony 69
+    6400140: Balcony 7
+    6400142: Balcony 70
+    6400144: Balcony 71
+    6400146: Balcony 72
+    6400148: Balcony 73
+    6400150: Balcony 74
+    6400152: Balcony 75
+    6400154: Balcony 76
+    6400156: Balcony 77
+    6400158: Balcony 78
+    6400160: Balcony 79
+    6400162: Balcony 8
+    6400164: Balcony 80
+    6400166: Balcony 81
+    6400168: Balcony 82
+    6400170: Balcony 83
+    6400172: Balcony 84
+    6400174: Balcony 85
+    6400176: Balcony 9
+    6400178: Balcony#1
+    6400180: Balcony#1 1
+    6400182: Balcony#1 2
+    6400184: Balcony#1 3
+    6400186: Column
+    6400188: Column 1
+    6400190: Door3-0x6-8RHRev#1
+    6400192: Door_glass_1.0x2.18#1
+    6400194: Door_glass_1.0x2.18#1 1
+    6400196: Door_glass_1.0x2.18#1 2
+    6400198: Door_glass_1.0x2.18#1 3
+    6400200: Door_glass_1.0x2.18#1 4
+    6400202: Door_glass_1.0x2.18#1 5
+    6400204: Door_glass_slider_1.8x.2.08
+    6400206: Door_glass_slider_1.8x.2.08 1
+    6400208: Door_glass_slider_1.8x.2.08 10
+    6400210: Door_glass_slider_1.8x.2.08 11
+    6400212: Door_glass_slider_1.8x.2.08 12
+    6400214: Door_glass_slider_1.8x.2.08 13
+    6400216: Door_glass_slider_1.8x.2.08 14
+    6400218: Door_glass_slider_1.8x.2.08 15
+    6400220: Door_glass_slider_1.8x.2.08 16
+    6400222: Door_glass_slider_1.8x.2.08 17
+    6400224: Door_glass_slider_1.8x.2.08 18
+    6400226: Door_glass_slider_1.8x.2.08 19
+    6400228: Door_glass_slider_1.8x.2.08 2
+    6400230: Door_glass_slider_1.8x.2.08 20
+    6400232: Door_glass_slider_1.8x.2.08 21
+    6400234: Door_glass_slider_1.8x.2.08 22
+    6400236: Door_glass_slider_1.8x.2.08 23
+    6400238: Door_glass_slider_1.8x.2.08 24
+    6400240: Door_glass_slider_1.8x.2.08 25
+    6400242: Door_glass_slider_1.8x.2.08 26
+    6400244: Door_glass_slider_1.8x.2.08 27
+    6400246: Door_glass_slider_1.8x.2.08 28
+    6400248: Door_glass_slider_1.8x.2.08 29
+    6400250: Door_glass_slider_1.8x.2.08 3
+    6400252: Door_glass_slider_1.8x.2.08 30
+    6400254: Door_glass_slider_1.8x.2.08 31
+    6400256: Door_glass_slider_1.8x.2.08 32
+    6400258: Door_glass_slider_1.8x.2.08 33
+    6400260: Door_glass_slider_1.8x.2.08 34
+    6400262: Door_glass_slider_1.8x.2.08 35
+    6400264: Door_glass_slider_1.8x.2.08 36
+    6400266: Door_glass_slider_1.8x.2.08 37
+    6400268: Door_glass_slider_1.8x.2.08 38
+    6400270: Door_glass_slider_1.8x.2.08 39
+    6400272: Door_glass_slider_1.8x.2.08 4
+    6400274: Door_glass_slider_1.8x.2.08 40
+    6400276: Door_glass_slider_1.8x.2.08 41
+    6400278: Door_glass_slider_1.8x.2.08 42
+    6400280: Door_glass_slider_1.8x.2.08 43
+    6400282: Door_glass_slider_1.8x.2.08 44
+    6400284: Door_glass_slider_1.8x.2.08 45
+    6400286: Door_glass_slider_1.8x.2.08 46
+    6400288: Door_glass_slider_1.8x.2.08 47
+    6400290: Door_glass_slider_1.8x.2.08 48
+    6400292: Door_glass_slider_1.8x.2.08 49
+    6400294: Door_glass_slider_1.8x.2.08 5
+    6400296: Door_glass_slider_1.8x.2.08 50
+    6400298: Door_glass_slider_1.8x.2.08 51
+    6400300: Door_glass_slider_1.8x.2.08 52
+    6400302: Door_glass_slider_1.8x.2.08 53
+    6400304: Door_glass_slider_1.8x.2.08 54
+    6400306: Door_glass_slider_1.8x.2.08 55
+    6400308: Door_glass_slider_1.8x.2.08 56
+    6400310: Door_glass_slider_1.8x.2.08 57
+    6400312: Door_glass_slider_1.8x.2.08 58
+    6400314: Door_glass_slider_1.8x.2.08 59
+    6400316: Door_glass_slider_1.8x.2.08 6
+    6400318: Door_glass_slider_1.8x.2.08 60
+    6400320: Door_glass_slider_1.8x.2.08 61
+    6400322: Door_glass_slider_1.8x.2.08 62
+    6400324: Door_glass_slider_1.8x.2.08 63
+    6400326: Door_glass_slider_1.8x.2.08 64
+    6400328: Door_glass_slider_1.8x.2.08 65
+    6400330: Door_glass_slider_1.8x.2.08 66
+    6400332: Door_glass_slider_1.8x.2.08 67
+    6400334: Door_glass_slider_1.8x.2.08 68
+    6400336: Door_glass_slider_1.8x.2.08 69
+    6400338: Door_glass_slider_1.8x.2.08 7
+    6400340: Door_glass_slider_1.8x.2.08 70
+    6400342: Door_glass_slider_1.8x.2.08 71
+    6400344: Door_glass_slider_1.8x.2.08 72
+    6400346: Door_glass_slider_1.8x.2.08 73
+    6400348: Door_glass_slider_1.8x.2.08 74
+    6400350: Door_glass_slider_1.8x.2.08 75
+    6400352: Door_glass_slider_1.8x.2.08 76
+    6400354: Door_glass_slider_1.8x.2.08 77
+    6400356: Door_glass_slider_1.8x.2.08 78
+    6400358: Door_glass_slider_1.8x.2.08 79
+    6400360: Door_glass_slider_1.8x.2.08 8
+    6400362: Door_glass_slider_1.8x.2.08 80
+    6400364: Door_glass_slider_1.8x.2.08 81
+    6400366: Door_glass_slider_1.8x.2.08 82
+    6400368: Door_glass_slider_1.8x.2.08 83
+    6400370: Door_glass_slider_1.8x.2.08 84
+    6400372: Door_glass_slider_1.8x.2.08 85
+    6400374: Door_glass_slider_1.8x.2.08 86
+    6400376: Door_glass_slider_1.8x.2.08 87
+    6400378: Door_glass_slider_1.8x.2.08 88
+    6400380: Door_glass_slider_1.8x.2.08 89
+    6400382: Door_glass_slider_1.8x.2.08 9
+    6400384: Door_glass_slider_1.8x.2.08 90
+    6400386: Door_glass_slider_1.8x.2.08 91
+    6400388: Door_plain_1.0x2.1
+    6400390: Door_plain_1.0x2.1 1
+    6400392: Door_plain_1.0x2.1 2
+    6400394: DoorKnob
+    6400396: DoorKnob 1
+    6400398: DoubleDoors
+    6400400: DoubleDoors 1
+    6400402: DoubleDoors 2
+    6400404: DoubleDoors 3
+    6400406: DoubleDoors 4
+    6400408: DoubleDoors 5
+    6400410: FlushDoor36#1
+    6400412: Image 1
+    6400414: scale_obq
+    6400416: ShopWindow
+    6400418: ShopWindow 1
+    6400420: ShopWindow 10
+    6400422: ShopWindow 11
+    6400424: ShopWindow 2
+    6400426: ShopWindow 3
+    6400428: ShopWindow 4
+    6400430: ShopWindow 5
+    6400432: ShopWindow 6
+    6400434: ShopWindow 7
+    6400436: ShopWindow 8
+    6400438: ShopWindow 9
+    6400440: ShopWindow#2
+    6400442: skylight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: e24818630e502f44dab392229c7c437e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: f1ce1bb9a03b7da4d99fecb5f1c99827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 7e2ecc03afea027439e6ab51682f20d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 6e0a27802ed4eab4b9f147c431fa1e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 01061d560cfbc3f4fa35b94dd57a28af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 280b41c6d2170c04c935dd080562e54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: ae9d8248468e26b4e8d0efd3392feb46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: e96250ac64e30b44bb43589ed666d9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivy_ copy
+    second: {fileID: 2100000, guid: f69a0c3b5c1ec624bbfb7456afe87eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paving
+    second: {fileID: 2100000, guid: bb777d78d5c5dbe40a1266f682694d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: d65c474a607f5e7478db3f49e26f4e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turf
+    second: {fileID: 2100000, guid: 1288bfc9e180f084b93d9022a2622061, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

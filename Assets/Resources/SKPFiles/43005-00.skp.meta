@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b6a62c0956636894d84c7eef11a47c04
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 85ab8a134b199cf5c4494ce3ed13b80a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 62.074146, y: 31.869272, z: -70.865074}
+      lookAt: {x: -32.773357, y: -19.724798, z: 25.544174}
+      up: {x: -0.24997066, y: 0.93432045, z: 0.25408664}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 1.3756032, y: 98.48532, z: 2.2035415}
+        lookAt: {x: 1.3756032, y: 4.8022, z: 2.2035415}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3239.1926
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 62.074146, y: 31.869272, z: -70.865074}
+        lookAt: {x: -32.773357, y: -19.724798, z: 25.544174}
+        up: {x: -0.24997066, y: 0.93432045, z: 0.25408664}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 62.074146, y: 31.869272, z: -70.865074}
+        lookAt: {x: -32.773357, y: -19.724798, z: 25.544174}
+        up: {x: -0.24997066, y: 0.93432045, z: 0.25408664}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 43005_3d_building
+    100004: 43005_3d_site
+    100006: Arch_Ground
+    100008: Arch_Ground 1
+    100010: Arch_Ground 10
+    100012: Arch_Ground 11
+    100014: Arch_Ground 12
+    100016: Arch_Ground 2
+    100018: Arch_Ground 3
+    100020: Arch_Ground 4
+    100022: Arch_Ground 5
+    100024: Arch_Ground 6
+    100026: Arch_Ground 7
+    100028: Arch_Ground 8
+    100030: Arch_Ground 9
+    100032: Arch_MidRow
+    100034: Arch_MidRow 1
+    100036: Arch_MidRow 10
+    100038: Arch_MidRow 11
+    100040: Arch_MidRow 12
+    100042: Arch_MidRow 2
+    100044: Arch_MidRow 3
+    100046: Arch_MidRow 4
+    100048: Arch_MidRow 5
+    100050: Arch_MidRow 6
+    100052: Arch_MidRow 7
+    100054: Arch_MidRow 8
+    100056: Arch_MidRow 9
+    100058: Arch_TopRow
+    100060: Arch_TopRow 1
+    100062: Arch_TopRow 10
+    100064: Arch_TopRow 11
+    100066: Arch_TopRow 12
+    100068: Arch_TopRow 13
+    100070: Arch_TopRow 14
+    100072: Arch_TopRow 2
+    100074: Arch_TopRow 3
+    100076: Arch_TopRow 4
+    100078: Arch_TopRow 5
+    100080: Arch_TopRow 6
+    100082: Arch_TopRow 7
+    100084: Arch_TopRow 8
+    100086: Arch_TopRow 9
+    100088: Arch_Wide
+    100090: Arch_Wide 1
+    100092: Arch_Wide 2
+    100094: Arch_Wide 3
+    100096: Door_plain_0.85x2.1
+    100098: Image 1
+    100100: Mid_Wide
+    100102: Mid_Wide 1
+    100104: Mid_Wide 2
+    100106: Mid_Wide 3
+    100108: Mid_Wide 4
+    100110: Mid_Wide 5
+    100112: Mid_Wide 6
+    100114: Mid_Wide 7
+    100116: Mid_Wide 8
+    100118: scale_obq
+    100120: Skylight
+    100122: Skylight 1
+    100124: SkylightTriangle
+    100126: SkylightTriangle 1
+    100128: Win_Rect
+    100130: Win_Rect 1
+    100132: Win_Rect 10
+    100134: Win_Rect 11
+    100136: Win_Rect 12
+    100138: Win_Rect 13
+    100140: Win_Rect 14
+    100142: Win_Rect 15
+    100144: Win_Rect 16
+    100146: Win_Rect 17
+    100148: Win_Rect 18
+    100150: Win_Rect 19
+    100152: Win_Rect 2
+    100154: Win_Rect 20
+    100156: Win_Rect 21
+    100158: Win_Rect 22
+    100160: Win_Rect 23
+    100162: Win_Rect 3
+    100164: Win_Rect 4
+    100166: Win_Rect 5
+    100168: Win_Rect 6
+    100170: Win_Rect 7
+    100172: Win_Rect 8
+    100174: Win_Rect 9
+    400000: //RootNode
+    400002: 43005_3d_building
+    400004: 43005_3d_site
+    400006: Arch_Ground
+    400008: Arch_Ground 1
+    400010: Arch_Ground 10
+    400012: Arch_Ground 11
+    400014: Arch_Ground 12
+    400016: Arch_Ground 2
+    400018: Arch_Ground 3
+    400020: Arch_Ground 4
+    400022: Arch_Ground 5
+    400024: Arch_Ground 6
+    400026: Arch_Ground 7
+    400028: Arch_Ground 8
+    400030: Arch_Ground 9
+    400032: Arch_MidRow
+    400034: Arch_MidRow 1
+    400036: Arch_MidRow 10
+    400038: Arch_MidRow 11
+    400040: Arch_MidRow 12
+    400042: Arch_MidRow 2
+    400044: Arch_MidRow 3
+    400046: Arch_MidRow 4
+    400048: Arch_MidRow 5
+    400050: Arch_MidRow 6
+    400052: Arch_MidRow 7
+    400054: Arch_MidRow 8
+    400056: Arch_MidRow 9
+    400058: Arch_TopRow
+    400060: Arch_TopRow 1
+    400062: Arch_TopRow 10
+    400064: Arch_TopRow 11
+    400066: Arch_TopRow 12
+    400068: Arch_TopRow 13
+    400070: Arch_TopRow 14
+    400072: Arch_TopRow 2
+    400074: Arch_TopRow 3
+    400076: Arch_TopRow 4
+    400078: Arch_TopRow 5
+    400080: Arch_TopRow 6
+    400082: Arch_TopRow 7
+    400084: Arch_TopRow 8
+    400086: Arch_TopRow 9
+    400088: Arch_Wide
+    400090: Arch_Wide 1
+    400092: Arch_Wide 2
+    400094: Arch_Wide 3
+    400096: Door_plain_0.85x2.1
+    400098: Image 1
+    400100: Mid_Wide
+    400102: Mid_Wide 1
+    400104: Mid_Wide 2
+    400106: Mid_Wide 3
+    400108: Mid_Wide 4
+    400110: Mid_Wide 5
+    400112: Mid_Wide 6
+    400114: Mid_Wide 7
+    400116: Mid_Wide 8
+    400118: scale_obq
+    400120: Skylight
+    400122: Skylight 1
+    400124: SkylightTriangle
+    400126: SkylightTriangle 1
+    400128: Win_Rect
+    400130: Win_Rect 1
+    400132: Win_Rect 10
+    400134: Win_Rect 11
+    400136: Win_Rect 12
+    400138: Win_Rect 13
+    400140: Win_Rect 14
+    400142: Win_Rect 15
+    400144: Win_Rect 16
+    400146: Win_Rect 17
+    400148: Win_Rect 18
+    400150: Win_Rect 19
+    400152: Win_Rect 2
+    400154: Win_Rect 20
+    400156: Win_Rect 21
+    400158: Win_Rect 22
+    400160: Win_Rect 23
+    400162: Win_Rect 3
+    400164: Win_Rect 4
+    400166: Win_Rect 5
+    400168: Win_Rect 6
+    400170: Win_Rect 7
+    400172: Win_Rect 8
+    400174: Win_Rect 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_pedestrian
+    2100008: Puse_building
+    2100010: OV_paving_vehicle
+    2100012: Puse_vehicle_parking
+    2100014: buildingwalls
+    2100016: modelroof
+    2100018: OV_bldg_wall
+    2100020: OV_bldg_accent
+    2100022: OV_bldg_roof
+    2100024: vehicle_paved
+    2100026: ApertureGlass
+    2300000: 43005_3d_building
+    2300002: 43005_3d_site
+    2300004: Arch_Ground
+    2300006: Arch_Ground 1
+    2300008: Arch_Ground 10
+    2300010: Arch_Ground 11
+    2300012: Arch_Ground 12
+    2300014: Arch_Ground 2
+    2300016: Arch_Ground 3
+    2300018: Arch_Ground 4
+    2300020: Arch_Ground 5
+    2300022: Arch_Ground 6
+    2300024: Arch_Ground 7
+    2300026: Arch_Ground 8
+    2300028: Arch_Ground 9
+    2300030: Arch_MidRow
+    2300032: Arch_MidRow 1
+    2300034: Arch_MidRow 10
+    2300036: Arch_MidRow 11
+    2300038: Arch_MidRow 12
+    2300040: Arch_MidRow 2
+    2300042: Arch_MidRow 3
+    2300044: Arch_MidRow 4
+    2300046: Arch_MidRow 5
+    2300048: Arch_MidRow 6
+    2300050: Arch_MidRow 7
+    2300052: Arch_MidRow 8
+    2300054: Arch_MidRow 9
+    2300056: Arch_TopRow
+    2300058: Arch_TopRow 1
+    2300060: Arch_TopRow 10
+    2300062: Arch_TopRow 11
+    2300064: Arch_TopRow 12
+    2300066: Arch_TopRow 13
+    2300068: Arch_TopRow 14
+    2300070: Arch_TopRow 2
+    2300072: Arch_TopRow 3
+    2300074: Arch_TopRow 4
+    2300076: Arch_TopRow 5
+    2300078: Arch_TopRow 6
+    2300080: Arch_TopRow 7
+    2300082: Arch_TopRow 8
+    2300084: Arch_TopRow 9
+    2300086: Arch_Wide
+    2300088: Arch_Wide 1
+    2300090: Arch_Wide 2
+    2300092: Arch_Wide 3
+    2300094: Door_plain_0.85x2.1
+    2300096: Image 1
+    2300098: Mid_Wide
+    2300100: Mid_Wide 1
+    2300102: Mid_Wide 2
+    2300104: Mid_Wide 3
+    2300106: Mid_Wide 4
+    2300108: Mid_Wide 5
+    2300110: Mid_Wide 6
+    2300112: Mid_Wide 7
+    2300114: Mid_Wide 8
+    2300116: scale_obq
+    2300118: Skylight
+    2300120: Skylight 1
+    2300122: SkylightTriangle
+    2300124: SkylightTriangle 1
+    2300126: Win_Rect
+    2300128: Win_Rect 1
+    2300130: Win_Rect 10
+    2300132: Win_Rect 11
+    2300134: Win_Rect 12
+    2300136: Win_Rect 13
+    2300138: Win_Rect 14
+    2300140: Win_Rect 15
+    2300142: Win_Rect 16
+    2300144: Win_Rect 17
+    2300146: Win_Rect 18
+    2300148: Win_Rect 19
+    2300150: Win_Rect 2
+    2300152: Win_Rect 20
+    2300154: Win_Rect 21
+    2300156: Win_Rect 22
+    2300158: Win_Rect 23
+    2300160: Win_Rect 3
+    2300162: Win_Rect 4
+    2300164: Win_Rect 5
+    2300166: Win_Rect 6
+    2300168: Win_Rect 7
+    2300170: Win_Rect 8
+    2300172: Win_Rect 9
+    3300000: 43005_3d_building
+    3300002: 43005_3d_site
+    3300004: Arch_Ground
+    3300006: Arch_Ground 1
+    3300008: Arch_Ground 10
+    3300010: Arch_Ground 11
+    3300012: Arch_Ground 12
+    3300014: Arch_Ground 2
+    3300016: Arch_Ground 3
+    3300018: Arch_Ground 4
+    3300020: Arch_Ground 5
+    3300022: Arch_Ground 6
+    3300024: Arch_Ground 7
+    3300026: Arch_Ground 8
+    3300028: Arch_Ground 9
+    3300030: Arch_MidRow
+    3300032: Arch_MidRow 1
+    3300034: Arch_MidRow 10
+    3300036: Arch_MidRow 11
+    3300038: Arch_MidRow 12
+    3300040: Arch_MidRow 2
+    3300042: Arch_MidRow 3
+    3300044: Arch_MidRow 4
+    3300046: Arch_MidRow 5
+    3300048: Arch_MidRow 6
+    3300050: Arch_MidRow 7
+    3300052: Arch_MidRow 8
+    3300054: Arch_MidRow 9
+    3300056: Arch_TopRow
+    3300058: Arch_TopRow 1
+    3300060: Arch_TopRow 10
+    3300062: Arch_TopRow 11
+    3300064: Arch_TopRow 12
+    3300066: Arch_TopRow 13
+    3300068: Arch_TopRow 14
+    3300070: Arch_TopRow 2
+    3300072: Arch_TopRow 3
+    3300074: Arch_TopRow 4
+    3300076: Arch_TopRow 5
+    3300078: Arch_TopRow 6
+    3300080: Arch_TopRow 7
+    3300082: Arch_TopRow 8
+    3300084: Arch_TopRow 9
+    3300086: Arch_Wide
+    3300088: Arch_Wide 1
+    3300090: Arch_Wide 2
+    3300092: Arch_Wide 3
+    3300094: Door_plain_0.85x2.1
+    3300096: Image 1
+    3300098: Mid_Wide
+    3300100: Mid_Wide 1
+    3300102: Mid_Wide 2
+    3300104: Mid_Wide 3
+    3300106: Mid_Wide 4
+    3300108: Mid_Wide 5
+    3300110: Mid_Wide 6
+    3300112: Mid_Wide 7
+    3300114: Mid_Wide 8
+    3300116: scale_obq
+    3300118: Skylight
+    3300120: Skylight 1
+    3300122: SkylightTriangle
+    3300124: SkylightTriangle 1
+    3300126: Win_Rect
+    3300128: Win_Rect 1
+    3300130: Win_Rect 10
+    3300132: Win_Rect 11
+    3300134: Win_Rect 12
+    3300136: Win_Rect 13
+    3300138: Win_Rect 14
+    3300140: Win_Rect 15
+    3300142: Win_Rect 16
+    3300144: Win_Rect 17
+    3300146: Win_Rect 18
+    3300148: Win_Rect 19
+    3300150: Win_Rect 2
+    3300152: Win_Rect 20
+    3300154: Win_Rect 21
+    3300156: Win_Rect 22
+    3300158: Win_Rect 23
+    3300160: Win_Rect 3
+    3300162: Win_Rect 4
+    3300164: Win_Rect 5
+    3300166: Win_Rect 6
+    3300168: Win_Rect 7
+    3300170: Win_Rect 8
+    3300172: Win_Rect 9
+    4300000: Mesh 43005-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 43005_3d_site
+    4300006: Mesh 43005_3d_building
+    4300008: Mesh Arch_Ground
+    4300010: Mesh Arch_Ground
+    4300012: Mesh Arch_MidRow
+    4300014: Mesh Arch_MidRow
+    4300016: Mesh Arch_TopRow
+    4300018: Mesh Win_Rect
+    4300020: Mesh SkylightTriangle
+    4300022: Mesh Arch_Wide
+    4300024: Mesh Arch_TopRow
+    4300026: Mesh Mid_Wide
+    4300028: Mesh Skylight
+    4300030: Mesh Mid_Wide
+    4300032: Mesh Door_plain_0.85x2.1
+    6400000: 43005_3d_building
+    6400002: 43005_3d_site
+    6400004: Arch_Ground
+    6400006: Arch_Ground 1
+    6400008: Arch_Ground 10
+    6400010: Arch_Ground 11
+    6400012: Arch_Ground 12
+    6400014: Arch_Ground 2
+    6400016: Arch_Ground 3
+    6400018: Arch_Ground 4
+    6400020: Arch_Ground 5
+    6400022: Arch_Ground 6
+    6400024: Arch_Ground 7
+    6400026: Arch_Ground 8
+    6400028: Arch_Ground 9
+    6400030: Arch_MidRow
+    6400032: Arch_MidRow 1
+    6400034: Arch_MidRow 10
+    6400036: Arch_MidRow 11
+    6400038: Arch_MidRow 12
+    6400040: Arch_MidRow 2
+    6400042: Arch_MidRow 3
+    6400044: Arch_MidRow 4
+    6400046: Arch_MidRow 5
+    6400048: Arch_MidRow 6
+    6400050: Arch_MidRow 7
+    6400052: Arch_MidRow 8
+    6400054: Arch_MidRow 9
+    6400056: Arch_TopRow
+    6400058: Arch_TopRow 1
+    6400060: Arch_TopRow 10
+    6400062: Arch_TopRow 11
+    6400064: Arch_TopRow 12
+    6400066: Arch_TopRow 13
+    6400068: Arch_TopRow 14
+    6400070: Arch_TopRow 2
+    6400072: Arch_TopRow 3
+    6400074: Arch_TopRow 4
+    6400076: Arch_TopRow 5
+    6400078: Arch_TopRow 6
+    6400080: Arch_TopRow 7
+    6400082: Arch_TopRow 8
+    6400084: Arch_TopRow 9
+    6400086: Arch_Wide
+    6400088: Arch_Wide 1
+    6400090: Arch_Wide 2
+    6400092: Arch_Wide 3
+    6400094: Door_plain_0.85x2.1
+    6400096: Image 1
+    6400098: Mid_Wide
+    6400100: Mid_Wide 1
+    6400102: Mid_Wide 2
+    6400104: Mid_Wide 3
+    6400106: Mid_Wide 4
+    6400108: Mid_Wide 5
+    6400110: Mid_Wide 6
+    6400112: Mid_Wide 7
+    6400114: Mid_Wide 8
+    6400116: scale_obq
+    6400118: Skylight
+    6400120: Skylight 1
+    6400122: SkylightTriangle
+    6400124: SkylightTriangle 1
+    6400126: Win_Rect
+    6400128: Win_Rect 1
+    6400130: Win_Rect 10
+    6400132: Win_Rect 11
+    6400134: Win_Rect 12
+    6400136: Win_Rect 13
+    6400138: Win_Rect 14
+    6400140: Win_Rect 15
+    6400142: Win_Rect 16
+    6400144: Win_Rect 17
+    6400146: Win_Rect 18
+    6400148: Win_Rect 19
+    6400150: Win_Rect 2
+    6400152: Win_Rect 20
+    6400154: Win_Rect 21
+    6400156: Win_Rect 22
+    6400158: Win_Rect 23
+    6400160: Win_Rect 3
+    6400162: Win_Rect 4
+    6400164: Win_Rect 5
+    6400166: Win_Rect 6
+    6400168: Win_Rect 7
+    6400170: Win_Rect 8
+    6400172: Win_Rect 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 20c0839b5c799234b8fae04e86364c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 7e38378fa716f9843a4cd57480036d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 1f2d7414756e65148a5f324eea48f5bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 9a485e457042d7944a4c2d48d11ab96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 955a1e2fb777d8a4680b1a906491ebb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 1409296a710e6b94e9ae5e4c9e974f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 1022ee1d54d9f974e81fa5b6b6ba2151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 543ac6a6f7a014044ad4c1d87b824e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puse_building
+    second: {fileID: 2100000, guid: 39a24556b859bc04eac80f20022aa128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puse_vehicle_parking
+    second: {fileID: 2100000, guid: 674e5941a2d8edc4f8188fafc228fb6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 68810c308d9beeb4ca08ae281ef644ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: e8f255bfc09b82d4a85fb51a3c7e9ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: a1ebee295d61eaf4d91d46675e0e9e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehicle_paved
+    second: {fileID: 2100000, guid: 8a4ee6a2985430d49b3c4cf806f36959, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

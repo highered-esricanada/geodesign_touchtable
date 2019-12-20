@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 3b5219068fe00334f83d85fa42aa8f94
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005200000053000000550000005600000058000000590000005b0000005c0000005e0000005f0000006100000062000000640000006500000067000000680000006a0000006b0000006d0000006e000000700000007100000073000000740000007600000077000000790000007a0000007c0000007d0000007f000000800000008200000083000000850000008600000088000000890000008b0000008c0000008e0000008f0000009100000092000000940000009500000097000000980000009a0000009b0000009d0000009e000000a0000000a1000000a3000000a4000000a6000000a7000000a9000000aa000000ac000000ad000000af000000b0000000b2000000b3000000b5000000b6000000b8000000b9000000bb000000bc000000be000000bf000000c1000000c2000000c4000000c5000000c7000000c8000000ca000000cb000000cd000000ce000000d0000000d1000000d3000000d4000000d6000000d7000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0c1ba82b91e08dc870339477356d127a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 47.693024, y: 40.762238, z: -43.509357}
+      lookAt: {x: -12.217164, y: -14.28173, z: 15.520133}
+      up: {x: -0.39007646, y: 0.83673257, z: 0.38434222}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 47.693024, y: 40.762238, z: -43.509357}
+        lookAt: {x: -12.217164, y: -14.28173, z: 15.520133}
+        up: {x: -0.39007646, y: 0.83673257, z: 0.38434222}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 0.7120466, y: 190.5194, z: -1.8755405}
+        lookAt: {x: 0.7120466, y: 4.749713, z: -1.8755405}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1806.0464
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 11008_3d_site
+    100004: bulb tree-sm
+    100006: bulb tree-sm 1
+    100008: bulb tree-sm 10
+    100010: bulb tree-sm 11
+    100012: bulb tree-sm 12
+    100014: bulb tree-sm 13
+    100016: bulb tree-sm 14
+    100018: bulb tree-sm 15
+    100020: bulb tree-sm 16
+    100022: bulb tree-sm 17
+    100024: bulb tree-sm 18
+    100026: bulb tree-sm 19
+    100028: bulb tree-sm 2
+    100030: bulb tree-sm 20
+    100032: bulb tree-sm 21
+    100034: bulb tree-sm 22
+    100036: bulb tree-sm 23
+    100038: bulb tree-sm 24
+    100040: bulb tree-sm 25
+    100042: bulb tree-sm 26
+    100044: bulb tree-sm 27
+    100046: bulb tree-sm 28
+    100048: bulb tree-sm 29
+    100050: bulb tree-sm 3
+    100052: bulb tree-sm 30
+    100054: bulb tree-sm 31
+    100056: bulb tree-sm 32
+    100058: bulb tree-sm 33
+    100060: bulb tree-sm 34
+    100062: bulb tree-sm 35
+    100064: bulb tree-sm 36
+    100066: bulb tree-sm 37
+    100068: bulb tree-sm 38
+    100070: bulb tree-sm 39
+    100072: bulb tree-sm 4
+    100074: bulb tree-sm 40
+    100076: bulb tree-sm 41
+    100078: bulb tree-sm 42
+    100080: bulb tree-sm 43
+    100082: bulb tree-sm 44
+    100084: bulb tree-sm 45
+    100086: bulb tree-sm 5
+    100088: bulb tree-sm 6
+    100090: bulb tree-sm 7
+    100092: bulb tree-sm 8
+    100094: bulb tree-sm 9
+    100096: Group 11
+    100098: Group 13
+    100100: Group 15
+    100102: Group 17
+    100104: Group 19
+    100106: Group 21
+    100108: Group 23
+    100110: Group 25
+    100112: Group 27
+    100114: Group 29
+    100116: Group 31
+    100118: Group 33
+    100120: Group 35
+    100122: Group 37
+    100124: Group 39
+    100126: Group 41
+    100128: Group 43
+    100130: Group 45
+    100132: Group 47
+    100134: Group 49
+    100136: Group 51
+    100138: Group 53
+    100140: Group 55
+    100142: Group 57
+    100144: Group 59
+    100146: Group 61
+    100148: Group 63
+    100150: Group 65
+    100152: Group 67
+    100154: Group 69
+    100156: Group 71
+    100158: Group 73
+    100160: Group 75
+    100162: Group 77
+    100164: Image 1
+    100166: scale_obq
+    400000: //RootNode
+    400002: 11008_3d_site
+    400004: bulb tree-sm
+    400006: bulb tree-sm 1
+    400008: bulb tree-sm 10
+    400010: bulb tree-sm 11
+    400012: bulb tree-sm 12
+    400014: bulb tree-sm 13
+    400016: bulb tree-sm 14
+    400018: bulb tree-sm 15
+    400020: bulb tree-sm 16
+    400022: bulb tree-sm 17
+    400024: bulb tree-sm 18
+    400026: bulb tree-sm 19
+    400028: bulb tree-sm 2
+    400030: bulb tree-sm 20
+    400032: bulb tree-sm 21
+    400034: bulb tree-sm 22
+    400036: bulb tree-sm 23
+    400038: bulb tree-sm 24
+    400040: bulb tree-sm 25
+    400042: bulb tree-sm 26
+    400044: bulb tree-sm 27
+    400046: bulb tree-sm 28
+    400048: bulb tree-sm 29
+    400050: bulb tree-sm 3
+    400052: bulb tree-sm 30
+    400054: bulb tree-sm 31
+    400056: bulb tree-sm 32
+    400058: bulb tree-sm 33
+    400060: bulb tree-sm 34
+    400062: bulb tree-sm 35
+    400064: bulb tree-sm 36
+    400066: bulb tree-sm 37
+    400068: bulb tree-sm 38
+    400070: bulb tree-sm 39
+    400072: bulb tree-sm 4
+    400074: bulb tree-sm 40
+    400076: bulb tree-sm 41
+    400078: bulb tree-sm 42
+    400080: bulb tree-sm 43
+    400082: bulb tree-sm 44
+    400084: bulb tree-sm 45
+    400086: bulb tree-sm 5
+    400088: bulb tree-sm 6
+    400090: bulb tree-sm 7
+    400092: bulb tree-sm 8
+    400094: bulb tree-sm 9
+    400096: Group 11
+    400098: Group 13
+    400100: Group 15
+    400102: Group 17
+    400104: Group 19
+    400106: Group 21
+    400108: Group 23
+    400110: Group 25
+    400112: Group 27
+    400114: Group 29
+    400116: Group 31
+    400118: Group 33
+    400120: Group 35
+    400122: Group 37
+    400124: Group 39
+    400126: Group 41
+    400128: Group 43
+    400130: Group 45
+    400132: Group 47
+    400134: Group 49
+    400136: Group 51
+    400138: Group 53
+    400140: Group 55
+    400142: Group 57
+    400144: Group 59
+    400146: Group 61
+    400148: Group 63
+    400150: Group 65
+    400152: Group 67
+    400154: Group 69
+    400156: Group 71
+    400158: Group 73
+    400160: Group 75
+    400162: Group 77
+    400164: Image 1
+    400166: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_surface_other
+    2100010: OV_paving_pedestrian
+    2100012: OV_turf_solid
+    2100014: Puse_pedestrian
+    2100016: roundedtree
+    2300000: 11008_3d_site
+    2300002: bulb tree-sm
+    2300004: bulb tree-sm 1
+    2300006: bulb tree-sm 10
+    2300008: bulb tree-sm 11
+    2300010: bulb tree-sm 12
+    2300012: bulb tree-sm 13
+    2300014: bulb tree-sm 14
+    2300016: bulb tree-sm 15
+    2300018: bulb tree-sm 16
+    2300020: bulb tree-sm 17
+    2300022: bulb tree-sm 18
+    2300024: bulb tree-sm 19
+    2300026: bulb tree-sm 2
+    2300028: bulb tree-sm 20
+    2300030: bulb tree-sm 21
+    2300032: bulb tree-sm 22
+    2300034: bulb tree-sm 23
+    2300036: bulb tree-sm 24
+    2300038: bulb tree-sm 25
+    2300040: bulb tree-sm 26
+    2300042: bulb tree-sm 27
+    2300044: bulb tree-sm 28
+    2300046: bulb tree-sm 29
+    2300048: bulb tree-sm 3
+    2300050: bulb tree-sm 30
+    2300052: bulb tree-sm 31
+    2300054: bulb tree-sm 32
+    2300056: bulb tree-sm 33
+    2300058: bulb tree-sm 34
+    2300060: bulb tree-sm 35
+    2300062: bulb tree-sm 36
+    2300064: bulb tree-sm 37
+    2300066: bulb tree-sm 38
+    2300068: bulb tree-sm 39
+    2300070: bulb tree-sm 4
+    2300072: bulb tree-sm 40
+    2300074: bulb tree-sm 41
+    2300076: bulb tree-sm 42
+    2300078: bulb tree-sm 43
+    2300080: bulb tree-sm 44
+    2300082: bulb tree-sm 45
+    2300084: bulb tree-sm 5
+    2300086: bulb tree-sm 6
+    2300088: bulb tree-sm 7
+    2300090: bulb tree-sm 8
+    2300092: bulb tree-sm 9
+    2300094: Group 11
+    2300096: Group 13
+    2300098: Group 15
+    2300100: Group 17
+    2300102: Group 19
+    2300104: Group 21
+    2300106: Group 23
+    2300108: Group 25
+    2300110: Group 27
+    2300112: Group 29
+    2300114: Group 31
+    2300116: Group 33
+    2300118: Group 35
+    2300120: Group 37
+    2300122: Group 39
+    2300124: Group 41
+    2300126: Group 43
+    2300128: Group 45
+    2300130: Group 47
+    2300132: Group 49
+    2300134: Group 51
+    2300136: Group 53
+    2300138: Group 55
+    2300140: Group 57
+    2300142: Group 59
+    2300144: Group 61
+    2300146: Group 63
+    2300148: Group 65
+    2300150: Group 67
+    2300152: Group 69
+    2300154: Group 71
+    2300156: Group 73
+    2300158: Group 75
+    2300160: Group 77
+    2300162: Image 1
+    2300164: scale_obq
+    3300000: 11008_3d_site
+    3300002: bulb tree-sm
+    3300004: bulb tree-sm 1
+    3300006: bulb tree-sm 10
+    3300008: bulb tree-sm 11
+    3300010: bulb tree-sm 12
+    3300012: bulb tree-sm 13
+    3300014: bulb tree-sm 14
+    3300016: bulb tree-sm 15
+    3300018: bulb tree-sm 16
+    3300020: bulb tree-sm 17
+    3300022: bulb tree-sm 18
+    3300024: bulb tree-sm 19
+    3300026: bulb tree-sm 2
+    3300028: bulb tree-sm 20
+    3300030: bulb tree-sm 21
+    3300032: bulb tree-sm 22
+    3300034: bulb tree-sm 23
+    3300036: bulb tree-sm 24
+    3300038: bulb tree-sm 25
+    3300040: bulb tree-sm 26
+    3300042: bulb tree-sm 27
+    3300044: bulb tree-sm 28
+    3300046: bulb tree-sm 29
+    3300048: bulb tree-sm 3
+    3300050: bulb tree-sm 30
+    3300052: bulb tree-sm 31
+    3300054: bulb tree-sm 32
+    3300056: bulb tree-sm 33
+    3300058: bulb tree-sm 34
+    3300060: bulb tree-sm 35
+    3300062: bulb tree-sm 36
+    3300064: bulb tree-sm 37
+    3300066: bulb tree-sm 38
+    3300068: bulb tree-sm 39
+    3300070: bulb tree-sm 4
+    3300072: bulb tree-sm 40
+    3300074: bulb tree-sm 41
+    3300076: bulb tree-sm 42
+    3300078: bulb tree-sm 43
+    3300080: bulb tree-sm 44
+    3300082: bulb tree-sm 45
+    3300084: bulb tree-sm 5
+    3300086: bulb tree-sm 6
+    3300088: bulb tree-sm 7
+    3300090: bulb tree-sm 8
+    3300092: bulb tree-sm 9
+    3300094: Group 11
+    3300096: Group 13
+    3300098: Group 15
+    3300100: Group 17
+    3300102: Group 19
+    3300104: Group 21
+    3300106: Group 23
+    3300108: Group 25
+    3300110: Group 27
+    3300112: Group 29
+    3300114: Group 31
+    3300116: Group 33
+    3300118: Group 35
+    3300120: Group 37
+    3300122: Group 39
+    3300124: Group 41
+    3300126: Group 43
+    3300128: Group 45
+    3300130: Group 47
+    3300132: Group 49
+    3300134: Group 51
+    3300136: Group 53
+    3300138: Group 55
+    3300140: Group 57
+    3300142: Group 59
+    3300144: Group 61
+    3300146: Group 63
+    3300148: Group 65
+    3300150: Group 67
+    3300152: Group 69
+    3300154: Group 71
+    3300156: Group 73
+    3300158: Group 75
+    3300160: Group 77
+    3300162: Image 1
+    3300164: scale_obq
+    4300000: Mesh 11008-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 11008_3d_site
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 15
+    4300012: Mesh Group 17
+    4300014: Mesh Group 19
+    4300016: Mesh Group 21
+    4300018: Mesh Group 23
+    4300020: Mesh Group 25
+    4300022: Mesh Group 27
+    4300024: Mesh Group 29
+    4300026: Mesh Group 31
+    4300028: Mesh Group 33
+    4300030: Mesh Group 35
+    4300032: Mesh Group 37
+    4300034: Mesh Group 39
+    4300036: Mesh Group 41
+    4300038: Mesh Group 43
+    4300040: Mesh Group 45
+    4300042: Mesh Group 47
+    4300044: Mesh Group 49
+    4300046: Mesh Group 51
+    4300048: Mesh Group 53
+    4300050: Mesh Group 55
+    4300052: Mesh Group 57
+    4300054: Mesh Group 59
+    4300056: Mesh Group 61
+    4300058: Mesh Group 63
+    4300060: Mesh Group 65
+    4300062: Mesh Group 67
+    4300064: Mesh Group 69
+    4300066: Mesh Group 71
+    4300068: Mesh Group 73
+    4300070: Mesh Group 75
+    4300072: Mesh Group 77
+    4300074: Mesh bulb tree-sm
+    6400000: 11008_3d_site
+    6400002: bulb tree-sm
+    6400004: bulb tree-sm 1
+    6400006: bulb tree-sm 10
+    6400008: bulb tree-sm 11
+    6400010: bulb tree-sm 12
+    6400012: bulb tree-sm 13
+    6400014: bulb tree-sm 14
+    6400016: bulb tree-sm 15
+    6400018: bulb tree-sm 16
+    6400020: bulb tree-sm 17
+    6400022: bulb tree-sm 18
+    6400024: bulb tree-sm 19
+    6400026: bulb tree-sm 2
+    6400028: bulb tree-sm 20
+    6400030: bulb tree-sm 21
+    6400032: bulb tree-sm 22
+    6400034: bulb tree-sm 23
+    6400036: bulb tree-sm 24
+    6400038: bulb tree-sm 25
+    6400040: bulb tree-sm 26
+    6400042: bulb tree-sm 27
+    6400044: bulb tree-sm 28
+    6400046: bulb tree-sm 29
+    6400048: bulb tree-sm 3
+    6400050: bulb tree-sm 30
+    6400052: bulb tree-sm 31
+    6400054: bulb tree-sm 32
+    6400056: bulb tree-sm 33
+    6400058: bulb tree-sm 34
+    6400060: bulb tree-sm 35
+    6400062: bulb tree-sm 36
+    6400064: bulb tree-sm 37
+    6400066: bulb tree-sm 38
+    6400068: bulb tree-sm 39
+    6400070: bulb tree-sm 4
+    6400072: bulb tree-sm 40
+    6400074: bulb tree-sm 41
+    6400076: bulb tree-sm 42
+    6400078: bulb tree-sm 43
+    6400080: bulb tree-sm 44
+    6400082: bulb tree-sm 45
+    6400084: bulb tree-sm 5
+    6400086: bulb tree-sm 6
+    6400088: bulb tree-sm 7
+    6400090: bulb tree-sm 8
+    6400092: bulb tree-sm 9
+    6400094: Group 11
+    6400096: Group 13
+    6400098: Group 15
+    6400100: Group 17
+    6400102: Group 19
+    6400104: Group 21
+    6400106: Group 23
+    6400108: Group 25
+    6400110: Group 27
+    6400112: Group 29
+    6400114: Group 31
+    6400116: Group 33
+    6400118: Group 35
+    6400120: Group 37
+    6400122: Group 39
+    6400124: Group 41
+    6400126: Group 43
+    6400128: Group 45
+    6400130: Group 47
+    6400132: Group 49
+    6400134: Group 51
+    6400136: Group 53
+    6400138: Group 55
+    6400140: Group 57
+    6400142: Group 59
+    6400144: Group 61
+    6400146: Group 63
+    6400148: Group 65
+    6400150: Group 67
+    6400152: Group 69
+    6400154: Group 71
+    6400156: Group 73
+    6400158: Group 75
+    6400160: Group 77
+    6400162: Image 1
+    6400164: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: b9c44e4ab47220b4b99a3be273064b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: c93b0c28254195b43822799bdb2febe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: d9a00a5fc70978c46a3876e2c334e634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 9652725abe2c2004996d3f31ecf26335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 68c511a6f17bd9640a56ace82141bc61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: cda46cee6cb531444aec8968b198c92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puse_pedestrian
+    second: {fileID: 2100000, guid: 4b90951700b85864ca80c64e27115c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 6fd07d87a4a787f46beafdb4f9ee3496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 2c740375ef95d0242a73b3a07bb14a83, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

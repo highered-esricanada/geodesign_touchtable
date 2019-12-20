@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2eb8786c46d9e41498479f698cc5caca
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000270000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e010000240100002501000026010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 05752001f1998968560c9d0fbcb91830
+  longitude: -123.158019
+  latitude: 49.263189
+  northCorrection: 359.88025147103286
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 90.257324, y: 46.961826, z: -90.025505}
+      lookAt: {x: 22.869715, y: 14.467705, z: -26.009087}
+      up: {x: -0.23336491, y: 0.9439423, z: 0.23348191}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 62.717953, y: 27.160093, z: -50.91878}
+        lookAt: {x: -4.6696577, y: -5.3340297, z: 13.097636}
+        up: {x: -0.23336491, y: 0.9439423, z: 0.23348191}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 62.717953, y: 27.160093, z: -50.91878}
+        lookAt: {x: -4.6696577, y: -5.3340297, z: 13.097636}
+        up: {x: -0.23336491, y: 0.9439423, z: 0.23348191}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+    - camera:
+        position: {x: 1.2005556, y: 281.42523, z: 33.918476}
+        lookAt: {x: 0.8575397, y: 5.8712683, z: 24.227482}
+        up: {x: -0.000043752225, y: -0.035147347, z: 0.99938214}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 5817.3354
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Balcony Balustre
+    100004: Balcony Balustre 1
+    100006: Balcony Balustre 10
+    100008: Balcony Balustre 11
+    100010: Balcony Balustre 12
+    100012: Balcony Balustre 13
+    100014: Balcony Balustre 14
+    100016: Balcony Balustre 15
+    100018: Balcony Balustre 16
+    100020: Balcony Balustre 17
+    100022: Balcony Balustre 18
+    100024: Balcony Balustre 19
+    100026: Balcony Balustre 2
+    100028: Balcony Balustre 20
+    100030: Balcony Balustre 21
+    100032: Balcony Balustre 22
+    100034: Balcony Balustre 23
+    100036: Balcony Balustre 24
+    100038: Balcony Balustre 25
+    100040: Balcony Balustre 26
+    100042: Balcony Balustre 27
+    100044: Balcony Balustre 28
+    100046: Balcony Balustre 29
+    100048: Balcony Balustre 3
+    100050: Balcony Balustre 30
+    100052: Balcony Balustre 4
+    100054: Balcony Balustre 5
+    100056: Balcony Balustre 6
+    100058: Balcony Balustre 7
+    100060: Balcony Balustre 8
+    100062: Balcony Balustre 9
+    100064: Balcony Balustre#1
+    100066: Balcony Balustre#1 1
+    100068: Balcony Balustre#1 2
+    100070: Balcony Balustre#1 3
+    100072: Balcony Balustre#1 4
+    100074: Balcony Balustre#1 5
+    100076: Front Fence 1#2
+    100078: Front Fence 1#2 1
+    100080: Front Fence 1#3
+    100082: Front Fence 1#3 1
+    100084: Front Fence 1#3 2
+    100086: Front Fence 1#3 3
+    100088: Front Fence 1#3 4
+    100090: Front Fence 1#3 5
+    100092: Front Fence 1#3 6
+    100094: Group 103
+    100096: Group 107
+    100098: Group 111
+    100100: Group 115
+    100102: Group 119
+    100104: Group 123
+    100106: Group 127
+    100108: Group 130
+    100110: Group 132
+    100112: Group 14
+    100114: Group 16
+    100116: Group 169
+    100118: Group 171
+    100120: Group 18
+    100122: Group 20
+    100124: Group 209
+    100126: Group 213
+    100128: Group 217
+    100130: Group 22
+    100132: Group 221
+    100134: Group 225
+    100136: Group 229
+    100138: Group 233
+    100140: Group 237
+    100142: Group 24
+    100144: Group 241
+    100146: Group 245
+    100148: Group 249
+    100150: Group 253
+    100152: Group 257
+    100154: Group 261
+    100156: Group 265
+    100158: Group 269
+    100160: Group 273
+    100162: Group 277
+    100164: Group 281
+    100166: Group 285
+    100168: Group 44
+    100170: Group 46
+    100172: Group 49
+    100174: Group 53
+    100176: Group 55
+    100178: Group 58
+    100180: Group 62
+    100182: Group 64
+    100184: Group 71
+    100186: Group 73
+    100188: Group 79
+    100190: Group 83
+    100192: Group 87
+    100194: Group 91
+    100196: Group 95
+    100198: Group 99
+    100200: Image 1
+    100202: rounded-sm#1
+    100204: rounded-sm#1 1
+    100206: rounded-sm#1 2
+    100208: rounded-sm#1 3
+    100210: rounded-sm#1 4
+    100212: rounded-sm#1 5
+    100214: rounded-sm#1 6
+    100216: rounded-sm#1 7
+    100218: scale_plan_B
+    100220: scaleobq1
+    100222: Side Balcony Piece#2
+    100224: Side Balcony Piece#2 1
+    100226: Side Balcony Piece#2 10
+    100228: Side Balcony Piece#2 11
+    100230: Side Balcony Piece#2 12
+    100232: Side Balcony Piece#2 13
+    100234: Side Balcony Piece#2 14
+    100236: Side Balcony Piece#2 15
+    100238: Side Balcony Piece#2 2
+    100240: Side Balcony Piece#2 3
+    100242: Side Balcony Piece#2 4
+    100244: Side Balcony Piece#2 5
+    100246: Side Balcony Piece#2 6
+    100248: Side Balcony Piece#2 7
+    100250: Side Balcony Piece#2 8
+    100252: Side Balcony Piece#2 9
+    100254: Side Balcony Piece#3
+    100256: side railing#1
+    100258: side railing#1 1
+    100260: side railing#2
+    100262: side railing#2 1
+    100264: side railing#2 10
+    100266: side railing#2 11
+    100268: side railing#2 2
+    100270: side railing#2 3
+    100272: side railing#2 4
+    100274: side railing#2 5
+    100276: side railing#2 6
+    100278: side railing#2 7
+    100280: side railing#2 8
+    100282: side railing#2 9
+    400000: //RootNode
+    400002: Balcony Balustre
+    400004: Balcony Balustre 1
+    400006: Balcony Balustre 10
+    400008: Balcony Balustre 11
+    400010: Balcony Balustre 12
+    400012: Balcony Balustre 13
+    400014: Balcony Balustre 14
+    400016: Balcony Balustre 15
+    400018: Balcony Balustre 16
+    400020: Balcony Balustre 17
+    400022: Balcony Balustre 18
+    400024: Balcony Balustre 19
+    400026: Balcony Balustre 2
+    400028: Balcony Balustre 20
+    400030: Balcony Balustre 21
+    400032: Balcony Balustre 22
+    400034: Balcony Balustre 23
+    400036: Balcony Balustre 24
+    400038: Balcony Balustre 25
+    400040: Balcony Balustre 26
+    400042: Balcony Balustre 27
+    400044: Balcony Balustre 28
+    400046: Balcony Balustre 29
+    400048: Balcony Balustre 3
+    400050: Balcony Balustre 30
+    400052: Balcony Balustre 4
+    400054: Balcony Balustre 5
+    400056: Balcony Balustre 6
+    400058: Balcony Balustre 7
+    400060: Balcony Balustre 8
+    400062: Balcony Balustre 9
+    400064: Balcony Balustre#1
+    400066: Balcony Balustre#1 1
+    400068: Balcony Balustre#1 2
+    400070: Balcony Balustre#1 3
+    400072: Balcony Balustre#1 4
+    400074: Balcony Balustre#1 5
+    400076: Front Fence 1#2
+    400078: Front Fence 1#2 1
+    400080: Front Fence 1#3
+    400082: Front Fence 1#3 1
+    400084: Front Fence 1#3 2
+    400086: Front Fence 1#3 3
+    400088: Front Fence 1#3 4
+    400090: Front Fence 1#3 5
+    400092: Front Fence 1#3 6
+    400094: Group 103
+    400096: Group 107
+    400098: Group 111
+    400100: Group 115
+    400102: Group 119
+    400104: Group 123
+    400106: Group 127
+    400108: Group 130
+    400110: Group 132
+    400112: Group 14
+    400114: Group 16
+    400116: Group 169
+    400118: Group 171
+    400120: Group 18
+    400122: Group 20
+    400124: Group 209
+    400126: Group 213
+    400128: Group 217
+    400130: Group 22
+    400132: Group 221
+    400134: Group 225
+    400136: Group 229
+    400138: Group 233
+    400140: Group 237
+    400142: Group 24
+    400144: Group 241
+    400146: Group 245
+    400148: Group 249
+    400150: Group 253
+    400152: Group 257
+    400154: Group 261
+    400156: Group 265
+    400158: Group 269
+    400160: Group 273
+    400162: Group 277
+    400164: Group 281
+    400166: Group 285
+    400168: Group 44
+    400170: Group 46
+    400172: Group 49
+    400174: Group 53
+    400176: Group 55
+    400178: Group 58
+    400180: Group 62
+    400182: Group 64
+    400184: Group 71
+    400186: Group 73
+    400188: Group 79
+    400190: Group 83
+    400192: Group 87
+    400194: Group 91
+    400196: Group 95
+    400198: Group 99
+    400200: Image 1
+    400202: rounded-sm#1
+    400204: rounded-sm#1 1
+    400206: rounded-sm#1 2
+    400208: rounded-sm#1 3
+    400210: rounded-sm#1 4
+    400212: rounded-sm#1 5
+    400214: rounded-sm#1 6
+    400216: rounded-sm#1 7
+    400218: scale_plan_B
+    400220: scaleobq1
+    400222: Side Balcony Piece#2
+    400224: Side Balcony Piece#2 1
+    400226: Side Balcony Piece#2 10
+    400228: Side Balcony Piece#2 11
+    400230: Side Balcony Piece#2 12
+    400232: Side Balcony Piece#2 13
+    400234: Side Balcony Piece#2 14
+    400236: Side Balcony Piece#2 15
+    400238: Side Balcony Piece#2 2
+    400240: Side Balcony Piece#2 3
+    400242: Side Balcony Piece#2 4
+    400244: Side Balcony Piece#2 5
+    400246: Side Balcony Piece#2 6
+    400248: Side Balcony Piece#2 7
+    400250: Side Balcony Piece#2 8
+    400252: Side Balcony Piece#2 9
+    400254: Side Balcony Piece#3
+    400256: side railing#1
+    400258: side railing#1 1
+    400260: side railing#2
+    400262: side railing#2 1
+    400264: side railing#2 10
+    400266: side railing#2 11
+    400268: side railing#2 2
+    400270: side railing#2 3
+    400272: side railing#2 4
+    400274: side railing#2 5
+    400276: side railing#2 6
+    400278: side railing#2 7
+    400280: side railing#2 8
+    400282: side railing#2 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_bldg_accent
+    2100006: OV_shrub_texture
+    2100008: OV_paving_pedestrian
+    2100010: OV_turf_solid
+    2100012: OV_paving_vehicle
+    2100014: OV_bldg_wall
+    2100016: mapletree
+    2100018: Puse_building
+    2100020: OV_bldg_roof
+    2100022: F_unconditioned
+    2100024: M_residential
+    2100026: 0_label
+    2300000: Balcony Balustre
+    2300002: Balcony Balustre 1
+    2300004: Balcony Balustre 10
+    2300006: Balcony Balustre 11
+    2300008: Balcony Balustre 12
+    2300010: Balcony Balustre 13
+    2300012: Balcony Balustre 14
+    2300014: Balcony Balustre 15
+    2300016: Balcony Balustre 16
+    2300018: Balcony Balustre 17
+    2300020: Balcony Balustre 18
+    2300022: Balcony Balustre 19
+    2300024: Balcony Balustre 2
+    2300026: Balcony Balustre 20
+    2300028: Balcony Balustre 21
+    2300030: Balcony Balustre 22
+    2300032: Balcony Balustre 23
+    2300034: Balcony Balustre 24
+    2300036: Balcony Balustre 25
+    2300038: Balcony Balustre 26
+    2300040: Balcony Balustre 27
+    2300042: Balcony Balustre 28
+    2300044: Balcony Balustre 29
+    2300046: Balcony Balustre 3
+    2300048: Balcony Balustre 30
+    2300050: Balcony Balustre 4
+    2300052: Balcony Balustre 5
+    2300054: Balcony Balustre 6
+    2300056: Balcony Balustre 7
+    2300058: Balcony Balustre 8
+    2300060: Balcony Balustre 9
+    2300062: Balcony Balustre#1
+    2300064: Balcony Balustre#1 1
+    2300066: Balcony Balustre#1 2
+    2300068: Balcony Balustre#1 3
+    2300070: Balcony Balustre#1 4
+    2300072: Balcony Balustre#1 5
+    2300074: Front Fence 1#2
+    2300076: Front Fence 1#2 1
+    2300078: Front Fence 1#3
+    2300080: Front Fence 1#3 1
+    2300082: Front Fence 1#3 2
+    2300084: Front Fence 1#3 3
+    2300086: Front Fence 1#3 4
+    2300088: Front Fence 1#3 5
+    2300090: Front Fence 1#3 6
+    2300092: Group 103
+    2300094: Group 107
+    2300096: Group 111
+    2300098: Group 115
+    2300100: Group 119
+    2300102: Group 123
+    2300104: Group 127
+    2300106: Group 130
+    2300108: Group 132
+    2300110: Group 14
+    2300112: Group 16
+    2300114: Group 169
+    2300116: Group 171
+    2300118: Group 18
+    2300120: Group 20
+    2300122: Group 209
+    2300124: Group 213
+    2300126: Group 217
+    2300128: Group 22
+    2300130: Group 221
+    2300132: Group 225
+    2300134: Group 229
+    2300136: Group 233
+    2300138: Group 237
+    2300140: Group 24
+    2300142: Group 241
+    2300144: Group 245
+    2300146: Group 249
+    2300148: Group 253
+    2300150: Group 257
+    2300152: Group 261
+    2300154: Group 265
+    2300156: Group 269
+    2300158: Group 273
+    2300160: Group 277
+    2300162: Group 281
+    2300164: Group 285
+    2300166: Group 44
+    2300168: Group 49
+    2300170: Group 53
+    2300172: Group 58
+    2300174: Group 62
+    2300176: Group 71
+    2300178: Group 73
+    2300180: Group 79
+    2300182: Group 83
+    2300184: Group 87
+    2300186: Group 91
+    2300188: Group 95
+    2300190: Group 99
+    2300192: Image 1
+    2300194: rounded-sm#1
+    2300196: rounded-sm#1 1
+    2300198: rounded-sm#1 2
+    2300200: rounded-sm#1 3
+    2300202: rounded-sm#1 4
+    2300204: rounded-sm#1 5
+    2300206: rounded-sm#1 6
+    2300208: rounded-sm#1 7
+    2300210: scale_plan_B
+    2300212: Side Balcony Piece#2
+    2300214: Side Balcony Piece#2 1
+    2300216: Side Balcony Piece#2 10
+    2300218: Side Balcony Piece#2 11
+    2300220: Side Balcony Piece#2 12
+    2300222: Side Balcony Piece#2 13
+    2300224: Side Balcony Piece#2 14
+    2300226: Side Balcony Piece#2 15
+    2300228: Side Balcony Piece#2 2
+    2300230: Side Balcony Piece#2 3
+    2300232: Side Balcony Piece#2 4
+    2300234: Side Balcony Piece#2 5
+    2300236: Side Balcony Piece#2 6
+    2300238: Side Balcony Piece#2 7
+    2300240: Side Balcony Piece#2 8
+    2300242: Side Balcony Piece#2 9
+    2300244: Side Balcony Piece#3
+    2300246: side railing#2
+    2300248: side railing#2 1
+    2300250: side railing#2 10
+    2300252: side railing#2 11
+    2300254: side railing#2 2
+    2300256: side railing#2 3
+    2300258: side railing#2 4
+    2300260: side railing#2 5
+    2300262: side railing#2 6
+    2300264: side railing#2 7
+    2300266: side railing#2 8
+    2300268: side railing#2 9
+    3300000: Balcony Balustre
+    3300002: Balcony Balustre 1
+    3300004: Balcony Balustre 10
+    3300006: Balcony Balustre 11
+    3300008: Balcony Balustre 12
+    3300010: Balcony Balustre 13
+    3300012: Balcony Balustre 14
+    3300014: Balcony Balustre 15
+    3300016: Balcony Balustre 16
+    3300018: Balcony Balustre 17
+    3300020: Balcony Balustre 18
+    3300022: Balcony Balustre 19
+    3300024: Balcony Balustre 2
+    3300026: Balcony Balustre 20
+    3300028: Balcony Balustre 21
+    3300030: Balcony Balustre 22
+    3300032: Balcony Balustre 23
+    3300034: Balcony Balustre 24
+    3300036: Balcony Balustre 25
+    3300038: Balcony Balustre 26
+    3300040: Balcony Balustre 27
+    3300042: Balcony Balustre 28
+    3300044: Balcony Balustre 29
+    3300046: Balcony Balustre 3
+    3300048: Balcony Balustre 30
+    3300050: Balcony Balustre 4
+    3300052: Balcony Balustre 5
+    3300054: Balcony Balustre 6
+    3300056: Balcony Balustre 7
+    3300058: Balcony Balustre 8
+    3300060: Balcony Balustre 9
+    3300062: Balcony Balustre#1
+    3300064: Balcony Balustre#1 1
+    3300066: Balcony Balustre#1 2
+    3300068: Balcony Balustre#1 3
+    3300070: Balcony Balustre#1 4
+    3300072: Balcony Balustre#1 5
+    3300074: Front Fence 1#2
+    3300076: Front Fence 1#2 1
+    3300078: Front Fence 1#3
+    3300080: Front Fence 1#3 1
+    3300082: Front Fence 1#3 2
+    3300084: Front Fence 1#3 3
+    3300086: Front Fence 1#3 4
+    3300088: Front Fence 1#3 5
+    3300090: Front Fence 1#3 6
+    3300092: Group 103
+    3300094: Group 107
+    3300096: Group 111
+    3300098: Group 115
+    3300100: Group 119
+    3300102: Group 123
+    3300104: Group 127
+    3300106: Group 130
+    3300108: Group 132
+    3300110: Group 14
+    3300112: Group 16
+    3300114: Group 169
+    3300116: Group 171
+    3300118: Group 18
+    3300120: Group 20
+    3300122: Group 209
+    3300124: Group 213
+    3300126: Group 217
+    3300128: Group 22
+    3300130: Group 221
+    3300132: Group 225
+    3300134: Group 229
+    3300136: Group 233
+    3300138: Group 237
+    3300140: Group 24
+    3300142: Group 241
+    3300144: Group 245
+    3300146: Group 249
+    3300148: Group 253
+    3300150: Group 257
+    3300152: Group 261
+    3300154: Group 265
+    3300156: Group 269
+    3300158: Group 273
+    3300160: Group 277
+    3300162: Group 281
+    3300164: Group 285
+    3300166: Group 44
+    3300168: Group 49
+    3300170: Group 53
+    3300172: Group 58
+    3300174: Group 62
+    3300176: Group 71
+    3300178: Group 73
+    3300180: Group 79
+    3300182: Group 83
+    3300184: Group 87
+    3300186: Group 91
+    3300188: Group 95
+    3300190: Group 99
+    3300192: Image 1
+    3300194: rounded-sm#1
+    3300196: rounded-sm#1 1
+    3300198: rounded-sm#1 2
+    3300200: rounded-sm#1 3
+    3300202: rounded-sm#1 4
+    3300204: rounded-sm#1 5
+    3300206: rounded-sm#1 6
+    3300208: rounded-sm#1 7
+    3300210: scale_plan_B
+    3300212: Side Balcony Piece#2
+    3300214: Side Balcony Piece#2 1
+    3300216: Side Balcony Piece#2 10
+    3300218: Side Balcony Piece#2 11
+    3300220: Side Balcony Piece#2 12
+    3300222: Side Balcony Piece#2 13
+    3300224: Side Balcony Piece#2 14
+    3300226: Side Balcony Piece#2 15
+    3300228: Side Balcony Piece#2 2
+    3300230: Side Balcony Piece#2 3
+    3300232: Side Balcony Piece#2 4
+    3300234: Side Balcony Piece#2 5
+    3300236: Side Balcony Piece#2 6
+    3300238: Side Balcony Piece#2 7
+    3300240: Side Balcony Piece#2 8
+    3300242: Side Balcony Piece#2 9
+    3300244: Side Balcony Piece#3
+    3300246: side railing#2
+    3300248: side railing#2 1
+    3300250: side railing#2 10
+    3300252: side railing#2 11
+    3300254: side railing#2 2
+    3300256: side railing#2 3
+    3300258: side railing#2 4
+    3300260: side railing#2 5
+    3300262: side railing#2 6
+    3300264: side railing#2 7
+    3300266: side railing#2 8
+    3300268: side railing#2 9
+    4300000: Mesh 32039-00
+    4300002: Mesh Group 14
+    4300004: Mesh Group 16
+    4300006: Mesh Group 18
+    4300008: Mesh Group 20
+    4300010: Mesh Group 22
+    4300012: Mesh Group 24
+    4300014: Mesh rounded-sm#1
+    4300016: Mesh rounded-sm#1
+    4300018: Mesh Group 44
+    4300020: Mesh Front Fence 1#2
+    4300022: Mesh Group 49
+    4300024: Mesh Side Balcony Piece#2
+    4300026: Mesh Group 53
+    4300028: Mesh Balcony Balustre
+    4300030: Mesh Side Balcony Piece#3
+    4300032: Mesh Group 71
+    4300034: Mesh side railing#2
+    4300036: Mesh Group 79
+    4300038: Mesh Front Fence 1#3
+    4300040: Mesh Group 87
+    4300042: Mesh Group 130
+    4300044: Mesh Group 132
+    4300046: Mesh Balcony Balustre#1
+    4300048: Mesh scale_plan_B
+    6400000: Balcony Balustre
+    6400002: Balcony Balustre 1
+    6400004: Balcony Balustre 10
+    6400006: Balcony Balustre 11
+    6400008: Balcony Balustre 12
+    6400010: Balcony Balustre 13
+    6400012: Balcony Balustre 14
+    6400014: Balcony Balustre 15
+    6400016: Balcony Balustre 16
+    6400018: Balcony Balustre 17
+    6400020: Balcony Balustre 18
+    6400022: Balcony Balustre 19
+    6400024: Balcony Balustre 2
+    6400026: Balcony Balustre 20
+    6400028: Balcony Balustre 21
+    6400030: Balcony Balustre 22
+    6400032: Balcony Balustre 23
+    6400034: Balcony Balustre 24
+    6400036: Balcony Balustre 25
+    6400038: Balcony Balustre 26
+    6400040: Balcony Balustre 27
+    6400042: Balcony Balustre 28
+    6400044: Balcony Balustre 29
+    6400046: Balcony Balustre 3
+    6400048: Balcony Balustre 30
+    6400050: Balcony Balustre 4
+    6400052: Balcony Balustre 5
+    6400054: Balcony Balustre 6
+    6400056: Balcony Balustre 7
+    6400058: Balcony Balustre 8
+    6400060: Balcony Balustre 9
+    6400062: Balcony Balustre#1
+    6400064: Balcony Balustre#1 1
+    6400066: Balcony Balustre#1 2
+    6400068: Balcony Balustre#1 3
+    6400070: Balcony Balustre#1 4
+    6400072: Balcony Balustre#1 5
+    6400074: Front Fence 1#2
+    6400076: Front Fence 1#2 1
+    6400078: Front Fence 1#3
+    6400080: Front Fence 1#3 1
+    6400082: Front Fence 1#3 2
+    6400084: Front Fence 1#3 3
+    6400086: Front Fence 1#3 4
+    6400088: Front Fence 1#3 5
+    6400090: Front Fence 1#3 6
+    6400092: Group 103
+    6400094: Group 107
+    6400096: Group 111
+    6400098: Group 115
+    6400100: Group 119
+    6400102: Group 123
+    6400104: Group 127
+    6400106: Group 130
+    6400108: Group 132
+    6400110: Group 14
+    6400112: Group 16
+    6400114: Group 169
+    6400116: Group 171
+    6400118: Group 18
+    6400120: Group 20
+    6400122: Group 209
+    6400124: Group 213
+    6400126: Group 217
+    6400128: Group 22
+    6400130: Group 221
+    6400132: Group 225
+    6400134: Group 229
+    6400136: Group 233
+    6400138: Group 237
+    6400140: Group 24
+    6400142: Group 241
+    6400144: Group 245
+    6400146: Group 249
+    6400148: Group 253
+    6400150: Group 257
+    6400152: Group 261
+    6400154: Group 265
+    6400156: Group 269
+    6400158: Group 273
+    6400160: Group 277
+    6400162: Group 281
+    6400164: Group 285
+    6400166: Group 44
+    6400168: Group 49
+    6400170: Group 53
+    6400172: Group 58
+    6400174: Group 62
+    6400176: Group 71
+    6400178: Group 73
+    6400180: Group 79
+    6400182: Group 83
+    6400184: Group 87
+    6400186: Group 91
+    6400188: Group 95
+    6400190: Group 99
+    6400192: Image 1
+    6400194: rounded-sm#1
+    6400196: rounded-sm#1 1
+    6400198: rounded-sm#1 2
+    6400200: rounded-sm#1 3
+    6400202: rounded-sm#1 4
+    6400204: rounded-sm#1 5
+    6400206: rounded-sm#1 6
+    6400208: rounded-sm#1 7
+    6400210: scale_plan_B
+    6400212: Side Balcony Piece#2
+    6400214: Side Balcony Piece#2 1
+    6400216: Side Balcony Piece#2 10
+    6400218: Side Balcony Piece#2 11
+    6400220: Side Balcony Piece#2 12
+    6400222: Side Balcony Piece#2 13
+    6400224: Side Balcony Piece#2 14
+    6400226: Side Balcony Piece#2 15
+    6400228: Side Balcony Piece#2 2
+    6400230: Side Balcony Piece#2 3
+    6400232: Side Balcony Piece#2 4
+    6400234: Side Balcony Piece#2 5
+    6400236: Side Balcony Piece#2 6
+    6400238: Side Balcony Piece#2 7
+    6400240: Side Balcony Piece#2 8
+    6400242: Side Balcony Piece#2 9
+    6400244: Side Balcony Piece#3
+    6400246: side railing#2
+    6400248: side railing#2 1
+    6400250: side railing#2 10
+    6400252: side railing#2 11
+    6400254: side railing#2 2
+    6400256: side railing#2 3
+    6400258: side railing#2 4
+    6400260: side railing#2 5
+    6400262: side railing#2 6
+    6400264: side railing#2 7
+    6400266: side railing#2 8
+    6400268: side railing#2 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 498f17478d4e36444b4b98613de03692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_unconditioned
+    second: {fileID: 2100000, guid: 5afb5d2d47a05a747b1cb9c38abb48af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_residential
+    second: {fileID: 2100000, guid: ceb0b7cd02a845443adb350a65de2f44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: a141da58c31927e4dbd3df6c259d4043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: b6fade3fcb5b69e42a44e0f9981d1c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 6c5cfaa26bd274744a5b8411c92992f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 17257d0301d01044a943219e1234b482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 796cc09acaed1e745aa382265906c618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 31eb004149fdead489a0c932039b55ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 868e72d17eb10af47906f9b96ec1cde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 2126eb92b3b577f4a82ad3abfcebfcac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puse_building
+    second: {fileID: 2100000, guid: 6fc33734597ec564e990b6dfcaabddab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 72d18ad7b34bf1c478a7d5f42450edf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: f2510e29c63089d4b8ea9d2741a0fef5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

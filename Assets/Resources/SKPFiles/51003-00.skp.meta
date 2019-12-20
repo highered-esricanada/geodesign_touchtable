@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: b0583971da9072a41b1df9eb33cf975e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000190000001a0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f0000006200000063000000
+  assetHash:
+    serializedVersion: 2
+    Hash: de4b5d017a3bd78566a80a5b7ccfc97b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 47.5564, y: 28.746803, z: -78.738495}
+      lookAt: {x: -163.52777, y: -104.12581, z: 242.98605}
+      up: {x: -0.17905328, y: 0.94523174, z: 0.27290457}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -4.7528205, y: 213.28268, z: -0.87272316}
+        lookAt: {x: -4.7528205, y: 2.8927295, z: -0.87272316}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3769.6958
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 47.5564, y: 28.746803, z: -78.738495}
+        lookAt: {x: -163.52777, y: -104.12581, z: 242.98605}
+        up: {x: -0.17905328, y: 0.94523174, z: 0.27290457}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 47.5564, y: 28.746803, z: -78.738495}
+        lookAt: {x: -163.52777, y: -104.12581, z: 242.98605}
+        up: {x: -0.17905328, y: 0.94523174, z: 0.27290457}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0_scale_obq
+    100002: //RootNode
+    100004: 51003_3d_building
+    100006: 51003_3d_site
+    100008: Door_double_french_2.62x2.3
+    100010: Door_double_french_2.62x2.3 1
+    100012: Door_double_french_2.62x2.3 10
+    100014: Door_double_french_2.62x2.3 2
+    100016: Door_double_french_2.62x2.3 3
+    100018: Door_double_french_2.62x2.3 4
+    100020: Door_double_french_2.62x2.3 5
+    100022: Door_double_french_2.62x2.3 6
+    100024: Door_double_french_2.62x2.3 7
+    100026: Door_double_french_2.62x2.3 8
+    100028: Door_double_french_2.62x2.3 9
+    100030: Door_lite_1.15x2.2
+    100032: Door_panel_.85x2.1
+    100034: garage_2.85x2.35
+    100036: Group 32
+    100038: Group 34
+    100040: Group 37
+    100042: Group 39
+    100044: Group 48
+    100046: Group 50
+    100048: Group 52
+    100050: Group 54
+    100052: Group 56
+    100054: Group 58
+    100056: Group 60
+    100058: Image 1
+    100060: tree_column_S
+    100062: tree_column_S 1
+    100064: tree_column_S 10
+    100066: tree_column_S 2
+    100068: tree_column_S 3
+    100070: tree_column_S 4
+    100072: tree_column_S 5
+    100074: tree_column_S 6
+    100076: tree_column_S 7
+    100078: tree_column_S 8
+    100080: tree_column_S 9
+    100082: tree_conifer_S
+    100084: tree_conifer_S 1
+    100086: Window_apron_double_1.86x1.9
+    100088: Window_apron_double_1.86x1.9 1
+    100090: window_arc
+    100092: Window_doublehung_1.12x1.47
+    100094: Window_doublehung_1.12x1.47 1
+    100096: Window_doublehung_1.12x1.47 2
+    100098: Window_heavycasing_double_1.34x0.95
+    400000: 0_scale_obq
+    400002: //RootNode
+    400004: 51003_3d_building
+    400006: 51003_3d_site
+    400008: Door_double_french_2.62x2.3
+    400010: Door_double_french_2.62x2.3 1
+    400012: Door_double_french_2.62x2.3 10
+    400014: Door_double_french_2.62x2.3 2
+    400016: Door_double_french_2.62x2.3 3
+    400018: Door_double_french_2.62x2.3 4
+    400020: Door_double_french_2.62x2.3 5
+    400022: Door_double_french_2.62x2.3 6
+    400024: Door_double_french_2.62x2.3 7
+    400026: Door_double_french_2.62x2.3 8
+    400028: Door_double_french_2.62x2.3 9
+    400030: Door_lite_1.15x2.2
+    400032: Door_panel_.85x2.1
+    400034: garage_2.85x2.35
+    400036: Group 32
+    400038: Group 34
+    400040: Group 37
+    400042: Group 39
+    400044: Group 48
+    400046: Group 50
+    400048: Group 52
+    400050: Group 54
+    400052: Group 56
+    400054: Group 58
+    400056: Group 60
+    400058: Image 1
+    400060: tree_column_S
+    400062: tree_column_S 1
+    400064: tree_column_S 10
+    400066: tree_column_S 2
+    400068: tree_column_S 3
+    400070: tree_column_S 4
+    400072: tree_column_S 5
+    400074: tree_column_S 6
+    400076: tree_column_S 7
+    400078: tree_column_S 8
+    400080: tree_column_S 9
+    400082: tree_conifer_S
+    400084: tree_conifer_S 1
+    400086: Window_apron_double_1.86x1.9
+    400088: Window_apron_double_1.86x1.9 1
+    400090: window_arc
+    400092: Window_doublehung_1.12x1.47
+    400094: Window_doublehung_1.12x1.47 1
+    400096: Window_doublehung_1.12x1.47 2
+    400098: Window_heavycasing_double_1.34x0.95
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: columnartree1
+    2100006: coniferous1
+    2100008: OV_paving_pedestrian
+    2100010: OV_turf_solid
+    2100012: paving
+    2100014: OV_shrub_texture
+    2100016: vehicle_paved
+    2100018: pedestrian_paved
+    2100020: OV_paving_vehicle
+    2100022: OV_shrub_solid
+    2100024: modelroof
+    2100026: buildingwalls
+    2100028: conditionedfloor
+    2100030: ApertureGlass
+    2100032: _Blue Glass_
+    2100034: 0_label
+    2300000: 0_scale_obq
+    2300002: 51003_3d_building
+    2300004: 51003_3d_site
+    2300006: Door_double_french_2.62x2.3
+    2300008: Door_double_french_2.62x2.3 1
+    2300010: Door_double_french_2.62x2.3 10
+    2300012: Door_double_french_2.62x2.3 2
+    2300014: Door_double_french_2.62x2.3 3
+    2300016: Door_double_french_2.62x2.3 4
+    2300018: Door_double_french_2.62x2.3 5
+    2300020: Door_double_french_2.62x2.3 6
+    2300022: Door_double_french_2.62x2.3 7
+    2300024: Door_double_french_2.62x2.3 8
+    2300026: Door_double_french_2.62x2.3 9
+    2300028: Door_lite_1.15x2.2
+    2300030: Door_panel_.85x2.1
+    2300032: garage_2.85x2.35
+    2300034: Group 32
+    2300036: Group 37
+    2300038: Group 48
+    2300040: Group 50
+    2300042: Group 52
+    2300044: Group 54
+    2300046: Group 56
+    2300048: Group 58
+    2300050: Group 60
+    2300052: Image 1
+    2300054: tree_column_S
+    2300056: tree_column_S 1
+    2300058: tree_column_S 10
+    2300060: tree_column_S 2
+    2300062: tree_column_S 3
+    2300064: tree_column_S 4
+    2300066: tree_column_S 5
+    2300068: tree_column_S 6
+    2300070: tree_column_S 7
+    2300072: tree_column_S 8
+    2300074: tree_column_S 9
+    2300076: tree_conifer_S
+    2300078: tree_conifer_S 1
+    2300080: Window_apron_double_1.86x1.9
+    2300082: Window_apron_double_1.86x1.9 1
+    2300084: window_arc
+    2300086: Window_doublehung_1.12x1.47
+    2300088: Window_doublehung_1.12x1.47 1
+    2300090: Window_doublehung_1.12x1.47 2
+    2300092: Window_heavycasing_double_1.34x0.95
+    3300000: 0_scale_obq
+    3300002: 51003_3d_building
+    3300004: 51003_3d_site
+    3300006: Door_double_french_2.62x2.3
+    3300008: Door_double_french_2.62x2.3 1
+    3300010: Door_double_french_2.62x2.3 10
+    3300012: Door_double_french_2.62x2.3 2
+    3300014: Door_double_french_2.62x2.3 3
+    3300016: Door_double_french_2.62x2.3 4
+    3300018: Door_double_french_2.62x2.3 5
+    3300020: Door_double_french_2.62x2.3 6
+    3300022: Door_double_french_2.62x2.3 7
+    3300024: Door_double_french_2.62x2.3 8
+    3300026: Door_double_french_2.62x2.3 9
+    3300028: Door_lite_1.15x2.2
+    3300030: Door_panel_.85x2.1
+    3300032: garage_2.85x2.35
+    3300034: Group 32
+    3300036: Group 37
+    3300038: Group 48
+    3300040: Group 50
+    3300042: Group 52
+    3300044: Group 54
+    3300046: Group 56
+    3300048: Group 58
+    3300050: Group 60
+    3300052: Image 1
+    3300054: tree_column_S
+    3300056: tree_column_S 1
+    3300058: tree_column_S 10
+    3300060: tree_column_S 2
+    3300062: tree_column_S 3
+    3300064: tree_column_S 4
+    3300066: tree_column_S 5
+    3300068: tree_column_S 6
+    3300070: tree_column_S 7
+    3300072: tree_column_S 8
+    3300074: tree_column_S 9
+    3300076: tree_conifer_S
+    3300078: tree_conifer_S 1
+    3300080: Window_apron_double_1.86x1.9
+    3300082: Window_apron_double_1.86x1.9 1
+    3300084: window_arc
+    3300086: Window_doublehung_1.12x1.47
+    3300088: Window_doublehung_1.12x1.47 1
+    3300090: Window_doublehung_1.12x1.47 2
+    3300092: Window_heavycasing_double_1.34x0.95
+    4300000: Mesh 51003-00
+    4300002: Mesh tree_column_S
+    4300004: Mesh tree_conifer_S
+    4300006: Mesh 51003_3d_site
+    4300008: Mesh Group 32
+    4300010: Mesh 51003_3d_building
+    4300012: Mesh Group 37
+    4300014: Mesh Window_doublehung_1.12x1.47
+    4300016: Mesh window_arc
+    4300018: Mesh Door_double_french_2.62x2.3
+    4300020: Mesh Window_apron_double_1.86x1.9
+    4300022: Mesh Door_panel_.85x2.1
+    4300024: Mesh garage_2.85x2.35
+    4300026: Mesh Window_heavycasing_double_1.34x0.95
+    4300028: Mesh Door_lite_1.15x2.2
+    4300030: Mesh Door_double_french_2.62x2.3
+    4300032: Mesh 0_scale_obq
+    6400000: 0_scale_obq
+    6400002: 51003_3d_building
+    6400004: 51003_3d_site
+    6400006: Door_double_french_2.62x2.3
+    6400008: Door_double_french_2.62x2.3 1
+    6400010: Door_double_french_2.62x2.3 10
+    6400012: Door_double_french_2.62x2.3 2
+    6400014: Door_double_french_2.62x2.3 3
+    6400016: Door_double_french_2.62x2.3 4
+    6400018: Door_double_french_2.62x2.3 5
+    6400020: Door_double_french_2.62x2.3 6
+    6400022: Door_double_french_2.62x2.3 7
+    6400024: Door_double_french_2.62x2.3 8
+    6400026: Door_double_french_2.62x2.3 9
+    6400028: Door_lite_1.15x2.2
+    6400030: Door_panel_.85x2.1
+    6400032: garage_2.85x2.35
+    6400034: Group 32
+    6400036: Group 37
+    6400038: Group 48
+    6400040: Group 50
+    6400042: Group 52
+    6400044: Group 54
+    6400046: Group 56
+    6400048: Group 58
+    6400050: Group 60
+    6400052: Image 1
+    6400054: tree_column_S
+    6400056: tree_column_S 1
+    6400058: tree_column_S 10
+    6400060: tree_column_S 2
+    6400062: tree_column_S 3
+    6400064: tree_column_S 4
+    6400066: tree_column_S 5
+    6400068: tree_column_S 6
+    6400070: tree_column_S 7
+    6400072: tree_column_S 8
+    6400074: tree_column_S 9
+    6400076: tree_conifer_S
+    6400078: tree_conifer_S 1
+    6400080: Window_apron_double_1.86x1.9
+    6400082: Window_apron_double_1.86x1.9 1
+    6400084: window_arc
+    6400086: Window_doublehung_1.12x1.47
+    6400088: Window_doublehung_1.12x1.47 1
+    6400090: Window_doublehung_1.12x1.47 2
+    6400092: Window_heavycasing_double_1.34x0.95
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: a4c9752bf53a6c74ea4df577f3100b44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: de9d3a8de85409f43834c473a78847f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 728991704b36f6448a67c06dbad36525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 1212b1e14fc88e44aa94be430bcd0b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 39c98da149f1ad14ea9143ebccb4aa64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 5c470936028566c41b23e6794ee3cd13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 0130d2c76e7d62545a4885a0eac897a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 1b8a51a041f6f604f86f7a12f0a6a610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Blue Glass_
+    second: {fileID: 2100000, guid: c8b9b6a7cb978db4eb7e9195e3324e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 9c7a6d5a728f072459afcd751b1d019d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 532c7abf8a1f7be40883a0bfb9e87fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: columnartree1
+    second: {fileID: 2100000, guid: a1edcaf941571f847ae42834bd844e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conditionedfloor
+    second: {fileID: 2100000, guid: 58d2b508397b02d42b88848038cc5bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coniferous1
+    second: {fileID: 2100000, guid: 66b7d17b0bbd9ed46b59f6a855de55ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: 617450542652a0e4b92a4426ad81c16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paving
+    second: {fileID: 2100000, guid: aa6df9830bd97444d96801f88cd7b100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: ae80797d14f9dae4e9642e1f1781fed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehicle_paved
+    second: {fileID: 2100000, guid: 2fb234c4f36ecf54e91f0d9b553dec59, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

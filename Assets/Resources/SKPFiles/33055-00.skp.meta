@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9286114f1cfdb2a498bfe22fee9825ed
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000a4020000a5020000ad020000ae020000af020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 138eebfc761ed5852f2b3dbeae172e80
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 80.76325, y: 41.92797, z: -80.76325}
+      lookAt: {x: 4.2483625, y: 3.2287157, z: -4.2483625}
+      up: {x: -0.23811714, y: 0.94159466, z: 0.23811714}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.0775394, y: 197.23355, z: -0.94795775}
+        lookAt: {x: 2.912528, y: 13.042884, z: -0.67711264}
+        up: {x: 0.000009300322, y: 0.0014703999, z: 0.9999989}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3886.2031
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 80.76325, y: 41.92797, z: -80.76325}
+        lookAt: {x: 4.2483625, y: 3.2287157, z: -4.2483625}
+        up: {x: -0.23811714, y: 0.94159466, z: 0.23811714}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 80.76325, y: 41.92797, z: -80.76325}
+        lookAt: {x: 4.2483625, y: 3.2287157, z: -4.2483625}
+        up: {x: -0.23811714, y: 0.94159466, z: 0.23811714}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#4
+    100004: Image 1
+    100006: massing#1
+    100008: scale_obq
+    400000: //RootNode
+    400002: Component#4
+    400004: Image 1
+    400006: massing#1
+    400008: scale_obq
+    2100000: Material 1
+    2100002: T4O Neighbourhood Mixed Use
+    2100004: 0_label
+    2300000: Image 1
+    2300002: massing#1
+    2300004: scale_obq
+    3300000: Image 1
+    3300002: massing#1
+    3300004: scale_obq
+    4300000: Mesh 33055-00
+    4300002: Mesh massing#1
+    4300004: Mesh scale_obq
+    6400000: Image 1
+    6400002: massing#1
+    6400004: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ea69fef5b06ed23449715ea43ac83fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: b547fa249b26429449d94cfe17e86f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T4O Neighbourhood Mixed Use
+    second: {fileID: 2100000, guid: 77e2c4433a8efa949b349b80a6058e04, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

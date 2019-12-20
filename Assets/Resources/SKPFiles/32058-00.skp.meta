@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 28b65a9631bbcec45a89d028c42c0ff7
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000040010000410100004201000043010000440100004501000046010000470100004801000049010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 97310d642855c59998901bd2667441d1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 65.26625, y: 24.006254, z: -54.761116}
+      lookAt: {x: 7.024899, y: -2.6496015, z: 0.47876835}
+      up: {x: -0.2225837, y: 0.94900507, z: 0.22326198}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 3.4004471, y: 105.35451, z: -0.59312123}
+        lookAt: {x: 2.428891, y: 4.7375617, z: -0.423658}
+        up: {x: 0.000016261476, y: 0.0016840816, z: 0.99999857}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2122.9548
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 65.26625, y: 24.006254, z: -54.761116}
+        lookAt: {x: 7.024899, y: -2.6496015, z: 0.47876835}
+        up: {x: -0.2225837, y: 0.94900507, z: 0.22326198}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 65.26625, y: 24.006254, z: -54.761116}
+        lookAt: {x: 7.024899, y: -2.6496015, z: 0.47876835}
+        up: {x: -0.2225837, y: 0.94900507, z: 0.22326198}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33049_border#2
+    100004: 3d_massing1
+    100006: 3d_massing2
+    100008: 3d_massing3
+    100010: Group 2
+    100012: Group 324
+    100014: Image 1
+    100016: rounded-sm_V2
+    100018: rounded-sm_V2 1
+    100020: rounded-sm_V2 10
+    100022: rounded-sm_V2 11
+    100024: rounded-sm_V2 12
+    100026: rounded-sm_V2 13
+    100028: rounded-sm_V2 14
+    100030: rounded-sm_V2 2
+    100032: rounded-sm_V2 3
+    100034: rounded-sm_V2 4
+    100036: rounded-sm_V2 5
+    100038: rounded-sm_V2 6
+    100040: rounded-sm_V2 7
+    100042: rounded-sm_V2 8
+    100044: rounded-sm_V2 9
+    100046: scale_obq
+    400000: //RootNode
+    400002: 33049_border#2
+    400004: 3d_massing1
+    400006: 3d_massing2
+    400008: 3d_massing3
+    400010: Group 2
+    400012: Group 324
+    400014: Image 1
+    400016: rounded-sm_V2
+    400018: rounded-sm_V2 1
+    400020: rounded-sm_V2 10
+    400022: rounded-sm_V2 11
+    400024: rounded-sm_V2 12
+    400026: rounded-sm_V2 13
+    400028: rounded-sm_V2 14
+    400030: rounded-sm_V2 2
+    400032: rounded-sm_V2 3
+    400034: rounded-sm_V2 4
+    400036: rounded-sm_V2 5
+    400038: rounded-sm_V2 6
+    400040: rounded-sm_V2 7
+    400042: rounded-sm_V2 8
+    400044: rounded-sm_V2 9
+    400046: scale_obq
+    2100000: Material 1
+    2100002: 0_label
+    2100004: T4 Walk Up Residential
+    2300000: 3d_massing1
+    2300002: 3d_massing2
+    2300004: Group 324
+    2300006: Image 1
+    2300008: rounded-sm_V2
+    2300010: rounded-sm_V2 1
+    2300012: rounded-sm_V2 10
+    2300014: rounded-sm_V2 11
+    2300016: rounded-sm_V2 12
+    2300018: rounded-sm_V2 13
+    2300020: rounded-sm_V2 14
+    2300022: rounded-sm_V2 2
+    2300024: rounded-sm_V2 3
+    2300026: rounded-sm_V2 4
+    2300028: rounded-sm_V2 5
+    2300030: rounded-sm_V2 6
+    2300032: rounded-sm_V2 7
+    2300034: rounded-sm_V2 8
+    2300036: rounded-sm_V2 9
+    2300038: scale_obq
+    3300000: 3d_massing1
+    3300002: 3d_massing2
+    3300004: Group 324
+    3300006: Image 1
+    3300008: rounded-sm_V2
+    3300010: rounded-sm_V2 1
+    3300012: rounded-sm_V2 10
+    3300014: rounded-sm_V2 11
+    3300016: rounded-sm_V2 12
+    3300018: rounded-sm_V2 13
+    3300020: rounded-sm_V2 14
+    3300022: rounded-sm_V2 2
+    3300024: rounded-sm_V2 3
+    3300026: rounded-sm_V2 4
+    3300028: rounded-sm_V2 5
+    3300030: rounded-sm_V2 6
+    3300032: rounded-sm_V2 7
+    3300034: rounded-sm_V2 8
+    3300036: rounded-sm_V2 9
+    3300038: scale_obq
+    4300000: Mesh 32058-00
+    4300002: Mesh rounded-sm_V2
+    4300004: Mesh scale_obq
+    4300006: Mesh Group 324
+    4300008: Mesh 3d_massing2
+    4300010: Mesh 3d_massing1
+    6400000: 3d_massing1
+    6400002: 3d_massing2
+    6400004: Group 324
+    6400006: Image 1
+    6400008: rounded-sm_V2
+    6400010: rounded-sm_V2 1
+    6400012: rounded-sm_V2 10
+    6400014: rounded-sm_V2 11
+    6400016: rounded-sm_V2 12
+    6400018: rounded-sm_V2 13
+    6400020: rounded-sm_V2 14
+    6400022: rounded-sm_V2 2
+    6400024: rounded-sm_V2 3
+    6400026: rounded-sm_V2 4
+    6400028: rounded-sm_V2 5
+    6400030: rounded-sm_V2 6
+    6400032: rounded-sm_V2 7
+    6400034: rounded-sm_V2 8
+    6400036: rounded-sm_V2 9
+    6400038: scale_obq
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 80af859909c80f44287eec770933e0c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 4f9f236bb1ae3344697935ff5bf6c9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T4 Walk Up Residential
+    second: {fileID: 2100000, guid: 7a337b15605dd674db27d86c76057049, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

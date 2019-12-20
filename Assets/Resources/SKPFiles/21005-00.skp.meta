@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: c263be9dff233f447aa73a4dcadafd48
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004b0000004c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 47b83878a779e92fd2c381de0f66ec48
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 44.002804, y: 28.964746, z: -135.77223}
+      lookAt: {x: 14.321048, y: 9.940289, z: -86.864006}
+      up: {x: -0.16371115, y: 0.94891024, z: 0.26975563}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 44.002804, y: 28.964746, z: -135.77223}
+        lookAt: {x: 14.321048, y: 9.940289, z: -86.864006}
+        up: {x: -0.16371115, y: 0.94891024, z: 0.26975563}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 48.597836, y: 210.49057, z: 11.612461}
+        lookAt: {x: 48.597836, y: -18210.582, z: 11.612461}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 10340.071
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 2
+    100004: Group 70
+    100006: Image 1
+    100008: rounded-lg
+    100010: rounded-lg 1
+    100012: rounded-med
+    100014: rounded-med 1
+    100016: rounded-med 10
+    100018: rounded-med 11
+    100020: rounded-med 12
+    100022: rounded-med 13
+    100024: rounded-med 14
+    100026: rounded-med 15
+    100028: rounded-med 16
+    100030: rounded-med 17
+    100032: rounded-med 18
+    100034: rounded-med 19
+    100036: rounded-med 2
+    100038: rounded-med 20
+    100040: rounded-med 21
+    100042: rounded-med 3
+    100044: rounded-med 4
+    100046: rounded-med 5
+    100048: rounded-med 6
+    100050: rounded-med 7
+    100052: rounded-med 8
+    100054: rounded-med 9
+    100056: rounded-sm
+    100058: rounded-sm 1
+    100060: rounded-sm 2
+    100062: rounded-sm 3
+    100064: rounded-sm 4
+    100066: rounded-sm 5
+    100068: rounded-sm 6
+    100070: rounded-sm 7
+    100072: rounded-sm 8
+    100074: scale_obq
+    400000: //RootNode
+    400002: Group 2
+    400004: Group 70
+    400006: Image 1
+    400008: rounded-lg
+    400010: rounded-lg 1
+    400012: rounded-med
+    400014: rounded-med 1
+    400016: rounded-med 10
+    400018: rounded-med 11
+    400020: rounded-med 12
+    400022: rounded-med 13
+    400024: rounded-med 14
+    400026: rounded-med 15
+    400028: rounded-med 16
+    400030: rounded-med 17
+    400032: rounded-med 18
+    400034: rounded-med 19
+    400036: rounded-med 2
+    400038: rounded-med 20
+    400040: rounded-med 21
+    400042: rounded-med 3
+    400044: rounded-med 4
+    400046: rounded-med 5
+    400048: rounded-med 6
+    400050: rounded-med 7
+    400052: rounded-med 8
+    400054: rounded-med 9
+    400056: rounded-sm
+    400058: rounded-sm 1
+    400060: rounded-sm 2
+    400062: rounded-sm 3
+    400064: rounded-sm 4
+    400066: rounded-sm 5
+    400068: rounded-sm 6
+    400070: rounded-sm 7
+    400072: rounded-sm 8
+    400074: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_turf_solid
+    2100006: OV_paving general
+    2100008: OV_paving_pedestrian
+    2100010: OV_shrub_texture
+    2100012: OV_paving_vehicle
+    2100014: 0_label
+    2100016: Pcov_shrub
+    2100018: OV_surface_other
+    2100020: OV_bldg_accent
+    2100022: mapletree
+    2300000: Group 2
+    2300002: Image 1
+    2300004: rounded-lg
+    2300006: rounded-lg 1
+    2300008: rounded-med
+    2300010: rounded-med 1
+    2300012: rounded-med 10
+    2300014: rounded-med 11
+    2300016: rounded-med 12
+    2300018: rounded-med 13
+    2300020: rounded-med 14
+    2300022: rounded-med 15
+    2300024: rounded-med 16
+    2300026: rounded-med 17
+    2300028: rounded-med 18
+    2300030: rounded-med 19
+    2300032: rounded-med 2
+    2300034: rounded-med 20
+    2300036: rounded-med 21
+    2300038: rounded-med 3
+    2300040: rounded-med 4
+    2300042: rounded-med 5
+    2300044: rounded-med 6
+    2300046: rounded-med 7
+    2300048: rounded-med 8
+    2300050: rounded-med 9
+    2300052: rounded-sm
+    2300054: rounded-sm 1
+    2300056: rounded-sm 2
+    2300058: rounded-sm 3
+    2300060: rounded-sm 4
+    2300062: rounded-sm 5
+    2300064: rounded-sm 6
+    2300066: rounded-sm 7
+    2300068: rounded-sm 8
+    2300070: scale_obq
+    3300000: Group 2
+    3300002: Image 1
+    3300004: rounded-lg
+    3300006: rounded-lg 1
+    3300008: rounded-med
+    3300010: rounded-med 1
+    3300012: rounded-med 10
+    3300014: rounded-med 11
+    3300016: rounded-med 12
+    3300018: rounded-med 13
+    3300020: rounded-med 14
+    3300022: rounded-med 15
+    3300024: rounded-med 16
+    3300026: rounded-med 17
+    3300028: rounded-med 18
+    3300030: rounded-med 19
+    3300032: rounded-med 2
+    3300034: rounded-med 20
+    3300036: rounded-med 21
+    3300038: rounded-med 3
+    3300040: rounded-med 4
+    3300042: rounded-med 5
+    3300044: rounded-med 6
+    3300046: rounded-med 7
+    3300048: rounded-med 8
+    3300050: rounded-med 9
+    3300052: rounded-sm
+    3300054: rounded-sm 1
+    3300056: rounded-sm 2
+    3300058: rounded-sm 3
+    3300060: rounded-sm 4
+    3300062: rounded-sm 5
+    3300064: rounded-sm 6
+    3300066: rounded-sm 7
+    3300068: rounded-sm 8
+    3300070: scale_obq
+    4300000: Mesh 21005-00
+    4300002: Mesh Group 2
+    4300004: Mesh rounded-med
+    4300006: Mesh rounded-sm
+    4300008: Mesh rounded-lg
+    4300010: Mesh rounded-med
+    4300012: Mesh scale_obq
+    6400000: Group 2
+    6400002: Image 1
+    6400004: rounded-lg
+    6400006: rounded-lg 1
+    6400008: rounded-med
+    6400010: rounded-med 1
+    6400012: rounded-med 10
+    6400014: rounded-med 11
+    6400016: rounded-med 12
+    6400018: rounded-med 13
+    6400020: rounded-med 14
+    6400022: rounded-med 15
+    6400024: rounded-med 16
+    6400026: rounded-med 17
+    6400028: rounded-med 18
+    6400030: rounded-med 19
+    6400032: rounded-med 2
+    6400034: rounded-med 20
+    6400036: rounded-med 21
+    6400038: rounded-med 3
+    6400040: rounded-med 4
+    6400042: rounded-med 5
+    6400044: rounded-med 6
+    6400046: rounded-med 7
+    6400048: rounded-med 8
+    6400050: rounded-med 9
+    6400052: rounded-sm
+    6400054: rounded-sm 1
+    6400056: rounded-sm 2
+    6400058: rounded-sm 3
+    6400060: rounded-sm 4
+    6400062: rounded-sm 5
+    6400064: rounded-sm 6
+    6400066: rounded-sm 7
+    6400068: rounded-sm 8
+    6400070: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 8b4076ce860e6e543b0c446cacb70e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 693e35f3f0d58c34083f3c6a8f72fb85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 2357dd7bdb187724986df038afbc078f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 69807691ecd23174c819c43a8a6d4a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 55659ef6f633873439cf4811e6d8eacc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 9eb325201fe84d5489ff1de3449699f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 79ed116322e14064e92be76d4d83bd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 4a58c7105d6a5664c92850aebe381ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 2acabe114e3e18546be9abadcc52dd1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pcov_shrub
+    second: {fileID: 2100000, guid: 4ad3bb1528f97214883bed32150bf703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 1950e592e8a6cbb4ab1bc2e71f82fc61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 2812258d63a5f5546970fd3380efb048, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

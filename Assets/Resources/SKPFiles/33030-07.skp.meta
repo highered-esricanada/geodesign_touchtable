@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: f1b3c64c0e6b4164bb14e7613c6ea158
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a00000023000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fd8234dab443ac2dcd409135bc95b71c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -98.26698, y: 57.897533, z: -89.60961}
+      lookAt: {x: -4.0353003, y: 8.277679, z: 2.148536}
+      up: {x: 0.24979465, y: 0.9356224, z: 0.24942608}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -1.2128111e-14, y: 178.62447, z: 4.042704e-15}
+        lookAt: {x: -8.662937e-15, y: 12.051208, z: 2.8876456e-15}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3514.4229
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -98.26698, y: 57.897533, z: -89.60961}
+        lookAt: {x: -4.0353003, y: 8.277679, z: 2.148536}
+        up: {x: 0.24979465, y: 0.9356224, z: 0.24942608}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -98.26698, y: 57.897533, z: -89.60961}
+        lookAt: {x: -4.0353003, y: 8.277679, z: 2.148536}
+        up: {x: 0.24979465, y: 0.9356224, z: 0.24942608}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3d_massing
+    100004: 3d_outline
+    100006: Image 1
+    100008: scale_obq
+    400000: //RootNode
+    400002: 3d_massing
+    400004: 3d_outline
+    400006: Image 1
+    400008: scale_obq
+    2100000: Material 1
+    2100002: 0_label
+    2100004: '[0077_DarkGreen]'
+    2300000: 3d_massing
+    2300002: Image 1
+    2300004: scale_obq
+    3300000: 3d_massing
+    3300002: Image 1
+    3300004: scale_obq
+    4300000: Mesh 33030-07
+    4300002: Mesh scale_obq
+    4300004: Mesh 3d_massing
+    6400000: 3d_massing
+    6400002: Image 1
+    6400004: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: f4a34adb1b9740f41a385684050946a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: f67c31537ad993545b36e06fe28f730a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0077_DarkGreen]'
+    second: {fileID: 2100000, guid: c4d80997c4695a34c9a27b1f44ee34b4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

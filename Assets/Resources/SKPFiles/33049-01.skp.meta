@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 175871a1008baf34c998345ad78293fb
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 05d7512d678cf5dba8a34f1f0ec0efb3
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -41.411953, y: 18.65718, z: -27.248774}
+      lookAt: {x: 5618.533, y: -1762.4034, z: 4809.1}
+      up: {x: 0.17688778, y: 0.9725559, z: 0.15114829}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.8361006, y: 98.48532, z: 18.847319}
+        lookAt: {x: 4.8361006, y: 4.8022, z: 18.847319}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -41.411953, y: 18.65718, z: -27.248774}
+        lookAt: {x: 5618.533, y: -1762.4034, z: 4809.1}
+        up: {x: 0.17688778, y: 0.9725559, z: 0.15114829}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -41.411953, y: 18.65718, z: -27.248774}
+        lookAt: {x: 5618.533, y: -1762.4034, z: 4809.1}
+        up: {x: 0.17688778, y: 0.9725559, z: 0.15114829}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33049_3d_massing#2
+    100004: 33049_border#1
+    100006: Image 1
+    100008: scale_obq
+    400000: //RootNode
+    400002: 33049_3d_massing#2
+    400004: 33049_border#1
+    400006: Image 1
+    400008: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: M_residential
+    2100008: F_commercial
+    2100010: M_commercial
+    2100012: F_residential
+    2100014: E_roof
+    2300000: 33049_3d_massing#2
+    2300002: Image 1
+    2300004: scale_obq
+    3300000: 33049_3d_massing#2
+    3300002: Image 1
+    3300004: scale_obq
+    4300000: Mesh 33049-01
+    4300002: Mesh scale_obq
+    4300004: Mesh 33049_3d_massing#2
+    6400000: 33049_3d_massing#2
+    6400002: Image 1
+    6400004: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: de0c5359b50756f43af71eaaf9b654e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_roof
+    second: {fileID: 2100000, guid: caebb102df001294db7beea37886fc98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_commercial
+    second: {fileID: 2100000, guid: 93b53f36ac195154291b68d19f73279f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_residential
+    second: {fileID: 2100000, guid: de27b4df4cb51a6479216772303daf7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_commercial
+    second: {fileID: 2100000, guid: 4d33bb4b3be7ed746b1ebe93be2a0610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_residential
+    second: {fileID: 2100000, guid: 88207add49e8a2a46a368cb14f4edfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: f267b6f844af472499665ab1dfd7b298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 97e7059c9da379f4db7e50772018206d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

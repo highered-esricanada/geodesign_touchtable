@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 029687cf9d532cf47849257a747a2eb5
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000
+  assetHash:
+    serializedVersion: 2
+    Hash: f0e85d72da472688be36cd4147e1def8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 63.533634, y: 21.410305, z: -44.725605}
+      lookAt: {x: -15.390434, y: -6.043028, z: 23.325909}
+      up: {x: -0.19293186, y: 0.96700764, z: 0.16635363}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -3.5874445, y: 98.48532, z: 1.2397708}
+        lookAt: {x: -3.5874445, y: 4.8022, z: 1.2397708}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 63.533634, y: 21.410305, z: -44.725605}
+        lookAt: {x: -15.390434, y: -6.043028, z: 23.325909}
+        up: {x: -0.19293186, y: 0.96700764, z: 0.16635363}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 63.533634, y: 21.410305, z: -44.725605}
+        lookAt: {x: -15.390434, y: -6.043028, z: 23.325909}
+        up: {x: -0.19293186, y: 0.96700764, z: 0.16635363}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 43009_3d site
+    100004: 43009_3d_building
+    100006: Door_com_1.05x2.2
+    100008: Door_com_1.05x2.2 1
+    100010: Door_com_1.05x2.2 2
+    100012: Door_com_1.05x2.2 3
+    100014: Door_com_double_2.2x2.2
+    100016: Door_com_double_2.2x2.2 1
+    100018: Door_plain_1.0x2.1
+    100020: Door_plain_1.0x2.1 1
+    100022: Group 15
+    100024: Group 17
+    100026: Group 19
+    100028: Group 21
+    100030: Group 23
+    100032: Group 25
+    100034: Group 27
+    100036: Group 29
+    100038: Group 31
+    100040: Group 33
+    100042: Group 58
+    100044: Image 1
+    100046: scale_obq
+    100048: Window_minframe_0.73x0.92
+    100050: Window_minframe_0.73x0.92 1
+    100052: Window_minframe_0.73x0.92 10
+    100054: Window_minframe_0.73x0.92 11
+    100056: Window_minframe_0.73x0.92 12
+    100058: Window_minframe_0.73x0.92 13
+    100060: Window_minframe_0.73x0.92 14
+    100062: Window_minframe_0.73x0.92 15
+    100064: Window_minframe_0.73x0.92 2
+    100066: Window_minframe_0.73x0.92 3
+    100068: Window_minframe_0.73x0.92 4
+    100070: Window_minframe_0.73x0.92 5
+    100072: Window_minframe_0.73x0.92 6
+    100074: Window_minframe_0.73x0.92 7
+    100076: Window_minframe_0.73x0.92 8
+    100078: Window_minframe_0.73x0.92 9
+    100080: Window_minframe_0.73x0.92#1
+    100082: Window_minframe_0.73x0.92#1 1
+    100084: Window_minframe_0.73x0.92#1 2
+    100086: Window_minframe_0.73x0.92#1 3
+    100088: Window_minframe_0.73x0.92#1 4
+    100090: Window_minframe_0.73x0.92#1 5
+    100092: Window_minframe_0.73x0.92#2
+    100094: Window_minframe_0.73x0.92#2 1
+    100096: Window_minframe_0.73x0.92#2 10
+    100098: Window_minframe_0.73x0.92#2 100
+    100100: Window_minframe_0.73x0.92#2 101
+    100102: Window_minframe_0.73x0.92#2 102
+    100104: Window_minframe_0.73x0.92#2 103
+    100106: Window_minframe_0.73x0.92#2 104
+    100108: Window_minframe_0.73x0.92#2 105
+    100110: Window_minframe_0.73x0.92#2 106
+    100112: Window_minframe_0.73x0.92#2 107
+    100114: Window_minframe_0.73x0.92#2 108
+    100116: Window_minframe_0.73x0.92#2 109
+    100118: Window_minframe_0.73x0.92#2 11
+    100120: Window_minframe_0.73x0.92#2 110
+    100122: Window_minframe_0.73x0.92#2 111
+    100124: Window_minframe_0.73x0.92#2 112
+    100126: Window_minframe_0.73x0.92#2 113
+    100128: Window_minframe_0.73x0.92#2 114
+    100130: Window_minframe_0.73x0.92#2 115
+    100132: Window_minframe_0.73x0.92#2 116
+    100134: Window_minframe_0.73x0.92#2 12
+    100136: Window_minframe_0.73x0.92#2 13
+    100138: Window_minframe_0.73x0.92#2 14
+    100140: Window_minframe_0.73x0.92#2 15
+    100142: Window_minframe_0.73x0.92#2 16
+    100144: Window_minframe_0.73x0.92#2 17
+    100146: Window_minframe_0.73x0.92#2 18
+    100148: Window_minframe_0.73x0.92#2 19
+    100150: Window_minframe_0.73x0.92#2 2
+    100152: Window_minframe_0.73x0.92#2 20
+    100154: Window_minframe_0.73x0.92#2 21
+    100156: Window_minframe_0.73x0.92#2 22
+    100158: Window_minframe_0.73x0.92#2 23
+    100160: Window_minframe_0.73x0.92#2 24
+    100162: Window_minframe_0.73x0.92#2 25
+    100164: Window_minframe_0.73x0.92#2 26
+    100166: Window_minframe_0.73x0.92#2 27
+    100168: Window_minframe_0.73x0.92#2 28
+    100170: Window_minframe_0.73x0.92#2 29
+    100172: Window_minframe_0.73x0.92#2 3
+    100174: Window_minframe_0.73x0.92#2 30
+    100176: Window_minframe_0.73x0.92#2 31
+    100178: Window_minframe_0.73x0.92#2 32
+    100180: Window_minframe_0.73x0.92#2 33
+    100182: Window_minframe_0.73x0.92#2 34
+    100184: Window_minframe_0.73x0.92#2 35
+    100186: Window_minframe_0.73x0.92#2 36
+    100188: Window_minframe_0.73x0.92#2 37
+    100190: Window_minframe_0.73x0.92#2 38
+    100192: Window_minframe_0.73x0.92#2 39
+    100194: Window_minframe_0.73x0.92#2 4
+    100196: Window_minframe_0.73x0.92#2 40
+    100198: Window_minframe_0.73x0.92#2 41
+    100200: Window_minframe_0.73x0.92#2 42
+    100202: Window_minframe_0.73x0.92#2 43
+    100204: Window_minframe_0.73x0.92#2 44
+    100206: Window_minframe_0.73x0.92#2 45
+    100208: Window_minframe_0.73x0.92#2 46
+    100210: Window_minframe_0.73x0.92#2 47
+    100212: Window_minframe_0.73x0.92#2 48
+    100214: Window_minframe_0.73x0.92#2 49
+    100216: Window_minframe_0.73x0.92#2 5
+    100218: Window_minframe_0.73x0.92#2 50
+    100220: Window_minframe_0.73x0.92#2 51
+    100222: Window_minframe_0.73x0.92#2 52
+    100224: Window_minframe_0.73x0.92#2 53
+    100226: Window_minframe_0.73x0.92#2 54
+    100228: Window_minframe_0.73x0.92#2 55
+    100230: Window_minframe_0.73x0.92#2 56
+    100232: Window_minframe_0.73x0.92#2 57
+    100234: Window_minframe_0.73x0.92#2 58
+    100236: Window_minframe_0.73x0.92#2 59
+    100238: Window_minframe_0.73x0.92#2 6
+    100240: Window_minframe_0.73x0.92#2 60
+    100242: Window_minframe_0.73x0.92#2 61
+    100244: Window_minframe_0.73x0.92#2 62
+    100246: Window_minframe_0.73x0.92#2 63
+    100248: Window_minframe_0.73x0.92#2 64
+    100250: Window_minframe_0.73x0.92#2 65
+    100252: Window_minframe_0.73x0.92#2 66
+    100254: Window_minframe_0.73x0.92#2 67
+    100256: Window_minframe_0.73x0.92#2 68
+    100258: Window_minframe_0.73x0.92#2 69
+    100260: Window_minframe_0.73x0.92#2 7
+    100262: Window_minframe_0.73x0.92#2 70
+    100264: Window_minframe_0.73x0.92#2 71
+    100266: Window_minframe_0.73x0.92#2 72
+    100268: Window_minframe_0.73x0.92#2 73
+    100270: Window_minframe_0.73x0.92#2 74
+    100272: Window_minframe_0.73x0.92#2 75
+    100274: Window_minframe_0.73x0.92#2 76
+    100276: Window_minframe_0.73x0.92#2 77
+    100278: Window_minframe_0.73x0.92#2 78
+    100280: Window_minframe_0.73x0.92#2 79
+    100282: Window_minframe_0.73x0.92#2 8
+    100284: Window_minframe_0.73x0.92#2 80
+    100286: Window_minframe_0.73x0.92#2 81
+    100288: Window_minframe_0.73x0.92#2 82
+    100290: Window_minframe_0.73x0.92#2 83
+    100292: Window_minframe_0.73x0.92#2 84
+    100294: Window_minframe_0.73x0.92#2 85
+    100296: Window_minframe_0.73x0.92#2 86
+    100298: Window_minframe_0.73x0.92#2 87
+    100300: Window_minframe_0.73x0.92#2 88
+    100302: Window_minframe_0.73x0.92#2 89
+    100304: Window_minframe_0.73x0.92#2 9
+    100306: Window_minframe_0.73x0.92#2 90
+    100308: Window_minframe_0.73x0.92#2 91
+    100310: Window_minframe_0.73x0.92#2 92
+    100312: Window_minframe_0.73x0.92#2 93
+    100314: Window_minframe_0.73x0.92#2 94
+    100316: Window_minframe_0.73x0.92#2 95
+    100318: Window_minframe_0.73x0.92#2 96
+    100320: Window_minframe_0.73x0.92#2 97
+    100322: Window_minframe_0.73x0.92#2 98
+    100324: Window_minframe_0.73x0.92#2 99
+    400000: //RootNode
+    400002: 43009_3d site
+    400004: 43009_3d_building
+    400006: Door_com_1.05x2.2
+    400008: Door_com_1.05x2.2 1
+    400010: Door_com_1.05x2.2 2
+    400012: Door_com_1.05x2.2 3
+    400014: Door_com_double_2.2x2.2
+    400016: Door_com_double_2.2x2.2 1
+    400018: Door_plain_1.0x2.1
+    400020: Door_plain_1.0x2.1 1
+    400022: Group 15
+    400024: Group 17
+    400026: Group 19
+    400028: Group 21
+    400030: Group 23
+    400032: Group 25
+    400034: Group 27
+    400036: Group 29
+    400038: Group 31
+    400040: Group 33
+    400042: Group 58
+    400044: Image 1
+    400046: scale_obq
+    400048: Window_minframe_0.73x0.92
+    400050: Window_minframe_0.73x0.92 1
+    400052: Window_minframe_0.73x0.92 10
+    400054: Window_minframe_0.73x0.92 11
+    400056: Window_minframe_0.73x0.92 12
+    400058: Window_minframe_0.73x0.92 13
+    400060: Window_minframe_0.73x0.92 14
+    400062: Window_minframe_0.73x0.92 15
+    400064: Window_minframe_0.73x0.92 2
+    400066: Window_minframe_0.73x0.92 3
+    400068: Window_minframe_0.73x0.92 4
+    400070: Window_minframe_0.73x0.92 5
+    400072: Window_minframe_0.73x0.92 6
+    400074: Window_minframe_0.73x0.92 7
+    400076: Window_minframe_0.73x0.92 8
+    400078: Window_minframe_0.73x0.92 9
+    400080: Window_minframe_0.73x0.92#1
+    400082: Window_minframe_0.73x0.92#1 1
+    400084: Window_minframe_0.73x0.92#1 2
+    400086: Window_minframe_0.73x0.92#1 3
+    400088: Window_minframe_0.73x0.92#1 4
+    400090: Window_minframe_0.73x0.92#1 5
+    400092: Window_minframe_0.73x0.92#2
+    400094: Window_minframe_0.73x0.92#2 1
+    400096: Window_minframe_0.73x0.92#2 10
+    400098: Window_minframe_0.73x0.92#2 100
+    400100: Window_minframe_0.73x0.92#2 101
+    400102: Window_minframe_0.73x0.92#2 102
+    400104: Window_minframe_0.73x0.92#2 103
+    400106: Window_minframe_0.73x0.92#2 104
+    400108: Window_minframe_0.73x0.92#2 105
+    400110: Window_minframe_0.73x0.92#2 106
+    400112: Window_minframe_0.73x0.92#2 107
+    400114: Window_minframe_0.73x0.92#2 108
+    400116: Window_minframe_0.73x0.92#2 109
+    400118: Window_minframe_0.73x0.92#2 11
+    400120: Window_minframe_0.73x0.92#2 110
+    400122: Window_minframe_0.73x0.92#2 111
+    400124: Window_minframe_0.73x0.92#2 112
+    400126: Window_minframe_0.73x0.92#2 113
+    400128: Window_minframe_0.73x0.92#2 114
+    400130: Window_minframe_0.73x0.92#2 115
+    400132: Window_minframe_0.73x0.92#2 116
+    400134: Window_minframe_0.73x0.92#2 12
+    400136: Window_minframe_0.73x0.92#2 13
+    400138: Window_minframe_0.73x0.92#2 14
+    400140: Window_minframe_0.73x0.92#2 15
+    400142: Window_minframe_0.73x0.92#2 16
+    400144: Window_minframe_0.73x0.92#2 17
+    400146: Window_minframe_0.73x0.92#2 18
+    400148: Window_minframe_0.73x0.92#2 19
+    400150: Window_minframe_0.73x0.92#2 2
+    400152: Window_minframe_0.73x0.92#2 20
+    400154: Window_minframe_0.73x0.92#2 21
+    400156: Window_minframe_0.73x0.92#2 22
+    400158: Window_minframe_0.73x0.92#2 23
+    400160: Window_minframe_0.73x0.92#2 24
+    400162: Window_minframe_0.73x0.92#2 25
+    400164: Window_minframe_0.73x0.92#2 26
+    400166: Window_minframe_0.73x0.92#2 27
+    400168: Window_minframe_0.73x0.92#2 28
+    400170: Window_minframe_0.73x0.92#2 29
+    400172: Window_minframe_0.73x0.92#2 3
+    400174: Window_minframe_0.73x0.92#2 30
+    400176: Window_minframe_0.73x0.92#2 31
+    400178: Window_minframe_0.73x0.92#2 32
+    400180: Window_minframe_0.73x0.92#2 33
+    400182: Window_minframe_0.73x0.92#2 34
+    400184: Window_minframe_0.73x0.92#2 35
+    400186: Window_minframe_0.73x0.92#2 36
+    400188: Window_minframe_0.73x0.92#2 37
+    400190: Window_minframe_0.73x0.92#2 38
+    400192: Window_minframe_0.73x0.92#2 39
+    400194: Window_minframe_0.73x0.92#2 4
+    400196: Window_minframe_0.73x0.92#2 40
+    400198: Window_minframe_0.73x0.92#2 41
+    400200: Window_minframe_0.73x0.92#2 42
+    400202: Window_minframe_0.73x0.92#2 43
+    400204: Window_minframe_0.73x0.92#2 44
+    400206: Window_minframe_0.73x0.92#2 45
+    400208: Window_minframe_0.73x0.92#2 46
+    400210: Window_minframe_0.73x0.92#2 47
+    400212: Window_minframe_0.73x0.92#2 48
+    400214: Window_minframe_0.73x0.92#2 49
+    400216: Window_minframe_0.73x0.92#2 5
+    400218: Window_minframe_0.73x0.92#2 50
+    400220: Window_minframe_0.73x0.92#2 51
+    400222: Window_minframe_0.73x0.92#2 52
+    400224: Window_minframe_0.73x0.92#2 53
+    400226: Window_minframe_0.73x0.92#2 54
+    400228: Window_minframe_0.73x0.92#2 55
+    400230: Window_minframe_0.73x0.92#2 56
+    400232: Window_minframe_0.73x0.92#2 57
+    400234: Window_minframe_0.73x0.92#2 58
+    400236: Window_minframe_0.73x0.92#2 59
+    400238: Window_minframe_0.73x0.92#2 6
+    400240: Window_minframe_0.73x0.92#2 60
+    400242: Window_minframe_0.73x0.92#2 61
+    400244: Window_minframe_0.73x0.92#2 62
+    400246: Window_minframe_0.73x0.92#2 63
+    400248: Window_minframe_0.73x0.92#2 64
+    400250: Window_minframe_0.73x0.92#2 65
+    400252: Window_minframe_0.73x0.92#2 66
+    400254: Window_minframe_0.73x0.92#2 67
+    400256: Window_minframe_0.73x0.92#2 68
+    400258: Window_minframe_0.73x0.92#2 69
+    400260: Window_minframe_0.73x0.92#2 7
+    400262: Window_minframe_0.73x0.92#2 70
+    400264: Window_minframe_0.73x0.92#2 71
+    400266: Window_minframe_0.73x0.92#2 72
+    400268: Window_minframe_0.73x0.92#2 73
+    400270: Window_minframe_0.73x0.92#2 74
+    400272: Window_minframe_0.73x0.92#2 75
+    400274: Window_minframe_0.73x0.92#2 76
+    400276: Window_minframe_0.73x0.92#2 77
+    400278: Window_minframe_0.73x0.92#2 78
+    400280: Window_minframe_0.73x0.92#2 79
+    400282: Window_minframe_0.73x0.92#2 8
+    400284: Window_minframe_0.73x0.92#2 80
+    400286: Window_minframe_0.73x0.92#2 81
+    400288: Window_minframe_0.73x0.92#2 82
+    400290: Window_minframe_0.73x0.92#2 83
+    400292: Window_minframe_0.73x0.92#2 84
+    400294: Window_minframe_0.73x0.92#2 85
+    400296: Window_minframe_0.73x0.92#2 86
+    400298: Window_minframe_0.73x0.92#2 87
+    400300: Window_minframe_0.73x0.92#2 88
+    400302: Window_minframe_0.73x0.92#2 89
+    400304: Window_minframe_0.73x0.92#2 9
+    400306: Window_minframe_0.73x0.92#2 90
+    400308: Window_minframe_0.73x0.92#2 91
+    400310: Window_minframe_0.73x0.92#2 92
+    400312: Window_minframe_0.73x0.92#2 93
+    400314: Window_minframe_0.73x0.92#2 94
+    400316: Window_minframe_0.73x0.92#2 95
+    400318: Window_minframe_0.73x0.92#2 96
+    400320: Window_minframe_0.73x0.92#2 97
+    400322: Window_minframe_0.73x0.92#2 98
+    400324: Window_minframe_0.73x0.92#2 99
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_shrub_solid
+    2100010: OV_shrub_texture
+    2100012: buildingenvelope
+    2100014: shrubsandgroundcover
+    2100016: OV_paving_vehicle
+    2100018: vehicle_paved
+    2100020: pedestrian_paved
+    2100022: OV_paving_general
+    2100024: OV_bldg_roof
+    2100026: buildingwalls
+    2100028: ApertureGlass
+    2300000: 43009_3d site
+    2300002: 43009_3d_building
+    2300004: Door_com_1.05x2.2
+    2300006: Door_com_1.05x2.2 1
+    2300008: Door_com_1.05x2.2 2
+    2300010: Door_com_1.05x2.2 3
+    2300012: Door_com_double_2.2x2.2
+    2300014: Door_com_double_2.2x2.2 1
+    2300016: Door_plain_1.0x2.1
+    2300018: Door_plain_1.0x2.1 1
+    2300020: Group 15
+    2300022: Group 17
+    2300024: Group 19
+    2300026: Group 21
+    2300028: Group 23
+    2300030: Group 25
+    2300032: Group 27
+    2300034: Group 29
+    2300036: Group 31
+    2300038: Image 1
+    2300040: scale_obq
+    2300042: Window_minframe_0.73x0.92
+    2300044: Window_minframe_0.73x0.92 1
+    2300046: Window_minframe_0.73x0.92 10
+    2300048: Window_minframe_0.73x0.92 11
+    2300050: Window_minframe_0.73x0.92 12
+    2300052: Window_minframe_0.73x0.92 13
+    2300054: Window_minframe_0.73x0.92 14
+    2300056: Window_minframe_0.73x0.92 15
+    2300058: Window_minframe_0.73x0.92 2
+    2300060: Window_minframe_0.73x0.92 3
+    2300062: Window_minframe_0.73x0.92 4
+    2300064: Window_minframe_0.73x0.92 5
+    2300066: Window_minframe_0.73x0.92 6
+    2300068: Window_minframe_0.73x0.92 7
+    2300070: Window_minframe_0.73x0.92 8
+    2300072: Window_minframe_0.73x0.92 9
+    2300074: Window_minframe_0.73x0.92#1
+    2300076: Window_minframe_0.73x0.92#1 1
+    2300078: Window_minframe_0.73x0.92#1 2
+    2300080: Window_minframe_0.73x0.92#1 3
+    2300082: Window_minframe_0.73x0.92#1 4
+    2300084: Window_minframe_0.73x0.92#1 5
+    2300086: Window_minframe_0.73x0.92#2
+    2300088: Window_minframe_0.73x0.92#2 1
+    2300090: Window_minframe_0.73x0.92#2 10
+    2300092: Window_minframe_0.73x0.92#2 100
+    2300094: Window_minframe_0.73x0.92#2 101
+    2300096: Window_minframe_0.73x0.92#2 102
+    2300098: Window_minframe_0.73x0.92#2 103
+    2300100: Window_minframe_0.73x0.92#2 104
+    2300102: Window_minframe_0.73x0.92#2 105
+    2300104: Window_minframe_0.73x0.92#2 106
+    2300106: Window_minframe_0.73x0.92#2 107
+    2300108: Window_minframe_0.73x0.92#2 108
+    2300110: Window_minframe_0.73x0.92#2 109
+    2300112: Window_minframe_0.73x0.92#2 11
+    2300114: Window_minframe_0.73x0.92#2 110
+    2300116: Window_minframe_0.73x0.92#2 111
+    2300118: Window_minframe_0.73x0.92#2 112
+    2300120: Window_minframe_0.73x0.92#2 113
+    2300122: Window_minframe_0.73x0.92#2 114
+    2300124: Window_minframe_0.73x0.92#2 115
+    2300126: Window_minframe_0.73x0.92#2 116
+    2300128: Window_minframe_0.73x0.92#2 12
+    2300130: Window_minframe_0.73x0.92#2 13
+    2300132: Window_minframe_0.73x0.92#2 14
+    2300134: Window_minframe_0.73x0.92#2 15
+    2300136: Window_minframe_0.73x0.92#2 16
+    2300138: Window_minframe_0.73x0.92#2 17
+    2300140: Window_minframe_0.73x0.92#2 18
+    2300142: Window_minframe_0.73x0.92#2 19
+    2300144: Window_minframe_0.73x0.92#2 2
+    2300146: Window_minframe_0.73x0.92#2 20
+    2300148: Window_minframe_0.73x0.92#2 21
+    2300150: Window_minframe_0.73x0.92#2 22
+    2300152: Window_minframe_0.73x0.92#2 23
+    2300154: Window_minframe_0.73x0.92#2 24
+    2300156: Window_minframe_0.73x0.92#2 25
+    2300158: Window_minframe_0.73x0.92#2 26
+    2300160: Window_minframe_0.73x0.92#2 27
+    2300162: Window_minframe_0.73x0.92#2 28
+    2300164: Window_minframe_0.73x0.92#2 29
+    2300166: Window_minframe_0.73x0.92#2 3
+    2300168: Window_minframe_0.73x0.92#2 30
+    2300170: Window_minframe_0.73x0.92#2 31
+    2300172: Window_minframe_0.73x0.92#2 32
+    2300174: Window_minframe_0.73x0.92#2 33
+    2300176: Window_minframe_0.73x0.92#2 34
+    2300178: Window_minframe_0.73x0.92#2 35
+    2300180: Window_minframe_0.73x0.92#2 36
+    2300182: Window_minframe_0.73x0.92#2 37
+    2300184: Window_minframe_0.73x0.92#2 38
+    2300186: Window_minframe_0.73x0.92#2 39
+    2300188: Window_minframe_0.73x0.92#2 4
+    2300190: Window_minframe_0.73x0.92#2 40
+    2300192: Window_minframe_0.73x0.92#2 41
+    2300194: Window_minframe_0.73x0.92#2 42
+    2300196: Window_minframe_0.73x0.92#2 43
+    2300198: Window_minframe_0.73x0.92#2 44
+    2300200: Window_minframe_0.73x0.92#2 45
+    2300202: Window_minframe_0.73x0.92#2 46
+    2300204: Window_minframe_0.73x0.92#2 47
+    2300206: Window_minframe_0.73x0.92#2 48
+    2300208: Window_minframe_0.73x0.92#2 49
+    2300210: Window_minframe_0.73x0.92#2 5
+    2300212: Window_minframe_0.73x0.92#2 50
+    2300214: Window_minframe_0.73x0.92#2 51
+    2300216: Window_minframe_0.73x0.92#2 52
+    2300218: Window_minframe_0.73x0.92#2 53
+    2300220: Window_minframe_0.73x0.92#2 54
+    2300222: Window_minframe_0.73x0.92#2 55
+    2300224: Window_minframe_0.73x0.92#2 56
+    2300226: Window_minframe_0.73x0.92#2 57
+    2300228: Window_minframe_0.73x0.92#2 58
+    2300230: Window_minframe_0.73x0.92#2 59
+    2300232: Window_minframe_0.73x0.92#2 6
+    2300234: Window_minframe_0.73x0.92#2 60
+    2300236: Window_minframe_0.73x0.92#2 61
+    2300238: Window_minframe_0.73x0.92#2 62
+    2300240: Window_minframe_0.73x0.92#2 63
+    2300242: Window_minframe_0.73x0.92#2 64
+    2300244: Window_minframe_0.73x0.92#2 65
+    2300246: Window_minframe_0.73x0.92#2 66
+    2300248: Window_minframe_0.73x0.92#2 67
+    2300250: Window_minframe_0.73x0.92#2 68
+    2300252: Window_minframe_0.73x0.92#2 69
+    2300254: Window_minframe_0.73x0.92#2 7
+    2300256: Window_minframe_0.73x0.92#2 70
+    2300258: Window_minframe_0.73x0.92#2 71
+    2300260: Window_minframe_0.73x0.92#2 72
+    2300262: Window_minframe_0.73x0.92#2 73
+    2300264: Window_minframe_0.73x0.92#2 74
+    2300266: Window_minframe_0.73x0.92#2 75
+    2300268: Window_minframe_0.73x0.92#2 76
+    2300270: Window_minframe_0.73x0.92#2 77
+    2300272: Window_minframe_0.73x0.92#2 78
+    2300274: Window_minframe_0.73x0.92#2 79
+    2300276: Window_minframe_0.73x0.92#2 8
+    2300278: Window_minframe_0.73x0.92#2 80
+    2300280: Window_minframe_0.73x0.92#2 81
+    2300282: Window_minframe_0.73x0.92#2 82
+    2300284: Window_minframe_0.73x0.92#2 83
+    2300286: Window_minframe_0.73x0.92#2 84
+    2300288: Window_minframe_0.73x0.92#2 85
+    2300290: Window_minframe_0.73x0.92#2 86
+    2300292: Window_minframe_0.73x0.92#2 87
+    2300294: Window_minframe_0.73x0.92#2 88
+    2300296: Window_minframe_0.73x0.92#2 89
+    2300298: Window_minframe_0.73x0.92#2 9
+    2300300: Window_minframe_0.73x0.92#2 90
+    2300302: Window_minframe_0.73x0.92#2 91
+    2300304: Window_minframe_0.73x0.92#2 92
+    2300306: Window_minframe_0.73x0.92#2 93
+    2300308: Window_minframe_0.73x0.92#2 94
+    2300310: Window_minframe_0.73x0.92#2 95
+    2300312: Window_minframe_0.73x0.92#2 96
+    2300314: Window_minframe_0.73x0.92#2 97
+    2300316: Window_minframe_0.73x0.92#2 98
+    2300318: Window_minframe_0.73x0.92#2 99
+    3300000: 43009_3d site
+    3300002: 43009_3d_building
+    3300004: Door_com_1.05x2.2
+    3300006: Door_com_1.05x2.2 1
+    3300008: Door_com_1.05x2.2 2
+    3300010: Door_com_1.05x2.2 3
+    3300012: Door_com_double_2.2x2.2
+    3300014: Door_com_double_2.2x2.2 1
+    3300016: Door_plain_1.0x2.1
+    3300018: Door_plain_1.0x2.1 1
+    3300020: Group 15
+    3300022: Group 17
+    3300024: Group 19
+    3300026: Group 21
+    3300028: Group 23
+    3300030: Group 25
+    3300032: Group 27
+    3300034: Group 29
+    3300036: Group 31
+    3300038: Image 1
+    3300040: scale_obq
+    3300042: Window_minframe_0.73x0.92
+    3300044: Window_minframe_0.73x0.92 1
+    3300046: Window_minframe_0.73x0.92 10
+    3300048: Window_minframe_0.73x0.92 11
+    3300050: Window_minframe_0.73x0.92 12
+    3300052: Window_minframe_0.73x0.92 13
+    3300054: Window_minframe_0.73x0.92 14
+    3300056: Window_minframe_0.73x0.92 15
+    3300058: Window_minframe_0.73x0.92 2
+    3300060: Window_minframe_0.73x0.92 3
+    3300062: Window_minframe_0.73x0.92 4
+    3300064: Window_minframe_0.73x0.92 5
+    3300066: Window_minframe_0.73x0.92 6
+    3300068: Window_minframe_0.73x0.92 7
+    3300070: Window_minframe_0.73x0.92 8
+    3300072: Window_minframe_0.73x0.92 9
+    3300074: Window_minframe_0.73x0.92#1
+    3300076: Window_minframe_0.73x0.92#1 1
+    3300078: Window_minframe_0.73x0.92#1 2
+    3300080: Window_minframe_0.73x0.92#1 3
+    3300082: Window_minframe_0.73x0.92#1 4
+    3300084: Window_minframe_0.73x0.92#1 5
+    3300086: Window_minframe_0.73x0.92#2
+    3300088: Window_minframe_0.73x0.92#2 1
+    3300090: Window_minframe_0.73x0.92#2 10
+    3300092: Window_minframe_0.73x0.92#2 100
+    3300094: Window_minframe_0.73x0.92#2 101
+    3300096: Window_minframe_0.73x0.92#2 102
+    3300098: Window_minframe_0.73x0.92#2 103
+    3300100: Window_minframe_0.73x0.92#2 104
+    3300102: Window_minframe_0.73x0.92#2 105
+    3300104: Window_minframe_0.73x0.92#2 106
+    3300106: Window_minframe_0.73x0.92#2 107
+    3300108: Window_minframe_0.73x0.92#2 108
+    3300110: Window_minframe_0.73x0.92#2 109
+    3300112: Window_minframe_0.73x0.92#2 11
+    3300114: Window_minframe_0.73x0.92#2 110
+    3300116: Window_minframe_0.73x0.92#2 111
+    3300118: Window_minframe_0.73x0.92#2 112
+    3300120: Window_minframe_0.73x0.92#2 113
+    3300122: Window_minframe_0.73x0.92#2 114
+    3300124: Window_minframe_0.73x0.92#2 115
+    3300126: Window_minframe_0.73x0.92#2 116
+    3300128: Window_minframe_0.73x0.92#2 12
+    3300130: Window_minframe_0.73x0.92#2 13
+    3300132: Window_minframe_0.73x0.92#2 14
+    3300134: Window_minframe_0.73x0.92#2 15
+    3300136: Window_minframe_0.73x0.92#2 16
+    3300138: Window_minframe_0.73x0.92#2 17
+    3300140: Window_minframe_0.73x0.92#2 18
+    3300142: Window_minframe_0.73x0.92#2 19
+    3300144: Window_minframe_0.73x0.92#2 2
+    3300146: Window_minframe_0.73x0.92#2 20
+    3300148: Window_minframe_0.73x0.92#2 21
+    3300150: Window_minframe_0.73x0.92#2 22
+    3300152: Window_minframe_0.73x0.92#2 23
+    3300154: Window_minframe_0.73x0.92#2 24
+    3300156: Window_minframe_0.73x0.92#2 25
+    3300158: Window_minframe_0.73x0.92#2 26
+    3300160: Window_minframe_0.73x0.92#2 27
+    3300162: Window_minframe_0.73x0.92#2 28
+    3300164: Window_minframe_0.73x0.92#2 29
+    3300166: Window_minframe_0.73x0.92#2 3
+    3300168: Window_minframe_0.73x0.92#2 30
+    3300170: Window_minframe_0.73x0.92#2 31
+    3300172: Window_minframe_0.73x0.92#2 32
+    3300174: Window_minframe_0.73x0.92#2 33
+    3300176: Window_minframe_0.73x0.92#2 34
+    3300178: Window_minframe_0.73x0.92#2 35
+    3300180: Window_minframe_0.73x0.92#2 36
+    3300182: Window_minframe_0.73x0.92#2 37
+    3300184: Window_minframe_0.73x0.92#2 38
+    3300186: Window_minframe_0.73x0.92#2 39
+    3300188: Window_minframe_0.73x0.92#2 4
+    3300190: Window_minframe_0.73x0.92#2 40
+    3300192: Window_minframe_0.73x0.92#2 41
+    3300194: Window_minframe_0.73x0.92#2 42
+    3300196: Window_minframe_0.73x0.92#2 43
+    3300198: Window_minframe_0.73x0.92#2 44
+    3300200: Window_minframe_0.73x0.92#2 45
+    3300202: Window_minframe_0.73x0.92#2 46
+    3300204: Window_minframe_0.73x0.92#2 47
+    3300206: Window_minframe_0.73x0.92#2 48
+    3300208: Window_minframe_0.73x0.92#2 49
+    3300210: Window_minframe_0.73x0.92#2 5
+    3300212: Window_minframe_0.73x0.92#2 50
+    3300214: Window_minframe_0.73x0.92#2 51
+    3300216: Window_minframe_0.73x0.92#2 52
+    3300218: Window_minframe_0.73x0.92#2 53
+    3300220: Window_minframe_0.73x0.92#2 54
+    3300222: Window_minframe_0.73x0.92#2 55
+    3300224: Window_minframe_0.73x0.92#2 56
+    3300226: Window_minframe_0.73x0.92#2 57
+    3300228: Window_minframe_0.73x0.92#2 58
+    3300230: Window_minframe_0.73x0.92#2 59
+    3300232: Window_minframe_0.73x0.92#2 6
+    3300234: Window_minframe_0.73x0.92#2 60
+    3300236: Window_minframe_0.73x0.92#2 61
+    3300238: Window_minframe_0.73x0.92#2 62
+    3300240: Window_minframe_0.73x0.92#2 63
+    3300242: Window_minframe_0.73x0.92#2 64
+    3300244: Window_minframe_0.73x0.92#2 65
+    3300246: Window_minframe_0.73x0.92#2 66
+    3300248: Window_minframe_0.73x0.92#2 67
+    3300250: Window_minframe_0.73x0.92#2 68
+    3300252: Window_minframe_0.73x0.92#2 69
+    3300254: Window_minframe_0.73x0.92#2 7
+    3300256: Window_minframe_0.73x0.92#2 70
+    3300258: Window_minframe_0.73x0.92#2 71
+    3300260: Window_minframe_0.73x0.92#2 72
+    3300262: Window_minframe_0.73x0.92#2 73
+    3300264: Window_minframe_0.73x0.92#2 74
+    3300266: Window_minframe_0.73x0.92#2 75
+    3300268: Window_minframe_0.73x0.92#2 76
+    3300270: Window_minframe_0.73x0.92#2 77
+    3300272: Window_minframe_0.73x0.92#2 78
+    3300274: Window_minframe_0.73x0.92#2 79
+    3300276: Window_minframe_0.73x0.92#2 8
+    3300278: Window_minframe_0.73x0.92#2 80
+    3300280: Window_minframe_0.73x0.92#2 81
+    3300282: Window_minframe_0.73x0.92#2 82
+    3300284: Window_minframe_0.73x0.92#2 83
+    3300286: Window_minframe_0.73x0.92#2 84
+    3300288: Window_minframe_0.73x0.92#2 85
+    3300290: Window_minframe_0.73x0.92#2 86
+    3300292: Window_minframe_0.73x0.92#2 87
+    3300294: Window_minframe_0.73x0.92#2 88
+    3300296: Window_minframe_0.73x0.92#2 89
+    3300298: Window_minframe_0.73x0.92#2 9
+    3300300: Window_minframe_0.73x0.92#2 90
+    3300302: Window_minframe_0.73x0.92#2 91
+    3300304: Window_minframe_0.73x0.92#2 92
+    3300306: Window_minframe_0.73x0.92#2 93
+    3300308: Window_minframe_0.73x0.92#2 94
+    3300310: Window_minframe_0.73x0.92#2 95
+    3300312: Window_minframe_0.73x0.92#2 96
+    3300314: Window_minframe_0.73x0.92#2 97
+    3300316: Window_minframe_0.73x0.92#2 98
+    3300318: Window_minframe_0.73x0.92#2 99
+    4300000: Mesh 43009-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 43009_3d site
+    4300006: Mesh 43009_3d_building
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Group 25
+    4300014: Mesh Door_com_1.05x2.2
+    4300016: Mesh Window_minframe_0.73x0.92#1
+    4300018: Mesh Window_minframe_0.73x0.92
+    4300020: Mesh Door_com_double_2.2x2.2
+    4300022: Mesh Window_minframe_0.73x0.92#2
+    4300024: Mesh Door_plain_1.0x2.1
+    6400000: 43009_3d site
+    6400002: 43009_3d_building
+    6400004: Door_com_1.05x2.2
+    6400006: Door_com_1.05x2.2 1
+    6400008: Door_com_1.05x2.2 2
+    6400010: Door_com_1.05x2.2 3
+    6400012: Door_com_double_2.2x2.2
+    6400014: Door_com_double_2.2x2.2 1
+    6400016: Door_plain_1.0x2.1
+    6400018: Door_plain_1.0x2.1 1
+    6400020: Group 15
+    6400022: Group 17
+    6400024: Group 19
+    6400026: Group 21
+    6400028: Group 23
+    6400030: Group 25
+    6400032: Group 27
+    6400034: Group 29
+    6400036: Group 31
+    6400038: Image 1
+    6400040: scale_obq
+    6400042: Window_minframe_0.73x0.92
+    6400044: Window_minframe_0.73x0.92 1
+    6400046: Window_minframe_0.73x0.92 10
+    6400048: Window_minframe_0.73x0.92 11
+    6400050: Window_minframe_0.73x0.92 12
+    6400052: Window_minframe_0.73x0.92 13
+    6400054: Window_minframe_0.73x0.92 14
+    6400056: Window_minframe_0.73x0.92 15
+    6400058: Window_minframe_0.73x0.92 2
+    6400060: Window_minframe_0.73x0.92 3
+    6400062: Window_minframe_0.73x0.92 4
+    6400064: Window_minframe_0.73x0.92 5
+    6400066: Window_minframe_0.73x0.92 6
+    6400068: Window_minframe_0.73x0.92 7
+    6400070: Window_minframe_0.73x0.92 8
+    6400072: Window_minframe_0.73x0.92 9
+    6400074: Window_minframe_0.73x0.92#1
+    6400076: Window_minframe_0.73x0.92#1 1
+    6400078: Window_minframe_0.73x0.92#1 2
+    6400080: Window_minframe_0.73x0.92#1 3
+    6400082: Window_minframe_0.73x0.92#1 4
+    6400084: Window_minframe_0.73x0.92#1 5
+    6400086: Window_minframe_0.73x0.92#2
+    6400088: Window_minframe_0.73x0.92#2 1
+    6400090: Window_minframe_0.73x0.92#2 10
+    6400092: Window_minframe_0.73x0.92#2 100
+    6400094: Window_minframe_0.73x0.92#2 101
+    6400096: Window_minframe_0.73x0.92#2 102
+    6400098: Window_minframe_0.73x0.92#2 103
+    6400100: Window_minframe_0.73x0.92#2 104
+    6400102: Window_minframe_0.73x0.92#2 105
+    6400104: Window_minframe_0.73x0.92#2 106
+    6400106: Window_minframe_0.73x0.92#2 107
+    6400108: Window_minframe_0.73x0.92#2 108
+    6400110: Window_minframe_0.73x0.92#2 109
+    6400112: Window_minframe_0.73x0.92#2 11
+    6400114: Window_minframe_0.73x0.92#2 110
+    6400116: Window_minframe_0.73x0.92#2 111
+    6400118: Window_minframe_0.73x0.92#2 112
+    6400120: Window_minframe_0.73x0.92#2 113
+    6400122: Window_minframe_0.73x0.92#2 114
+    6400124: Window_minframe_0.73x0.92#2 115
+    6400126: Window_minframe_0.73x0.92#2 116
+    6400128: Window_minframe_0.73x0.92#2 12
+    6400130: Window_minframe_0.73x0.92#2 13
+    6400132: Window_minframe_0.73x0.92#2 14
+    6400134: Window_minframe_0.73x0.92#2 15
+    6400136: Window_minframe_0.73x0.92#2 16
+    6400138: Window_minframe_0.73x0.92#2 17
+    6400140: Window_minframe_0.73x0.92#2 18
+    6400142: Window_minframe_0.73x0.92#2 19
+    6400144: Window_minframe_0.73x0.92#2 2
+    6400146: Window_minframe_0.73x0.92#2 20
+    6400148: Window_minframe_0.73x0.92#2 21
+    6400150: Window_minframe_0.73x0.92#2 22
+    6400152: Window_minframe_0.73x0.92#2 23
+    6400154: Window_minframe_0.73x0.92#2 24
+    6400156: Window_minframe_0.73x0.92#2 25
+    6400158: Window_minframe_0.73x0.92#2 26
+    6400160: Window_minframe_0.73x0.92#2 27
+    6400162: Window_minframe_0.73x0.92#2 28
+    6400164: Window_minframe_0.73x0.92#2 29
+    6400166: Window_minframe_0.73x0.92#2 3
+    6400168: Window_minframe_0.73x0.92#2 30
+    6400170: Window_minframe_0.73x0.92#2 31
+    6400172: Window_minframe_0.73x0.92#2 32
+    6400174: Window_minframe_0.73x0.92#2 33
+    6400176: Window_minframe_0.73x0.92#2 34
+    6400178: Window_minframe_0.73x0.92#2 35
+    6400180: Window_minframe_0.73x0.92#2 36
+    6400182: Window_minframe_0.73x0.92#2 37
+    6400184: Window_minframe_0.73x0.92#2 38
+    6400186: Window_minframe_0.73x0.92#2 39
+    6400188: Window_minframe_0.73x0.92#2 4
+    6400190: Window_minframe_0.73x0.92#2 40
+    6400192: Window_minframe_0.73x0.92#2 41
+    6400194: Window_minframe_0.73x0.92#2 42
+    6400196: Window_minframe_0.73x0.92#2 43
+    6400198: Window_minframe_0.73x0.92#2 44
+    6400200: Window_minframe_0.73x0.92#2 45
+    6400202: Window_minframe_0.73x0.92#2 46
+    6400204: Window_minframe_0.73x0.92#2 47
+    6400206: Window_minframe_0.73x0.92#2 48
+    6400208: Window_minframe_0.73x0.92#2 49
+    6400210: Window_minframe_0.73x0.92#2 5
+    6400212: Window_minframe_0.73x0.92#2 50
+    6400214: Window_minframe_0.73x0.92#2 51
+    6400216: Window_minframe_0.73x0.92#2 52
+    6400218: Window_minframe_0.73x0.92#2 53
+    6400220: Window_minframe_0.73x0.92#2 54
+    6400222: Window_minframe_0.73x0.92#2 55
+    6400224: Window_minframe_0.73x0.92#2 56
+    6400226: Window_minframe_0.73x0.92#2 57
+    6400228: Window_minframe_0.73x0.92#2 58
+    6400230: Window_minframe_0.73x0.92#2 59
+    6400232: Window_minframe_0.73x0.92#2 6
+    6400234: Window_minframe_0.73x0.92#2 60
+    6400236: Window_minframe_0.73x0.92#2 61
+    6400238: Window_minframe_0.73x0.92#2 62
+    6400240: Window_minframe_0.73x0.92#2 63
+    6400242: Window_minframe_0.73x0.92#2 64
+    6400244: Window_minframe_0.73x0.92#2 65
+    6400246: Window_minframe_0.73x0.92#2 66
+    6400248: Window_minframe_0.73x0.92#2 67
+    6400250: Window_minframe_0.73x0.92#2 68
+    6400252: Window_minframe_0.73x0.92#2 69
+    6400254: Window_minframe_0.73x0.92#2 7
+    6400256: Window_minframe_0.73x0.92#2 70
+    6400258: Window_minframe_0.73x0.92#2 71
+    6400260: Window_minframe_0.73x0.92#2 72
+    6400262: Window_minframe_0.73x0.92#2 73
+    6400264: Window_minframe_0.73x0.92#2 74
+    6400266: Window_minframe_0.73x0.92#2 75
+    6400268: Window_minframe_0.73x0.92#2 76
+    6400270: Window_minframe_0.73x0.92#2 77
+    6400272: Window_minframe_0.73x0.92#2 78
+    6400274: Window_minframe_0.73x0.92#2 79
+    6400276: Window_minframe_0.73x0.92#2 8
+    6400278: Window_minframe_0.73x0.92#2 80
+    6400280: Window_minframe_0.73x0.92#2 81
+    6400282: Window_minframe_0.73x0.92#2 82
+    6400284: Window_minframe_0.73x0.92#2 83
+    6400286: Window_minframe_0.73x0.92#2 84
+    6400288: Window_minframe_0.73x0.92#2 85
+    6400290: Window_minframe_0.73x0.92#2 86
+    6400292: Window_minframe_0.73x0.92#2 87
+    6400294: Window_minframe_0.73x0.92#2 88
+    6400296: Window_minframe_0.73x0.92#2 89
+    6400298: Window_minframe_0.73x0.92#2 9
+    6400300: Window_minframe_0.73x0.92#2 90
+    6400302: Window_minframe_0.73x0.92#2 91
+    6400304: Window_minframe_0.73x0.92#2 92
+    6400306: Window_minframe_0.73x0.92#2 93
+    6400308: Window_minframe_0.73x0.92#2 94
+    6400310: Window_minframe_0.73x0.92#2 95
+    6400312: Window_minframe_0.73x0.92#2 96
+    6400314: Window_minframe_0.73x0.92#2 97
+    6400316: Window_minframe_0.73x0.92#2 98
+    6400318: Window_minframe_0.73x0.92#2 99
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: a6d581806c077354f8de0c6f3c9f52c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: cf7be72764a34f8469a3e8290d12a9fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 6adab3af2916f55489cf857059ce4485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: f3a5b37d83a11bf4dbcc8aa6eac6da94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 79e7a32dfec7b224bb9be483965d7c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 4e0d5a4477c989742838656e064b024d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 5669f9ae99f9d5e408d9a92b95977cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 0645054e72007a344886f3d87f31b5bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 4d67bef754811f04783aa007b02e150d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: cac387cafcd2c2c43a9d1124c743f3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingenvelope
+    second: {fileID: 2100000, guid: b50bbdb83c0031c478bedc217f8f25d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 25b248fe7a0db14478d6b14c04856c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: 7784f2d48f28fe84698116800f9c452c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubsandgroundcover
+    second: {fileID: 2100000, guid: 0ba7697ece4804b4d89b7d3cb0ab4a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehicle_paved
+    second: {fileID: 2100000, guid: f301735762122024bb5ade03fbd3a26a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

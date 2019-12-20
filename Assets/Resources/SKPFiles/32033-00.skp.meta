@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: d1ee0014c7a5b304b87b3a5a0756c1e9
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000450000004e0000004f000000af000000b0000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 7a427b58d55d4f54edd681b01cf9c8a9
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 86.72933, y: 30.760555, z: -86.72872}
+      lookAt: {x: 4.229319, y: -6.888277, z: -4.228878}
+      up: {x: -0.21714923, y: 0.95167875, z: 0.21714927}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.052901, y: 181.4064, z: -0.9589597}
+        lookAt: {x: 2.894929, y: 2.8683174, z: -0.6849712}
+        up: {x: 0.000009952902, y: 0.0015345557, z: 0.9999988}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3766.9446
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 86.72933, y: 30.760555, z: -86.72872}
+        lookAt: {x: 4.229319, y: -6.888277, z: -4.228878}
+        up: {x: -0.21714923, y: 0.95167875, z: 0.21714927}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 86.72933, y: 30.760555, z: -86.72872}
+        lookAt: {x: 4.229319, y: -6.888277, z: -4.228878}
+        up: {x: -0.21714923, y: 0.95167875, z: 0.21714927}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33034_3d_massing#1
+    100004: 3d_envelope
+    100006: 3d_envelope 1
+    100008: Group 69
+    400000: //RootNode
+    400002: 33034_3d_massing#1
+    400004: 3d_envelope
+    400006: 3d_envelope 1
+    400008: Group 69
+    2100000: Material 1
+    2100002: T4 Walk Up Residential
+    2100004: M_residential
+    2100006: 0_label
+    2300000: 33034_3d_massing#1
+    2300002: 3d_envelope
+    2300004: 3d_envelope 1
+    3300000: 33034_3d_massing#1
+    3300002: 3d_envelope
+    3300004: 3d_envelope 1
+    4300000: Mesh 32033-00
+    4300002: Mesh 33034_3d_massing#1
+    4300004: Mesh 3d_envelope
+    6400000: 33034_3d_massing#1
+    6400002: 3d_envelope
+    6400004: 3d_envelope 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: f6094a0494444a245868dbd7fd522476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_residential
+    second: {fileID: 2100000, guid: 5c9186131f542ba4ba161e8e420e3e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 10ab6e901dd3852478d5518e885cb121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T4 Walk Up Residential
+    second: {fileID: 2100000, guid: 12e09ffaa879cb34d8992ee83387e12d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

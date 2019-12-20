@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 5bb1ed4cfea776c4483bc1c56fd1161e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b3d383628e89cf5ca56cf9e6dca3a390
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -47.659798, y: 15.893499, z: -32.218548}
+      lookAt: {x: 5657.9204, y: -1672.092, z: 4783.846}
+      up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -47.659798, y: 15.893499, z: -32.218548}
+        lookAt: {x: -43.2113, y: 14.57742, z: -28.463583}
+        up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -47.659798, y: 15.893499, z: -32.218548}
+        lookAt: {x: 5657.9204, y: -1672.092, z: 4783.846}
+        up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+    - camera:
+        position: {x: -47.659798, y: 15.893499, z: -32.218548}
+        lookAt: {x: 5657.9204, y: -1672.092, z: 4783.846}
+        up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan
+    - camera:
+        position: {x: -47.659798, y: 15.893499, z: -32.218548}
+        lookAt: {x: 5657.9204, y: -1672.092, z: 4783.846}
+        up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_envelope
+    - camera:
+        position: {x: -47.659798, y: 15.893499, z: -32.218548}
+        lookAt: {x: 5657.9204, y: -1672.092, z: 4783.846}
+        up: {x: 0.16850553, y: 0.9753846, z: 0.14223506}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_floor
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_canopy
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_cover
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_coverM
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_use
+    - camera:
+        position: {x: 0.39034072, y: 98.48532, z: 0.12833074}
+        lookAt: {x: 0.39034072, y: 4.8022, z: 0.12833074}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2201.6921
+        isPerspective: 0
+      name: plan_borderR
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3d bulding
+    100004: 3d site
+    100006: Component#1
+    100008: Component#1 1
+    100010: Component#1 2
+    100012: Component#2
+    100014: Plan_border
+    100016: rounded-med
+    100018: rounded-med 1
+    100020: rounded-med 2
+    100022: rounded-med 3
+    100024: rounded-med 4
+    100026: rounded-med 5
+    400000: //RootNode
+    400002: 3d bulding
+    400004: 3d site
+    400006: Component#1
+    400008: Component#1 1
+    400010: Component#1 2
+    400012: Component#2
+    400014: Plan_border
+    400016: rounded-med
+    400018: rounded-med 1
+    400020: rounded-med 2
+    400022: rounded-med 3
+    400024: rounded-med 4
+    400026: rounded-med 5
+    2100000: _defaultMat
+    2100002: OV_bldg_wall
+    2100004: OV_bldg_roof
+    2100006: LightCaseApertureGlass
+    2100008: OV_bldg_accent
+    2100010: OV_paving_pedestrian
+    2100012: OV_turf_solid
+    2100014: OV_paving general
+    2100016: OV_paving_vehicle
+    2100018: mapletree
+    2300000: 3d bulding
+    2300002: 3d site
+    2300004: Component#1
+    2300006: Component#1 1
+    2300008: Component#1 2
+    2300010: Component#2
+    2300012: rounded-med
+    2300014: rounded-med 1
+    2300016: rounded-med 2
+    2300018: rounded-med 3
+    2300020: rounded-med 4
+    2300022: rounded-med 5
+    3300000: 3d bulding
+    3300002: 3d site
+    3300004: Component#1
+    3300006: Component#1 1
+    3300008: Component#1 2
+    3300010: Component#2
+    3300012: rounded-med
+    3300014: rounded-med 1
+    3300016: rounded-med 2
+    3300018: rounded-med 3
+    3300020: rounded-med 4
+    3300022: rounded-med 5
+    4300000: Mesh 3d bulding
+    4300002: Mesh Component#1
+    4300004: Mesh Component#2
+    4300006: Mesh 3d site
+    4300008: Mesh rounded-med
+    6400000: 3d bulding
+    6400002: 3d site
+    6400004: Component#1
+    6400006: Component#1 1
+    6400008: Component#1 2
+    6400010: Component#2
+    6400012: rounded-med
+    6400014: rounded-med 1
+    6400016: rounded-med 2
+    6400018: rounded-med 3
+    6400020: rounded-med 4
+    6400022: rounded-med 5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 2fe68e136db275b45b53b0a26693c45f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: ef37d994908e276459af56102c10837f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 62451cf15f32c5544bf98166e85e5265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 36564c3b19afe0d48a8be99d107d0081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 6214cd1f1341cb14fadaeddde917d209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: ac40d7891f087a3449163247328c80b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 15fc4192b815240439ddfcf75ad4d5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 7934fa51c6653424e9ff3cd7efa990ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 304774a42fef4004590bc0c04fee1366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: ae2bf082415df7d46ab56b0316abaea3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

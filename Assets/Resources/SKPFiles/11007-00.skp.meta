@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 115bfd14a8e7270459ba18e16303e6fb
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000e0000000f0000001100000012000000140000001500000017000000180000001a0000001b0000001d0000001e000000200000002100000023000000240000002600000027000000290000002a0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 972b07ca948fd4f1d628c231175cfa75
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 62.632996, y: 29.77538, z: -85.73345}
+      lookAt: {x: 22.696106, y: 6.7349844, z: -46.88585}
+      up: {x: -0.27393508, y: 0.92409784, z: 0.26646343}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 62.632996, y: 29.77538, z: -85.73345}
+        lookAt: {x: 22.696106, y: 6.7349844, z: -46.88585}
+        up: {x: -0.27393508, y: 0.92409784, z: 0.26646343}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 0.8338382, y: 210.49057, z: -11.202335}
+        lookAt: {x: 0.8338382, y: 188.5987, z: -11.202335}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 4921.66
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 11007_3d_site
+    100004: bulb tree-med
+    100006: bulb tree-med 1
+    100008: bulb tree-med 10
+    100010: bulb tree-med 11
+    100012: bulb tree-med 2
+    100014: bulb tree-med 3
+    100016: bulb tree-med 4
+    100018: bulb tree-med 5
+    100020: bulb tree-med 6
+    100022: bulb tree-med 7
+    100024: bulb tree-med 8
+    100026: bulb tree-med 9
+    100028: Image 1
+    100030: scale_obq
+    400000: //RootNode
+    400002: 11007_3d_site
+    400004: bulb tree-med
+    400006: bulb tree-med 1
+    400008: bulb tree-med 10
+    400010: bulb tree-med 11
+    400012: bulb tree-med 2
+    400014: bulb tree-med 3
+    400016: bulb tree-med 4
+    400018: bulb tree-med 5
+    400020: bulb tree-med 6
+    400022: bulb tree-med 7
+    400024: bulb tree-med 8
+    400026: bulb tree-med 9
+    400028: Image 1
+    400030: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_surface_other
+    2100010: OV_paving_pedestrian
+    2100012: OV_turf_solid
+    2100014: roundedtree
+    2300000: 11007_3d_site
+    2300002: bulb tree-med
+    2300004: bulb tree-med 1
+    2300006: bulb tree-med 10
+    2300008: bulb tree-med 11
+    2300010: bulb tree-med 2
+    2300012: bulb tree-med 3
+    2300014: bulb tree-med 4
+    2300016: bulb tree-med 5
+    2300018: bulb tree-med 6
+    2300020: bulb tree-med 7
+    2300022: bulb tree-med 8
+    2300024: bulb tree-med 9
+    2300026: Image 1
+    2300028: scale_obq
+    3300000: 11007_3d_site
+    3300002: bulb tree-med
+    3300004: bulb tree-med 1
+    3300006: bulb tree-med 10
+    3300008: bulb tree-med 11
+    3300010: bulb tree-med 2
+    3300012: bulb tree-med 3
+    3300014: bulb tree-med 4
+    3300016: bulb tree-med 5
+    3300018: bulb tree-med 6
+    3300020: bulb tree-med 7
+    3300022: bulb tree-med 8
+    3300024: bulb tree-med 9
+    3300026: Image 1
+    3300028: scale_obq
+    4300000: Mesh 11007-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 11007_3d_site
+    4300006: Mesh bulb tree-med
+    6400000: 11007_3d_site
+    6400002: bulb tree-med
+    6400004: bulb tree-med 1
+    6400006: bulb tree-med 10
+    6400008: bulb tree-med 11
+    6400010: bulb tree-med 2
+    6400012: bulb tree-med 3
+    6400014: bulb tree-med 4
+    6400016: bulb tree-med 5
+    6400018: bulb tree-med 6
+    6400020: bulb tree-med 7
+    6400022: bulb tree-med 8
+    6400024: bulb tree-med 9
+    6400026: Image 1
+    6400028: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: cc5bd244c16ae77408760537cd9737a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 46809bf3a78d94b448db43b398dce0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 4df8122f40965e54ca60d839e829c448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: e388e2a83c2be5a43ae91dc3a42ce8af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 6d7bff328b491bd41b86a9bf9090aa36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 5f5c5c93ee4eb1d49ac0cab411a953ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: d7639a8da425f66438dbd1d21a3db4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: aa7f499930747704699d665789c644bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 29dc8d359b9d2884baaa4704deb86834
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f59fea579e89ba1d3a0ccf0af0a02ef7
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 29.004377, y: 17.113686, z: -32.67468}
+      lookAt: {x: -23.652462, y: -9.079161, z: 23.358818}
+      up: {x: -0.22081444, y: 0.9465876, z: 0.23497432}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 29.039532, y: 16.979288, z: -32.26073}
+        lookAt: {x: -23.617308, y: -9.213557, z: 23.772768}
+        up: {x: -0.22081444, y: 0.9465876, z: 0.23497432}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 1.5565174, y: 190.00758, z: 0.4788197}
+        lookAt: {x: 1.5565174, y: 6.0500884, z: 0.4788197}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1638.0099
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 25001_3d_site
+    100004: Group 7
+    100006: Image 1
+    100008: rounded-med#6
+    100010: rounded-sm#7
+    400000: //RootNode
+    400002: 25001_3d_site
+    400004: Group 7
+    400006: Image 1
+    400008: rounded-med#6
+    400010: rounded-sm#7
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_paving_pedestrian
+    2100010: vehicle_paved
+    2100012: pedestrian_paved
+    2100014: OV_paving_vehicle
+    2100016: 0_section_cut
+    2100018: mapletree
+    2300000: 25001_3d_site
+    2300002: Group 7
+    2300004: Image 1
+    2300006: rounded-med#6
+    2300008: rounded-sm#7
+    3300000: 25001_3d_site
+    3300002: Group 7
+    3300004: Image 1
+    3300006: rounded-med#6
+    3300008: rounded-sm#7
+    4300000: Mesh 25001-00
+    4300002: Mesh Group 7
+    4300004: Mesh 25001_3d_site
+    4300006: Mesh rounded-sm#7
+    4300008: Mesh rounded-med#6
+    6400000: 25001_3d_site
+    6400002: Group 7
+    6400004: Image 1
+    6400006: rounded-med#6
+    6400008: rounded-sm#7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ce3804462cc3cb44882717ce2cfdf749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_section_cut
+    second: {fileID: 2100000, guid: 55e253cdbfcc2014b92479007094134e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 13f7d2d603a0fa24087e11069eed10ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 2f4b0e95965cfe1408dbecc86d8cdcd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: ee9bd293801c2dc46b5fd36722ae4e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: d6e17c1731a409f46bcebae367892338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 7b04cc90592714f46a0f0cdc2fb870c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 1f83e9aa4539a5b4f9230c2026559178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: 98e91b86256cee644ae461e84d6bdaa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehicle_paved
+    second: {fileID: 2100000, guid: 3f696b7a0939e4442922b666372a716e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

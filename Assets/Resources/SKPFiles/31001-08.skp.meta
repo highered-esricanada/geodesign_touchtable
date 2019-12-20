@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 9224761c8fde3254baa36708313de09e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 61d2adce7f21ed739c46de5b97061dbb
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 33.8444, y: 15.483256, z: -85.08493}
+      lookAt: {x: 3.326977, y: -1.1340401, z: -48.8876}
+      up: {x: -0.21346737, y: 0.94356906, z: 0.253198}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 33.8444, y: 15.483256, z: -85.08493}
+        lookAt: {x: 3.326977, y: -1.1340401, z: -48.8876}
+        up: {x: -0.21346737, y: 0.94356906, z: 0.253198}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Building1
+    100004: Building3
+    100006: builing2new
+    100008: Component#1
+    100010: fantree-sm
+    100012: Group 2
+    100014: Group 3
+    100016: Group 4
+    100018: Image 1
+    100020: Massing
+    100022: rounded-sm#1
+    400000: //RootNode
+    400002: Building1
+    400004: Building3
+    400006: builing2new
+    400008: Component#1
+    400010: fantree-sm
+    400012: Group 2
+    400014: Group 3
+    400016: Group 4
+    400018: Image 1
+    400020: Massing
+    400022: rounded-sm#1
+    2100000: Material 1
+    2100002: 0_label
+    2100004: residential
+    2100006: M_residential
+    2300000: Building1
+    2300002: Building3
+    2300004: builing2new
+    2300006: Group 4
+    2300008: Image 1
+    3300000: Building1
+    3300002: Building3
+    3300004: builing2new
+    3300006: Group 4
+    3300008: Image 1
+    4300000: Mesh 31001-08
+    4300002: Mesh Group 4
+    4300004: Mesh Building3
+    4300006: Mesh Building1
+    4300008: Mesh builing2new
+    6400000: Building1
+    6400002: Building3
+    6400004: builing2new
+    6400006: Group 4
+    6400008: Image 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 9615c9859d0bdd749980ad61947a2496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_residential
+    second: {fileID: 2100000, guid: d09c3d4d2f7c62f489f329ad14c2e83b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 10731e4ff152dd5438efc9bedcac850a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: residential
+    second: {fileID: 2100000, guid: ea114792709729f4ea919467221560ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

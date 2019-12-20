@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: b640281be889d2b498011a925978c7c3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 75dbfa11fb378deff376274628a16a8e
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -28.937397, y: 17.73302, z: -36.977505}
+      lookAt: {x: -25.836151, y: 16.027035, z: -33.418907}
+      up: {x: 0.22331233, y: 0.94046277, z: 0.25624487}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.37017468, y: 89.73098, z: -0.91017425}
+        lookAt: {x: 0.37017468, y: 4.615363, z: -0.91017425}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1753.4094
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -28.937397, y: 17.73302, z: -36.977505}
+        lookAt: {x: -25.836151, y: 16.027035, z: -33.418907}
+        up: {x: 0.22331233, y: 0.94046277, z: 0.25624487}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -28.937397, y: 17.73302, z: -36.977505}
+        lookAt: {x: -25.836151, y: 16.027035, z: -33.418907}
+        up: {x: 0.22331233, y: 0.94046277, z: 0.25624487}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 33009_3d_bldg
+    100004: 33009_3d_site
+    100006: cornice_support
+    100008: cornice_support 1
+    100010: cornice_support 2
+    100012: cornice_support 3
+    100014: cornice_support 4
+    100016: cornice_support 5
+    100018: Door_lite_1.15x2.2
+    100020: Door_lite_1.15x2.2#1
+    100022: Image 1
+    100024: scale_obq
+    100026: window21a
+    100028: window21a 1
+    100030: window21a 10
+    100032: window21a 11
+    100034: window21a 12
+    100036: window21a 13
+    100038: window21a 14
+    100040: window21a 15
+    100042: window21a 16
+    100044: window21a 17
+    100046: window21a 18
+    100048: window21a 19
+    100050: window21a 2
+    100052: window21a 20
+    100054: window21a 3
+    100056: window21a 4
+    100058: window21a 5
+    100060: window21a 6
+    100062: window21a 7
+    100064: window21a 8
+    100066: window21a 9
+    100068: window21b
+    100070: window21b 1
+    100072: window21b 10
+    100074: window21b 11
+    100076: window21b 12
+    100078: window21b 13
+    100080: window21b 14
+    100082: window21b 15
+    100084: window21b 16
+    100086: window21b 17
+    100088: window21b 18
+    100090: window21b 19
+    100092: window21b 2
+    100094: window21b 20
+    100096: window21b 21
+    100098: window21b 22
+    100100: window21b 23
+    100102: window21b 24
+    100104: window21b 25
+    100106: window21b 26
+    100108: window21b 27
+    100110: window21b 28
+    100112: window21b 29
+    100114: window21b 3
+    100116: window21b 30
+    100118: window21b 31
+    100120: window21b 32
+    100122: window21b 33
+    100124: window21b 34
+    100126: window21b 35
+    100128: window21b 36
+    100130: window21b 37
+    100132: window21b 38
+    100134: window21b 39
+    100136: window21b 4
+    100138: window21b 40
+    100140: window21b 41
+    100142: window21b 42
+    100144: window21b 43
+    100146: window21b 44
+    100148: window21b 45
+    100150: window21b 46
+    100152: window21b 47
+    100154: window21b 48
+    100156: window21b 49
+    100158: window21b 5
+    100160: window21b 50
+    100162: window21b 51
+    100164: window21b 52
+    100166: window21b 53
+    100168: window21b 54
+    100170: window21b 55
+    100172: window21b 56
+    100174: window21b 57
+    100176: window21b 58
+    100178: window21b 59
+    100180: window21b 6
+    100182: window21b 60
+    100184: window21b 61
+    100186: window21b 62
+    100188: window21b 63
+    100190: window21b 64
+    100192: window21b 65
+    100194: window21b 66
+    100196: window21b 67
+    100198: window21b 68
+    100200: window21b 69
+    100202: window21b 7
+    100204: window21b 70
+    100206: window21b 71
+    100208: window21b 8
+    100210: window21b 9
+    100212: window21b#1
+    100214: window21b#1 1
+    100216: window21b#1 2
+    100218: window21b#1 3
+    100220: window21b#1 4
+    100222: window21b#1 5
+    100224: window21b#1 6
+    100226: window21b#1 7
+    100228: window21b#1 8
+    100230: window21b#1 9
+    100232: Window_deepjamb_0.53x1.02
+    100234: Window_deepjamb_0.53x1.02 1
+    400000: //RootNode
+    400002: 33009_3d_bldg
+    400004: 33009_3d_site
+    400006: cornice_support
+    400008: cornice_support 1
+    400010: cornice_support 2
+    400012: cornice_support 3
+    400014: cornice_support 4
+    400016: cornice_support 5
+    400018: Door_lite_1.15x2.2
+    400020: Door_lite_1.15x2.2#1
+    400022: Image 1
+    400024: scale_obq
+    400026: window21a
+    400028: window21a 1
+    400030: window21a 10
+    400032: window21a 11
+    400034: window21a 12
+    400036: window21a 13
+    400038: window21a 14
+    400040: window21a 15
+    400042: window21a 16
+    400044: window21a 17
+    400046: window21a 18
+    400048: window21a 19
+    400050: window21a 2
+    400052: window21a 20
+    400054: window21a 3
+    400056: window21a 4
+    400058: window21a 5
+    400060: window21a 6
+    400062: window21a 7
+    400064: window21a 8
+    400066: window21a 9
+    400068: window21b
+    400070: window21b 1
+    400072: window21b 10
+    400074: window21b 11
+    400076: window21b 12
+    400078: window21b 13
+    400080: window21b 14
+    400082: window21b 15
+    400084: window21b 16
+    400086: window21b 17
+    400088: window21b 18
+    400090: window21b 19
+    400092: window21b 2
+    400094: window21b 20
+    400096: window21b 21
+    400098: window21b 22
+    400100: window21b 23
+    400102: window21b 24
+    400104: window21b 25
+    400106: window21b 26
+    400108: window21b 27
+    400110: window21b 28
+    400112: window21b 29
+    400114: window21b 3
+    400116: window21b 30
+    400118: window21b 31
+    400120: window21b 32
+    400122: window21b 33
+    400124: window21b 34
+    400126: window21b 35
+    400128: window21b 36
+    400130: window21b 37
+    400132: window21b 38
+    400134: window21b 39
+    400136: window21b 4
+    400138: window21b 40
+    400140: window21b 41
+    400142: window21b 42
+    400144: window21b 43
+    400146: window21b 44
+    400148: window21b 45
+    400150: window21b 46
+    400152: window21b 47
+    400154: window21b 48
+    400156: window21b 49
+    400158: window21b 5
+    400160: window21b 50
+    400162: window21b 51
+    400164: window21b 52
+    400166: window21b 53
+    400168: window21b 54
+    400170: window21b 55
+    400172: window21b 56
+    400174: window21b 57
+    400176: window21b 58
+    400178: window21b 59
+    400180: window21b 6
+    400182: window21b 60
+    400184: window21b 61
+    400186: window21b 62
+    400188: window21b 63
+    400190: window21b 64
+    400192: window21b 65
+    400194: window21b 66
+    400196: window21b 67
+    400198: window21b 68
+    400200: window21b 69
+    400202: window21b 7
+    400204: window21b 70
+    400206: window21b 71
+    400208: window21b 8
+    400210: window21b 9
+    400212: window21b#1
+    400214: window21b#1 1
+    400216: window21b#1 2
+    400218: window21b#1 3
+    400220: window21b#1 4
+    400222: window21b#1 5
+    400224: window21b#1 6
+    400226: window21b#1 7
+    400228: window21b#1 8
+    400230: window21b#1 9
+    400232: Window_deepjamb_0.53x1.02
+    400234: Window_deepjamb_0.53x1.02 1
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_paving_general
+    2100006: OV_paving_pedestrian
+    2100008: OV_shrub_texture
+    2100010: OV_bldg_accent
+    2100012: buildingwalls
+    2100014: OV_bldg_wall
+    2100016: OV_bldg_roof
+    2100018: ApertureGlass
+    2100020: apertures
+    2300000: 33009_3d_bldg
+    2300002: 33009_3d_site
+    2300004: cornice_support
+    2300006: cornice_support 1
+    2300008: cornice_support 2
+    2300010: cornice_support 3
+    2300012: cornice_support 4
+    2300014: cornice_support 5
+    2300016: Door_lite_1.15x2.2
+    2300018: Door_lite_1.15x2.2#1
+    2300020: Image 1
+    2300022: scale_obq
+    2300024: window21a
+    2300026: window21a 1
+    2300028: window21a 10
+    2300030: window21a 11
+    2300032: window21a 12
+    2300034: window21a 13
+    2300036: window21a 14
+    2300038: window21a 15
+    2300040: window21a 16
+    2300042: window21a 17
+    2300044: window21a 18
+    2300046: window21a 19
+    2300048: window21a 2
+    2300050: window21a 20
+    2300052: window21a 3
+    2300054: window21a 4
+    2300056: window21a 5
+    2300058: window21a 6
+    2300060: window21a 7
+    2300062: window21a 8
+    2300064: window21a 9
+    2300066: window21b
+    2300068: window21b 1
+    2300070: window21b 10
+    2300072: window21b 11
+    2300074: window21b 12
+    2300076: window21b 13
+    2300078: window21b 14
+    2300080: window21b 15
+    2300082: window21b 16
+    2300084: window21b 17
+    2300086: window21b 18
+    2300088: window21b 19
+    2300090: window21b 2
+    2300092: window21b 20
+    2300094: window21b 21
+    2300096: window21b 22
+    2300098: window21b 23
+    2300100: window21b 24
+    2300102: window21b 25
+    2300104: window21b 26
+    2300106: window21b 27
+    2300108: window21b 28
+    2300110: window21b 29
+    2300112: window21b 3
+    2300114: window21b 30
+    2300116: window21b 31
+    2300118: window21b 32
+    2300120: window21b 33
+    2300122: window21b 34
+    2300124: window21b 35
+    2300126: window21b 36
+    2300128: window21b 37
+    2300130: window21b 38
+    2300132: window21b 39
+    2300134: window21b 4
+    2300136: window21b 40
+    2300138: window21b 41
+    2300140: window21b 42
+    2300142: window21b 43
+    2300144: window21b 44
+    2300146: window21b 45
+    2300148: window21b 46
+    2300150: window21b 47
+    2300152: window21b 48
+    2300154: window21b 49
+    2300156: window21b 5
+    2300158: window21b 50
+    2300160: window21b 51
+    2300162: window21b 52
+    2300164: window21b 53
+    2300166: window21b 54
+    2300168: window21b 55
+    2300170: window21b 56
+    2300172: window21b 57
+    2300174: window21b 58
+    2300176: window21b 59
+    2300178: window21b 6
+    2300180: window21b 60
+    2300182: window21b 61
+    2300184: window21b 62
+    2300186: window21b 63
+    2300188: window21b 64
+    2300190: window21b 65
+    2300192: window21b 66
+    2300194: window21b 67
+    2300196: window21b 68
+    2300198: window21b 69
+    2300200: window21b 7
+    2300202: window21b 70
+    2300204: window21b 71
+    2300206: window21b 8
+    2300208: window21b 9
+    2300210: window21b#1
+    2300212: window21b#1 1
+    2300214: window21b#1 2
+    2300216: window21b#1 3
+    2300218: window21b#1 4
+    2300220: window21b#1 5
+    2300222: window21b#1 6
+    2300224: window21b#1 7
+    2300226: window21b#1 8
+    2300228: window21b#1 9
+    2300230: Window_deepjamb_0.53x1.02
+    2300232: Window_deepjamb_0.53x1.02 1
+    3300000: 33009_3d_bldg
+    3300002: 33009_3d_site
+    3300004: cornice_support
+    3300006: cornice_support 1
+    3300008: cornice_support 2
+    3300010: cornice_support 3
+    3300012: cornice_support 4
+    3300014: cornice_support 5
+    3300016: Door_lite_1.15x2.2
+    3300018: Door_lite_1.15x2.2#1
+    3300020: Image 1
+    3300022: scale_obq
+    3300024: window21a
+    3300026: window21a 1
+    3300028: window21a 10
+    3300030: window21a 11
+    3300032: window21a 12
+    3300034: window21a 13
+    3300036: window21a 14
+    3300038: window21a 15
+    3300040: window21a 16
+    3300042: window21a 17
+    3300044: window21a 18
+    3300046: window21a 19
+    3300048: window21a 2
+    3300050: window21a 20
+    3300052: window21a 3
+    3300054: window21a 4
+    3300056: window21a 5
+    3300058: window21a 6
+    3300060: window21a 7
+    3300062: window21a 8
+    3300064: window21a 9
+    3300066: window21b
+    3300068: window21b 1
+    3300070: window21b 10
+    3300072: window21b 11
+    3300074: window21b 12
+    3300076: window21b 13
+    3300078: window21b 14
+    3300080: window21b 15
+    3300082: window21b 16
+    3300084: window21b 17
+    3300086: window21b 18
+    3300088: window21b 19
+    3300090: window21b 2
+    3300092: window21b 20
+    3300094: window21b 21
+    3300096: window21b 22
+    3300098: window21b 23
+    3300100: window21b 24
+    3300102: window21b 25
+    3300104: window21b 26
+    3300106: window21b 27
+    3300108: window21b 28
+    3300110: window21b 29
+    3300112: window21b 3
+    3300114: window21b 30
+    3300116: window21b 31
+    3300118: window21b 32
+    3300120: window21b 33
+    3300122: window21b 34
+    3300124: window21b 35
+    3300126: window21b 36
+    3300128: window21b 37
+    3300130: window21b 38
+    3300132: window21b 39
+    3300134: window21b 4
+    3300136: window21b 40
+    3300138: window21b 41
+    3300140: window21b 42
+    3300142: window21b 43
+    3300144: window21b 44
+    3300146: window21b 45
+    3300148: window21b 46
+    3300150: window21b 47
+    3300152: window21b 48
+    3300154: window21b 49
+    3300156: window21b 5
+    3300158: window21b 50
+    3300160: window21b 51
+    3300162: window21b 52
+    3300164: window21b 53
+    3300166: window21b 54
+    3300168: window21b 55
+    3300170: window21b 56
+    3300172: window21b 57
+    3300174: window21b 58
+    3300176: window21b 59
+    3300178: window21b 6
+    3300180: window21b 60
+    3300182: window21b 61
+    3300184: window21b 62
+    3300186: window21b 63
+    3300188: window21b 64
+    3300190: window21b 65
+    3300192: window21b 66
+    3300194: window21b 67
+    3300196: window21b 68
+    3300198: window21b 69
+    3300200: window21b 7
+    3300202: window21b 70
+    3300204: window21b 71
+    3300206: window21b 8
+    3300208: window21b 9
+    3300210: window21b#1
+    3300212: window21b#1 1
+    3300214: window21b#1 2
+    3300216: window21b#1 3
+    3300218: window21b#1 4
+    3300220: window21b#1 5
+    3300222: window21b#1 6
+    3300224: window21b#1 7
+    3300226: window21b#1 8
+    3300228: window21b#1 9
+    3300230: Window_deepjamb_0.53x1.02
+    3300232: Window_deepjamb_0.53x1.02 1
+    4300000: Mesh 33009-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 33009_3d_site
+    4300006: Mesh 33009_3d_bldg
+    4300008: Mesh window21b
+    4300010: Mesh cornice_support
+    4300012: Mesh window21a
+    4300014: Mesh window21b#1
+    4300016: Mesh Door_lite_1.15x2.2
+    4300018: Mesh Window_deepjamb_0.53x1.02
+    4300020: Mesh Door_lite_1.15x2.2#1
+    6400000: 33009_3d_bldg
+    6400002: 33009_3d_site
+    6400004: cornice_support
+    6400006: cornice_support 1
+    6400008: cornice_support 2
+    6400010: cornice_support 3
+    6400012: cornice_support 4
+    6400014: cornice_support 5
+    6400016: Door_lite_1.15x2.2
+    6400018: Door_lite_1.15x2.2#1
+    6400020: Image 1
+    6400022: scale_obq
+    6400024: window21a
+    6400026: window21a 1
+    6400028: window21a 10
+    6400030: window21a 11
+    6400032: window21a 12
+    6400034: window21a 13
+    6400036: window21a 14
+    6400038: window21a 15
+    6400040: window21a 16
+    6400042: window21a 17
+    6400044: window21a 18
+    6400046: window21a 19
+    6400048: window21a 2
+    6400050: window21a 20
+    6400052: window21a 3
+    6400054: window21a 4
+    6400056: window21a 5
+    6400058: window21a 6
+    6400060: window21a 7
+    6400062: window21a 8
+    6400064: window21a 9
+    6400066: window21b
+    6400068: window21b 1
+    6400070: window21b 10
+    6400072: window21b 11
+    6400074: window21b 12
+    6400076: window21b 13
+    6400078: window21b 14
+    6400080: window21b 15
+    6400082: window21b 16
+    6400084: window21b 17
+    6400086: window21b 18
+    6400088: window21b 19
+    6400090: window21b 2
+    6400092: window21b 20
+    6400094: window21b 21
+    6400096: window21b 22
+    6400098: window21b 23
+    6400100: window21b 24
+    6400102: window21b 25
+    6400104: window21b 26
+    6400106: window21b 27
+    6400108: window21b 28
+    6400110: window21b 29
+    6400112: window21b 3
+    6400114: window21b 30
+    6400116: window21b 31
+    6400118: window21b 32
+    6400120: window21b 33
+    6400122: window21b 34
+    6400124: window21b 35
+    6400126: window21b 36
+    6400128: window21b 37
+    6400130: window21b 38
+    6400132: window21b 39
+    6400134: window21b 4
+    6400136: window21b 40
+    6400138: window21b 41
+    6400140: window21b 42
+    6400142: window21b 43
+    6400144: window21b 44
+    6400146: window21b 45
+    6400148: window21b 46
+    6400150: window21b 47
+    6400152: window21b 48
+    6400154: window21b 49
+    6400156: window21b 5
+    6400158: window21b 50
+    6400160: window21b 51
+    6400162: window21b 52
+    6400164: window21b 53
+    6400166: window21b 54
+    6400168: window21b 55
+    6400170: window21b 56
+    6400172: window21b 57
+    6400174: window21b 58
+    6400176: window21b 59
+    6400178: window21b 6
+    6400180: window21b 60
+    6400182: window21b 61
+    6400184: window21b 62
+    6400186: window21b 63
+    6400188: window21b 64
+    6400190: window21b 65
+    6400192: window21b 66
+    6400194: window21b 67
+    6400196: window21b 68
+    6400198: window21b 69
+    6400200: window21b 7
+    6400202: window21b 70
+    6400204: window21b 71
+    6400206: window21b 8
+    6400208: window21b 9
+    6400210: window21b#1
+    6400212: window21b#1 1
+    6400214: window21b#1 2
+    6400216: window21b#1 3
+    6400218: window21b#1 4
+    6400220: window21b#1 5
+    6400222: window21b#1 6
+    6400224: window21b#1 7
+    6400226: window21b#1 8
+    6400228: window21b#1 9
+    6400230: Window_deepjamb_0.53x1.02
+    6400232: Window_deepjamb_0.53x1.02 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 7238718adad475d418d812bace2bb6f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 2258741f65bf15d4f8c7e587f93be9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: cfe130a8dc27ea34084ef01835b86666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 70ff42a58a0876046907af5645b0ccaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 333e58c3e2245d940b26404fd8094b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: a9fb3d17e4e02a044919fdb45ab6e3cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 54821c505ed3c764692d6a1b91e6171b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 3e70d63bc60f905489d566c7d4becc88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 6458e13af32e3f1428d1d8b5a8c5d442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apertures
+    second: {fileID: 2100000, guid: 237125bc769f465428ecd809ce9240fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: e568b0ac1e054aa44afe05cf7d30e224, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

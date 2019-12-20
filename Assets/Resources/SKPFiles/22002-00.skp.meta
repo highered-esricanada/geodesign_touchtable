@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 7c13435ec19380b478a7b82f7ffa7647
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000008000000090000000a0000000b0000000c0000000d0000000f000000100000001200000013000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0252c2c70372bcded3841362eee74c93
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 27.783361, y: 19.694866, z: -40.038887}
+      lookAt: {x: -8.106492, y: -2.015659, z: 5.099515}
+      up: {x: -0.21927798, y: 0.93587404, z: 0.27578428}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 27.783361, y: 19.694866, z: -40.038887}
+        lookAt: {x: -8.106492, y: -2.015659, z: 5.099515}
+        up: {x: -0.21927798, y: 0.93587404, z: 0.27578428}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 0.5306282, y: 183.7587, z: -0.4655176}
+        lookAt: {x: 0.5306282, y: 1.4538215, z: -0.4655176}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1654.0557
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 22002_3dsite
+    100004: Image 2
+    100006: scale_obq
+    100008: tree_round_S
+    100010: tree_round_S 1
+    100012: tree_round_S 2
+    400000: //RootNode
+    400002: 22002_3dsite
+    400004: Image 2
+    400006: scale_obq
+    400008: tree_round_S
+    400010: tree_round_S 1
+    400012: tree_round_S 2
+    2100000: Material 1
+    2100002: 0_label
+    2100004: OV_turf_solid
+    2100006: OV_surface_other
+    2100008: OV_paving_vehicle
+    2100010: OV_paving general
+    2100012: OV_shrub_solid
+    2100014: OV_shrub_texture
+    2100016: OV_paving_general
+    2100018: mapletree
+    2300000: //RootNode
+    2300002: 22002_3dsite
+    2300004: Image 2
+    2300006: scale_obq
+    2300008: tree_round_S
+    2300010: tree_round_S 1
+    2300012: tree_round_S 2
+    3300000: //RootNode
+    3300002: 22002_3dsite
+    3300004: Image 2
+    3300006: scale_obq
+    3300008: tree_round_S
+    3300010: tree_round_S 1
+    3300012: tree_round_S 2
+    4300000: Mesh 22002-00
+    4300002: Mesh 22002-00
+    4300004: Mesh scale_obq
+    4300006: Mesh 22002_3dsite
+    4300008: Mesh tree_round_S
+    6400000: //RootNode
+    6400002: 22002_3dsite
+    6400004: Image 2
+    6400006: scale_obq
+    6400008: tree_round_S
+    6400010: tree_round_S 1
+    6400012: tree_round_S 2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: c9fa8dfa925c03e43b3155238d212208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 6ffbceda2eaa1c34e8539d86db474073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 33a1ff0f2a7f98b4e8bcd482d06d27a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 9458c8a620b125046b27d67f58068c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: f56a5d2f513921047811a9360387cd35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 4291c1ba0cfbd6442b2b328effde0815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 6d9bbcb56e2260147914c11de7ec01c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: a831ee871c4c9ae4981f580b538e8b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: e05bd774414417f4f89766889d1e0ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 8554fec07be25e345a699f39c5b6d18f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

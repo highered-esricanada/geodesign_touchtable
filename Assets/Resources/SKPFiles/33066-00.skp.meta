@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 429167c06b7de584980e0b1138b3ebc6
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0e2c934a1490b9ae2eee997143ce1edf
+  longitude: -123.181618
+  latitude: 49.266227
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 100.821754, y: 70.56539, z: 100.44692}
+      lookAt: {x: 1.0772079, y: 14.934681, z: 0.809465}
+      up: {x: -0.25955382, y: 0.9302026, z: -0.25952837}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -2.4627423, y: 177.15413, z: 1.8750088}
+        lookAt: {x: -1.7591017, y: 19.547647, z: 1.3392919}
+        up: {x: 0.000015174934, y: -0.0033989907, z: 0.9999942}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3325.2913
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 100.821754, y: 70.56539, z: 100.44692}
+        lookAt: {x: 1.0772079, y: 14.934681, z: 0.809465}
+        up: {x: -0.25955382, y: 0.9302026, z: -0.25952837}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 100.821754, y: 70.56539, z: 100.44692}
+        lookAt: {x: 1.0772079, y: 14.934681, z: 0.809465}
+        up: {x: -0.25955382, y: 0.9302026, z: -0.25952837}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 10
+    100004: Group 101
+    100006: Group 103
+    100008: Group 105
+    100010: Group 107
+    100012: Group 109
+    100014: Group 11
+    100016: Group 111
+    100018: Group 113
+    100020: Group 115
+    100022: Group 117
+    100024: Group 119
+    100026: Group 121
+    100028: Group 123
+    100030: Group 125
+    100032: Group 127
+    100034: Group 129
+    100036: Group 13
+    100038: Group 131
+    100040: Group 133
+    100042: Group 135
+    100044: Group 137
+    100046: Group 139
+    100048: Group 141
+    100050: Group 143
+    100052: Group 145
+    100054: Group 147
+    100056: Group 149
+    100058: Group 15
+    100060: Group 151
+    100062: Group 153
+    100064: Group 155
+    100066: Group 157
+    100068: Group 159
+    100070: Group 161
+    100072: Group 163
+    100074: Group 165
+    100076: Group 167
+    100078: Group 169
+    100080: Group 17
+    100082: Group 171
+    100084: Group 175
+    100086: Group 178
+    100088: Group 180
+    100090: Group 182
+    100092: Group 184
+    100094: Group 186
+    100096: Group 188
+    100098: Group 19
+    100100: Group 190
+    100102: Group 192
+    100104: Group 194
+    100106: Group 196
+    100108: Group 198
+    100110: Group 2
+    100112: Group 200
+    100114: Group 202
+    100116: Group 204
+    100118: Group 206
+    100120: Group 208
+    100122: Group 21
+    100124: Group 23
+    100126: Group 25
+    100128: Group 27
+    100130: Group 29
+    100132: Group 31
+    100134: Group 33
+    100136: Group 35
+    100138: Group 37
+    100140: Group 39
+    100142: Group 4
+    100144: Group 41
+    100146: Group 43
+    100148: Group 45
+    100150: Group 47
+    100152: Group 48
+    100154: Group 50
+    100156: Group 52
+    100158: Group 54
+    100160: Group 56
+    100162: Group 58
+    100164: Group 6
+    100166: Group 60
+    100168: Group 62
+    100170: Group 64
+    100172: Group 66
+    100174: Group 68
+    100176: Group 70
+    100178: Group 72
+    100180: Group 74
+    100182: Group 76
+    100184: Group 78
+    100186: Group 8
+    100188: Group 80
+    100190: Group 82
+    100192: Group 85
+    100194: Group 87
+    100196: Group 89
+    100198: Group 91
+    100200: Group 93
+    100202: Group 95
+    100204: Group 97
+    100206: Group 99
+    100208: Image 1
+    100210: rounded-2m_V2
+    100212: rounded-2m_V2 1
+    100214: rounded-2m_V2 10
+    100216: rounded-2m_V2 11
+    100218: rounded-2m_V2 12
+    100220: rounded-2m_V2 13
+    100222: rounded-2m_V2 14
+    100224: rounded-2m_V2 15
+    100226: rounded-2m_V2 16
+    100228: rounded-2m_V2 17
+    100230: rounded-2m_V2 18
+    100232: rounded-2m_V2 19
+    100234: rounded-2m_V2 2
+    100236: rounded-2m_V2 20
+    100238: rounded-2m_V2 21
+    100240: rounded-2m_V2 22
+    100242: rounded-2m_V2 23
+    100244: rounded-2m_V2 24
+    100246: rounded-2m_V2 25
+    100248: rounded-2m_V2 3
+    100250: rounded-2m_V2 4
+    100252: rounded-2m_V2 5
+    100254: rounded-2m_V2 6
+    100256: rounded-2m_V2 7
+    100258: rounded-2m_V2 8
+    100260: rounded-2m_V2 9
+    100262: rounded-5m_V2
+    100264: rounded-5m_V2 1
+    100266: rounded-5m_V2 2
+    100268: rounded-5m_V2 3
+    100270: scale_plan_B
+    400000: //RootNode
+    400002: Group 10
+    400004: Group 101
+    400006: Group 103
+    400008: Group 105
+    400010: Group 107
+    400012: Group 109
+    400014: Group 11
+    400016: Group 111
+    400018: Group 113
+    400020: Group 115
+    400022: Group 117
+    400024: Group 119
+    400026: Group 121
+    400028: Group 123
+    400030: Group 125
+    400032: Group 127
+    400034: Group 129
+    400036: Group 13
+    400038: Group 131
+    400040: Group 133
+    400042: Group 135
+    400044: Group 137
+    400046: Group 139
+    400048: Group 141
+    400050: Group 143
+    400052: Group 145
+    400054: Group 147
+    400056: Group 149
+    400058: Group 15
+    400060: Group 151
+    400062: Group 153
+    400064: Group 155
+    400066: Group 157
+    400068: Group 159
+    400070: Group 161
+    400072: Group 163
+    400074: Group 165
+    400076: Group 167
+    400078: Group 169
+    400080: Group 17
+    400082: Group 171
+    400084: Group 175
+    400086: Group 178
+    400088: Group 180
+    400090: Group 182
+    400092: Group 184
+    400094: Group 186
+    400096: Group 188
+    400098: Group 19
+    400100: Group 190
+    400102: Group 192
+    400104: Group 194
+    400106: Group 196
+    400108: Group 198
+    400110: Group 2
+    400112: Group 200
+    400114: Group 202
+    400116: Group 204
+    400118: Group 206
+    400120: Group 208
+    400122: Group 21
+    400124: Group 23
+    400126: Group 25
+    400128: Group 27
+    400130: Group 29
+    400132: Group 31
+    400134: Group 33
+    400136: Group 35
+    400138: Group 37
+    400140: Group 39
+    400142: Group 4
+    400144: Group 41
+    400146: Group 43
+    400148: Group 45
+    400150: Group 47
+    400152: Group 48
+    400154: Group 50
+    400156: Group 52
+    400158: Group 54
+    400160: Group 56
+    400162: Group 58
+    400164: Group 6
+    400166: Group 60
+    400168: Group 62
+    400170: Group 64
+    400172: Group 66
+    400174: Group 68
+    400176: Group 70
+    400178: Group 72
+    400180: Group 74
+    400182: Group 76
+    400184: Group 78
+    400186: Group 8
+    400188: Group 80
+    400190: Group 82
+    400192: Group 85
+    400194: Group 87
+    400196: Group 89
+    400198: Group 91
+    400200: Group 93
+    400202: Group 95
+    400204: Group 97
+    400206: Group 99
+    400208: Image 1
+    400210: rounded-2m_V2
+    400212: rounded-2m_V2 1
+    400214: rounded-2m_V2 10
+    400216: rounded-2m_V2 11
+    400218: rounded-2m_V2 12
+    400220: rounded-2m_V2 13
+    400222: rounded-2m_V2 14
+    400224: rounded-2m_V2 15
+    400226: rounded-2m_V2 16
+    400228: rounded-2m_V2 17
+    400230: rounded-2m_V2 18
+    400232: rounded-2m_V2 19
+    400234: rounded-2m_V2 2
+    400236: rounded-2m_V2 20
+    400238: rounded-2m_V2 21
+    400240: rounded-2m_V2 22
+    400242: rounded-2m_V2 23
+    400244: rounded-2m_V2 24
+    400246: rounded-2m_V2 25
+    400248: rounded-2m_V2 3
+    400250: rounded-2m_V2 4
+    400252: rounded-2m_V2 5
+    400254: rounded-2m_V2 6
+    400256: rounded-2m_V2 7
+    400258: rounded-2m_V2 8
+    400260: rounded-2m_V2 9
+    400262: rounded-5m_V2
+    400264: rounded-5m_V2 1
+    400266: rounded-5m_V2 2
+    400268: rounded-5m_V2 3
+    400270: scale_plan_B
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_bldg_wall1
+    2100006: LightCaseApertureGlass
+    2100008: OV_bldg_accent
+    2100010: OV_bldg_roof1
+    2100012: OV_turf_solid1
+    2100014: OV_paving_pedestrian1
+    2100016: OV_surface_other
+    2100018: OV_shrub_texture
+    2100020: mapletree
+    2100022: OV_Water
+    2100024: 0_label
+    2300000: Group 101
+    2300002: Group 105
+    2300004: Group 109
+    2300006: Group 11
+    2300008: Group 113
+    2300010: Group 117
+    2300012: Group 121
+    2300014: Group 125
+    2300016: Group 129
+    2300018: Group 13
+    2300020: Group 133
+    2300022: Group 137
+    2300024: Group 141
+    2300026: Group 145
+    2300028: Group 149
+    2300030: Group 15
+    2300032: Group 153
+    2300034: Group 157
+    2300036: Group 161
+    2300038: Group 165
+    2300040: Group 169
+    2300042: Group 17
+    2300044: Group 175
+    2300046: Group 178
+    2300048: Group 182
+    2300050: Group 186
+    2300052: Group 19
+    2300054: Group 190
+    2300056: Group 194
+    2300058: Group 198
+    2300060: Group 2
+    2300062: Group 202
+    2300064: Group 206
+    2300066: Group 21
+    2300068: Group 23
+    2300070: Group 25
+    2300072: Group 27
+    2300074: Group 29
+    2300076: Group 31
+    2300078: Group 33
+    2300080: Group 35
+    2300082: Group 37
+    2300084: Group 39
+    2300086: Group 4
+    2300088: Group 41
+    2300090: Group 43
+    2300092: Group 45
+    2300094: Group 48
+    2300096: Group 50
+    2300098: Group 52
+    2300100: Group 54
+    2300102: Group 56
+    2300104: Group 58
+    2300106: Group 6
+    2300108: Group 60
+    2300110: Group 62
+    2300112: Group 64
+    2300114: Group 66
+    2300116: Group 68
+    2300118: Group 70
+    2300120: Group 72
+    2300122: Group 74
+    2300124: Group 76
+    2300126: Group 78
+    2300128: Group 8
+    2300130: Group 80
+    2300132: Group 82
+    2300134: Group 85
+    2300136: Group 89
+    2300138: Group 93
+    2300140: Group 97
+    2300142: Image 1
+    2300144: scale_plan_B
+    3300000: Group 101
+    3300002: Group 105
+    3300004: Group 109
+    3300006: Group 11
+    3300008: Group 113
+    3300010: Group 117
+    3300012: Group 121
+    3300014: Group 125
+    3300016: Group 129
+    3300018: Group 13
+    3300020: Group 133
+    3300022: Group 137
+    3300024: Group 141
+    3300026: Group 145
+    3300028: Group 149
+    3300030: Group 15
+    3300032: Group 153
+    3300034: Group 157
+    3300036: Group 161
+    3300038: Group 165
+    3300040: Group 169
+    3300042: Group 17
+    3300044: Group 175
+    3300046: Group 178
+    3300048: Group 182
+    3300050: Group 186
+    3300052: Group 19
+    3300054: Group 190
+    3300056: Group 194
+    3300058: Group 198
+    3300060: Group 2
+    3300062: Group 202
+    3300064: Group 206
+    3300066: Group 21
+    3300068: Group 23
+    3300070: Group 25
+    3300072: Group 27
+    3300074: Group 29
+    3300076: Group 31
+    3300078: Group 33
+    3300080: Group 35
+    3300082: Group 37
+    3300084: Group 39
+    3300086: Group 4
+    3300088: Group 41
+    3300090: Group 43
+    3300092: Group 45
+    3300094: Group 48
+    3300096: Group 50
+    3300098: Group 52
+    3300100: Group 54
+    3300102: Group 56
+    3300104: Group 58
+    3300106: Group 6
+    3300108: Group 60
+    3300110: Group 62
+    3300112: Group 64
+    3300114: Group 66
+    3300116: Group 68
+    3300118: Group 70
+    3300120: Group 72
+    3300122: Group 74
+    3300124: Group 76
+    3300126: Group 78
+    3300128: Group 8
+    3300130: Group 80
+    3300132: Group 82
+    3300134: Group 85
+    3300136: Group 89
+    3300138: Group 93
+    3300140: Group 97
+    3300142: Image 1
+    3300144: scale_plan_B
+    4300000: Mesh 33066-00
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 8
+    4300010: Mesh Group 11
+    4300012: Mesh Group 85
+    4300014: Mesh Group 175
+    4300016: Mesh scale_plan_B
+    6400000: Group 101
+    6400002: Group 105
+    6400004: Group 109
+    6400006: Group 11
+    6400008: Group 113
+    6400010: Group 117
+    6400012: Group 121
+    6400014: Group 125
+    6400016: Group 129
+    6400018: Group 13
+    6400020: Group 133
+    6400022: Group 137
+    6400024: Group 141
+    6400026: Group 145
+    6400028: Group 149
+    6400030: Group 15
+    6400032: Group 153
+    6400034: Group 157
+    6400036: Group 161
+    6400038: Group 165
+    6400040: Group 169
+    6400042: Group 17
+    6400044: Group 175
+    6400046: Group 178
+    6400048: Group 182
+    6400050: Group 186
+    6400052: Group 19
+    6400054: Group 190
+    6400056: Group 194
+    6400058: Group 198
+    6400060: Group 2
+    6400062: Group 202
+    6400064: Group 206
+    6400066: Group 21
+    6400068: Group 23
+    6400070: Group 25
+    6400072: Group 27
+    6400074: Group 29
+    6400076: Group 31
+    6400078: Group 33
+    6400080: Group 35
+    6400082: Group 37
+    6400084: Group 39
+    6400086: Group 4
+    6400088: Group 41
+    6400090: Group 43
+    6400092: Group 45
+    6400094: Group 48
+    6400096: Group 50
+    6400098: Group 52
+    6400100: Group 54
+    6400102: Group 56
+    6400104: Group 58
+    6400106: Group 6
+    6400108: Group 60
+    6400110: Group 62
+    6400112: Group 64
+    6400114: Group 66
+    6400116: Group 68
+    6400118: Group 70
+    6400120: Group 72
+    6400122: Group 74
+    6400124: Group 76
+    6400126: Group 78
+    6400128: Group 8
+    6400130: Group 80
+    6400132: Group 82
+    6400134: Group 85
+    6400136: Group 89
+    6400138: Group 93
+    6400140: Group 97
+    6400142: Image 1
+    6400144: scale_plan_B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 702a2a53df2b4cb45a4afc11f4a1e769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 2d1f3a26a0e17f44f865df0785f8166c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 100ef477cd7f3fe42a230a210e1922c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: f2b1be073de519f4bb1ba7f1b0a225d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: ad6a30fec6e8fb0428ce05cb06ad3d6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof1
+    second: {fileID: 2100000, guid: ee1547524cc916b47af2b56c3c3956e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall1
+    second: {fileID: 2100000, guid: 89f0a1d21392520499074c2d41fae884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian1
+    second: {fileID: 2100000, guid: 66152bf6531ea534d873c3e43a8e4e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: dde87998ce7a9ee43bc88ff29a59a565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 84b05d6e63ac72146b6cac300d4199bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid1
+    second: {fileID: 2100000, guid: efdf4d06b33def945ba7d38440f1ab79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: f91713fd5ef77464182f9afb05358842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 151d3b6708f48c74d895a72498f0bb52, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

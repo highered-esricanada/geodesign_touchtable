@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: d37bc98327d341d4f81a009a2df4e4c1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002f010000300100003201000033010000350100003601000038010000390100003b0100003c0100003e0100003f0100004101000042010000440100004501000047010000480100004a0100004b0100004d0100004e0100005001000051010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003c0200003d0200003f020000400200004202000043020000450200004602000048020000490200004b0200004c0200004e0200004f020000510200005202000054020000550200005602000057020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1f44afae75c9a7d0c5292897d59f5790
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 212.7, y: 129.91338, z: -207.08583}
+      lookAt: {x: 48.025608, y: -2.7618744, z: 26.4704}
+      up: {x: -0.24265447, y: 0.9070151, z: 0.34415472}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -34.75665, y: 210.49057, z: 35.409527}
+        lookAt: {x: -34.75665, y: -18559.967, z: 35.409527}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 11605.018
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 212.7, y: 129.91338, z: -207.08583}
+        lookAt: {x: 48.025608, y: -2.7618744, z: 26.4704}
+        up: {x: -0.24265447, y: 0.9070151, z: 0.34415472}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 212.7, y: 129.91338, z: -207.08583}
+        lookAt: {x: 48.025608, y: -2.7618744, z: 26.4704}
+        up: {x: -0.24265447, y: 0.9070151, z: 0.34415472}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 12010_3d_building
+    100004: 12010_3d_site
+    100006: 12010_plan_canopy
+    100008: bulb tree-sm
+    100010: bulb tree-sm 1
+    100012: bulb tree-sm 2
+    100014: bulb tree-sm 3
+    100016: bulb tree-sm 4
+    100018: conifer-sm
+    100020: conifer-sm 1
+    100022: conifer-sm 10
+    100024: conifer-sm 11
+    100026: conifer-sm 12
+    100028: conifer-sm 13
+    100030: conifer-sm 14
+    100032: conifer-sm 15
+    100034: conifer-sm 16
+    100036: conifer-sm 17
+    100038: conifer-sm 2
+    100040: conifer-sm 3
+    100042: conifer-sm 4
+    100044: conifer-sm 5
+    100046: conifer-sm 6
+    100048: conifer-sm 7
+    100050: conifer-sm 8
+    100052: conifer-sm 9
+    100054: door_header#1
+    100056: Door_plain_0.85x2.1
+    100058: Door_plain_0.85x2.1 1
+    100060: Group 14
+    100062: Group 16
+    100064: Group 28
+    100066: Group 30
+    100068: Group 38
+    100070: Group 40
+    100072: Group 42
+    100074: Group 44
+    100076: Group 46
+    100078: Group 48
+    100080: Group 50
+    100082: Group 52
+    100084: Image 1
+    100086: rounded-sm
+    100088: rounded-sm 1
+    100090: rounded-sm 10
+    100092: rounded-sm 100
+    100094: rounded-sm 101
+    100096: rounded-sm 102
+    100098: rounded-sm 103
+    100100: rounded-sm 104
+    100102: rounded-sm 105
+    100104: rounded-sm 106
+    100106: rounded-sm 107
+    100108: rounded-sm 108
+    100110: rounded-sm 109
+    100112: rounded-sm 11
+    100114: rounded-sm 110
+    100116: rounded-sm 111
+    100118: rounded-sm 112
+    100120: rounded-sm 113
+    100122: rounded-sm 114
+    100124: rounded-sm 115
+    100126: rounded-sm 116
+    100128: rounded-sm 117
+    100130: rounded-sm 118
+    100132: rounded-sm 119
+    100134: rounded-sm 12
+    100136: rounded-sm 120
+    100138: rounded-sm 121
+    100140: rounded-sm 122
+    100142: rounded-sm 123
+    100144: rounded-sm 124
+    100146: rounded-sm 125
+    100148: rounded-sm 126
+    100150: rounded-sm 127
+    100152: rounded-sm 128
+    100154: rounded-sm 129
+    100156: rounded-sm 13
+    100158: rounded-sm 130
+    100160: rounded-sm 131
+    100162: rounded-sm 132
+    100164: rounded-sm 133
+    100166: rounded-sm 134
+    100168: rounded-sm 135
+    100170: rounded-sm 136
+    100172: rounded-sm 137
+    100174: rounded-sm 138
+    100176: rounded-sm 139
+    100178: rounded-sm 14
+    100180: rounded-sm 140
+    100182: rounded-sm 141
+    100184: rounded-sm 142
+    100186: rounded-sm 143
+    100188: rounded-sm 144
+    100190: rounded-sm 145
+    100192: rounded-sm 146
+    100194: rounded-sm 147
+    100196: rounded-sm 148
+    100198: rounded-sm 149
+    100200: rounded-sm 15
+    100202: rounded-sm 150
+    100204: rounded-sm 151
+    100206: rounded-sm 152
+    100208: rounded-sm 153
+    100210: rounded-sm 154
+    100212: rounded-sm 155
+    100214: rounded-sm 156
+    100216: rounded-sm 157
+    100218: rounded-sm 158
+    100220: rounded-sm 159
+    100222: rounded-sm 16
+    100224: rounded-sm 160
+    100226: rounded-sm 161
+    100228: rounded-sm 162
+    100230: rounded-sm 163
+    100232: rounded-sm 164
+    100234: rounded-sm 165
+    100236: rounded-sm 166
+    100238: rounded-sm 167
+    100240: rounded-sm 168
+    100242: rounded-sm 169
+    100244: rounded-sm 17
+    100246: rounded-sm 170
+    100248: rounded-sm 171
+    100250: rounded-sm 172
+    100252: rounded-sm 173
+    100254: rounded-sm 174
+    100256: rounded-sm 175
+    100258: rounded-sm 176
+    100260: rounded-sm 177
+    100262: rounded-sm 178
+    100264: rounded-sm 179
+    100266: rounded-sm 18
+    100268: rounded-sm 180
+    100270: rounded-sm 181
+    100272: rounded-sm 182
+    100274: rounded-sm 183
+    100276: rounded-sm 184
+    100278: rounded-sm 185
+    100280: rounded-sm 186
+    100282: rounded-sm 187
+    100284: rounded-sm 188
+    100286: rounded-sm 189
+    100288: rounded-sm 19
+    100290: rounded-sm 190
+    100292: rounded-sm 191
+    100294: rounded-sm 192
+    100296: rounded-sm 193
+    100298: rounded-sm 194
+    100300: rounded-sm 195
+    100302: rounded-sm 196
+    100304: rounded-sm 197
+    100306: rounded-sm 198
+    100308: rounded-sm 199
+    100310: rounded-sm 2
+    100312: rounded-sm 20
+    100314: rounded-sm 200
+    100316: rounded-sm 201
+    100318: rounded-sm 202
+    100320: rounded-sm 203
+    100322: rounded-sm 204
+    100324: rounded-sm 205
+    100326: rounded-sm 206
+    100328: rounded-sm 207
+    100330: rounded-sm 208
+    100332: rounded-sm 209
+    100334: rounded-sm 21
+    100336: rounded-sm 210
+    100338: rounded-sm 211
+    100340: rounded-sm 212
+    100342: rounded-sm 213
+    100344: rounded-sm 214
+    100346: rounded-sm 215
+    100348: rounded-sm 216
+    100350: rounded-sm 217
+    100352: rounded-sm 218
+    100354: rounded-sm 219
+    100356: rounded-sm 22
+    100358: rounded-sm 220
+    100360: rounded-sm 221
+    100362: rounded-sm 222
+    100364: rounded-sm 223
+    100366: rounded-sm 224
+    100368: rounded-sm 225
+    100370: rounded-sm 226
+    100372: rounded-sm 227
+    100374: rounded-sm 228
+    100376: rounded-sm 229
+    100378: rounded-sm 23
+    100380: rounded-sm 230
+    100382: rounded-sm 231
+    100384: rounded-sm 232
+    100386: rounded-sm 233
+    100388: rounded-sm 234
+    100390: rounded-sm 235
+    100392: rounded-sm 236
+    100394: rounded-sm 237
+    100396: rounded-sm 238
+    100398: rounded-sm 239
+    100400: rounded-sm 24
+    100402: rounded-sm 240
+    100404: rounded-sm 241
+    100406: rounded-sm 242
+    100408: rounded-sm 243
+    100410: rounded-sm 25
+    100412: rounded-sm 26
+    100414: rounded-sm 27
+    100416: rounded-sm 28
+    100418: rounded-sm 29
+    100420: rounded-sm 3
+    100422: rounded-sm 30
+    100424: rounded-sm 31
+    100426: rounded-sm 32
+    100428: rounded-sm 33
+    100430: rounded-sm 34
+    100432: rounded-sm 35
+    100434: rounded-sm 36
+    100436: rounded-sm 37
+    100438: rounded-sm 38
+    100440: rounded-sm 39
+    100442: rounded-sm 4
+    100444: rounded-sm 40
+    100446: rounded-sm 41
+    100448: rounded-sm 42
+    100450: rounded-sm 43
+    100452: rounded-sm 44
+    100454: rounded-sm 45
+    100456: rounded-sm 46
+    100458: rounded-sm 47
+    100460: rounded-sm 48
+    100462: rounded-sm 49
+    100464: rounded-sm 5
+    100466: rounded-sm 50
+    100468: rounded-sm 51
+    100470: rounded-sm 52
+    100472: rounded-sm 53
+    100474: rounded-sm 54
+    100476: rounded-sm 55
+    100478: rounded-sm 56
+    100480: rounded-sm 57
+    100482: rounded-sm 58
+    100484: rounded-sm 59
+    100486: rounded-sm 6
+    100488: rounded-sm 60
+    100490: rounded-sm 61
+    100492: rounded-sm 62
+    100494: rounded-sm 63
+    100496: rounded-sm 64
+    100498: rounded-sm 65
+    100500: rounded-sm 66
+    100502: rounded-sm 67
+    100504: rounded-sm 68
+    100506: rounded-sm 69
+    100508: rounded-sm 7
+    100510: rounded-sm 70
+    100512: rounded-sm 71
+    100514: rounded-sm 72
+    100516: rounded-sm 73
+    100518: rounded-sm 74
+    100520: rounded-sm 75
+    100522: rounded-sm 76
+    100524: rounded-sm 77
+    100526: rounded-sm 78
+    100528: rounded-sm 79
+    100530: rounded-sm 8
+    100532: rounded-sm 80
+    100534: rounded-sm 81
+    100536: rounded-sm 82
+    100538: rounded-sm 83
+    100540: rounded-sm 84
+    100542: rounded-sm 85
+    100544: rounded-sm 86
+    100546: rounded-sm 87
+    100548: rounded-sm 88
+    100550: rounded-sm 89
+    100552: rounded-sm 9
+    100554: rounded-sm 90
+    100556: rounded-sm 91
+    100558: rounded-sm 92
+    100560: rounded-sm 93
+    100562: rounded-sm 94
+    100564: rounded-sm 95
+    100566: rounded-sm 96
+    100568: rounded-sm 97
+    100570: rounded-sm 98
+    100572: rounded-sm 99
+    100574: scale_obq
+    100576: side window
+    100578: windows
+    100580: windows 1
+    100582: windows 2
+    400000: //RootNode
+    400002: 12010_3d_building
+    400004: 12010_3d_site
+    400006: 12010_plan_canopy
+    400008: bulb tree-sm
+    400010: bulb tree-sm 1
+    400012: bulb tree-sm 2
+    400014: bulb tree-sm 3
+    400016: bulb tree-sm 4
+    400018: conifer-sm
+    400020: conifer-sm 1
+    400022: conifer-sm 10
+    400024: conifer-sm 11
+    400026: conifer-sm 12
+    400028: conifer-sm 13
+    400030: conifer-sm 14
+    400032: conifer-sm 15
+    400034: conifer-sm 16
+    400036: conifer-sm 17
+    400038: conifer-sm 2
+    400040: conifer-sm 3
+    400042: conifer-sm 4
+    400044: conifer-sm 5
+    400046: conifer-sm 6
+    400048: conifer-sm 7
+    400050: conifer-sm 8
+    400052: conifer-sm 9
+    400054: door_header#1
+    400056: Door_plain_0.85x2.1
+    400058: Door_plain_0.85x2.1 1
+    400060: Group 14
+    400062: Group 16
+    400064: Group 28
+    400066: Group 30
+    400068: Group 38
+    400070: Group 40
+    400072: Group 42
+    400074: Group 44
+    400076: Group 46
+    400078: Group 48
+    400080: Group 50
+    400082: Group 52
+    400084: Image 1
+    400086: rounded-sm
+    400088: rounded-sm 1
+    400090: rounded-sm 10
+    400092: rounded-sm 100
+    400094: rounded-sm 101
+    400096: rounded-sm 102
+    400098: rounded-sm 103
+    400100: rounded-sm 104
+    400102: rounded-sm 105
+    400104: rounded-sm 106
+    400106: rounded-sm 107
+    400108: rounded-sm 108
+    400110: rounded-sm 109
+    400112: rounded-sm 11
+    400114: rounded-sm 110
+    400116: rounded-sm 111
+    400118: rounded-sm 112
+    400120: rounded-sm 113
+    400122: rounded-sm 114
+    400124: rounded-sm 115
+    400126: rounded-sm 116
+    400128: rounded-sm 117
+    400130: rounded-sm 118
+    400132: rounded-sm 119
+    400134: rounded-sm 12
+    400136: rounded-sm 120
+    400138: rounded-sm 121
+    400140: rounded-sm 122
+    400142: rounded-sm 123
+    400144: rounded-sm 124
+    400146: rounded-sm 125
+    400148: rounded-sm 126
+    400150: rounded-sm 127
+    400152: rounded-sm 128
+    400154: rounded-sm 129
+    400156: rounded-sm 13
+    400158: rounded-sm 130
+    400160: rounded-sm 131
+    400162: rounded-sm 132
+    400164: rounded-sm 133
+    400166: rounded-sm 134
+    400168: rounded-sm 135
+    400170: rounded-sm 136
+    400172: rounded-sm 137
+    400174: rounded-sm 138
+    400176: rounded-sm 139
+    400178: rounded-sm 14
+    400180: rounded-sm 140
+    400182: rounded-sm 141
+    400184: rounded-sm 142
+    400186: rounded-sm 143
+    400188: rounded-sm 144
+    400190: rounded-sm 145
+    400192: rounded-sm 146
+    400194: rounded-sm 147
+    400196: rounded-sm 148
+    400198: rounded-sm 149
+    400200: rounded-sm 15
+    400202: rounded-sm 150
+    400204: rounded-sm 151
+    400206: rounded-sm 152
+    400208: rounded-sm 153
+    400210: rounded-sm 154
+    400212: rounded-sm 155
+    400214: rounded-sm 156
+    400216: rounded-sm 157
+    400218: rounded-sm 158
+    400220: rounded-sm 159
+    400222: rounded-sm 16
+    400224: rounded-sm 160
+    400226: rounded-sm 161
+    400228: rounded-sm 162
+    400230: rounded-sm 163
+    400232: rounded-sm 164
+    400234: rounded-sm 165
+    400236: rounded-sm 166
+    400238: rounded-sm 167
+    400240: rounded-sm 168
+    400242: rounded-sm 169
+    400244: rounded-sm 17
+    400246: rounded-sm 170
+    400248: rounded-sm 171
+    400250: rounded-sm 172
+    400252: rounded-sm 173
+    400254: rounded-sm 174
+    400256: rounded-sm 175
+    400258: rounded-sm 176
+    400260: rounded-sm 177
+    400262: rounded-sm 178
+    400264: rounded-sm 179
+    400266: rounded-sm 18
+    400268: rounded-sm 180
+    400270: rounded-sm 181
+    400272: rounded-sm 182
+    400274: rounded-sm 183
+    400276: rounded-sm 184
+    400278: rounded-sm 185
+    400280: rounded-sm 186
+    400282: rounded-sm 187
+    400284: rounded-sm 188
+    400286: rounded-sm 189
+    400288: rounded-sm 19
+    400290: rounded-sm 190
+    400292: rounded-sm 191
+    400294: rounded-sm 192
+    400296: rounded-sm 193
+    400298: rounded-sm 194
+    400300: rounded-sm 195
+    400302: rounded-sm 196
+    400304: rounded-sm 197
+    400306: rounded-sm 198
+    400308: rounded-sm 199
+    400310: rounded-sm 2
+    400312: rounded-sm 20
+    400314: rounded-sm 200
+    400316: rounded-sm 201
+    400318: rounded-sm 202
+    400320: rounded-sm 203
+    400322: rounded-sm 204
+    400324: rounded-sm 205
+    400326: rounded-sm 206
+    400328: rounded-sm 207
+    400330: rounded-sm 208
+    400332: rounded-sm 209
+    400334: rounded-sm 21
+    400336: rounded-sm 210
+    400338: rounded-sm 211
+    400340: rounded-sm 212
+    400342: rounded-sm 213
+    400344: rounded-sm 214
+    400346: rounded-sm 215
+    400348: rounded-sm 216
+    400350: rounded-sm 217
+    400352: rounded-sm 218
+    400354: rounded-sm 219
+    400356: rounded-sm 22
+    400358: rounded-sm 220
+    400360: rounded-sm 221
+    400362: rounded-sm 222
+    400364: rounded-sm 223
+    400366: rounded-sm 224
+    400368: rounded-sm 225
+    400370: rounded-sm 226
+    400372: rounded-sm 227
+    400374: rounded-sm 228
+    400376: rounded-sm 229
+    400378: rounded-sm 23
+    400380: rounded-sm 230
+    400382: rounded-sm 231
+    400384: rounded-sm 232
+    400386: rounded-sm 233
+    400388: rounded-sm 234
+    400390: rounded-sm 235
+    400392: rounded-sm 236
+    400394: rounded-sm 237
+    400396: rounded-sm 238
+    400398: rounded-sm 239
+    400400: rounded-sm 24
+    400402: rounded-sm 240
+    400404: rounded-sm 241
+    400406: rounded-sm 242
+    400408: rounded-sm 243
+    400410: rounded-sm 25
+    400412: rounded-sm 26
+    400414: rounded-sm 27
+    400416: rounded-sm 28
+    400418: rounded-sm 29
+    400420: rounded-sm 3
+    400422: rounded-sm 30
+    400424: rounded-sm 31
+    400426: rounded-sm 32
+    400428: rounded-sm 33
+    400430: rounded-sm 34
+    400432: rounded-sm 35
+    400434: rounded-sm 36
+    400436: rounded-sm 37
+    400438: rounded-sm 38
+    400440: rounded-sm 39
+    400442: rounded-sm 4
+    400444: rounded-sm 40
+    400446: rounded-sm 41
+    400448: rounded-sm 42
+    400450: rounded-sm 43
+    400452: rounded-sm 44
+    400454: rounded-sm 45
+    400456: rounded-sm 46
+    400458: rounded-sm 47
+    400460: rounded-sm 48
+    400462: rounded-sm 49
+    400464: rounded-sm 5
+    400466: rounded-sm 50
+    400468: rounded-sm 51
+    400470: rounded-sm 52
+    400472: rounded-sm 53
+    400474: rounded-sm 54
+    400476: rounded-sm 55
+    400478: rounded-sm 56
+    400480: rounded-sm 57
+    400482: rounded-sm 58
+    400484: rounded-sm 59
+    400486: rounded-sm 6
+    400488: rounded-sm 60
+    400490: rounded-sm 61
+    400492: rounded-sm 62
+    400494: rounded-sm 63
+    400496: rounded-sm 64
+    400498: rounded-sm 65
+    400500: rounded-sm 66
+    400502: rounded-sm 67
+    400504: rounded-sm 68
+    400506: rounded-sm 69
+    400508: rounded-sm 7
+    400510: rounded-sm 70
+    400512: rounded-sm 71
+    400514: rounded-sm 72
+    400516: rounded-sm 73
+    400518: rounded-sm 74
+    400520: rounded-sm 75
+    400522: rounded-sm 76
+    400524: rounded-sm 77
+    400526: rounded-sm 78
+    400528: rounded-sm 79
+    400530: rounded-sm 8
+    400532: rounded-sm 80
+    400534: rounded-sm 81
+    400536: rounded-sm 82
+    400538: rounded-sm 83
+    400540: rounded-sm 84
+    400542: rounded-sm 85
+    400544: rounded-sm 86
+    400546: rounded-sm 87
+    400548: rounded-sm 88
+    400550: rounded-sm 89
+    400552: rounded-sm 9
+    400554: rounded-sm 90
+    400556: rounded-sm 91
+    400558: rounded-sm 92
+    400560: rounded-sm 93
+    400562: rounded-sm 94
+    400564: rounded-sm 95
+    400566: rounded-sm 96
+    400568: rounded-sm 97
+    400570: rounded-sm 98
+    400572: rounded-sm 99
+    400574: scale_obq
+    400576: side window
+    400578: windows
+    400580: windows 1
+    400582: windows 2
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_general
+    2100008: OV_bldg_wall
+    2100010: OV_paving_pedestrian
+    2100012: OV_shrub_texture
+    2100014: OV_bldg_accent
+    2100016: ApertureGlass
+    2100018: OV_turf_solid
+    2100020: OV_surface_other
+    2100022: OV_Water
+    2100024: mapletree
+    2100026: conifertree2
+    2100028: roundedtree
+    2300000: 12010_3d_site
+    2300002: bulb tree-sm
+    2300004: bulb tree-sm 1
+    2300006: bulb tree-sm 2
+    2300008: bulb tree-sm 3
+    2300010: bulb tree-sm 4
+    2300012: conifer-sm
+    2300014: conifer-sm 1
+    2300016: conifer-sm 10
+    2300018: conifer-sm 11
+    2300020: conifer-sm 12
+    2300022: conifer-sm 13
+    2300024: conifer-sm 14
+    2300026: conifer-sm 15
+    2300028: conifer-sm 16
+    2300030: conifer-sm 17
+    2300032: conifer-sm 2
+    2300034: conifer-sm 3
+    2300036: conifer-sm 4
+    2300038: conifer-sm 5
+    2300040: conifer-sm 6
+    2300042: conifer-sm 7
+    2300044: conifer-sm 8
+    2300046: conifer-sm 9
+    2300048: door_header#1
+    2300050: Door_plain_0.85x2.1
+    2300052: Door_plain_0.85x2.1 1
+    2300054: Group 14
+    2300056: Group 16
+    2300058: Group 28
+    2300060: Group 30
+    2300062: Group 38
+    2300064: Group 40
+    2300066: Group 42
+    2300068: Group 44
+    2300070: Group 46
+    2300072: Group 48
+    2300074: Group 50
+    2300076: Group 52
+    2300078: Image 1
+    2300080: rounded-sm
+    2300082: rounded-sm 1
+    2300084: rounded-sm 10
+    2300086: rounded-sm 100
+    2300088: rounded-sm 101
+    2300090: rounded-sm 102
+    2300092: rounded-sm 103
+    2300094: rounded-sm 104
+    2300096: rounded-sm 105
+    2300098: rounded-sm 106
+    2300100: rounded-sm 107
+    2300102: rounded-sm 108
+    2300104: rounded-sm 109
+    2300106: rounded-sm 11
+    2300108: rounded-sm 110
+    2300110: rounded-sm 111
+    2300112: rounded-sm 112
+    2300114: rounded-sm 113
+    2300116: rounded-sm 114
+    2300118: rounded-sm 115
+    2300120: rounded-sm 116
+    2300122: rounded-sm 117
+    2300124: rounded-sm 118
+    2300126: rounded-sm 119
+    2300128: rounded-sm 12
+    2300130: rounded-sm 120
+    2300132: rounded-sm 121
+    2300134: rounded-sm 122
+    2300136: rounded-sm 123
+    2300138: rounded-sm 124
+    2300140: rounded-sm 125
+    2300142: rounded-sm 126
+    2300144: rounded-sm 127
+    2300146: rounded-sm 128
+    2300148: rounded-sm 129
+    2300150: rounded-sm 13
+    2300152: rounded-sm 130
+    2300154: rounded-sm 131
+    2300156: rounded-sm 132
+    2300158: rounded-sm 133
+    2300160: rounded-sm 134
+    2300162: rounded-sm 135
+    2300164: rounded-sm 136
+    2300166: rounded-sm 137
+    2300168: rounded-sm 138
+    2300170: rounded-sm 139
+    2300172: rounded-sm 14
+    2300174: rounded-sm 140
+    2300176: rounded-sm 141
+    2300178: rounded-sm 142
+    2300180: rounded-sm 143
+    2300182: rounded-sm 144
+    2300184: rounded-sm 145
+    2300186: rounded-sm 146
+    2300188: rounded-sm 147
+    2300190: rounded-sm 148
+    2300192: rounded-sm 149
+    2300194: rounded-sm 15
+    2300196: rounded-sm 150
+    2300198: rounded-sm 151
+    2300200: rounded-sm 152
+    2300202: rounded-sm 153
+    2300204: rounded-sm 154
+    2300206: rounded-sm 155
+    2300208: rounded-sm 156
+    2300210: rounded-sm 157
+    2300212: rounded-sm 158
+    2300214: rounded-sm 159
+    2300216: rounded-sm 16
+    2300218: rounded-sm 160
+    2300220: rounded-sm 161
+    2300222: rounded-sm 162
+    2300224: rounded-sm 163
+    2300226: rounded-sm 164
+    2300228: rounded-sm 165
+    2300230: rounded-sm 166
+    2300232: rounded-sm 167
+    2300234: rounded-sm 168
+    2300236: rounded-sm 169
+    2300238: rounded-sm 17
+    2300240: rounded-sm 170
+    2300242: rounded-sm 171
+    2300244: rounded-sm 172
+    2300246: rounded-sm 173
+    2300248: rounded-sm 174
+    2300250: rounded-sm 175
+    2300252: rounded-sm 176
+    2300254: rounded-sm 177
+    2300256: rounded-sm 178
+    2300258: rounded-sm 179
+    2300260: rounded-sm 18
+    2300262: rounded-sm 180
+    2300264: rounded-sm 181
+    2300266: rounded-sm 182
+    2300268: rounded-sm 183
+    2300270: rounded-sm 184
+    2300272: rounded-sm 185
+    2300274: rounded-sm 186
+    2300276: rounded-sm 187
+    2300278: rounded-sm 188
+    2300280: rounded-sm 189
+    2300282: rounded-sm 19
+    2300284: rounded-sm 190
+    2300286: rounded-sm 191
+    2300288: rounded-sm 192
+    2300290: rounded-sm 193
+    2300292: rounded-sm 194
+    2300294: rounded-sm 195
+    2300296: rounded-sm 196
+    2300298: rounded-sm 197
+    2300300: rounded-sm 198
+    2300302: rounded-sm 199
+    2300304: rounded-sm 2
+    2300306: rounded-sm 20
+    2300308: rounded-sm 200
+    2300310: rounded-sm 201
+    2300312: rounded-sm 202
+    2300314: rounded-sm 203
+    2300316: rounded-sm 204
+    2300318: rounded-sm 205
+    2300320: rounded-sm 206
+    2300322: rounded-sm 207
+    2300324: rounded-sm 208
+    2300326: rounded-sm 209
+    2300328: rounded-sm 21
+    2300330: rounded-sm 210
+    2300332: rounded-sm 211
+    2300334: rounded-sm 212
+    2300336: rounded-sm 213
+    2300338: rounded-sm 214
+    2300340: rounded-sm 215
+    2300342: rounded-sm 216
+    2300344: rounded-sm 217
+    2300346: rounded-sm 218
+    2300348: rounded-sm 219
+    2300350: rounded-sm 22
+    2300352: rounded-sm 220
+    2300354: rounded-sm 221
+    2300356: rounded-sm 222
+    2300358: rounded-sm 223
+    2300360: rounded-sm 224
+    2300362: rounded-sm 225
+    2300364: rounded-sm 226
+    2300366: rounded-sm 227
+    2300368: rounded-sm 228
+    2300370: rounded-sm 229
+    2300372: rounded-sm 23
+    2300374: rounded-sm 230
+    2300376: rounded-sm 231
+    2300378: rounded-sm 232
+    2300380: rounded-sm 233
+    2300382: rounded-sm 234
+    2300384: rounded-sm 235
+    2300386: rounded-sm 236
+    2300388: rounded-sm 237
+    2300390: rounded-sm 238
+    2300392: rounded-sm 239
+    2300394: rounded-sm 24
+    2300396: rounded-sm 240
+    2300398: rounded-sm 241
+    2300400: rounded-sm 242
+    2300402: rounded-sm 243
+    2300404: rounded-sm 25
+    2300406: rounded-sm 26
+    2300408: rounded-sm 27
+    2300410: rounded-sm 28
+    2300412: rounded-sm 29
+    2300414: rounded-sm 3
+    2300416: rounded-sm 30
+    2300418: rounded-sm 31
+    2300420: rounded-sm 32
+    2300422: rounded-sm 33
+    2300424: rounded-sm 34
+    2300426: rounded-sm 35
+    2300428: rounded-sm 36
+    2300430: rounded-sm 37
+    2300432: rounded-sm 38
+    2300434: rounded-sm 39
+    2300436: rounded-sm 4
+    2300438: rounded-sm 40
+    2300440: rounded-sm 41
+    2300442: rounded-sm 42
+    2300444: rounded-sm 43
+    2300446: rounded-sm 44
+    2300448: rounded-sm 45
+    2300450: rounded-sm 46
+    2300452: rounded-sm 47
+    2300454: rounded-sm 48
+    2300456: rounded-sm 49
+    2300458: rounded-sm 5
+    2300460: rounded-sm 50
+    2300462: rounded-sm 51
+    2300464: rounded-sm 52
+    2300466: rounded-sm 53
+    2300468: rounded-sm 54
+    2300470: rounded-sm 55
+    2300472: rounded-sm 56
+    2300474: rounded-sm 57
+    2300476: rounded-sm 58
+    2300478: rounded-sm 59
+    2300480: rounded-sm 6
+    2300482: rounded-sm 60
+    2300484: rounded-sm 61
+    2300486: rounded-sm 62
+    2300488: rounded-sm 63
+    2300490: rounded-sm 64
+    2300492: rounded-sm 65
+    2300494: rounded-sm 66
+    2300496: rounded-sm 67
+    2300498: rounded-sm 68
+    2300500: rounded-sm 69
+    2300502: rounded-sm 7
+    2300504: rounded-sm 70
+    2300506: rounded-sm 71
+    2300508: rounded-sm 72
+    2300510: rounded-sm 73
+    2300512: rounded-sm 74
+    2300514: rounded-sm 75
+    2300516: rounded-sm 76
+    2300518: rounded-sm 77
+    2300520: rounded-sm 78
+    2300522: rounded-sm 79
+    2300524: rounded-sm 8
+    2300526: rounded-sm 80
+    2300528: rounded-sm 81
+    2300530: rounded-sm 82
+    2300532: rounded-sm 83
+    2300534: rounded-sm 84
+    2300536: rounded-sm 85
+    2300538: rounded-sm 86
+    2300540: rounded-sm 87
+    2300542: rounded-sm 88
+    2300544: rounded-sm 89
+    2300546: rounded-sm 9
+    2300548: rounded-sm 90
+    2300550: rounded-sm 91
+    2300552: rounded-sm 92
+    2300554: rounded-sm 93
+    2300556: rounded-sm 94
+    2300558: rounded-sm 95
+    2300560: rounded-sm 96
+    2300562: rounded-sm 97
+    2300564: rounded-sm 98
+    2300566: rounded-sm 99
+    2300568: scale_obq
+    2300570: side window
+    2300572: windows
+    2300574: windows 1
+    2300576: windows 2
+    3300000: 12010_3d_site
+    3300002: bulb tree-sm
+    3300004: bulb tree-sm 1
+    3300006: bulb tree-sm 2
+    3300008: bulb tree-sm 3
+    3300010: bulb tree-sm 4
+    3300012: conifer-sm
+    3300014: conifer-sm 1
+    3300016: conifer-sm 10
+    3300018: conifer-sm 11
+    3300020: conifer-sm 12
+    3300022: conifer-sm 13
+    3300024: conifer-sm 14
+    3300026: conifer-sm 15
+    3300028: conifer-sm 16
+    3300030: conifer-sm 17
+    3300032: conifer-sm 2
+    3300034: conifer-sm 3
+    3300036: conifer-sm 4
+    3300038: conifer-sm 5
+    3300040: conifer-sm 6
+    3300042: conifer-sm 7
+    3300044: conifer-sm 8
+    3300046: conifer-sm 9
+    3300048: door_header#1
+    3300050: Door_plain_0.85x2.1
+    3300052: Door_plain_0.85x2.1 1
+    3300054: Group 14
+    3300056: Group 16
+    3300058: Group 28
+    3300060: Group 30
+    3300062: Group 38
+    3300064: Group 40
+    3300066: Group 42
+    3300068: Group 44
+    3300070: Group 46
+    3300072: Group 48
+    3300074: Group 50
+    3300076: Group 52
+    3300078: Image 1
+    3300080: rounded-sm
+    3300082: rounded-sm 1
+    3300084: rounded-sm 10
+    3300086: rounded-sm 100
+    3300088: rounded-sm 101
+    3300090: rounded-sm 102
+    3300092: rounded-sm 103
+    3300094: rounded-sm 104
+    3300096: rounded-sm 105
+    3300098: rounded-sm 106
+    3300100: rounded-sm 107
+    3300102: rounded-sm 108
+    3300104: rounded-sm 109
+    3300106: rounded-sm 11
+    3300108: rounded-sm 110
+    3300110: rounded-sm 111
+    3300112: rounded-sm 112
+    3300114: rounded-sm 113
+    3300116: rounded-sm 114
+    3300118: rounded-sm 115
+    3300120: rounded-sm 116
+    3300122: rounded-sm 117
+    3300124: rounded-sm 118
+    3300126: rounded-sm 119
+    3300128: rounded-sm 12
+    3300130: rounded-sm 120
+    3300132: rounded-sm 121
+    3300134: rounded-sm 122
+    3300136: rounded-sm 123
+    3300138: rounded-sm 124
+    3300140: rounded-sm 125
+    3300142: rounded-sm 126
+    3300144: rounded-sm 127
+    3300146: rounded-sm 128
+    3300148: rounded-sm 129
+    3300150: rounded-sm 13
+    3300152: rounded-sm 130
+    3300154: rounded-sm 131
+    3300156: rounded-sm 132
+    3300158: rounded-sm 133
+    3300160: rounded-sm 134
+    3300162: rounded-sm 135
+    3300164: rounded-sm 136
+    3300166: rounded-sm 137
+    3300168: rounded-sm 138
+    3300170: rounded-sm 139
+    3300172: rounded-sm 14
+    3300174: rounded-sm 140
+    3300176: rounded-sm 141
+    3300178: rounded-sm 142
+    3300180: rounded-sm 143
+    3300182: rounded-sm 144
+    3300184: rounded-sm 145
+    3300186: rounded-sm 146
+    3300188: rounded-sm 147
+    3300190: rounded-sm 148
+    3300192: rounded-sm 149
+    3300194: rounded-sm 15
+    3300196: rounded-sm 150
+    3300198: rounded-sm 151
+    3300200: rounded-sm 152
+    3300202: rounded-sm 153
+    3300204: rounded-sm 154
+    3300206: rounded-sm 155
+    3300208: rounded-sm 156
+    3300210: rounded-sm 157
+    3300212: rounded-sm 158
+    3300214: rounded-sm 159
+    3300216: rounded-sm 16
+    3300218: rounded-sm 160
+    3300220: rounded-sm 161
+    3300222: rounded-sm 162
+    3300224: rounded-sm 163
+    3300226: rounded-sm 164
+    3300228: rounded-sm 165
+    3300230: rounded-sm 166
+    3300232: rounded-sm 167
+    3300234: rounded-sm 168
+    3300236: rounded-sm 169
+    3300238: rounded-sm 17
+    3300240: rounded-sm 170
+    3300242: rounded-sm 171
+    3300244: rounded-sm 172
+    3300246: rounded-sm 173
+    3300248: rounded-sm 174
+    3300250: rounded-sm 175
+    3300252: rounded-sm 176
+    3300254: rounded-sm 177
+    3300256: rounded-sm 178
+    3300258: rounded-sm 179
+    3300260: rounded-sm 18
+    3300262: rounded-sm 180
+    3300264: rounded-sm 181
+    3300266: rounded-sm 182
+    3300268: rounded-sm 183
+    3300270: rounded-sm 184
+    3300272: rounded-sm 185
+    3300274: rounded-sm 186
+    3300276: rounded-sm 187
+    3300278: rounded-sm 188
+    3300280: rounded-sm 189
+    3300282: rounded-sm 19
+    3300284: rounded-sm 190
+    3300286: rounded-sm 191
+    3300288: rounded-sm 192
+    3300290: rounded-sm 193
+    3300292: rounded-sm 194
+    3300294: rounded-sm 195
+    3300296: rounded-sm 196
+    3300298: rounded-sm 197
+    3300300: rounded-sm 198
+    3300302: rounded-sm 199
+    3300304: rounded-sm 2
+    3300306: rounded-sm 20
+    3300308: rounded-sm 200
+    3300310: rounded-sm 201
+    3300312: rounded-sm 202
+    3300314: rounded-sm 203
+    3300316: rounded-sm 204
+    3300318: rounded-sm 205
+    3300320: rounded-sm 206
+    3300322: rounded-sm 207
+    3300324: rounded-sm 208
+    3300326: rounded-sm 209
+    3300328: rounded-sm 21
+    3300330: rounded-sm 210
+    3300332: rounded-sm 211
+    3300334: rounded-sm 212
+    3300336: rounded-sm 213
+    3300338: rounded-sm 214
+    3300340: rounded-sm 215
+    3300342: rounded-sm 216
+    3300344: rounded-sm 217
+    3300346: rounded-sm 218
+    3300348: rounded-sm 219
+    3300350: rounded-sm 22
+    3300352: rounded-sm 220
+    3300354: rounded-sm 221
+    3300356: rounded-sm 222
+    3300358: rounded-sm 223
+    3300360: rounded-sm 224
+    3300362: rounded-sm 225
+    3300364: rounded-sm 226
+    3300366: rounded-sm 227
+    3300368: rounded-sm 228
+    3300370: rounded-sm 229
+    3300372: rounded-sm 23
+    3300374: rounded-sm 230
+    3300376: rounded-sm 231
+    3300378: rounded-sm 232
+    3300380: rounded-sm 233
+    3300382: rounded-sm 234
+    3300384: rounded-sm 235
+    3300386: rounded-sm 236
+    3300388: rounded-sm 237
+    3300390: rounded-sm 238
+    3300392: rounded-sm 239
+    3300394: rounded-sm 24
+    3300396: rounded-sm 240
+    3300398: rounded-sm 241
+    3300400: rounded-sm 242
+    3300402: rounded-sm 243
+    3300404: rounded-sm 25
+    3300406: rounded-sm 26
+    3300408: rounded-sm 27
+    3300410: rounded-sm 28
+    3300412: rounded-sm 29
+    3300414: rounded-sm 3
+    3300416: rounded-sm 30
+    3300418: rounded-sm 31
+    3300420: rounded-sm 32
+    3300422: rounded-sm 33
+    3300424: rounded-sm 34
+    3300426: rounded-sm 35
+    3300428: rounded-sm 36
+    3300430: rounded-sm 37
+    3300432: rounded-sm 38
+    3300434: rounded-sm 39
+    3300436: rounded-sm 4
+    3300438: rounded-sm 40
+    3300440: rounded-sm 41
+    3300442: rounded-sm 42
+    3300444: rounded-sm 43
+    3300446: rounded-sm 44
+    3300448: rounded-sm 45
+    3300450: rounded-sm 46
+    3300452: rounded-sm 47
+    3300454: rounded-sm 48
+    3300456: rounded-sm 49
+    3300458: rounded-sm 5
+    3300460: rounded-sm 50
+    3300462: rounded-sm 51
+    3300464: rounded-sm 52
+    3300466: rounded-sm 53
+    3300468: rounded-sm 54
+    3300470: rounded-sm 55
+    3300472: rounded-sm 56
+    3300474: rounded-sm 57
+    3300476: rounded-sm 58
+    3300478: rounded-sm 59
+    3300480: rounded-sm 6
+    3300482: rounded-sm 60
+    3300484: rounded-sm 61
+    3300486: rounded-sm 62
+    3300488: rounded-sm 63
+    3300490: rounded-sm 64
+    3300492: rounded-sm 65
+    3300494: rounded-sm 66
+    3300496: rounded-sm 67
+    3300498: rounded-sm 68
+    3300500: rounded-sm 69
+    3300502: rounded-sm 7
+    3300504: rounded-sm 70
+    3300506: rounded-sm 71
+    3300508: rounded-sm 72
+    3300510: rounded-sm 73
+    3300512: rounded-sm 74
+    3300514: rounded-sm 75
+    3300516: rounded-sm 76
+    3300518: rounded-sm 77
+    3300520: rounded-sm 78
+    3300522: rounded-sm 79
+    3300524: rounded-sm 8
+    3300526: rounded-sm 80
+    3300528: rounded-sm 81
+    3300530: rounded-sm 82
+    3300532: rounded-sm 83
+    3300534: rounded-sm 84
+    3300536: rounded-sm 85
+    3300538: rounded-sm 86
+    3300540: rounded-sm 87
+    3300542: rounded-sm 88
+    3300544: rounded-sm 89
+    3300546: rounded-sm 9
+    3300548: rounded-sm 90
+    3300550: rounded-sm 91
+    3300552: rounded-sm 92
+    3300554: rounded-sm 93
+    3300556: rounded-sm 94
+    3300558: rounded-sm 95
+    3300560: rounded-sm 96
+    3300562: rounded-sm 97
+    3300564: rounded-sm 98
+    3300566: rounded-sm 99
+    3300568: scale_obq
+    3300570: side window
+    3300572: windows
+    3300574: windows 1
+    3300576: windows 2
+    4300000: Mesh 12010-00
+    4300002: Mesh scale_obq
+    4300004: Mesh Group 14
+    4300006: Mesh Group 16
+    4300008: Mesh windows
+    4300010: Mesh side window
+    4300012: Mesh door_header#1
+    4300014: Mesh Group 28
+    4300016: Mesh Group 30
+    4300018: Mesh Door_plain_0.85x2.1
+    4300020: Mesh 12010_3d_site
+    4300022: Mesh Group 38
+    4300024: Mesh Group 40
+    4300026: Mesh Group 42
+    4300028: Mesh Group 44
+    4300030: Mesh Group 46
+    4300032: Mesh rounded-sm
+    4300034: Mesh conifer-sm
+    4300036: Mesh bulb tree-sm
+    6400000: 12010_3d_site
+    6400002: bulb tree-sm
+    6400004: bulb tree-sm 1
+    6400006: bulb tree-sm 2
+    6400008: bulb tree-sm 3
+    6400010: bulb tree-sm 4
+    6400012: conifer-sm
+    6400014: conifer-sm 1
+    6400016: conifer-sm 10
+    6400018: conifer-sm 11
+    6400020: conifer-sm 12
+    6400022: conifer-sm 13
+    6400024: conifer-sm 14
+    6400026: conifer-sm 15
+    6400028: conifer-sm 16
+    6400030: conifer-sm 17
+    6400032: conifer-sm 2
+    6400034: conifer-sm 3
+    6400036: conifer-sm 4
+    6400038: conifer-sm 5
+    6400040: conifer-sm 6
+    6400042: conifer-sm 7
+    6400044: conifer-sm 8
+    6400046: conifer-sm 9
+    6400048: door_header#1
+    6400050: Door_plain_0.85x2.1
+    6400052: Door_plain_0.85x2.1 1
+    6400054: Group 14
+    6400056: Group 16
+    6400058: Group 28
+    6400060: Group 30
+    6400062: Group 38
+    6400064: Group 40
+    6400066: Group 42
+    6400068: Group 44
+    6400070: Group 46
+    6400072: Group 48
+    6400074: Group 50
+    6400076: Group 52
+    6400078: Image 1
+    6400080: rounded-sm
+    6400082: rounded-sm 1
+    6400084: rounded-sm 10
+    6400086: rounded-sm 100
+    6400088: rounded-sm 101
+    6400090: rounded-sm 102
+    6400092: rounded-sm 103
+    6400094: rounded-sm 104
+    6400096: rounded-sm 105
+    6400098: rounded-sm 106
+    6400100: rounded-sm 107
+    6400102: rounded-sm 108
+    6400104: rounded-sm 109
+    6400106: rounded-sm 11
+    6400108: rounded-sm 110
+    6400110: rounded-sm 111
+    6400112: rounded-sm 112
+    6400114: rounded-sm 113
+    6400116: rounded-sm 114
+    6400118: rounded-sm 115
+    6400120: rounded-sm 116
+    6400122: rounded-sm 117
+    6400124: rounded-sm 118
+    6400126: rounded-sm 119
+    6400128: rounded-sm 12
+    6400130: rounded-sm 120
+    6400132: rounded-sm 121
+    6400134: rounded-sm 122
+    6400136: rounded-sm 123
+    6400138: rounded-sm 124
+    6400140: rounded-sm 125
+    6400142: rounded-sm 126
+    6400144: rounded-sm 127
+    6400146: rounded-sm 128
+    6400148: rounded-sm 129
+    6400150: rounded-sm 13
+    6400152: rounded-sm 130
+    6400154: rounded-sm 131
+    6400156: rounded-sm 132
+    6400158: rounded-sm 133
+    6400160: rounded-sm 134
+    6400162: rounded-sm 135
+    6400164: rounded-sm 136
+    6400166: rounded-sm 137
+    6400168: rounded-sm 138
+    6400170: rounded-sm 139
+    6400172: rounded-sm 14
+    6400174: rounded-sm 140
+    6400176: rounded-sm 141
+    6400178: rounded-sm 142
+    6400180: rounded-sm 143
+    6400182: rounded-sm 144
+    6400184: rounded-sm 145
+    6400186: rounded-sm 146
+    6400188: rounded-sm 147
+    6400190: rounded-sm 148
+    6400192: rounded-sm 149
+    6400194: rounded-sm 15
+    6400196: rounded-sm 150
+    6400198: rounded-sm 151
+    6400200: rounded-sm 152
+    6400202: rounded-sm 153
+    6400204: rounded-sm 154
+    6400206: rounded-sm 155
+    6400208: rounded-sm 156
+    6400210: rounded-sm 157
+    6400212: rounded-sm 158
+    6400214: rounded-sm 159
+    6400216: rounded-sm 16
+    6400218: rounded-sm 160
+    6400220: rounded-sm 161
+    6400222: rounded-sm 162
+    6400224: rounded-sm 163
+    6400226: rounded-sm 164
+    6400228: rounded-sm 165
+    6400230: rounded-sm 166
+    6400232: rounded-sm 167
+    6400234: rounded-sm 168
+    6400236: rounded-sm 169
+    6400238: rounded-sm 17
+    6400240: rounded-sm 170
+    6400242: rounded-sm 171
+    6400244: rounded-sm 172
+    6400246: rounded-sm 173
+    6400248: rounded-sm 174
+    6400250: rounded-sm 175
+    6400252: rounded-sm 176
+    6400254: rounded-sm 177
+    6400256: rounded-sm 178
+    6400258: rounded-sm 179
+    6400260: rounded-sm 18
+    6400262: rounded-sm 180
+    6400264: rounded-sm 181
+    6400266: rounded-sm 182
+    6400268: rounded-sm 183
+    6400270: rounded-sm 184
+    6400272: rounded-sm 185
+    6400274: rounded-sm 186
+    6400276: rounded-sm 187
+    6400278: rounded-sm 188
+    6400280: rounded-sm 189
+    6400282: rounded-sm 19
+    6400284: rounded-sm 190
+    6400286: rounded-sm 191
+    6400288: rounded-sm 192
+    6400290: rounded-sm 193
+    6400292: rounded-sm 194
+    6400294: rounded-sm 195
+    6400296: rounded-sm 196
+    6400298: rounded-sm 197
+    6400300: rounded-sm 198
+    6400302: rounded-sm 199
+    6400304: rounded-sm 2
+    6400306: rounded-sm 20
+    6400308: rounded-sm 200
+    6400310: rounded-sm 201
+    6400312: rounded-sm 202
+    6400314: rounded-sm 203
+    6400316: rounded-sm 204
+    6400318: rounded-sm 205
+    6400320: rounded-sm 206
+    6400322: rounded-sm 207
+    6400324: rounded-sm 208
+    6400326: rounded-sm 209
+    6400328: rounded-sm 21
+    6400330: rounded-sm 210
+    6400332: rounded-sm 211
+    6400334: rounded-sm 212
+    6400336: rounded-sm 213
+    6400338: rounded-sm 214
+    6400340: rounded-sm 215
+    6400342: rounded-sm 216
+    6400344: rounded-sm 217
+    6400346: rounded-sm 218
+    6400348: rounded-sm 219
+    6400350: rounded-sm 22
+    6400352: rounded-sm 220
+    6400354: rounded-sm 221
+    6400356: rounded-sm 222
+    6400358: rounded-sm 223
+    6400360: rounded-sm 224
+    6400362: rounded-sm 225
+    6400364: rounded-sm 226
+    6400366: rounded-sm 227
+    6400368: rounded-sm 228
+    6400370: rounded-sm 229
+    6400372: rounded-sm 23
+    6400374: rounded-sm 230
+    6400376: rounded-sm 231
+    6400378: rounded-sm 232
+    6400380: rounded-sm 233
+    6400382: rounded-sm 234
+    6400384: rounded-sm 235
+    6400386: rounded-sm 236
+    6400388: rounded-sm 237
+    6400390: rounded-sm 238
+    6400392: rounded-sm 239
+    6400394: rounded-sm 24
+    6400396: rounded-sm 240
+    6400398: rounded-sm 241
+    6400400: rounded-sm 242
+    6400402: rounded-sm 243
+    6400404: rounded-sm 25
+    6400406: rounded-sm 26
+    6400408: rounded-sm 27
+    6400410: rounded-sm 28
+    6400412: rounded-sm 29
+    6400414: rounded-sm 3
+    6400416: rounded-sm 30
+    6400418: rounded-sm 31
+    6400420: rounded-sm 32
+    6400422: rounded-sm 33
+    6400424: rounded-sm 34
+    6400426: rounded-sm 35
+    6400428: rounded-sm 36
+    6400430: rounded-sm 37
+    6400432: rounded-sm 38
+    6400434: rounded-sm 39
+    6400436: rounded-sm 4
+    6400438: rounded-sm 40
+    6400440: rounded-sm 41
+    6400442: rounded-sm 42
+    6400444: rounded-sm 43
+    6400446: rounded-sm 44
+    6400448: rounded-sm 45
+    6400450: rounded-sm 46
+    6400452: rounded-sm 47
+    6400454: rounded-sm 48
+    6400456: rounded-sm 49
+    6400458: rounded-sm 5
+    6400460: rounded-sm 50
+    6400462: rounded-sm 51
+    6400464: rounded-sm 52
+    6400466: rounded-sm 53
+    6400468: rounded-sm 54
+    6400470: rounded-sm 55
+    6400472: rounded-sm 56
+    6400474: rounded-sm 57
+    6400476: rounded-sm 58
+    6400478: rounded-sm 59
+    6400480: rounded-sm 6
+    6400482: rounded-sm 60
+    6400484: rounded-sm 61
+    6400486: rounded-sm 62
+    6400488: rounded-sm 63
+    6400490: rounded-sm 64
+    6400492: rounded-sm 65
+    6400494: rounded-sm 66
+    6400496: rounded-sm 67
+    6400498: rounded-sm 68
+    6400500: rounded-sm 69
+    6400502: rounded-sm 7
+    6400504: rounded-sm 70
+    6400506: rounded-sm 71
+    6400508: rounded-sm 72
+    6400510: rounded-sm 73
+    6400512: rounded-sm 74
+    6400514: rounded-sm 75
+    6400516: rounded-sm 76
+    6400518: rounded-sm 77
+    6400520: rounded-sm 78
+    6400522: rounded-sm 79
+    6400524: rounded-sm 8
+    6400526: rounded-sm 80
+    6400528: rounded-sm 81
+    6400530: rounded-sm 82
+    6400532: rounded-sm 83
+    6400534: rounded-sm 84
+    6400536: rounded-sm 85
+    6400538: rounded-sm 86
+    6400540: rounded-sm 87
+    6400542: rounded-sm 88
+    6400544: rounded-sm 89
+    6400546: rounded-sm 9
+    6400548: rounded-sm 90
+    6400550: rounded-sm 91
+    6400552: rounded-sm 92
+    6400554: rounded-sm 93
+    6400556: rounded-sm 94
+    6400558: rounded-sm 95
+    6400560: rounded-sm 96
+    6400562: rounded-sm 97
+    6400564: rounded-sm 98
+    6400566: rounded-sm 99
+    6400568: scale_obq
+    6400570: side window
+    6400572: windows
+    6400574: windows 1
+    6400576: windows 2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: e11d77ade6bf90c4c9b4c6b112796e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: b9ab14faaad224a42a4ec023950273d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 9b6e945b4e57cb54b9463a7b4f37df8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: 5a86538ad877ce34cbd1c42e2e468de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: b29634d7184e9f74cbccf870b0ff4673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 31935423650586a4eb776b1b52b2b15a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 9f70f6f4353d4aa4799d579c9e5485a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 4d4a2ce2d90c2424690a4d6d94b71ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 2948c24fb3e183948923b094dbf659cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 22cae6b212b26db4eb3e0246a7d980d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: cb8b0da3960765c48971ba6e686c5a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 4de4f86e901fc874a8698067f9948ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: fdf5fb7b844952541ac6ffe87d77f251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 283602c9efda7484ab11fe331bcb6988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: ce4fff6004ada3440a661d2267e91f01, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

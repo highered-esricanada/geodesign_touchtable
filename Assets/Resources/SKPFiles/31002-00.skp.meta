@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: f4f6b89a5dd2ac5428d36956d90c0af1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1d6a8af1c0e7fa28f4242d87c9620642
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 33.994526, y: 18.79565, z: -50.292896}
+      lookAt: {x: -25.691786, y: -8.694408, z: 23.310276}
+      up: {x: -0.1754826, y: 0.96040475, z: 0.2163993}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 2.197989, y: 89.977554, z: -3.180879}
+        lookAt: {x: 2.197989, y: 6.63402, z: -3.180879}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 1632.2395
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 33.994526, y: 18.79565, z: -50.292896}
+        lookAt: {x: -25.691786, y: -8.694408, z: 23.310276}
+        up: {x: -0.1754826, y: 0.96040475, z: 0.2163993}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 33.994526, y: 18.79565, z: -50.292896}
+        lookAt: {x: -927.74255, y: -424.15698, z: 1135.6892}
+        up: {x: -0.1754826, y: 0.96040475, z: 0.2163993}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3dmodel
+    100004: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    100006: Door3-0x6-8RHRev
+    100008: DoorKnob
+    100010: DoorKnob 1
+    100012: FlushDoor36
+    100014: Garage#2
+    100016: Group#5
+    100018: Image 1
+    100020: Lower_sash#1
+    100022: Lower_sash#1 1
+    100024: Lower_sash#1 2
+    100026: Lower_sash#1 3
+    100028: Lower_sash#1 4
+    100030: Lower_sash#1 5
+    100032: Lower_sash#1 6
+    100034: rounded-med
+    100036: rounded-sm
+    100038: scale_obq
+    100040: Upper_sash#1
+    100042: Upper_sash#1 1
+    100044: Upper_sash#1 2
+    100046: Upper_sash#1 3
+    100048: Upper_sash#1 4
+    100050: Upper_sash#1 5
+    100052: Upper_sash#1 6
+    100054: WindowDoubleHung35x63#1
+    100056: WindowDoubleHung35x63#1 1
+    100058: WindowDoubleHung35x63#1 2
+    100060: WindowDoubleHung35x63#1 3
+    100062: WindowDoubleHung35x63#1 4
+    100064: WindowDoubleHung35x63#1 5
+    100066: WindowDoubleHung35x63#1 6
+    100068: windowSlider48x48#1
+    100070: windowSlider48x48#1 1
+    100072: windowSlider48x48#1 10
+    100074: windowSlider48x48#1 11
+    100076: windowSlider48x48#1 12
+    100078: windowSlider48x48#1 13
+    100080: windowSlider48x48#1 14
+    100082: windowSlider48x48#1 2
+    100084: windowSlider48x48#1 3
+    100086: windowSlider48x48#1 4
+    100088: windowSlider48x48#1 5
+    100090: windowSlider48x48#1 6
+    100092: windowSlider48x48#1 7
+    100094: windowSlider48x48#1 8
+    100096: windowSlider48x48#1 9
+    400000: //RootNode
+    400002: 3dmodel
+    400004: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    400006: Door3-0x6-8RHRev
+    400008: DoorKnob
+    400010: DoorKnob 1
+    400012: FlushDoor36
+    400014: Garage#2
+    400016: Group#5
+    400018: Image 1
+    400020: Lower_sash#1
+    400022: Lower_sash#1 1
+    400024: Lower_sash#1 2
+    400026: Lower_sash#1 3
+    400028: Lower_sash#1 4
+    400030: Lower_sash#1 5
+    400032: Lower_sash#1 6
+    400034: rounded-med
+    400036: rounded-sm
+    400038: scale_obq
+    400040: Upper_sash#1
+    400042: Upper_sash#1 1
+    400044: Upper_sash#1 2
+    400046: Upper_sash#1 3
+    400048: Upper_sash#1 4
+    400050: Upper_sash#1 5
+    400052: Upper_sash#1 6
+    400054: WindowDoubleHung35x63#1
+    400056: WindowDoubleHung35x63#1 1
+    400058: WindowDoubleHung35x63#1 2
+    400060: WindowDoubleHung35x63#1 3
+    400062: WindowDoubleHung35x63#1 4
+    400064: WindowDoubleHung35x63#1 5
+    400066: WindowDoubleHung35x63#1 6
+    400068: windowSlider48x48#1
+    400070: windowSlider48x48#1 1
+    400072: windowSlider48x48#1 10
+    400074: windowSlider48x48#1 11
+    400076: windowSlider48x48#1 12
+    400078: windowSlider48x48#1 13
+    400080: windowSlider48x48#1 14
+    400082: windowSlider48x48#1 2
+    400084: windowSlider48x48#1 3
+    400086: windowSlider48x48#1 4
+    400088: windowSlider48x48#1 5
+    400090: windowSlider48x48#1 6
+    400092: windowSlider48x48#1 7
+    400094: windowSlider48x48#1 8
+    400096: windowSlider48x48#1 9
+    2100000: Material 1
+    2100002: 0_label
+    2100004: mapletree
+    2100006: turf
+    2100008: _Grass_
+    2100010: OV_turf_solid
+    2100012: shrubsandgroundcover
+    2100014: _Ivy_
+    2100016: shrub_texture
+    2100018: _Concrete-rough_
+    2100020: pedestrian_paved
+    2100022: paving
+    2100024: OV_paving_pedestrian
+    2100026: buildingwalls
+    2100028: OV_bldg_roof
+    2100030: modelroof
+    2100032: ApertureGlass
+    2100034: _Ivory_
+    2300000: 3dmodel
+    2300002: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    2300004: Door3-0x6-8RHRev
+    2300006: DoorKnob
+    2300008: DoorKnob 1
+    2300010: FlushDoor36
+    2300012: Garage#2
+    2300014: Group#5
+    2300016: Image 1
+    2300018: Lower_sash#1
+    2300020: Lower_sash#1 1
+    2300022: Lower_sash#1 2
+    2300024: Lower_sash#1 3
+    2300026: Lower_sash#1 4
+    2300028: Lower_sash#1 5
+    2300030: Lower_sash#1 6
+    2300032: rounded-med
+    2300034: rounded-sm
+    2300036: scale_obq
+    2300038: Upper_sash#1
+    2300040: Upper_sash#1 1
+    2300042: Upper_sash#1 2
+    2300044: Upper_sash#1 3
+    2300046: Upper_sash#1 4
+    2300048: Upper_sash#1 5
+    2300050: Upper_sash#1 6
+    2300052: WindowDoubleHung35x63#1
+    2300054: WindowDoubleHung35x63#1 1
+    2300056: WindowDoubleHung35x63#1 2
+    2300058: WindowDoubleHung35x63#1 3
+    2300060: WindowDoubleHung35x63#1 4
+    2300062: WindowDoubleHung35x63#1 5
+    2300064: WindowDoubleHung35x63#1 6
+    2300066: windowSlider48x48#1
+    2300068: windowSlider48x48#1 1
+    2300070: windowSlider48x48#1 10
+    2300072: windowSlider48x48#1 11
+    2300074: windowSlider48x48#1 12
+    2300076: windowSlider48x48#1 13
+    2300078: windowSlider48x48#1 14
+    2300080: windowSlider48x48#1 2
+    2300082: windowSlider48x48#1 3
+    2300084: windowSlider48x48#1 4
+    2300086: windowSlider48x48#1 5
+    2300088: windowSlider48x48#1 6
+    2300090: windowSlider48x48#1 7
+    2300092: windowSlider48x48#1 8
+    2300094: windowSlider48x48#1 9
+    3300000: 3dmodel
+    3300002: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    3300004: Door3-0x6-8RHRev
+    3300006: DoorKnob
+    3300008: DoorKnob 1
+    3300010: FlushDoor36
+    3300012: Garage#2
+    3300014: Group#5
+    3300016: Image 1
+    3300018: Lower_sash#1
+    3300020: Lower_sash#1 1
+    3300022: Lower_sash#1 2
+    3300024: Lower_sash#1 3
+    3300026: Lower_sash#1 4
+    3300028: Lower_sash#1 5
+    3300030: Lower_sash#1 6
+    3300032: rounded-med
+    3300034: rounded-sm
+    3300036: scale_obq
+    3300038: Upper_sash#1
+    3300040: Upper_sash#1 1
+    3300042: Upper_sash#1 2
+    3300044: Upper_sash#1 3
+    3300046: Upper_sash#1 4
+    3300048: Upper_sash#1 5
+    3300050: Upper_sash#1 6
+    3300052: WindowDoubleHung35x63#1
+    3300054: WindowDoubleHung35x63#1 1
+    3300056: WindowDoubleHung35x63#1 2
+    3300058: WindowDoubleHung35x63#1 3
+    3300060: WindowDoubleHung35x63#1 4
+    3300062: WindowDoubleHung35x63#1 5
+    3300064: WindowDoubleHung35x63#1 6
+    3300066: windowSlider48x48#1
+    3300068: windowSlider48x48#1 1
+    3300070: windowSlider48x48#1 10
+    3300072: windowSlider48x48#1 11
+    3300074: windowSlider48x48#1 12
+    3300076: windowSlider48x48#1 13
+    3300078: windowSlider48x48#1 14
+    3300080: windowSlider48x48#1 2
+    3300082: windowSlider48x48#1 3
+    3300084: windowSlider48x48#1 4
+    3300086: windowSlider48x48#1 5
+    3300088: windowSlider48x48#1 6
+    3300090: windowSlider48x48#1 7
+    3300092: windowSlider48x48#1 8
+    3300094: windowSlider48x48#1 9
+    4300000: Mesh 31002-00
+    4300002: Mesh scale_obq
+    4300004: Mesh rounded-med
+    4300006: Mesh rounded-sm
+    4300008: Mesh 3dmodel
+    4300010: Mesh Garage#2
+    4300012: Mesh Door3-0x6-8RHRev
+    4300014: Mesh FlushDoor36
+    4300016: Mesh DoorKnob
+    4300018: Mesh windowSlider48x48#1
+    4300020: Mesh Group#5
+    4300022: Mesh Door-SglExtHeaderWLite 3'-0x6'-8#1
+    4300024: Mesh WindowDoubleHung35x63#1
+    4300026: Mesh Lower_sash#1
+    4300028: Mesh Upper_sash#1
+    6400000: 3dmodel
+    6400002: Door-SglExtHeaderWLite 3'-0x6'-8#1
+    6400004: Door3-0x6-8RHRev
+    6400006: DoorKnob
+    6400008: DoorKnob 1
+    6400010: FlushDoor36
+    6400012: Garage#2
+    6400014: Group#5
+    6400016: Image 1
+    6400018: Lower_sash#1
+    6400020: Lower_sash#1 1
+    6400022: Lower_sash#1 2
+    6400024: Lower_sash#1 3
+    6400026: Lower_sash#1 4
+    6400028: Lower_sash#1 5
+    6400030: Lower_sash#1 6
+    6400032: rounded-med
+    6400034: rounded-sm
+    6400036: scale_obq
+    6400038: Upper_sash#1
+    6400040: Upper_sash#1 1
+    6400042: Upper_sash#1 2
+    6400044: Upper_sash#1 3
+    6400046: Upper_sash#1 4
+    6400048: Upper_sash#1 5
+    6400050: Upper_sash#1 6
+    6400052: WindowDoubleHung35x63#1
+    6400054: WindowDoubleHung35x63#1 1
+    6400056: WindowDoubleHung35x63#1 2
+    6400058: WindowDoubleHung35x63#1 3
+    6400060: WindowDoubleHung35x63#1 4
+    6400062: WindowDoubleHung35x63#1 5
+    6400064: WindowDoubleHung35x63#1 6
+    6400066: windowSlider48x48#1
+    6400068: windowSlider48x48#1 1
+    6400070: windowSlider48x48#1 10
+    6400072: windowSlider48x48#1 11
+    6400074: windowSlider48x48#1 12
+    6400076: windowSlider48x48#1 13
+    6400078: windowSlider48x48#1 14
+    6400080: windowSlider48x48#1 2
+    6400082: windowSlider48x48#1 3
+    6400084: windowSlider48x48#1 4
+    6400086: windowSlider48x48#1 5
+    6400088: windowSlider48x48#1 6
+    6400090: windowSlider48x48#1 7
+    6400092: windowSlider48x48#1 8
+    6400094: windowSlider48x48#1 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 12784a58b2e076c4394504ae0a71bc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: 04b5771d1c6f0ea4fbfe13b75b58c330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: ad0953979788c3646b64e17a2bf41a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: f77c5d5de6195c241abc99b772d98e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: dc5cdf7e067f3b4468d0645b64b15172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 8f9542f65b820b748b5f2de84fb4da57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Concrete-rough_
+    second: {fileID: 2100000, guid: 2cab475713a484945ac5d35178044467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Grass_
+    second: {fileID: 2100000, guid: 099c59d8b30264d4b82776a22c961961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivory_
+    second: {fileID: 2100000, guid: e4a37d768010b2c41a28cb9b54f02d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Ivy_
+    second: {fileID: 2100000, guid: 1867b40d123360e4e8f4775f9689aa5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buildingwalls
+    second: {fileID: 2100000, guid: 7da89f0b2e3cb8c4696093cf3501ca92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: a85c00776442123438bc18dbe1c8324e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: modelroof
+    second: {fileID: 2100000, guid: c58298635aae00743873dc3bb910f706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paving
+    second: {fileID: 2100000, guid: 4f5767e106f3bd34b944d6e3f085f062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestrian_paved
+    second: {fileID: 2100000, guid: fa69c87799784914a83dcd3ebf57502d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrub_texture
+    second: {fileID: 2100000, guid: 42d9ab4e6eddff24391a34d617496ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubsandgroundcover
+    second: {fileID: 2100000, guid: e881086c93b51884798278b2ea5b894a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turf
+    second: {fileID: 2100000, guid: 1af1b19f621cc204f8f58bcf89affe5d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

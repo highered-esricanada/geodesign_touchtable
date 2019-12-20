@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 255543a5b35fae6468617fa33778110f
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000310000003200000033000000340000003500000036000000370000003b0000003c00000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: feebf6920b1355bd97c6092e343fe433
+  longitude: -123.139384
+  latitude: 49.292238
+  northCorrection: 359.89432720833685
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 80.664116, y: 67.42949, z: -82.070465}
+      lookAt: {x: -0.03838709, y: 19.336115, z: -0.9661509}
+      up: {x: -0.27391022, y: 0.9218694, z: 0.2740985}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.87167335, y: 184.94434, z: 0.54600275}
+        lookAt: {x: 0.6226238, y: 20.7264, z: 0.39000195}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3464.735
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 80.664116, y: 67.42949, z: -82.070465}
+        lookAt: {x: -0.03838709, y: 19.336115, z: -0.9661509}
+        up: {x: -0.27391022, y: 0.9218694, z: 0.2740985}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 80.664116, y: 67.42949, z: -82.070465}
+        lookAt: {x: -0.03838709, y: 19.336115, z: -0.9661509}
+        up: {x: -0.27391022, y: 0.9218694, z: 0.2740985}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3d_building
+    100004: Group 10
+    100006: Group 100
+    100008: Group 102
+    100010: Group 104
+    100012: Group 106
+    100014: Group 12
+    100016: Group 14
+    100018: Group 16
+    100020: Group 18
+    100022: Group 20
+    100024: Group 22
+    100026: Group 24
+    100028: Group 26
+    100030: Group 28
+    100032: Group 30
+    100034: Group 32
+    100036: Group 34
+    100038: Group 36
+    100040: Group 38
+    100042: Group 4
+    100044: Group 40
+    100046: Group 42
+    100048: Group 6
+    100050: Group 8
+    100052: Group 92
+    100054: Group 94
+    100056: Group 96
+    100058: Group 98
+    100060: Group#14
+    100062: Group#14 1
+    100064: Group#14 2
+    100066: Group#14 3
+    100068: Group#14 4
+    100070: Group#14 5
+    100072: Image 1
+    100074: rounded-sm#2
+    100076: rounded-sm#2 1
+    100078: rounded-sm#2 10
+    100080: rounded-sm#2 11
+    100082: rounded-sm#2 2
+    100084: rounded-sm#2 3
+    100086: rounded-sm#2 4
+    100088: rounded-sm#2 5
+    100090: rounded-sm#2 6
+    100092: rounded-sm#2 7
+    100094: rounded-sm#2 8
+    100096: rounded-sm#2 9
+    100098: scale_obq
+    400000: //RootNode
+    400002: 3d_building
+    400004: Group 10
+    400006: Group 100
+    400008: Group 102
+    400010: Group 104
+    400012: Group 106
+    400014: Group 12
+    400016: Group 14
+    400018: Group 16
+    400020: Group 18
+    400022: Group 20
+    400024: Group 22
+    400026: Group 24
+    400028: Group 26
+    400030: Group 28
+    400032: Group 30
+    400034: Group 32
+    400036: Group 34
+    400038: Group 36
+    400040: Group 38
+    400042: Group 4
+    400044: Group 40
+    400046: Group 42
+    400048: Group 6
+    400050: Group 8
+    400052: Group 92
+    400054: Group 94
+    400056: Group 96
+    400058: Group 98
+    400060: Group#14
+    400062: Group#14 1
+    400064: Group#14 2
+    400066: Group#14 3
+    400068: Group#14 4
+    400070: Group#14 5
+    400072: Image 1
+    400074: rounded-sm#2
+    400076: rounded-sm#2 1
+    400078: rounded-sm#2 10
+    400080: rounded-sm#2 11
+    400082: rounded-sm#2 2
+    400084: rounded-sm#2 3
+    400086: rounded-sm#2 4
+    400088: rounded-sm#2 5
+    400090: rounded-sm#2 6
+    400092: rounded-sm#2 7
+    400094: rounded-sm#2 8
+    400096: rounded-sm#2 9
+    400098: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_paving_vehicle
+    2100008: OV_shrub_texture
+    2100010: OV_bldg_accent
+    2100012: OV_turf_solid
+    2100014: OV_paving_pedestrian
+    2100016: OV_bldg_wall
+    2100018: LightCaseApertureGlass
+    2100020: OV_bldg_roof
+    2100022: mapletree
+    2300000: 3d_building
+    2300002: Group 10
+    2300004: Group 100
+    2300006: Group 102
+    2300008: Group 104
+    2300010: Group 106
+    2300012: Group 12
+    2300014: Group 14
+    2300016: Group 16
+    2300018: Group 18
+    2300020: Group 20
+    2300022: Group 22
+    2300024: Group 24
+    2300026: Group 26
+    2300028: Group 28
+    2300030: Group 30
+    2300032: Group 32
+    2300034: Group 34
+    2300036: Group 36
+    2300038: Group 38
+    2300040: Group 4
+    2300042: Group 40
+    2300044: Group 42
+    2300046: Group 6
+    2300048: Group 8
+    2300050: Group 92
+    2300052: Group 94
+    2300054: Group 96
+    2300056: Group 98
+    2300058: Group#14
+    2300060: Group#14 1
+    2300062: Group#14 2
+    2300064: Group#14 3
+    2300066: Group#14 4
+    2300068: Group#14 5
+    2300070: Image 1
+    2300072: rounded-sm#2
+    2300074: rounded-sm#2 1
+    2300076: rounded-sm#2 10
+    2300078: rounded-sm#2 11
+    2300080: rounded-sm#2 2
+    2300082: rounded-sm#2 3
+    2300084: rounded-sm#2 4
+    2300086: rounded-sm#2 5
+    2300088: rounded-sm#2 6
+    2300090: rounded-sm#2 7
+    2300092: rounded-sm#2 8
+    2300094: rounded-sm#2 9
+    2300096: scale_obq
+    3300000: 3d_building
+    3300002: Group 10
+    3300004: Group 100
+    3300006: Group 102
+    3300008: Group 104
+    3300010: Group 106
+    3300012: Group 12
+    3300014: Group 14
+    3300016: Group 16
+    3300018: Group 18
+    3300020: Group 20
+    3300022: Group 22
+    3300024: Group 24
+    3300026: Group 26
+    3300028: Group 28
+    3300030: Group 30
+    3300032: Group 32
+    3300034: Group 34
+    3300036: Group 36
+    3300038: Group 38
+    3300040: Group 4
+    3300042: Group 40
+    3300044: Group 42
+    3300046: Group 6
+    3300048: Group 8
+    3300050: Group 92
+    3300052: Group 94
+    3300054: Group 96
+    3300056: Group 98
+    3300058: Group#14
+    3300060: Group#14 1
+    3300062: Group#14 2
+    3300064: Group#14 3
+    3300066: Group#14 4
+    3300068: Group#14 5
+    3300070: Image 1
+    3300072: rounded-sm#2
+    3300074: rounded-sm#2 1
+    3300076: rounded-sm#2 10
+    3300078: rounded-sm#2 11
+    3300080: rounded-sm#2 2
+    3300082: rounded-sm#2 3
+    3300084: rounded-sm#2 4
+    3300086: rounded-sm#2 5
+    3300088: rounded-sm#2 6
+    3300090: rounded-sm#2 7
+    3300092: rounded-sm#2 8
+    3300094: rounded-sm#2 9
+    3300096: scale_obq
+    4300000: Mesh 33067-02
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 18
+    4300008: Mesh Group#14
+    4300010: Mesh scale_obq
+    4300012: Mesh rounded-sm#2
+    4300014: Mesh 3d_building
+    4300016: Mesh Group 92
+    4300018: Mesh Group 96
+    6400000: 3d_building
+    6400002: Group 10
+    6400004: Group 100
+    6400006: Group 102
+    6400008: Group 104
+    6400010: Group 106
+    6400012: Group 12
+    6400014: Group 14
+    6400016: Group 16
+    6400018: Group 18
+    6400020: Group 20
+    6400022: Group 22
+    6400024: Group 24
+    6400026: Group 26
+    6400028: Group 28
+    6400030: Group 30
+    6400032: Group 32
+    6400034: Group 34
+    6400036: Group 36
+    6400038: Group 38
+    6400040: Group 4
+    6400042: Group 40
+    6400044: Group 42
+    6400046: Group 6
+    6400048: Group 8
+    6400050: Group 92
+    6400052: Group 94
+    6400054: Group 96
+    6400056: Group 98
+    6400058: Group#14
+    6400060: Group#14 1
+    6400062: Group#14 2
+    6400064: Group#14 3
+    6400066: Group#14 4
+    6400068: Group#14 5
+    6400070: Image 1
+    6400072: rounded-sm#2
+    6400074: rounded-sm#2 1
+    6400076: rounded-sm#2 10
+    6400078: rounded-sm#2 11
+    6400080: rounded-sm#2 2
+    6400082: rounded-sm#2 3
+    6400084: rounded-sm#2 4
+    6400086: rounded-sm#2 5
+    6400088: rounded-sm#2 6
+    6400090: rounded-sm#2 7
+    6400092: rounded-sm#2 8
+    6400094: rounded-sm#2 9
+    6400096: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: bc60b581083c5c446a4ea3fbf6abc918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: ba03eb162f7af3442bfec48c740081d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 4f12631d790cb3f44ae708f3dffd9243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: b98a9e38735b16b4d856d2e0a3050e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 7998826df948f014cb56cc0da4ac5db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 544e4ad95cfc6a642b550ccd5b1b742a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 841cf030fbdec6440a1c797cddd5f547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: cc5a74f53bd52e94a8e3543f4651a1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 87e3185d1e071ac44b454f6ec27973d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 3b100a02085b58447b2e68a66a6a649a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: b09c6b27daa2e5b4ab2d80df2a133cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 2ece845cb0d9a0742a26bd42cbb88bdd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

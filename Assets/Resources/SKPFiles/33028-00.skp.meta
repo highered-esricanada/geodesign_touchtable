@@ -1,0 +1,2026 @@
+fileFormatVersion: 2
+guid: 953b63edbe5c07f469d253d460970309
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000
+  assetHash:
+    serializedVersion: 2
+    Hash: c8daa2604ce73ee8fe898c871f9f1fb3
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 63.724384, y: 27.702477, z: -52.46926}
+      lookAt: {x: -2.8051481, y: -11.995352, z: 8.63303}
+      up: {x: -0.29632202, y: 0.91549337, z: 0.27214915}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 63.724384, y: 27.702477, z: -52.46926}
+        lookAt: {x: -2.8051481, y: -11.995352, z: 8.63303}
+        up: {x: -0.29632202, y: 0.91549337, z: 0.27214915}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 63.724384, y: 27.702477, z: -52.46926}
+        lookAt: {x: -2.8051481, y: -11.995352, z: 8.63303}
+        up: {x: -0.29632202, y: 0.91549337, z: 0.27214915}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+    - camera:
+        position: {x: 3.3976786, y: 90.197105, z: -3.83925}
+        lookAt: {x: 3.3976786, y: 4.6321554, z: -3.83925}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 2054.03
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3dsite
+    100004: a3d
+    100006: a3d 1
+    100008: a3d#1
+    100010: awning1
+    100012: awning1 1
+    100014: awning1 10
+    100016: awning1 11
+    100018: awning1 12
+    100020: awning1 13
+    100022: awning1 14
+    100024: awning1 15
+    100026: awning1 16
+    100028: awning1 17
+    100030: awning1 18
+    100032: awning1 19
+    100034: awning1 2
+    100036: awning1 20
+    100038: awning1 21
+    100040: awning1 22
+    100042: awning1 23
+    100044: awning1 24
+    100046: awning1 25
+    100048: awning1 26
+    100050: awning1 27
+    100052: awning1 28
+    100054: awning1 29
+    100056: awning1 3
+    100058: awning1 30
+    100060: awning1 31
+    100062: awning1 32
+    100064: awning1 33
+    100066: awning1 34
+    100068: awning1 35
+    100070: awning1 36
+    100072: awning1 37
+    100074: awning1 38
+    100076: awning1 39
+    100078: awning1 4
+    100080: awning1 40
+    100082: awning1 41
+    100084: awning1 42
+    100086: awning1 43
+    100088: awning1 44
+    100090: awning1 45
+    100092: awning1 46
+    100094: awning1 47
+    100096: awning1 48
+    100098: awning1 49
+    100100: awning1 5
+    100102: awning1 50
+    100104: awning1 51
+    100106: awning1 52
+    100108: awning1 53
+    100110: awning1 54
+    100112: awning1 55
+    100114: awning1 56
+    100116: awning1 57
+    100118: awning1 58
+    100120: awning1 59
+    100122: awning1 6
+    100124: awning1 7
+    100126: awning1 8
+    100128: awning1 9
+    100130: awning2
+    100132: awning2 1
+    100134: awning2 2
+    100136: awning2 3
+    100138: awning2 4
+    100140: awning2 5
+    100142: awning2 6
+    100144: awning2 7
+    100146: b3d
+    100148: b3d 1
+    100150: bottom
+    100152: bottom1
+    100154: bottom1 1
+    100156: bottom1#1
+    100158: bottom1#1 1
+    100160: bottom2
+    100162: bottom2 1
+    100164: bottom2 2
+    100166: bottom2 3
+    100168: bottom2#1
+    100170: bottom2#1 1
+    100172: bottom2#1 2
+    100174: bottom2#1 3
+    100176: bottom2#2
+    100178: bottom2#2 1
+    100180: bottom2#3
+    100182: bottom3
+    100184: bottom3 1
+    100186: bottom3 2
+    100188: bottom3#1
+    100190: bottom3#1 1
+    100192: bottom3#1 2
+    100194: bottom3#2
+    100196: bottom3#2 1
+    100198: bottom3#2 2
+    100200: bottom3#2 3
+    100202: bottom3#3
+    100204: bottom3#3 1
+    100206: bottom3#4
+    100208: bottom3#4 1
+    100210: bottom3#5
+    100212: bottom3#5 1
+    100214: bottom3#5 2
+    100216: bulbtree-sm
+    100218: bulbtree-sm 1
+    100220: bulbtree-sm 10
+    100222: bulbtree-sm 11
+    100224: bulbtree-sm 12
+    100226: bulbtree-sm 13
+    100228: bulbtree-sm 14
+    100230: bulbtree-sm 15
+    100232: bulbtree-sm 16
+    100234: bulbtree-sm 17
+    100236: bulbtree-sm 18
+    100238: bulbtree-sm 19
+    100240: bulbtree-sm 2
+    100242: bulbtree-sm 3
+    100244: bulbtree-sm 4
+    100246: bulbtree-sm 5
+    100248: bulbtree-sm 6
+    100250: bulbtree-sm 7
+    100252: bulbtree-sm 8
+    100254: bulbtree-sm 9
+    100256: c3d
+    100258: c3d 1
+    100260: c3d#1
+    100262: dblock3d
+    100264: doubledoor
+    100266: doubledoor 1
+    100268: doubledoor 2
+    100270: doubledoor 3
+    100272: doubledoor 4
+    100274: doubledoor#1
+    100276: doubledoor#1 1
+    100278: doubledoor#1 10
+    100280: doubledoor#1 11
+    100282: doubledoor#1 2
+    100284: doubledoor#1 3
+    100286: doubledoor#1 4
+    100288: doubledoor#1 5
+    100290: doubledoor#1 6
+    100292: doubledoor#1 7
+    100294: doubledoor#1 8
+    100296: doubledoor#1 9
+    100298: doublewindow
+    100300: doublewindow 1
+    100302: doublewindow 2
+    100304: doublewindow 3
+    100306: doublewindow 4
+    100308: doublewindow 5
+    100310: doublewindow 6
+    100312: doublewindow 7
+    100314: e3d
+    100316: elevglass
+    100318: f3d
+    100320: f3d 1
+    100322: f3d 2
+    100324: f3d 3
+    100326: f3d 4
+    100328: f3d#1
+    100330: g3d
+    100332: g3d 1
+    100334: h3d
+    100336: Image 1
+    100338: j3d
+    100340: scale_obq
+    100342: singledoor
+    100344: singledoor 1
+    100346: singledoor 2
+    100348: sliding door
+    100350: sliding door 1
+    100352: window
+    100354: window 1
+    100356: window 2
+    100358: window 3
+    100360: window 4
+    100362: window 5
+    100364: window 6
+    100366: window_half
+    100368: window_half 1
+    100370: window_halfagain
+    100372: window_halfagain 1
+    100374: window_halfagain 10
+    100376: window_halfagain 11
+    100378: window_halfagain 12
+    100380: window_halfagain 13
+    100382: window_halfagain 14
+    100384: window_halfagain 15
+    100386: window_halfagain 16
+    100388: window_halfagain 17
+    100390: window_halfagain 18
+    100392: window_halfagain 19
+    100394: window_halfagain 2
+    100396: window_halfagain 3
+    100398: window_halfagain 4
+    100400: window_halfagain 5
+    100402: window_halfagain 6
+    100404: window_halfagain 7
+    100406: window_halfagain 8
+    100408: window_halfagain 9
+    100410: window_halfagain#1
+    100412: window_halfagain#1 1
+    100414: window_halfagain#2
+    100416: window_halfagain#2 1
+    100418: window_halfagain#2 2
+    100420: window_halfagain#2 3
+    100422: window_halfagain#2 4
+    100424: window_halfagain#2 5
+    100426: window_halfagain#2 6
+    100428: window_halfagain#2 7
+    100430: window_halfagain#2 8
+    100432: window_halftop
+    100434: window_halftop 1
+    100436: windowsmall
+    100438: windowsmall 1
+    100440: windowsmall 10
+    100442: windowsmall 11
+    100444: windowsmall 12
+    100446: windowsmall 13
+    100448: windowsmall 14
+    100450: windowsmall 15
+    100452: windowsmall 16
+    100454: windowsmall 17
+    100456: windowsmall 18
+    100458: windowsmall 19
+    100460: windowsmall 2
+    100462: windowsmall 20
+    100464: windowsmall 21
+    100466: windowsmall 22
+    100468: windowsmall 23
+    100470: windowsmall 24
+    100472: windowsmall 25
+    100474: windowsmall 26
+    100476: windowsmall 27
+    100478: windowsmall 28
+    100480: windowsmall 29
+    100482: windowsmall 3
+    100484: windowsmall 30
+    100486: windowsmall 31
+    100488: windowsmall 32
+    100490: windowsmall 33
+    100492: windowsmall 34
+    100494: windowsmall 35
+    100496: windowsmall 36
+    100498: windowsmall 37
+    100500: windowsmall 38
+    100502: windowsmall 39
+    100504: windowsmall 4
+    100506: windowsmall 40
+    100508: windowsmall 41
+    100510: windowsmall 42
+    100512: windowsmall 43
+    100514: windowsmall 44
+    100516: windowsmall 45
+    100518: windowsmall 46
+    100520: windowsmall 47
+    100522: windowsmall 48
+    100524: windowsmall 49
+    100526: windowsmall 5
+    100528: windowsmall 50
+    100530: windowsmall 51
+    100532: windowsmall 52
+    100534: windowsmall 53
+    100536: windowsmall 54
+    100538: windowsmall 55
+    100540: windowsmall 56
+    100542: windowsmall 57
+    100544: windowsmall 58
+    100546: windowsmall 59
+    100548: windowsmall 6
+    100550: windowsmall 60
+    100552: windowsmall 61
+    100554: windowsmall 62
+    100556: windowsmall 63
+    100558: windowsmall 64
+    100560: windowsmall 65
+    100562: windowsmall 66
+    100564: windowsmall 67
+    100566: windowsmall 68
+    100568: windowsmall 69
+    100570: windowsmall 7
+    100572: windowsmall 70
+    100574: windowsmall 71
+    100576: windowsmall 72
+    100578: windowsmall 73
+    100580: windowsmall 74
+    100582: windowsmall 75
+    100584: windowsmall 76
+    100586: windowsmall 77
+    100588: windowsmall 78
+    100590: windowsmall 79
+    100592: windowsmall 8
+    100594: windowsmall 80
+    100596: windowsmall 81
+    100598: windowsmall 82
+    100600: windowsmall 83
+    100602: windowsmall 84
+    100604: windowsmall 85
+    100606: windowsmall 86
+    100608: windowsmall 87
+    100610: windowsmall 88
+    100612: windowsmall 89
+    100614: windowsmall 9
+    100616: windowsmall 90
+    100618: windowsmall 91
+    100620: windowsmall 92
+    100622: windowsmall 93
+    100624: windowtopcut
+    100626: windowtopcut 1
+    100628: windowtopcut 10
+    100630: windowtopcut 11
+    100632: windowtopcut 12
+    100634: windowtopcut 13
+    100636: windowtopcut 14
+    100638: windowtopcut 2
+    100640: windowtopcut 3
+    100642: windowtopcut 4
+    100644: windowtopcut 5
+    100646: windowtopcut 6
+    100648: windowtopcut 7
+    100650: windowtopcut 8
+    100652: windowtopcut 9
+    100654: windowtopcut#1
+    100656: windowtopcut#1 1
+    100658: windowtopcut#1 2
+    100660: windowtopcut#1 3
+    100662: windowtopcut#2
+    100664: windowtopcut#2 1
+    100666: windowtopcut#2 10
+    100668: windowtopcut#2 11
+    100670: windowtopcut#2 12
+    100672: windowtopcut#2 13
+    100674: windowtopcut#2 14
+    100676: windowtopcut#2 15
+    100678: windowtopcut#2 16
+    100680: windowtopcut#2 17
+    100682: windowtopcut#2 18
+    100684: windowtopcut#2 19
+    100686: windowtopcut#2 2
+    100688: windowtopcut#2 3
+    100690: windowtopcut#2 4
+    100692: windowtopcut#2 5
+    100694: windowtopcut#2 6
+    100696: windowtopcut#2 7
+    100698: windowtopcut#2 8
+    100700: windowtopcut#2 9
+    100702: windowtopcut#3
+    100704: windowtopcut#3 1
+    400000: //RootNode
+    400002: 3dsite
+    400004: a3d
+    400006: a3d 1
+    400008: a3d#1
+    400010: awning1
+    400012: awning1 1
+    400014: awning1 10
+    400016: awning1 11
+    400018: awning1 12
+    400020: awning1 13
+    400022: awning1 14
+    400024: awning1 15
+    400026: awning1 16
+    400028: awning1 17
+    400030: awning1 18
+    400032: awning1 19
+    400034: awning1 2
+    400036: awning1 20
+    400038: awning1 21
+    400040: awning1 22
+    400042: awning1 23
+    400044: awning1 24
+    400046: awning1 25
+    400048: awning1 26
+    400050: awning1 27
+    400052: awning1 28
+    400054: awning1 29
+    400056: awning1 3
+    400058: awning1 30
+    400060: awning1 31
+    400062: awning1 32
+    400064: awning1 33
+    400066: awning1 34
+    400068: awning1 35
+    400070: awning1 36
+    400072: awning1 37
+    400074: awning1 38
+    400076: awning1 39
+    400078: awning1 4
+    400080: awning1 40
+    400082: awning1 41
+    400084: awning1 42
+    400086: awning1 43
+    400088: awning1 44
+    400090: awning1 45
+    400092: awning1 46
+    400094: awning1 47
+    400096: awning1 48
+    400098: awning1 49
+    400100: awning1 5
+    400102: awning1 50
+    400104: awning1 51
+    400106: awning1 52
+    400108: awning1 53
+    400110: awning1 54
+    400112: awning1 55
+    400114: awning1 56
+    400116: awning1 57
+    400118: awning1 58
+    400120: awning1 59
+    400122: awning1 6
+    400124: awning1 7
+    400126: awning1 8
+    400128: awning1 9
+    400130: awning2
+    400132: awning2 1
+    400134: awning2 2
+    400136: awning2 3
+    400138: awning2 4
+    400140: awning2 5
+    400142: awning2 6
+    400144: awning2 7
+    400146: b3d
+    400148: b3d 1
+    400150: bottom
+    400152: bottom1
+    400154: bottom1 1
+    400156: bottom1#1
+    400158: bottom1#1 1
+    400160: bottom2
+    400162: bottom2 1
+    400164: bottom2 2
+    400166: bottom2 3
+    400168: bottom2#1
+    400170: bottom2#1 1
+    400172: bottom2#1 2
+    400174: bottom2#1 3
+    400176: bottom2#2
+    400178: bottom2#2 1
+    400180: bottom2#3
+    400182: bottom3
+    400184: bottom3 1
+    400186: bottom3 2
+    400188: bottom3#1
+    400190: bottom3#1 1
+    400192: bottom3#1 2
+    400194: bottom3#2
+    400196: bottom3#2 1
+    400198: bottom3#2 2
+    400200: bottom3#2 3
+    400202: bottom3#3
+    400204: bottom3#3 1
+    400206: bottom3#4
+    400208: bottom3#4 1
+    400210: bottom3#5
+    400212: bottom3#5 1
+    400214: bottom3#5 2
+    400216: bulbtree-sm
+    400218: bulbtree-sm 1
+    400220: bulbtree-sm 10
+    400222: bulbtree-sm 11
+    400224: bulbtree-sm 12
+    400226: bulbtree-sm 13
+    400228: bulbtree-sm 14
+    400230: bulbtree-sm 15
+    400232: bulbtree-sm 16
+    400234: bulbtree-sm 17
+    400236: bulbtree-sm 18
+    400238: bulbtree-sm 19
+    400240: bulbtree-sm 2
+    400242: bulbtree-sm 3
+    400244: bulbtree-sm 4
+    400246: bulbtree-sm 5
+    400248: bulbtree-sm 6
+    400250: bulbtree-sm 7
+    400252: bulbtree-sm 8
+    400254: bulbtree-sm 9
+    400256: c3d
+    400258: c3d 1
+    400260: c3d#1
+    400262: dblock3d
+    400264: doubledoor
+    400266: doubledoor 1
+    400268: doubledoor 2
+    400270: doubledoor 3
+    400272: doubledoor 4
+    400274: doubledoor#1
+    400276: doubledoor#1 1
+    400278: doubledoor#1 10
+    400280: doubledoor#1 11
+    400282: doubledoor#1 2
+    400284: doubledoor#1 3
+    400286: doubledoor#1 4
+    400288: doubledoor#1 5
+    400290: doubledoor#1 6
+    400292: doubledoor#1 7
+    400294: doubledoor#1 8
+    400296: doubledoor#1 9
+    400298: doublewindow
+    400300: doublewindow 1
+    400302: doublewindow 2
+    400304: doublewindow 3
+    400306: doublewindow 4
+    400308: doublewindow 5
+    400310: doublewindow 6
+    400312: doublewindow 7
+    400314: e3d
+    400316: elevglass
+    400318: f3d
+    400320: f3d 1
+    400322: f3d 2
+    400324: f3d 3
+    400326: f3d 4
+    400328: f3d#1
+    400330: g3d
+    400332: g3d 1
+    400334: h3d
+    400336: Image 1
+    400338: j3d
+    400340: scale_obq
+    400342: singledoor
+    400344: singledoor 1
+    400346: singledoor 2
+    400348: sliding door
+    400350: sliding door 1
+    400352: window
+    400354: window 1
+    400356: window 2
+    400358: window 3
+    400360: window 4
+    400362: window 5
+    400364: window 6
+    400366: window_half
+    400368: window_half 1
+    400370: window_halfagain
+    400372: window_halfagain 1
+    400374: window_halfagain 10
+    400376: window_halfagain 11
+    400378: window_halfagain 12
+    400380: window_halfagain 13
+    400382: window_halfagain 14
+    400384: window_halfagain 15
+    400386: window_halfagain 16
+    400388: window_halfagain 17
+    400390: window_halfagain 18
+    400392: window_halfagain 19
+    400394: window_halfagain 2
+    400396: window_halfagain 3
+    400398: window_halfagain 4
+    400400: window_halfagain 5
+    400402: window_halfagain 6
+    400404: window_halfagain 7
+    400406: window_halfagain 8
+    400408: window_halfagain 9
+    400410: window_halfagain#1
+    400412: window_halfagain#1 1
+    400414: window_halfagain#2
+    400416: window_halfagain#2 1
+    400418: window_halfagain#2 2
+    400420: window_halfagain#2 3
+    400422: window_halfagain#2 4
+    400424: window_halfagain#2 5
+    400426: window_halfagain#2 6
+    400428: window_halfagain#2 7
+    400430: window_halfagain#2 8
+    400432: window_halftop
+    400434: window_halftop 1
+    400436: windowsmall
+    400438: windowsmall 1
+    400440: windowsmall 10
+    400442: windowsmall 11
+    400444: windowsmall 12
+    400446: windowsmall 13
+    400448: windowsmall 14
+    400450: windowsmall 15
+    400452: windowsmall 16
+    400454: windowsmall 17
+    400456: windowsmall 18
+    400458: windowsmall 19
+    400460: windowsmall 2
+    400462: windowsmall 20
+    400464: windowsmall 21
+    400466: windowsmall 22
+    400468: windowsmall 23
+    400470: windowsmall 24
+    400472: windowsmall 25
+    400474: windowsmall 26
+    400476: windowsmall 27
+    400478: windowsmall 28
+    400480: windowsmall 29
+    400482: windowsmall 3
+    400484: windowsmall 30
+    400486: windowsmall 31
+    400488: windowsmall 32
+    400490: windowsmall 33
+    400492: windowsmall 34
+    400494: windowsmall 35
+    400496: windowsmall 36
+    400498: windowsmall 37
+    400500: windowsmall 38
+    400502: windowsmall 39
+    400504: windowsmall 4
+    400506: windowsmall 40
+    400508: windowsmall 41
+    400510: windowsmall 42
+    400512: windowsmall 43
+    400514: windowsmall 44
+    400516: windowsmall 45
+    400518: windowsmall 46
+    400520: windowsmall 47
+    400522: windowsmall 48
+    400524: windowsmall 49
+    400526: windowsmall 5
+    400528: windowsmall 50
+    400530: windowsmall 51
+    400532: windowsmall 52
+    400534: windowsmall 53
+    400536: windowsmall 54
+    400538: windowsmall 55
+    400540: windowsmall 56
+    400542: windowsmall 57
+    400544: windowsmall 58
+    400546: windowsmall 59
+    400548: windowsmall 6
+    400550: windowsmall 60
+    400552: windowsmall 61
+    400554: windowsmall 62
+    400556: windowsmall 63
+    400558: windowsmall 64
+    400560: windowsmall 65
+    400562: windowsmall 66
+    400564: windowsmall 67
+    400566: windowsmall 68
+    400568: windowsmall 69
+    400570: windowsmall 7
+    400572: windowsmall 70
+    400574: windowsmall 71
+    400576: windowsmall 72
+    400578: windowsmall 73
+    400580: windowsmall 74
+    400582: windowsmall 75
+    400584: windowsmall 76
+    400586: windowsmall 77
+    400588: windowsmall 78
+    400590: windowsmall 79
+    400592: windowsmall 8
+    400594: windowsmall 80
+    400596: windowsmall 81
+    400598: windowsmall 82
+    400600: windowsmall 83
+    400602: windowsmall 84
+    400604: windowsmall 85
+    400606: windowsmall 86
+    400608: windowsmall 87
+    400610: windowsmall 88
+    400612: windowsmall 89
+    400614: windowsmall 9
+    400616: windowsmall 90
+    400618: windowsmall 91
+    400620: windowsmall 92
+    400622: windowsmall 93
+    400624: windowtopcut
+    400626: windowtopcut 1
+    400628: windowtopcut 10
+    400630: windowtopcut 11
+    400632: windowtopcut 12
+    400634: windowtopcut 13
+    400636: windowtopcut 14
+    400638: windowtopcut 2
+    400640: windowtopcut 3
+    400642: windowtopcut 4
+    400644: windowtopcut 5
+    400646: windowtopcut 6
+    400648: windowtopcut 7
+    400650: windowtopcut 8
+    400652: windowtopcut 9
+    400654: windowtopcut#1
+    400656: windowtopcut#1 1
+    400658: windowtopcut#1 2
+    400660: windowtopcut#1 3
+    400662: windowtopcut#2
+    400664: windowtopcut#2 1
+    400666: windowtopcut#2 10
+    400668: windowtopcut#2 11
+    400670: windowtopcut#2 12
+    400672: windowtopcut#2 13
+    400674: windowtopcut#2 14
+    400676: windowtopcut#2 15
+    400678: windowtopcut#2 16
+    400680: windowtopcut#2 17
+    400682: windowtopcut#2 18
+    400684: windowtopcut#2 19
+    400686: windowtopcut#2 2
+    400688: windowtopcut#2 3
+    400690: windowtopcut#2 4
+    400692: windowtopcut#2 5
+    400694: windowtopcut#2 6
+    400696: windowtopcut#2 7
+    400698: windowtopcut#2 8
+    400700: windowtopcut#2 9
+    400702: windowtopcut#3
+    400704: windowtopcut#3 1
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_bldg_wall
+    2100008: OV_bldg_accent
+    2100010: OV_bldg_roof
+    2100012: ApertureGlass
+    2100014: OV_paving_pedestrian
+    2100016: OV_shrub_texture
+    2100018: OV_surface_other
+    2100020: OV_paving_vehicle
+    2100022: OV_turf_solid
+    2100024: roundedtree
+    2300000: 3dsite
+    2300002: a3d
+    2300004: a3d 1
+    2300006: a3d#1
+    2300008: awning1
+    2300010: awning1 1
+    2300012: awning1 10
+    2300014: awning1 11
+    2300016: awning1 12
+    2300018: awning1 13
+    2300020: awning1 14
+    2300022: awning1 15
+    2300024: awning1 16
+    2300026: awning1 17
+    2300028: awning1 18
+    2300030: awning1 19
+    2300032: awning1 2
+    2300034: awning1 20
+    2300036: awning1 21
+    2300038: awning1 22
+    2300040: awning1 23
+    2300042: awning1 24
+    2300044: awning1 25
+    2300046: awning1 26
+    2300048: awning1 27
+    2300050: awning1 28
+    2300052: awning1 29
+    2300054: awning1 3
+    2300056: awning1 30
+    2300058: awning1 31
+    2300060: awning1 32
+    2300062: awning1 33
+    2300064: awning1 34
+    2300066: awning1 35
+    2300068: awning1 36
+    2300070: awning1 37
+    2300072: awning1 38
+    2300074: awning1 39
+    2300076: awning1 4
+    2300078: awning1 40
+    2300080: awning1 41
+    2300082: awning1 42
+    2300084: awning1 43
+    2300086: awning1 44
+    2300088: awning1 45
+    2300090: awning1 46
+    2300092: awning1 47
+    2300094: awning1 48
+    2300096: awning1 49
+    2300098: awning1 5
+    2300100: awning1 50
+    2300102: awning1 51
+    2300104: awning1 52
+    2300106: awning1 53
+    2300108: awning1 54
+    2300110: awning1 55
+    2300112: awning1 56
+    2300114: awning1 57
+    2300116: awning1 58
+    2300118: awning1 59
+    2300120: awning1 6
+    2300122: awning1 7
+    2300124: awning1 8
+    2300126: awning1 9
+    2300128: awning2
+    2300130: awning2 1
+    2300132: awning2 2
+    2300134: awning2 3
+    2300136: awning2 4
+    2300138: awning2 5
+    2300140: awning2 6
+    2300142: awning2 7
+    2300144: b3d
+    2300146: b3d 1
+    2300148: bottom
+    2300150: bottom1
+    2300152: bottom1 1
+    2300154: bottom1#1
+    2300156: bottom1#1 1
+    2300158: bottom2
+    2300160: bottom2 1
+    2300162: bottom2 2
+    2300164: bottom2 3
+    2300166: bottom2#1
+    2300168: bottom2#1 1
+    2300170: bottom2#1 2
+    2300172: bottom2#1 3
+    2300174: bottom2#2
+    2300176: bottom2#2 1
+    2300178: bottom2#3
+    2300180: bottom3
+    2300182: bottom3 1
+    2300184: bottom3 2
+    2300186: bottom3#1
+    2300188: bottom3#1 1
+    2300190: bottom3#1 2
+    2300192: bottom3#2
+    2300194: bottom3#2 1
+    2300196: bottom3#2 2
+    2300198: bottom3#2 3
+    2300200: bottom3#3
+    2300202: bottom3#3 1
+    2300204: bottom3#4
+    2300206: bottom3#4 1
+    2300208: bottom3#5
+    2300210: bottom3#5 1
+    2300212: bottom3#5 2
+    2300214: bulbtree-sm
+    2300216: bulbtree-sm 1
+    2300218: bulbtree-sm 10
+    2300220: bulbtree-sm 11
+    2300222: bulbtree-sm 12
+    2300224: bulbtree-sm 13
+    2300226: bulbtree-sm 14
+    2300228: bulbtree-sm 15
+    2300230: bulbtree-sm 16
+    2300232: bulbtree-sm 17
+    2300234: bulbtree-sm 18
+    2300236: bulbtree-sm 19
+    2300238: bulbtree-sm 2
+    2300240: bulbtree-sm 3
+    2300242: bulbtree-sm 4
+    2300244: bulbtree-sm 5
+    2300246: bulbtree-sm 6
+    2300248: bulbtree-sm 7
+    2300250: bulbtree-sm 8
+    2300252: bulbtree-sm 9
+    2300254: c3d
+    2300256: c3d 1
+    2300258: c3d#1
+    2300260: dblock3d
+    2300262: doubledoor
+    2300264: doubledoor 1
+    2300266: doubledoor 2
+    2300268: doubledoor 3
+    2300270: doubledoor 4
+    2300272: doubledoor#1
+    2300274: doubledoor#1 1
+    2300276: doubledoor#1 10
+    2300278: doubledoor#1 11
+    2300280: doubledoor#1 2
+    2300282: doubledoor#1 3
+    2300284: doubledoor#1 4
+    2300286: doubledoor#1 5
+    2300288: doubledoor#1 6
+    2300290: doubledoor#1 7
+    2300292: doubledoor#1 8
+    2300294: doubledoor#1 9
+    2300296: doublewindow
+    2300298: doublewindow 1
+    2300300: doublewindow 2
+    2300302: doublewindow 3
+    2300304: doublewindow 4
+    2300306: doublewindow 5
+    2300308: doublewindow 6
+    2300310: doublewindow 7
+    2300312: e3d
+    2300314: elevglass
+    2300316: f3d
+    2300318: f3d 1
+    2300320: f3d 2
+    2300322: f3d 3
+    2300324: f3d 4
+    2300326: f3d#1
+    2300328: g3d
+    2300330: g3d 1
+    2300332: h3d
+    2300334: Image 1
+    2300336: j3d
+    2300338: scale_obq
+    2300340: singledoor
+    2300342: singledoor 1
+    2300344: singledoor 2
+    2300346: sliding door
+    2300348: sliding door 1
+    2300350: window
+    2300352: window 1
+    2300354: window 2
+    2300356: window 3
+    2300358: window 4
+    2300360: window 5
+    2300362: window 6
+    2300364: window_half
+    2300366: window_half 1
+    2300368: window_halfagain
+    2300370: window_halfagain 1
+    2300372: window_halfagain 10
+    2300374: window_halfagain 11
+    2300376: window_halfagain 12
+    2300378: window_halfagain 13
+    2300380: window_halfagain 14
+    2300382: window_halfagain 15
+    2300384: window_halfagain 16
+    2300386: window_halfagain 17
+    2300388: window_halfagain 18
+    2300390: window_halfagain 19
+    2300392: window_halfagain 2
+    2300394: window_halfagain 3
+    2300396: window_halfagain 4
+    2300398: window_halfagain 5
+    2300400: window_halfagain 6
+    2300402: window_halfagain 7
+    2300404: window_halfagain 8
+    2300406: window_halfagain 9
+    2300408: window_halfagain#1
+    2300410: window_halfagain#1 1
+    2300412: window_halfagain#2
+    2300414: window_halfagain#2 1
+    2300416: window_halfagain#2 2
+    2300418: window_halfagain#2 3
+    2300420: window_halfagain#2 4
+    2300422: window_halfagain#2 5
+    2300424: window_halfagain#2 6
+    2300426: window_halfagain#2 7
+    2300428: window_halfagain#2 8
+    2300430: window_halftop
+    2300432: window_halftop 1
+    2300434: windowsmall
+    2300436: windowsmall 1
+    2300438: windowsmall 10
+    2300440: windowsmall 11
+    2300442: windowsmall 12
+    2300444: windowsmall 13
+    2300446: windowsmall 14
+    2300448: windowsmall 15
+    2300450: windowsmall 16
+    2300452: windowsmall 17
+    2300454: windowsmall 18
+    2300456: windowsmall 19
+    2300458: windowsmall 2
+    2300460: windowsmall 20
+    2300462: windowsmall 21
+    2300464: windowsmall 22
+    2300466: windowsmall 23
+    2300468: windowsmall 24
+    2300470: windowsmall 25
+    2300472: windowsmall 26
+    2300474: windowsmall 27
+    2300476: windowsmall 28
+    2300478: windowsmall 29
+    2300480: windowsmall 3
+    2300482: windowsmall 30
+    2300484: windowsmall 31
+    2300486: windowsmall 32
+    2300488: windowsmall 33
+    2300490: windowsmall 34
+    2300492: windowsmall 35
+    2300494: windowsmall 36
+    2300496: windowsmall 37
+    2300498: windowsmall 38
+    2300500: windowsmall 39
+    2300502: windowsmall 4
+    2300504: windowsmall 40
+    2300506: windowsmall 41
+    2300508: windowsmall 42
+    2300510: windowsmall 43
+    2300512: windowsmall 44
+    2300514: windowsmall 45
+    2300516: windowsmall 46
+    2300518: windowsmall 47
+    2300520: windowsmall 48
+    2300522: windowsmall 49
+    2300524: windowsmall 5
+    2300526: windowsmall 50
+    2300528: windowsmall 51
+    2300530: windowsmall 52
+    2300532: windowsmall 53
+    2300534: windowsmall 54
+    2300536: windowsmall 55
+    2300538: windowsmall 56
+    2300540: windowsmall 57
+    2300542: windowsmall 58
+    2300544: windowsmall 59
+    2300546: windowsmall 6
+    2300548: windowsmall 60
+    2300550: windowsmall 61
+    2300552: windowsmall 62
+    2300554: windowsmall 63
+    2300556: windowsmall 64
+    2300558: windowsmall 65
+    2300560: windowsmall 66
+    2300562: windowsmall 67
+    2300564: windowsmall 68
+    2300566: windowsmall 69
+    2300568: windowsmall 7
+    2300570: windowsmall 70
+    2300572: windowsmall 71
+    2300574: windowsmall 72
+    2300576: windowsmall 73
+    2300578: windowsmall 74
+    2300580: windowsmall 75
+    2300582: windowsmall 76
+    2300584: windowsmall 77
+    2300586: windowsmall 78
+    2300588: windowsmall 79
+    2300590: windowsmall 8
+    2300592: windowsmall 80
+    2300594: windowsmall 81
+    2300596: windowsmall 82
+    2300598: windowsmall 83
+    2300600: windowsmall 84
+    2300602: windowsmall 85
+    2300604: windowsmall 86
+    2300606: windowsmall 87
+    2300608: windowsmall 88
+    2300610: windowsmall 89
+    2300612: windowsmall 9
+    2300614: windowsmall 90
+    2300616: windowsmall 91
+    2300618: windowsmall 92
+    2300620: windowsmall 93
+    2300622: windowtopcut
+    2300624: windowtopcut 1
+    2300626: windowtopcut 10
+    2300628: windowtopcut 11
+    2300630: windowtopcut 12
+    2300632: windowtopcut 13
+    2300634: windowtopcut 14
+    2300636: windowtopcut 2
+    2300638: windowtopcut 3
+    2300640: windowtopcut 4
+    2300642: windowtopcut 5
+    2300644: windowtopcut 6
+    2300646: windowtopcut 7
+    2300648: windowtopcut 8
+    2300650: windowtopcut 9
+    2300652: windowtopcut#1
+    2300654: windowtopcut#1 1
+    2300656: windowtopcut#1 2
+    2300658: windowtopcut#1 3
+    2300660: windowtopcut#2
+    2300662: windowtopcut#2 1
+    2300664: windowtopcut#2 10
+    2300666: windowtopcut#2 11
+    2300668: windowtopcut#2 12
+    2300670: windowtopcut#2 13
+    2300672: windowtopcut#2 14
+    2300674: windowtopcut#2 15
+    2300676: windowtopcut#2 16
+    2300678: windowtopcut#2 17
+    2300680: windowtopcut#2 18
+    2300682: windowtopcut#2 19
+    2300684: windowtopcut#2 2
+    2300686: windowtopcut#2 3
+    2300688: windowtopcut#2 4
+    2300690: windowtopcut#2 5
+    2300692: windowtopcut#2 6
+    2300694: windowtopcut#2 7
+    2300696: windowtopcut#2 8
+    2300698: windowtopcut#2 9
+    2300700: windowtopcut#3
+    2300702: windowtopcut#3 1
+    3300000: 3dsite
+    3300002: a3d
+    3300004: a3d 1
+    3300006: a3d#1
+    3300008: awning1
+    3300010: awning1 1
+    3300012: awning1 10
+    3300014: awning1 11
+    3300016: awning1 12
+    3300018: awning1 13
+    3300020: awning1 14
+    3300022: awning1 15
+    3300024: awning1 16
+    3300026: awning1 17
+    3300028: awning1 18
+    3300030: awning1 19
+    3300032: awning1 2
+    3300034: awning1 20
+    3300036: awning1 21
+    3300038: awning1 22
+    3300040: awning1 23
+    3300042: awning1 24
+    3300044: awning1 25
+    3300046: awning1 26
+    3300048: awning1 27
+    3300050: awning1 28
+    3300052: awning1 29
+    3300054: awning1 3
+    3300056: awning1 30
+    3300058: awning1 31
+    3300060: awning1 32
+    3300062: awning1 33
+    3300064: awning1 34
+    3300066: awning1 35
+    3300068: awning1 36
+    3300070: awning1 37
+    3300072: awning1 38
+    3300074: awning1 39
+    3300076: awning1 4
+    3300078: awning1 40
+    3300080: awning1 41
+    3300082: awning1 42
+    3300084: awning1 43
+    3300086: awning1 44
+    3300088: awning1 45
+    3300090: awning1 46
+    3300092: awning1 47
+    3300094: awning1 48
+    3300096: awning1 49
+    3300098: awning1 5
+    3300100: awning1 50
+    3300102: awning1 51
+    3300104: awning1 52
+    3300106: awning1 53
+    3300108: awning1 54
+    3300110: awning1 55
+    3300112: awning1 56
+    3300114: awning1 57
+    3300116: awning1 58
+    3300118: awning1 59
+    3300120: awning1 6
+    3300122: awning1 7
+    3300124: awning1 8
+    3300126: awning1 9
+    3300128: awning2
+    3300130: awning2 1
+    3300132: awning2 2
+    3300134: awning2 3
+    3300136: awning2 4
+    3300138: awning2 5
+    3300140: awning2 6
+    3300142: awning2 7
+    3300144: b3d
+    3300146: b3d 1
+    3300148: bottom
+    3300150: bottom1
+    3300152: bottom1 1
+    3300154: bottom1#1
+    3300156: bottom1#1 1
+    3300158: bottom2
+    3300160: bottom2 1
+    3300162: bottom2 2
+    3300164: bottom2 3
+    3300166: bottom2#1
+    3300168: bottom2#1 1
+    3300170: bottom2#1 2
+    3300172: bottom2#1 3
+    3300174: bottom2#2
+    3300176: bottom2#2 1
+    3300178: bottom2#3
+    3300180: bottom3
+    3300182: bottom3 1
+    3300184: bottom3 2
+    3300186: bottom3#1
+    3300188: bottom3#1 1
+    3300190: bottom3#1 2
+    3300192: bottom3#2
+    3300194: bottom3#2 1
+    3300196: bottom3#2 2
+    3300198: bottom3#2 3
+    3300200: bottom3#3
+    3300202: bottom3#3 1
+    3300204: bottom3#4
+    3300206: bottom3#4 1
+    3300208: bottom3#5
+    3300210: bottom3#5 1
+    3300212: bottom3#5 2
+    3300214: bulbtree-sm
+    3300216: bulbtree-sm 1
+    3300218: bulbtree-sm 10
+    3300220: bulbtree-sm 11
+    3300222: bulbtree-sm 12
+    3300224: bulbtree-sm 13
+    3300226: bulbtree-sm 14
+    3300228: bulbtree-sm 15
+    3300230: bulbtree-sm 16
+    3300232: bulbtree-sm 17
+    3300234: bulbtree-sm 18
+    3300236: bulbtree-sm 19
+    3300238: bulbtree-sm 2
+    3300240: bulbtree-sm 3
+    3300242: bulbtree-sm 4
+    3300244: bulbtree-sm 5
+    3300246: bulbtree-sm 6
+    3300248: bulbtree-sm 7
+    3300250: bulbtree-sm 8
+    3300252: bulbtree-sm 9
+    3300254: c3d
+    3300256: c3d 1
+    3300258: c3d#1
+    3300260: dblock3d
+    3300262: doubledoor
+    3300264: doubledoor 1
+    3300266: doubledoor 2
+    3300268: doubledoor 3
+    3300270: doubledoor 4
+    3300272: doubledoor#1
+    3300274: doubledoor#1 1
+    3300276: doubledoor#1 10
+    3300278: doubledoor#1 11
+    3300280: doubledoor#1 2
+    3300282: doubledoor#1 3
+    3300284: doubledoor#1 4
+    3300286: doubledoor#1 5
+    3300288: doubledoor#1 6
+    3300290: doubledoor#1 7
+    3300292: doubledoor#1 8
+    3300294: doubledoor#1 9
+    3300296: doublewindow
+    3300298: doublewindow 1
+    3300300: doublewindow 2
+    3300302: doublewindow 3
+    3300304: doublewindow 4
+    3300306: doublewindow 5
+    3300308: doublewindow 6
+    3300310: doublewindow 7
+    3300312: e3d
+    3300314: elevglass
+    3300316: f3d
+    3300318: f3d 1
+    3300320: f3d 2
+    3300322: f3d 3
+    3300324: f3d 4
+    3300326: f3d#1
+    3300328: g3d
+    3300330: g3d 1
+    3300332: h3d
+    3300334: Image 1
+    3300336: j3d
+    3300338: scale_obq
+    3300340: singledoor
+    3300342: singledoor 1
+    3300344: singledoor 2
+    3300346: sliding door
+    3300348: sliding door 1
+    3300350: window
+    3300352: window 1
+    3300354: window 2
+    3300356: window 3
+    3300358: window 4
+    3300360: window 5
+    3300362: window 6
+    3300364: window_half
+    3300366: window_half 1
+    3300368: window_halfagain
+    3300370: window_halfagain 1
+    3300372: window_halfagain 10
+    3300374: window_halfagain 11
+    3300376: window_halfagain 12
+    3300378: window_halfagain 13
+    3300380: window_halfagain 14
+    3300382: window_halfagain 15
+    3300384: window_halfagain 16
+    3300386: window_halfagain 17
+    3300388: window_halfagain 18
+    3300390: window_halfagain 19
+    3300392: window_halfagain 2
+    3300394: window_halfagain 3
+    3300396: window_halfagain 4
+    3300398: window_halfagain 5
+    3300400: window_halfagain 6
+    3300402: window_halfagain 7
+    3300404: window_halfagain 8
+    3300406: window_halfagain 9
+    3300408: window_halfagain#1
+    3300410: window_halfagain#1 1
+    3300412: window_halfagain#2
+    3300414: window_halfagain#2 1
+    3300416: window_halfagain#2 2
+    3300418: window_halfagain#2 3
+    3300420: window_halfagain#2 4
+    3300422: window_halfagain#2 5
+    3300424: window_halfagain#2 6
+    3300426: window_halfagain#2 7
+    3300428: window_halfagain#2 8
+    3300430: window_halftop
+    3300432: window_halftop 1
+    3300434: windowsmall
+    3300436: windowsmall 1
+    3300438: windowsmall 10
+    3300440: windowsmall 11
+    3300442: windowsmall 12
+    3300444: windowsmall 13
+    3300446: windowsmall 14
+    3300448: windowsmall 15
+    3300450: windowsmall 16
+    3300452: windowsmall 17
+    3300454: windowsmall 18
+    3300456: windowsmall 19
+    3300458: windowsmall 2
+    3300460: windowsmall 20
+    3300462: windowsmall 21
+    3300464: windowsmall 22
+    3300466: windowsmall 23
+    3300468: windowsmall 24
+    3300470: windowsmall 25
+    3300472: windowsmall 26
+    3300474: windowsmall 27
+    3300476: windowsmall 28
+    3300478: windowsmall 29
+    3300480: windowsmall 3
+    3300482: windowsmall 30
+    3300484: windowsmall 31
+    3300486: windowsmall 32
+    3300488: windowsmall 33
+    3300490: windowsmall 34
+    3300492: windowsmall 35
+    3300494: windowsmall 36
+    3300496: windowsmall 37
+    3300498: windowsmall 38
+    3300500: windowsmall 39
+    3300502: windowsmall 4
+    3300504: windowsmall 40
+    3300506: windowsmall 41
+    3300508: windowsmall 42
+    3300510: windowsmall 43
+    3300512: windowsmall 44
+    3300514: windowsmall 45
+    3300516: windowsmall 46
+    3300518: windowsmall 47
+    3300520: windowsmall 48
+    3300522: windowsmall 49
+    3300524: windowsmall 5
+    3300526: windowsmall 50
+    3300528: windowsmall 51
+    3300530: windowsmall 52
+    3300532: windowsmall 53
+    3300534: windowsmall 54
+    3300536: windowsmall 55
+    3300538: windowsmall 56
+    3300540: windowsmall 57
+    3300542: windowsmall 58
+    3300544: windowsmall 59
+    3300546: windowsmall 6
+    3300548: windowsmall 60
+    3300550: windowsmall 61
+    3300552: windowsmall 62
+    3300554: windowsmall 63
+    3300556: windowsmall 64
+    3300558: windowsmall 65
+    3300560: windowsmall 66
+    3300562: windowsmall 67
+    3300564: windowsmall 68
+    3300566: windowsmall 69
+    3300568: windowsmall 7
+    3300570: windowsmall 70
+    3300572: windowsmall 71
+    3300574: windowsmall 72
+    3300576: windowsmall 73
+    3300578: windowsmall 74
+    3300580: windowsmall 75
+    3300582: windowsmall 76
+    3300584: windowsmall 77
+    3300586: windowsmall 78
+    3300588: windowsmall 79
+    3300590: windowsmall 8
+    3300592: windowsmall 80
+    3300594: windowsmall 81
+    3300596: windowsmall 82
+    3300598: windowsmall 83
+    3300600: windowsmall 84
+    3300602: windowsmall 85
+    3300604: windowsmall 86
+    3300606: windowsmall 87
+    3300608: windowsmall 88
+    3300610: windowsmall 89
+    3300612: windowsmall 9
+    3300614: windowsmall 90
+    3300616: windowsmall 91
+    3300618: windowsmall 92
+    3300620: windowsmall 93
+    3300622: windowtopcut
+    3300624: windowtopcut 1
+    3300626: windowtopcut 10
+    3300628: windowtopcut 11
+    3300630: windowtopcut 12
+    3300632: windowtopcut 13
+    3300634: windowtopcut 14
+    3300636: windowtopcut 2
+    3300638: windowtopcut 3
+    3300640: windowtopcut 4
+    3300642: windowtopcut 5
+    3300644: windowtopcut 6
+    3300646: windowtopcut 7
+    3300648: windowtopcut 8
+    3300650: windowtopcut 9
+    3300652: windowtopcut#1
+    3300654: windowtopcut#1 1
+    3300656: windowtopcut#1 2
+    3300658: windowtopcut#1 3
+    3300660: windowtopcut#2
+    3300662: windowtopcut#2 1
+    3300664: windowtopcut#2 10
+    3300666: windowtopcut#2 11
+    3300668: windowtopcut#2 12
+    3300670: windowtopcut#2 13
+    3300672: windowtopcut#2 14
+    3300674: windowtopcut#2 15
+    3300676: windowtopcut#2 16
+    3300678: windowtopcut#2 17
+    3300680: windowtopcut#2 18
+    3300682: windowtopcut#2 19
+    3300684: windowtopcut#2 2
+    3300686: windowtopcut#2 3
+    3300688: windowtopcut#2 4
+    3300690: windowtopcut#2 5
+    3300692: windowtopcut#2 6
+    3300694: windowtopcut#2 7
+    3300696: windowtopcut#2 8
+    3300698: windowtopcut#2 9
+    3300700: windowtopcut#3
+    3300702: windowtopcut#3 1
+    4300000: Mesh 33028-00
+    4300002: Mesh scale_obq
+    4300004: Mesh dblock3d
+    4300006: Mesh windowsmall
+    4300008: Mesh window_halfagain#2
+    4300010: Mesh window_halfagain
+    4300012: Mesh windowtopcut#2
+    4300014: Mesh doubledoor#1
+    4300016: Mesh a3d
+    4300018: Mesh windowtopcut
+    4300020: Mesh doubledoor
+    4300022: Mesh b3d
+    4300024: Mesh a3d#1
+    4300026: Mesh c3d
+    4300028: Mesh singledoor
+    4300030: Mesh c3d#1
+    4300032: Mesh f3d#1
+    4300034: Mesh window
+    4300036: Mesh doublewindow
+    4300038: Mesh e3d
+    4300040: Mesh windowtopcut#1
+    4300042: Mesh f3d
+    4300044: Mesh g3d
+    4300046: Mesh window_halftop
+    4300048: Mesh window_half
+    4300050: Mesh sliding door
+    4300052: Mesh h3d
+    4300054: Mesh windowtopcut#3
+    4300056: Mesh window_halfagain#1
+    4300058: Mesh j3d
+    4300060: Mesh bottom
+    4300062: Mesh elevglass
+    4300064: Mesh bottom1
+    4300066: Mesh bottom2
+    4300068: Mesh bottom3
+    4300070: Mesh bottom3#1
+    4300072: Mesh bottom1#1
+    4300074: Mesh bottom2#1
+    4300076: Mesh bottom3#2
+    4300078: Mesh bottom3#3
+    4300080: Mesh bottom2#2
+    4300082: Mesh bottom3#4
+    4300084: Mesh bottom3#5
+    4300086: Mesh bottom2#3
+    4300088: Mesh 3dsite
+    4300090: Mesh awning1
+    4300092: Mesh awning2
+    4300094: Mesh bulbtree-sm
+    6400000: 3dsite
+    6400002: a3d
+    6400004: a3d 1
+    6400006: a3d#1
+    6400008: awning1
+    6400010: awning1 1
+    6400012: awning1 10
+    6400014: awning1 11
+    6400016: awning1 12
+    6400018: awning1 13
+    6400020: awning1 14
+    6400022: awning1 15
+    6400024: awning1 16
+    6400026: awning1 17
+    6400028: awning1 18
+    6400030: awning1 19
+    6400032: awning1 2
+    6400034: awning1 20
+    6400036: awning1 21
+    6400038: awning1 22
+    6400040: awning1 23
+    6400042: awning1 24
+    6400044: awning1 25
+    6400046: awning1 26
+    6400048: awning1 27
+    6400050: awning1 28
+    6400052: awning1 29
+    6400054: awning1 3
+    6400056: awning1 30
+    6400058: awning1 31
+    6400060: awning1 32
+    6400062: awning1 33
+    6400064: awning1 34
+    6400066: awning1 35
+    6400068: awning1 36
+    6400070: awning1 37
+    6400072: awning1 38
+    6400074: awning1 39
+    6400076: awning1 4
+    6400078: awning1 40
+    6400080: awning1 41
+    6400082: awning1 42
+    6400084: awning1 43
+    6400086: awning1 44
+    6400088: awning1 45
+    6400090: awning1 46
+    6400092: awning1 47
+    6400094: awning1 48
+    6400096: awning1 49
+    6400098: awning1 5
+    6400100: awning1 50
+    6400102: awning1 51
+    6400104: awning1 52
+    6400106: awning1 53
+    6400108: awning1 54
+    6400110: awning1 55
+    6400112: awning1 56
+    6400114: awning1 57
+    6400116: awning1 58
+    6400118: awning1 59
+    6400120: awning1 6
+    6400122: awning1 7
+    6400124: awning1 8
+    6400126: awning1 9
+    6400128: awning2
+    6400130: awning2 1
+    6400132: awning2 2
+    6400134: awning2 3
+    6400136: awning2 4
+    6400138: awning2 5
+    6400140: awning2 6
+    6400142: awning2 7
+    6400144: b3d
+    6400146: b3d 1
+    6400148: bottom
+    6400150: bottom1
+    6400152: bottom1 1
+    6400154: bottom1#1
+    6400156: bottom1#1 1
+    6400158: bottom2
+    6400160: bottom2 1
+    6400162: bottom2 2
+    6400164: bottom2 3
+    6400166: bottom2#1
+    6400168: bottom2#1 1
+    6400170: bottom2#1 2
+    6400172: bottom2#1 3
+    6400174: bottom2#2
+    6400176: bottom2#2 1
+    6400178: bottom2#3
+    6400180: bottom3
+    6400182: bottom3 1
+    6400184: bottom3 2
+    6400186: bottom3#1
+    6400188: bottom3#1 1
+    6400190: bottom3#1 2
+    6400192: bottom3#2
+    6400194: bottom3#2 1
+    6400196: bottom3#2 2
+    6400198: bottom3#2 3
+    6400200: bottom3#3
+    6400202: bottom3#3 1
+    6400204: bottom3#4
+    6400206: bottom3#4 1
+    6400208: bottom3#5
+    6400210: bottom3#5 1
+    6400212: bottom3#5 2
+    6400214: bulbtree-sm
+    6400216: bulbtree-sm 1
+    6400218: bulbtree-sm 10
+    6400220: bulbtree-sm 11
+    6400222: bulbtree-sm 12
+    6400224: bulbtree-sm 13
+    6400226: bulbtree-sm 14
+    6400228: bulbtree-sm 15
+    6400230: bulbtree-sm 16
+    6400232: bulbtree-sm 17
+    6400234: bulbtree-sm 18
+    6400236: bulbtree-sm 19
+    6400238: bulbtree-sm 2
+    6400240: bulbtree-sm 3
+    6400242: bulbtree-sm 4
+    6400244: bulbtree-sm 5
+    6400246: bulbtree-sm 6
+    6400248: bulbtree-sm 7
+    6400250: bulbtree-sm 8
+    6400252: bulbtree-sm 9
+    6400254: c3d
+    6400256: c3d 1
+    6400258: c3d#1
+    6400260: dblock3d
+    6400262: doubledoor
+    6400264: doubledoor 1
+    6400266: doubledoor 2
+    6400268: doubledoor 3
+    6400270: doubledoor 4
+    6400272: doubledoor#1
+    6400274: doubledoor#1 1
+    6400276: doubledoor#1 10
+    6400278: doubledoor#1 11
+    6400280: doubledoor#1 2
+    6400282: doubledoor#1 3
+    6400284: doubledoor#1 4
+    6400286: doubledoor#1 5
+    6400288: doubledoor#1 6
+    6400290: doubledoor#1 7
+    6400292: doubledoor#1 8
+    6400294: doubledoor#1 9
+    6400296: doublewindow
+    6400298: doublewindow 1
+    6400300: doublewindow 2
+    6400302: doublewindow 3
+    6400304: doublewindow 4
+    6400306: doublewindow 5
+    6400308: doublewindow 6
+    6400310: doublewindow 7
+    6400312: e3d
+    6400314: elevglass
+    6400316: f3d
+    6400318: f3d 1
+    6400320: f3d 2
+    6400322: f3d 3
+    6400324: f3d 4
+    6400326: f3d#1
+    6400328: g3d
+    6400330: g3d 1
+    6400332: h3d
+    6400334: Image 1
+    6400336: j3d
+    6400338: scale_obq
+    6400340: singledoor
+    6400342: singledoor 1
+    6400344: singledoor 2
+    6400346: sliding door
+    6400348: sliding door 1
+    6400350: window
+    6400352: window 1
+    6400354: window 2
+    6400356: window 3
+    6400358: window 4
+    6400360: window 5
+    6400362: window 6
+    6400364: window_half
+    6400366: window_half 1
+    6400368: window_halfagain
+    6400370: window_halfagain 1
+    6400372: window_halfagain 10
+    6400374: window_halfagain 11
+    6400376: window_halfagain 12
+    6400378: window_halfagain 13
+    6400380: window_halfagain 14
+    6400382: window_halfagain 15
+    6400384: window_halfagain 16
+    6400386: window_halfagain 17
+    6400388: window_halfagain 18
+    6400390: window_halfagain 19
+    6400392: window_halfagain 2
+    6400394: window_halfagain 3
+    6400396: window_halfagain 4
+    6400398: window_halfagain 5
+    6400400: window_halfagain 6
+    6400402: window_halfagain 7
+    6400404: window_halfagain 8
+    6400406: window_halfagain 9
+    6400408: window_halfagain#1
+    6400410: window_halfagain#1 1
+    6400412: window_halfagain#2
+    6400414: window_halfagain#2 1
+    6400416: window_halfagain#2 2
+    6400418: window_halfagain#2 3
+    6400420: window_halfagain#2 4
+    6400422: window_halfagain#2 5
+    6400424: window_halfagain#2 6
+    6400426: window_halfagain#2 7
+    6400428: window_halfagain#2 8
+    6400430: window_halftop
+    6400432: window_halftop 1
+    6400434: windowsmall
+    6400436: windowsmall 1
+    6400438: windowsmall 10
+    6400440: windowsmall 11
+    6400442: windowsmall 12
+    6400444: windowsmall 13
+    6400446: windowsmall 14
+    6400448: windowsmall 15
+    6400450: windowsmall 16
+    6400452: windowsmall 17
+    6400454: windowsmall 18
+    6400456: windowsmall 19
+    6400458: windowsmall 2
+    6400460: windowsmall 20
+    6400462: windowsmall 21
+    6400464: windowsmall 22
+    6400466: windowsmall 23
+    6400468: windowsmall 24
+    6400470: windowsmall 25
+    6400472: windowsmall 26
+    6400474: windowsmall 27
+    6400476: windowsmall 28
+    6400478: windowsmall 29
+    6400480: windowsmall 3
+    6400482: windowsmall 30
+    6400484: windowsmall 31
+    6400486: windowsmall 32
+    6400488: windowsmall 33
+    6400490: windowsmall 34
+    6400492: windowsmall 35
+    6400494: windowsmall 36
+    6400496: windowsmall 37
+    6400498: windowsmall 38
+    6400500: windowsmall 39
+    6400502: windowsmall 4
+    6400504: windowsmall 40
+    6400506: windowsmall 41
+    6400508: windowsmall 42
+    6400510: windowsmall 43
+    6400512: windowsmall 44
+    6400514: windowsmall 45
+    6400516: windowsmall 46
+    6400518: windowsmall 47
+    6400520: windowsmall 48
+    6400522: windowsmall 49
+    6400524: windowsmall 5
+    6400526: windowsmall 50
+    6400528: windowsmall 51
+    6400530: windowsmall 52
+    6400532: windowsmall 53
+    6400534: windowsmall 54
+    6400536: windowsmall 55
+    6400538: windowsmall 56
+    6400540: windowsmall 57
+    6400542: windowsmall 58
+    6400544: windowsmall 59
+    6400546: windowsmall 6
+    6400548: windowsmall 60
+    6400550: windowsmall 61
+    6400552: windowsmall 62
+    6400554: windowsmall 63
+    6400556: windowsmall 64
+    6400558: windowsmall 65
+    6400560: windowsmall 66
+    6400562: windowsmall 67
+    6400564: windowsmall 68
+    6400566: windowsmall 69
+    6400568: windowsmall 7
+    6400570: windowsmall 70
+    6400572: windowsmall 71
+    6400574: windowsmall 72
+    6400576: windowsmall 73
+    6400578: windowsmall 74
+    6400580: windowsmall 75
+    6400582: windowsmall 76
+    6400584: windowsmall 77
+    6400586: windowsmall 78
+    6400588: windowsmall 79
+    6400590: windowsmall 8
+    6400592: windowsmall 80
+    6400594: windowsmall 81
+    6400596: windowsmall 82
+    6400598: windowsmall 83
+    6400600: windowsmall 84
+    6400602: windowsmall 85
+    6400604: windowsmall 86
+    6400606: windowsmall 87
+    6400608: windowsmall 88
+    6400610: windowsmall 89
+    6400612: windowsmall 9
+    6400614: windowsmall 90
+    6400616: windowsmall 91
+    6400618: windowsmall 92
+    6400620: windowsmall 93
+    6400622: windowtopcut
+    6400624: windowtopcut 1
+    6400626: windowtopcut 10
+    6400628: windowtopcut 11
+    6400630: windowtopcut 12
+    6400632: windowtopcut 13
+    6400634: windowtopcut 14
+    6400636: windowtopcut 2
+    6400638: windowtopcut 3
+    6400640: windowtopcut 4
+    6400642: windowtopcut 5
+    6400644: windowtopcut 6
+    6400646: windowtopcut 7
+    6400648: windowtopcut 8
+    6400650: windowtopcut 9
+    6400652: windowtopcut#1
+    6400654: windowtopcut#1 1
+    6400656: windowtopcut#1 2
+    6400658: windowtopcut#1 3
+    6400660: windowtopcut#2
+    6400662: windowtopcut#2 1
+    6400664: windowtopcut#2 10
+    6400666: windowtopcut#2 11
+    6400668: windowtopcut#2 12
+    6400670: windowtopcut#2 13
+    6400672: windowtopcut#2 14
+    6400674: windowtopcut#2 15
+    6400676: windowtopcut#2 16
+    6400678: windowtopcut#2 17
+    6400680: windowtopcut#2 18
+    6400682: windowtopcut#2 19
+    6400684: windowtopcut#2 2
+    6400686: windowtopcut#2 3
+    6400688: windowtopcut#2 4
+    6400690: windowtopcut#2 5
+    6400692: windowtopcut#2 6
+    6400694: windowtopcut#2 7
+    6400696: windowtopcut#2 8
+    6400698: windowtopcut#2 9
+    6400700: windowtopcut#3
+    6400702: windowtopcut#3 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 4822da7985090cc4aa0ba42efde5a189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: d8155c223b3d78a4ea382eebc11e08fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: c1ed82440f61b024398cfca2644ffeda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 3a667c062b6c2ad4fb6584c8b4478368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: bace6574a77a100419e2713a8c82eb4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 205c96f8f57ab244ab88e92b0926dc0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 7b24ddfc10830dd40a795497dcd0f2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 9dbb6130d46dc244f9cce6e507b27dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: d921004a1c1aeba4ea890a3651928274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 96d8ccdb9c7df1641a555e86f567f84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: e3ee974adfd0fe34a9f8209b5b10fda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 153aac5768fd45a44acc9ec58c72efbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: c1360a83d503c6b4389fac926ff94a5b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

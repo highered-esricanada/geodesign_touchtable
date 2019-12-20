@@ -1,0 +1,2187 @@
+fileFormatVersion: 2
+guid: aa1042f424f0b2d4c899daaae295a6c7
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f02000040020000410200004202000043020000440200004602000047020000490200004a0200004c0200004d0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007202000073020000750200007602000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008d0200008e020000900200009102000093020000940200009602000097020000990200009a0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 944bcf991e7d04fea75461290e8c7dc1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 162.88826, y: 87.351006, z: -181.22392}
+      lookAt: {x: 124.71959, y: 63.47406, z: -141.12411}
+      up: {x: -0.27304396, y: 0.91823703, z: 0.28685847}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -10.576946, y: 210.49057, z: -12.208517}
+        lookAt: {x: -10.576946, y: 188.55241, z: -12.208517}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 9984.347
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 162.88826, y: 87.351006, z: -181.22392}
+        lookAt: {x: 124.71959, y: 63.47406, z: -141.12411}
+        up: {x: -0.27304396, y: 0.91823703, z: 0.28685847}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 12009_3d_site
+    100004: conifer-sm
+    100006: conifer-sm 1
+    100008: conifer-sm 10
+    100010: conifer-sm 11
+    100012: conifer-sm 12
+    100014: conifer-sm 13
+    100016: conifer-sm 2
+    100018: conifer-sm 3
+    100020: conifer-sm 4
+    100022: conifer-sm 5
+    100024: conifer-sm 6
+    100026: conifer-sm 7
+    100028: conifer-sm 8
+    100030: conifer-sm 9
+    100032: Group 101
+    100034: Group 103
+    100036: Group 105
+    100038: Group 107
+    100040: Group 109
+    100042: Group 11
+    100044: Group 111
+    100046: Group 113
+    100048: Group 115
+    100050: Group 117
+    100052: Group 119
+    100054: Group 121
+    100056: Group 123
+    100058: Group 125
+    100060: Group 127
+    100062: Group 129
+    100064: Group 13
+    100066: Group 131
+    100068: Group 133
+    100070: Group 135
+    100072: Group 137
+    100074: Group 139
+    100076: Group 141
+    100078: Group 143
+    100080: Group 145
+    100082: Group 147
+    100084: Group 149
+    100086: Group 15
+    100088: Group 151
+    100090: Group 153
+    100092: Group 155
+    100094: Group 157
+    100096: Group 159
+    100098: Group 16
+    100100: Group 161
+    100102: Group 163
+    100104: Group 165
+    100106: Group 167
+    100108: Group 169
+    100110: Group 171
+    100112: Group 173
+    100114: Group 175
+    100116: Group 177
+    100118: Group 179
+    100120: Group 18
+    100122: Group 181
+    100124: Group 183
+    100126: Group 185
+    100128: Group 187
+    100130: Group 189
+    100132: Group 191
+    100134: Group 193
+    100136: Group 195
+    100138: Group 197
+    100140: Group 198
+    100142: Group 2
+    100144: Group 20
+    100146: Group 200
+    100148: Group 202
+    100150: Group 204
+    100152: Group 206
+    100154: Group 208
+    100156: Group 210
+    100158: Group 212
+    100160: Group 214
+    100162: Group 216
+    100164: Group 218
+    100166: Group 22
+    100168: Group 220
+    100170: Group 222
+    100172: Group 224
+    100174: Group 226
+    100176: Group 228
+    100178: Group 230
+    100180: Group 232
+    100182: Group 234
+    100184: Group 236
+    100186: Group 238
+    100188: Group 24
+    100190: Group 240
+    100192: Group 242
+    100194: Group 244
+    100196: Group 246
+    100198: Group 248
+    100200: Group 250
+    100202: Group 252
+    100204: Group 254
+    100206: Group 256
+    100208: Group 258
+    100210: Group 26
+    100212: Group 260
+    100214: Group 262
+    100216: Group 264
+    100218: Group 266
+    100220: Group 268
+    100222: Group 270
+    100224: Group 272
+    100226: Group 274
+    100228: Group 276
+    100230: Group 278
+    100232: Group 28
+    100234: Group 280
+    100236: Group 282
+    100238: Group 284
+    100240: Group 286
+    100242: Group 288
+    100244: Group 290
+    100246: Group 292
+    100248: Group 294
+    100250: Group 296
+    100252: Group 298
+    100254: Group 30
+    100256: Group 300
+    100258: Group 302
+    100260: Group 304
+    100262: Group 306
+    100264: Group 308
+    100266: Group 310
+    100268: Group 312
+    100270: Group 314
+    100272: Group 316
+    100274: Group 318
+    100276: Group 32
+    100278: Group 320
+    100280: Group 322
+    100282: Group 324
+    100284: Group 326
+    100286: Group 328
+    100288: Group 330
+    100290: Group 332
+    100292: Group 334
+    100294: Group 336
+    100296: Group 338
+    100298: Group 34
+    100300: Group 340
+    100302: Group 342
+    100304: Group 344
+    100306: Group 346
+    100308: Group 348
+    100310: Group 350
+    100312: Group 352
+    100314: Group 354
+    100316: Group 356
+    100318: Group 358
+    100320: Group 36
+    100322: Group 38
+    100324: Group 39
+    100326: Group 41
+    100328: Group 43
+    100330: Group 45
+    100332: Group 47
+    100334: Group 49
+    100336: Group 51
+    100338: Group 53
+    100340: Group 55
+    100342: Group 57
+    100344: Group 59
+    100346: Group 61
+    100348: Group 63
+    100350: Group 65
+    100352: Group 66
+    100354: Group 68
+    100356: Group 70
+    100358: Group 72
+    100360: Group 74
+    100362: Group 76
+    100364: Group 78
+    100366: Group 80
+    100368: Group 82
+    100370: Group 84
+    100372: Group 86
+    100374: Group 88
+    100376: Group 90
+    100378: Group 91
+    100380: Group 93
+    100382: Group 95
+    100384: Group 97
+    100386: Group 99
+    100388: Image 1
+    100390: rounded-sm
+    100392: rounded-sm 1
+    100394: rounded-sm 10
+    100396: rounded-sm 100
+    100398: rounded-sm 101
+    100400: rounded-sm 102
+    100402: rounded-sm 103
+    100404: rounded-sm 104
+    100406: rounded-sm 105
+    100408: rounded-sm 106
+    100410: rounded-sm 107
+    100412: rounded-sm 108
+    100414: rounded-sm 109
+    100416: rounded-sm 11
+    100418: rounded-sm 110
+    100420: rounded-sm 111
+    100422: rounded-sm 112
+    100424: rounded-sm 113
+    100426: rounded-sm 114
+    100428: rounded-sm 115
+    100430: rounded-sm 116
+    100432: rounded-sm 117
+    100434: rounded-sm 118
+    100436: rounded-sm 119
+    100438: rounded-sm 12
+    100440: rounded-sm 120
+    100442: rounded-sm 121
+    100444: rounded-sm 122
+    100446: rounded-sm 123
+    100448: rounded-sm 124
+    100450: rounded-sm 125
+    100452: rounded-sm 126
+    100454: rounded-sm 127
+    100456: rounded-sm 128
+    100458: rounded-sm 129
+    100460: rounded-sm 13
+    100462: rounded-sm 130
+    100464: rounded-sm 131
+    100466: rounded-sm 132
+    100468: rounded-sm 133
+    100470: rounded-sm 134
+    100472: rounded-sm 135
+    100474: rounded-sm 136
+    100476: rounded-sm 137
+    100478: rounded-sm 138
+    100480: rounded-sm 139
+    100482: rounded-sm 14
+    100484: rounded-sm 140
+    100486: rounded-sm 141
+    100488: rounded-sm 142
+    100490: rounded-sm 143
+    100492: rounded-sm 144
+    100494: rounded-sm 145
+    100496: rounded-sm 146
+    100498: rounded-sm 147
+    100500: rounded-sm 148
+    100502: rounded-sm 149
+    100504: rounded-sm 15
+    100506: rounded-sm 150
+    100508: rounded-sm 151
+    100510: rounded-sm 152
+    100512: rounded-sm 153
+    100514: rounded-sm 154
+    100516: rounded-sm 155
+    100518: rounded-sm 156
+    100520: rounded-sm 157
+    100522: rounded-sm 158
+    100524: rounded-sm 159
+    100526: rounded-sm 16
+    100528: rounded-sm 160
+    100530: rounded-sm 161
+    100532: rounded-sm 162
+    100534: rounded-sm 163
+    100536: rounded-sm 164
+    100538: rounded-sm 165
+    100540: rounded-sm 166
+    100542: rounded-sm 167
+    100544: rounded-sm 168
+    100546: rounded-sm 169
+    100548: rounded-sm 17
+    100550: rounded-sm 170
+    100552: rounded-sm 171
+    100554: rounded-sm 172
+    100556: rounded-sm 173
+    100558: rounded-sm 174
+    100560: rounded-sm 175
+    100562: rounded-sm 176
+    100564: rounded-sm 177
+    100566: rounded-sm 18
+    100568: rounded-sm 19
+    100570: rounded-sm 2
+    100572: rounded-sm 20
+    100574: rounded-sm 21
+    100576: rounded-sm 22
+    100578: rounded-sm 23
+    100580: rounded-sm 24
+    100582: rounded-sm 25
+    100584: rounded-sm 26
+    100586: rounded-sm 27
+    100588: rounded-sm 28
+    100590: rounded-sm 29
+    100592: rounded-sm 3
+    100594: rounded-sm 30
+    100596: rounded-sm 31
+    100598: rounded-sm 32
+    100600: rounded-sm 33
+    100602: rounded-sm 34
+    100604: rounded-sm 35
+    100606: rounded-sm 36
+    100608: rounded-sm 37
+    100610: rounded-sm 38
+    100612: rounded-sm 39
+    100614: rounded-sm 4
+    100616: rounded-sm 40
+    100618: rounded-sm 41
+    100620: rounded-sm 42
+    100622: rounded-sm 43
+    100624: rounded-sm 44
+    100626: rounded-sm 45
+    100628: rounded-sm 46
+    100630: rounded-sm 47
+    100632: rounded-sm 48
+    100634: rounded-sm 49
+    100636: rounded-sm 5
+    100638: rounded-sm 50
+    100640: rounded-sm 51
+    100642: rounded-sm 52
+    100644: rounded-sm 53
+    100646: rounded-sm 54
+    100648: rounded-sm 55
+    100650: rounded-sm 56
+    100652: rounded-sm 57
+    100654: rounded-sm 58
+    100656: rounded-sm 59
+    100658: rounded-sm 6
+    100660: rounded-sm 60
+    100662: rounded-sm 61
+    100664: rounded-sm 62
+    100666: rounded-sm 63
+    100668: rounded-sm 64
+    100670: rounded-sm 65
+    100672: rounded-sm 66
+    100674: rounded-sm 67
+    100676: rounded-sm 68
+    100678: rounded-sm 69
+    100680: rounded-sm 7
+    100682: rounded-sm 70
+    100684: rounded-sm 71
+    100686: rounded-sm 72
+    100688: rounded-sm 73
+    100690: rounded-sm 74
+    100692: rounded-sm 75
+    100694: rounded-sm 76
+    100696: rounded-sm 77
+    100698: rounded-sm 78
+    100700: rounded-sm 79
+    100702: rounded-sm 8
+    100704: rounded-sm 80
+    100706: rounded-sm 81
+    100708: rounded-sm 82
+    100710: rounded-sm 83
+    100712: rounded-sm 84
+    100714: rounded-sm 85
+    100716: rounded-sm 86
+    100718: rounded-sm 87
+    100720: rounded-sm 88
+    100722: rounded-sm 89
+    100724: rounded-sm 9
+    100726: rounded-sm 90
+    100728: rounded-sm 91
+    100730: rounded-sm 92
+    100732: rounded-sm 93
+    100734: rounded-sm 94
+    100736: rounded-sm 95
+    100738: rounded-sm 96
+    100740: rounded-sm 97
+    100742: rounded-sm 98
+    100744: rounded-sm 99
+    400000: //RootNode
+    400002: 12009_3d_site
+    400004: conifer-sm
+    400006: conifer-sm 1
+    400008: conifer-sm 10
+    400010: conifer-sm 11
+    400012: conifer-sm 12
+    400014: conifer-sm 13
+    400016: conifer-sm 2
+    400018: conifer-sm 3
+    400020: conifer-sm 4
+    400022: conifer-sm 5
+    400024: conifer-sm 6
+    400026: conifer-sm 7
+    400028: conifer-sm 8
+    400030: conifer-sm 9
+    400032: Group 101
+    400034: Group 103
+    400036: Group 105
+    400038: Group 107
+    400040: Group 109
+    400042: Group 11
+    400044: Group 111
+    400046: Group 113
+    400048: Group 115
+    400050: Group 117
+    400052: Group 119
+    400054: Group 121
+    400056: Group 123
+    400058: Group 125
+    400060: Group 127
+    400062: Group 129
+    400064: Group 13
+    400066: Group 131
+    400068: Group 133
+    400070: Group 135
+    400072: Group 137
+    400074: Group 139
+    400076: Group 141
+    400078: Group 143
+    400080: Group 145
+    400082: Group 147
+    400084: Group 149
+    400086: Group 15
+    400088: Group 151
+    400090: Group 153
+    400092: Group 155
+    400094: Group 157
+    400096: Group 159
+    400098: Group 16
+    400100: Group 161
+    400102: Group 163
+    400104: Group 165
+    400106: Group 167
+    400108: Group 169
+    400110: Group 171
+    400112: Group 173
+    400114: Group 175
+    400116: Group 177
+    400118: Group 179
+    400120: Group 18
+    400122: Group 181
+    400124: Group 183
+    400126: Group 185
+    400128: Group 187
+    400130: Group 189
+    400132: Group 191
+    400134: Group 193
+    400136: Group 195
+    400138: Group 197
+    400140: Group 198
+    400142: Group 2
+    400144: Group 20
+    400146: Group 200
+    400148: Group 202
+    400150: Group 204
+    400152: Group 206
+    400154: Group 208
+    400156: Group 210
+    400158: Group 212
+    400160: Group 214
+    400162: Group 216
+    400164: Group 218
+    400166: Group 22
+    400168: Group 220
+    400170: Group 222
+    400172: Group 224
+    400174: Group 226
+    400176: Group 228
+    400178: Group 230
+    400180: Group 232
+    400182: Group 234
+    400184: Group 236
+    400186: Group 238
+    400188: Group 24
+    400190: Group 240
+    400192: Group 242
+    400194: Group 244
+    400196: Group 246
+    400198: Group 248
+    400200: Group 250
+    400202: Group 252
+    400204: Group 254
+    400206: Group 256
+    400208: Group 258
+    400210: Group 26
+    400212: Group 260
+    400214: Group 262
+    400216: Group 264
+    400218: Group 266
+    400220: Group 268
+    400222: Group 270
+    400224: Group 272
+    400226: Group 274
+    400228: Group 276
+    400230: Group 278
+    400232: Group 28
+    400234: Group 280
+    400236: Group 282
+    400238: Group 284
+    400240: Group 286
+    400242: Group 288
+    400244: Group 290
+    400246: Group 292
+    400248: Group 294
+    400250: Group 296
+    400252: Group 298
+    400254: Group 30
+    400256: Group 300
+    400258: Group 302
+    400260: Group 304
+    400262: Group 306
+    400264: Group 308
+    400266: Group 310
+    400268: Group 312
+    400270: Group 314
+    400272: Group 316
+    400274: Group 318
+    400276: Group 32
+    400278: Group 320
+    400280: Group 322
+    400282: Group 324
+    400284: Group 326
+    400286: Group 328
+    400288: Group 330
+    400290: Group 332
+    400292: Group 334
+    400294: Group 336
+    400296: Group 338
+    400298: Group 34
+    400300: Group 340
+    400302: Group 342
+    400304: Group 344
+    400306: Group 346
+    400308: Group 348
+    400310: Group 350
+    400312: Group 352
+    400314: Group 354
+    400316: Group 356
+    400318: Group 358
+    400320: Group 36
+    400322: Group 38
+    400324: Group 39
+    400326: Group 41
+    400328: Group 43
+    400330: Group 45
+    400332: Group 47
+    400334: Group 49
+    400336: Group 51
+    400338: Group 53
+    400340: Group 55
+    400342: Group 57
+    400344: Group 59
+    400346: Group 61
+    400348: Group 63
+    400350: Group 65
+    400352: Group 66
+    400354: Group 68
+    400356: Group 70
+    400358: Group 72
+    400360: Group 74
+    400362: Group 76
+    400364: Group 78
+    400366: Group 80
+    400368: Group 82
+    400370: Group 84
+    400372: Group 86
+    400374: Group 88
+    400376: Group 90
+    400378: Group 91
+    400380: Group 93
+    400382: Group 95
+    400384: Group 97
+    400386: Group 99
+    400388: Image 1
+    400390: rounded-sm
+    400392: rounded-sm 1
+    400394: rounded-sm 10
+    400396: rounded-sm 100
+    400398: rounded-sm 101
+    400400: rounded-sm 102
+    400402: rounded-sm 103
+    400404: rounded-sm 104
+    400406: rounded-sm 105
+    400408: rounded-sm 106
+    400410: rounded-sm 107
+    400412: rounded-sm 108
+    400414: rounded-sm 109
+    400416: rounded-sm 11
+    400418: rounded-sm 110
+    400420: rounded-sm 111
+    400422: rounded-sm 112
+    400424: rounded-sm 113
+    400426: rounded-sm 114
+    400428: rounded-sm 115
+    400430: rounded-sm 116
+    400432: rounded-sm 117
+    400434: rounded-sm 118
+    400436: rounded-sm 119
+    400438: rounded-sm 12
+    400440: rounded-sm 120
+    400442: rounded-sm 121
+    400444: rounded-sm 122
+    400446: rounded-sm 123
+    400448: rounded-sm 124
+    400450: rounded-sm 125
+    400452: rounded-sm 126
+    400454: rounded-sm 127
+    400456: rounded-sm 128
+    400458: rounded-sm 129
+    400460: rounded-sm 13
+    400462: rounded-sm 130
+    400464: rounded-sm 131
+    400466: rounded-sm 132
+    400468: rounded-sm 133
+    400470: rounded-sm 134
+    400472: rounded-sm 135
+    400474: rounded-sm 136
+    400476: rounded-sm 137
+    400478: rounded-sm 138
+    400480: rounded-sm 139
+    400482: rounded-sm 14
+    400484: rounded-sm 140
+    400486: rounded-sm 141
+    400488: rounded-sm 142
+    400490: rounded-sm 143
+    400492: rounded-sm 144
+    400494: rounded-sm 145
+    400496: rounded-sm 146
+    400498: rounded-sm 147
+    400500: rounded-sm 148
+    400502: rounded-sm 149
+    400504: rounded-sm 15
+    400506: rounded-sm 150
+    400508: rounded-sm 151
+    400510: rounded-sm 152
+    400512: rounded-sm 153
+    400514: rounded-sm 154
+    400516: rounded-sm 155
+    400518: rounded-sm 156
+    400520: rounded-sm 157
+    400522: rounded-sm 158
+    400524: rounded-sm 159
+    400526: rounded-sm 16
+    400528: rounded-sm 160
+    400530: rounded-sm 161
+    400532: rounded-sm 162
+    400534: rounded-sm 163
+    400536: rounded-sm 164
+    400538: rounded-sm 165
+    400540: rounded-sm 166
+    400542: rounded-sm 167
+    400544: rounded-sm 168
+    400546: rounded-sm 169
+    400548: rounded-sm 17
+    400550: rounded-sm 170
+    400552: rounded-sm 171
+    400554: rounded-sm 172
+    400556: rounded-sm 173
+    400558: rounded-sm 174
+    400560: rounded-sm 175
+    400562: rounded-sm 176
+    400564: rounded-sm 177
+    400566: rounded-sm 18
+    400568: rounded-sm 19
+    400570: rounded-sm 2
+    400572: rounded-sm 20
+    400574: rounded-sm 21
+    400576: rounded-sm 22
+    400578: rounded-sm 23
+    400580: rounded-sm 24
+    400582: rounded-sm 25
+    400584: rounded-sm 26
+    400586: rounded-sm 27
+    400588: rounded-sm 28
+    400590: rounded-sm 29
+    400592: rounded-sm 3
+    400594: rounded-sm 30
+    400596: rounded-sm 31
+    400598: rounded-sm 32
+    400600: rounded-sm 33
+    400602: rounded-sm 34
+    400604: rounded-sm 35
+    400606: rounded-sm 36
+    400608: rounded-sm 37
+    400610: rounded-sm 38
+    400612: rounded-sm 39
+    400614: rounded-sm 4
+    400616: rounded-sm 40
+    400618: rounded-sm 41
+    400620: rounded-sm 42
+    400622: rounded-sm 43
+    400624: rounded-sm 44
+    400626: rounded-sm 45
+    400628: rounded-sm 46
+    400630: rounded-sm 47
+    400632: rounded-sm 48
+    400634: rounded-sm 49
+    400636: rounded-sm 5
+    400638: rounded-sm 50
+    400640: rounded-sm 51
+    400642: rounded-sm 52
+    400644: rounded-sm 53
+    400646: rounded-sm 54
+    400648: rounded-sm 55
+    400650: rounded-sm 56
+    400652: rounded-sm 57
+    400654: rounded-sm 58
+    400656: rounded-sm 59
+    400658: rounded-sm 6
+    400660: rounded-sm 60
+    400662: rounded-sm 61
+    400664: rounded-sm 62
+    400666: rounded-sm 63
+    400668: rounded-sm 64
+    400670: rounded-sm 65
+    400672: rounded-sm 66
+    400674: rounded-sm 67
+    400676: rounded-sm 68
+    400678: rounded-sm 69
+    400680: rounded-sm 7
+    400682: rounded-sm 70
+    400684: rounded-sm 71
+    400686: rounded-sm 72
+    400688: rounded-sm 73
+    400690: rounded-sm 74
+    400692: rounded-sm 75
+    400694: rounded-sm 76
+    400696: rounded-sm 77
+    400698: rounded-sm 78
+    400700: rounded-sm 79
+    400702: rounded-sm 8
+    400704: rounded-sm 80
+    400706: rounded-sm 81
+    400708: rounded-sm 82
+    400710: rounded-sm 83
+    400712: rounded-sm 84
+    400714: rounded-sm 85
+    400716: rounded-sm 86
+    400718: rounded-sm 87
+    400720: rounded-sm 88
+    400722: rounded-sm 89
+    400724: rounded-sm 9
+    400726: rounded-sm 90
+    400728: rounded-sm 91
+    400730: rounded-sm 92
+    400732: rounded-sm 93
+    400734: rounded-sm 94
+    400736: rounded-sm 95
+    400738: rounded-sm 96
+    400740: rounded-sm 97
+    400742: rounded-sm 98
+    400744: rounded-sm 99
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_paving general
+    2100010: OV_paving_pedestrian
+    2100012: OV_turf_solid
+    2100014: OV_surface_other
+    2100016: OV_Water
+    2100018: OV_bldg_accent
+    2100020: OV_bldg_wall
+    2100022: mapletree
+    2100024: conifertree2
+    2300000: 12009_3d_site
+    2300002: conifer-sm
+    2300004: conifer-sm 1
+    2300006: conifer-sm 10
+    2300008: conifer-sm 11
+    2300010: conifer-sm 12
+    2300012: conifer-sm 13
+    2300014: conifer-sm 2
+    2300016: conifer-sm 3
+    2300018: conifer-sm 4
+    2300020: conifer-sm 5
+    2300022: conifer-sm 6
+    2300024: conifer-sm 7
+    2300026: conifer-sm 8
+    2300028: conifer-sm 9
+    2300030: Group 101
+    2300032: Group 103
+    2300034: Group 105
+    2300036: Group 107
+    2300038: Group 109
+    2300040: Group 11
+    2300042: Group 111
+    2300044: Group 113
+    2300046: Group 115
+    2300048: Group 117
+    2300050: Group 119
+    2300052: Group 121
+    2300054: Group 123
+    2300056: Group 125
+    2300058: Group 127
+    2300060: Group 129
+    2300062: Group 13
+    2300064: Group 131
+    2300066: Group 133
+    2300068: Group 135
+    2300070: Group 137
+    2300072: Group 139
+    2300074: Group 141
+    2300076: Group 143
+    2300078: Group 145
+    2300080: Group 147
+    2300082: Group 149
+    2300084: Group 151
+    2300086: Group 153
+    2300088: Group 155
+    2300090: Group 157
+    2300092: Group 159
+    2300094: Group 16
+    2300096: Group 161
+    2300098: Group 163
+    2300100: Group 165
+    2300102: Group 167
+    2300104: Group 169
+    2300106: Group 171
+    2300108: Group 173
+    2300110: Group 175
+    2300112: Group 177
+    2300114: Group 179
+    2300116: Group 18
+    2300118: Group 181
+    2300120: Group 183
+    2300122: Group 185
+    2300124: Group 187
+    2300126: Group 189
+    2300128: Group 191
+    2300130: Group 193
+    2300132: Group 195
+    2300134: Group 198
+    2300136: Group 2
+    2300138: Group 20
+    2300140: Group 200
+    2300142: Group 202
+    2300144: Group 204
+    2300146: Group 206
+    2300148: Group 208
+    2300150: Group 210
+    2300152: Group 212
+    2300154: Group 214
+    2300156: Group 216
+    2300158: Group 218
+    2300160: Group 22
+    2300162: Group 220
+    2300164: Group 222
+    2300166: Group 224
+    2300168: Group 226
+    2300170: Group 228
+    2300172: Group 230
+    2300174: Group 232
+    2300176: Group 234
+    2300178: Group 236
+    2300180: Group 238
+    2300182: Group 24
+    2300184: Group 240
+    2300186: Group 242
+    2300188: Group 244
+    2300190: Group 246
+    2300192: Group 248
+    2300194: Group 250
+    2300196: Group 252
+    2300198: Group 254
+    2300200: Group 256
+    2300202: Group 258
+    2300204: Group 26
+    2300206: Group 260
+    2300208: Group 262
+    2300210: Group 264
+    2300212: Group 266
+    2300214: Group 268
+    2300216: Group 270
+    2300218: Group 272
+    2300220: Group 274
+    2300222: Group 276
+    2300224: Group 278
+    2300226: Group 28
+    2300228: Group 280
+    2300230: Group 282
+    2300232: Group 284
+    2300234: Group 286
+    2300236: Group 288
+    2300238: Group 290
+    2300240: Group 292
+    2300242: Group 294
+    2300244: Group 296
+    2300246: Group 298
+    2300248: Group 30
+    2300250: Group 300
+    2300252: Group 302
+    2300254: Group 304
+    2300256: Group 306
+    2300258: Group 308
+    2300260: Group 310
+    2300262: Group 312
+    2300264: Group 314
+    2300266: Group 316
+    2300268: Group 318
+    2300270: Group 32
+    2300272: Group 320
+    2300274: Group 322
+    2300276: Group 324
+    2300278: Group 326
+    2300280: Group 328
+    2300282: Group 330
+    2300284: Group 332
+    2300286: Group 334
+    2300288: Group 336
+    2300290: Group 338
+    2300292: Group 34
+    2300294: Group 340
+    2300296: Group 342
+    2300298: Group 344
+    2300300: Group 346
+    2300302: Group 348
+    2300304: Group 350
+    2300306: Group 352
+    2300308: Group 354
+    2300310: Group 356
+    2300312: Group 358
+    2300314: Group 36
+    2300316: Group 39
+    2300318: Group 41
+    2300320: Group 43
+    2300322: Group 45
+    2300324: Group 47
+    2300326: Group 49
+    2300328: Group 51
+    2300330: Group 53
+    2300332: Group 55
+    2300334: Group 57
+    2300336: Group 59
+    2300338: Group 61
+    2300340: Group 63
+    2300342: Group 66
+    2300344: Group 68
+    2300346: Group 70
+    2300348: Group 72
+    2300350: Group 74
+    2300352: Group 76
+    2300354: Group 78
+    2300356: Group 80
+    2300358: Group 82
+    2300360: Group 84
+    2300362: Group 86
+    2300364: Group 88
+    2300366: Group 91
+    2300368: Group 93
+    2300370: Group 95
+    2300372: Group 97
+    2300374: Group 99
+    2300376: Image 1
+    2300378: rounded-sm
+    2300380: rounded-sm 1
+    2300382: rounded-sm 10
+    2300384: rounded-sm 100
+    2300386: rounded-sm 101
+    2300388: rounded-sm 102
+    2300390: rounded-sm 103
+    2300392: rounded-sm 104
+    2300394: rounded-sm 105
+    2300396: rounded-sm 106
+    2300398: rounded-sm 107
+    2300400: rounded-sm 108
+    2300402: rounded-sm 109
+    2300404: rounded-sm 11
+    2300406: rounded-sm 110
+    2300408: rounded-sm 111
+    2300410: rounded-sm 112
+    2300412: rounded-sm 113
+    2300414: rounded-sm 114
+    2300416: rounded-sm 115
+    2300418: rounded-sm 116
+    2300420: rounded-sm 117
+    2300422: rounded-sm 118
+    2300424: rounded-sm 119
+    2300426: rounded-sm 12
+    2300428: rounded-sm 120
+    2300430: rounded-sm 121
+    2300432: rounded-sm 122
+    2300434: rounded-sm 123
+    2300436: rounded-sm 124
+    2300438: rounded-sm 125
+    2300440: rounded-sm 126
+    2300442: rounded-sm 127
+    2300444: rounded-sm 128
+    2300446: rounded-sm 129
+    2300448: rounded-sm 13
+    2300450: rounded-sm 130
+    2300452: rounded-sm 131
+    2300454: rounded-sm 132
+    2300456: rounded-sm 133
+    2300458: rounded-sm 134
+    2300460: rounded-sm 135
+    2300462: rounded-sm 136
+    2300464: rounded-sm 137
+    2300466: rounded-sm 138
+    2300468: rounded-sm 139
+    2300470: rounded-sm 14
+    2300472: rounded-sm 140
+    2300474: rounded-sm 141
+    2300476: rounded-sm 142
+    2300478: rounded-sm 143
+    2300480: rounded-sm 144
+    2300482: rounded-sm 145
+    2300484: rounded-sm 146
+    2300486: rounded-sm 147
+    2300488: rounded-sm 148
+    2300490: rounded-sm 149
+    2300492: rounded-sm 15
+    2300494: rounded-sm 150
+    2300496: rounded-sm 151
+    2300498: rounded-sm 152
+    2300500: rounded-sm 153
+    2300502: rounded-sm 154
+    2300504: rounded-sm 155
+    2300506: rounded-sm 156
+    2300508: rounded-sm 157
+    2300510: rounded-sm 158
+    2300512: rounded-sm 159
+    2300514: rounded-sm 16
+    2300516: rounded-sm 160
+    2300518: rounded-sm 161
+    2300520: rounded-sm 162
+    2300522: rounded-sm 163
+    2300524: rounded-sm 164
+    2300526: rounded-sm 165
+    2300528: rounded-sm 166
+    2300530: rounded-sm 167
+    2300532: rounded-sm 168
+    2300534: rounded-sm 169
+    2300536: rounded-sm 17
+    2300538: rounded-sm 170
+    2300540: rounded-sm 171
+    2300542: rounded-sm 172
+    2300544: rounded-sm 173
+    2300546: rounded-sm 174
+    2300548: rounded-sm 175
+    2300550: rounded-sm 176
+    2300552: rounded-sm 177
+    2300554: rounded-sm 18
+    2300556: rounded-sm 19
+    2300558: rounded-sm 2
+    2300560: rounded-sm 20
+    2300562: rounded-sm 21
+    2300564: rounded-sm 22
+    2300566: rounded-sm 23
+    2300568: rounded-sm 24
+    2300570: rounded-sm 25
+    2300572: rounded-sm 26
+    2300574: rounded-sm 27
+    2300576: rounded-sm 28
+    2300578: rounded-sm 29
+    2300580: rounded-sm 3
+    2300582: rounded-sm 30
+    2300584: rounded-sm 31
+    2300586: rounded-sm 32
+    2300588: rounded-sm 33
+    2300590: rounded-sm 34
+    2300592: rounded-sm 35
+    2300594: rounded-sm 36
+    2300596: rounded-sm 37
+    2300598: rounded-sm 38
+    2300600: rounded-sm 39
+    2300602: rounded-sm 4
+    2300604: rounded-sm 40
+    2300606: rounded-sm 41
+    2300608: rounded-sm 42
+    2300610: rounded-sm 43
+    2300612: rounded-sm 44
+    2300614: rounded-sm 45
+    2300616: rounded-sm 46
+    2300618: rounded-sm 47
+    2300620: rounded-sm 48
+    2300622: rounded-sm 49
+    2300624: rounded-sm 5
+    2300626: rounded-sm 50
+    2300628: rounded-sm 51
+    2300630: rounded-sm 52
+    2300632: rounded-sm 53
+    2300634: rounded-sm 54
+    2300636: rounded-sm 55
+    2300638: rounded-sm 56
+    2300640: rounded-sm 57
+    2300642: rounded-sm 58
+    2300644: rounded-sm 59
+    2300646: rounded-sm 6
+    2300648: rounded-sm 60
+    2300650: rounded-sm 61
+    2300652: rounded-sm 62
+    2300654: rounded-sm 63
+    2300656: rounded-sm 64
+    2300658: rounded-sm 65
+    2300660: rounded-sm 66
+    2300662: rounded-sm 67
+    2300664: rounded-sm 68
+    2300666: rounded-sm 69
+    2300668: rounded-sm 7
+    2300670: rounded-sm 70
+    2300672: rounded-sm 71
+    2300674: rounded-sm 72
+    2300676: rounded-sm 73
+    2300678: rounded-sm 74
+    2300680: rounded-sm 75
+    2300682: rounded-sm 76
+    2300684: rounded-sm 77
+    2300686: rounded-sm 78
+    2300688: rounded-sm 79
+    2300690: rounded-sm 8
+    2300692: rounded-sm 80
+    2300694: rounded-sm 81
+    2300696: rounded-sm 82
+    2300698: rounded-sm 83
+    2300700: rounded-sm 84
+    2300702: rounded-sm 85
+    2300704: rounded-sm 86
+    2300706: rounded-sm 87
+    2300708: rounded-sm 88
+    2300710: rounded-sm 89
+    2300712: rounded-sm 9
+    2300714: rounded-sm 90
+    2300716: rounded-sm 91
+    2300718: rounded-sm 92
+    2300720: rounded-sm 93
+    2300722: rounded-sm 94
+    2300724: rounded-sm 95
+    2300726: rounded-sm 96
+    2300728: rounded-sm 97
+    2300730: rounded-sm 98
+    2300732: rounded-sm 99
+    3300000: 12009_3d_site
+    3300002: conifer-sm
+    3300004: conifer-sm 1
+    3300006: conifer-sm 10
+    3300008: conifer-sm 11
+    3300010: conifer-sm 12
+    3300012: conifer-sm 13
+    3300014: conifer-sm 2
+    3300016: conifer-sm 3
+    3300018: conifer-sm 4
+    3300020: conifer-sm 5
+    3300022: conifer-sm 6
+    3300024: conifer-sm 7
+    3300026: conifer-sm 8
+    3300028: conifer-sm 9
+    3300030: Group 101
+    3300032: Group 103
+    3300034: Group 105
+    3300036: Group 107
+    3300038: Group 109
+    3300040: Group 11
+    3300042: Group 111
+    3300044: Group 113
+    3300046: Group 115
+    3300048: Group 117
+    3300050: Group 119
+    3300052: Group 121
+    3300054: Group 123
+    3300056: Group 125
+    3300058: Group 127
+    3300060: Group 129
+    3300062: Group 13
+    3300064: Group 131
+    3300066: Group 133
+    3300068: Group 135
+    3300070: Group 137
+    3300072: Group 139
+    3300074: Group 141
+    3300076: Group 143
+    3300078: Group 145
+    3300080: Group 147
+    3300082: Group 149
+    3300084: Group 151
+    3300086: Group 153
+    3300088: Group 155
+    3300090: Group 157
+    3300092: Group 159
+    3300094: Group 16
+    3300096: Group 161
+    3300098: Group 163
+    3300100: Group 165
+    3300102: Group 167
+    3300104: Group 169
+    3300106: Group 171
+    3300108: Group 173
+    3300110: Group 175
+    3300112: Group 177
+    3300114: Group 179
+    3300116: Group 18
+    3300118: Group 181
+    3300120: Group 183
+    3300122: Group 185
+    3300124: Group 187
+    3300126: Group 189
+    3300128: Group 191
+    3300130: Group 193
+    3300132: Group 195
+    3300134: Group 198
+    3300136: Group 2
+    3300138: Group 20
+    3300140: Group 200
+    3300142: Group 202
+    3300144: Group 204
+    3300146: Group 206
+    3300148: Group 208
+    3300150: Group 210
+    3300152: Group 212
+    3300154: Group 214
+    3300156: Group 216
+    3300158: Group 218
+    3300160: Group 22
+    3300162: Group 220
+    3300164: Group 222
+    3300166: Group 224
+    3300168: Group 226
+    3300170: Group 228
+    3300172: Group 230
+    3300174: Group 232
+    3300176: Group 234
+    3300178: Group 236
+    3300180: Group 238
+    3300182: Group 24
+    3300184: Group 240
+    3300186: Group 242
+    3300188: Group 244
+    3300190: Group 246
+    3300192: Group 248
+    3300194: Group 250
+    3300196: Group 252
+    3300198: Group 254
+    3300200: Group 256
+    3300202: Group 258
+    3300204: Group 26
+    3300206: Group 260
+    3300208: Group 262
+    3300210: Group 264
+    3300212: Group 266
+    3300214: Group 268
+    3300216: Group 270
+    3300218: Group 272
+    3300220: Group 274
+    3300222: Group 276
+    3300224: Group 278
+    3300226: Group 28
+    3300228: Group 280
+    3300230: Group 282
+    3300232: Group 284
+    3300234: Group 286
+    3300236: Group 288
+    3300238: Group 290
+    3300240: Group 292
+    3300242: Group 294
+    3300244: Group 296
+    3300246: Group 298
+    3300248: Group 30
+    3300250: Group 300
+    3300252: Group 302
+    3300254: Group 304
+    3300256: Group 306
+    3300258: Group 308
+    3300260: Group 310
+    3300262: Group 312
+    3300264: Group 314
+    3300266: Group 316
+    3300268: Group 318
+    3300270: Group 32
+    3300272: Group 320
+    3300274: Group 322
+    3300276: Group 324
+    3300278: Group 326
+    3300280: Group 328
+    3300282: Group 330
+    3300284: Group 332
+    3300286: Group 334
+    3300288: Group 336
+    3300290: Group 338
+    3300292: Group 34
+    3300294: Group 340
+    3300296: Group 342
+    3300298: Group 344
+    3300300: Group 346
+    3300302: Group 348
+    3300304: Group 350
+    3300306: Group 352
+    3300308: Group 354
+    3300310: Group 356
+    3300312: Group 358
+    3300314: Group 36
+    3300316: Group 39
+    3300318: Group 41
+    3300320: Group 43
+    3300322: Group 45
+    3300324: Group 47
+    3300326: Group 49
+    3300328: Group 51
+    3300330: Group 53
+    3300332: Group 55
+    3300334: Group 57
+    3300336: Group 59
+    3300338: Group 61
+    3300340: Group 63
+    3300342: Group 66
+    3300344: Group 68
+    3300346: Group 70
+    3300348: Group 72
+    3300350: Group 74
+    3300352: Group 76
+    3300354: Group 78
+    3300356: Group 80
+    3300358: Group 82
+    3300360: Group 84
+    3300362: Group 86
+    3300364: Group 88
+    3300366: Group 91
+    3300368: Group 93
+    3300370: Group 95
+    3300372: Group 97
+    3300374: Group 99
+    3300376: Image 1
+    3300378: rounded-sm
+    3300380: rounded-sm 1
+    3300382: rounded-sm 10
+    3300384: rounded-sm 100
+    3300386: rounded-sm 101
+    3300388: rounded-sm 102
+    3300390: rounded-sm 103
+    3300392: rounded-sm 104
+    3300394: rounded-sm 105
+    3300396: rounded-sm 106
+    3300398: rounded-sm 107
+    3300400: rounded-sm 108
+    3300402: rounded-sm 109
+    3300404: rounded-sm 11
+    3300406: rounded-sm 110
+    3300408: rounded-sm 111
+    3300410: rounded-sm 112
+    3300412: rounded-sm 113
+    3300414: rounded-sm 114
+    3300416: rounded-sm 115
+    3300418: rounded-sm 116
+    3300420: rounded-sm 117
+    3300422: rounded-sm 118
+    3300424: rounded-sm 119
+    3300426: rounded-sm 12
+    3300428: rounded-sm 120
+    3300430: rounded-sm 121
+    3300432: rounded-sm 122
+    3300434: rounded-sm 123
+    3300436: rounded-sm 124
+    3300438: rounded-sm 125
+    3300440: rounded-sm 126
+    3300442: rounded-sm 127
+    3300444: rounded-sm 128
+    3300446: rounded-sm 129
+    3300448: rounded-sm 13
+    3300450: rounded-sm 130
+    3300452: rounded-sm 131
+    3300454: rounded-sm 132
+    3300456: rounded-sm 133
+    3300458: rounded-sm 134
+    3300460: rounded-sm 135
+    3300462: rounded-sm 136
+    3300464: rounded-sm 137
+    3300466: rounded-sm 138
+    3300468: rounded-sm 139
+    3300470: rounded-sm 14
+    3300472: rounded-sm 140
+    3300474: rounded-sm 141
+    3300476: rounded-sm 142
+    3300478: rounded-sm 143
+    3300480: rounded-sm 144
+    3300482: rounded-sm 145
+    3300484: rounded-sm 146
+    3300486: rounded-sm 147
+    3300488: rounded-sm 148
+    3300490: rounded-sm 149
+    3300492: rounded-sm 15
+    3300494: rounded-sm 150
+    3300496: rounded-sm 151
+    3300498: rounded-sm 152
+    3300500: rounded-sm 153
+    3300502: rounded-sm 154
+    3300504: rounded-sm 155
+    3300506: rounded-sm 156
+    3300508: rounded-sm 157
+    3300510: rounded-sm 158
+    3300512: rounded-sm 159
+    3300514: rounded-sm 16
+    3300516: rounded-sm 160
+    3300518: rounded-sm 161
+    3300520: rounded-sm 162
+    3300522: rounded-sm 163
+    3300524: rounded-sm 164
+    3300526: rounded-sm 165
+    3300528: rounded-sm 166
+    3300530: rounded-sm 167
+    3300532: rounded-sm 168
+    3300534: rounded-sm 169
+    3300536: rounded-sm 17
+    3300538: rounded-sm 170
+    3300540: rounded-sm 171
+    3300542: rounded-sm 172
+    3300544: rounded-sm 173
+    3300546: rounded-sm 174
+    3300548: rounded-sm 175
+    3300550: rounded-sm 176
+    3300552: rounded-sm 177
+    3300554: rounded-sm 18
+    3300556: rounded-sm 19
+    3300558: rounded-sm 2
+    3300560: rounded-sm 20
+    3300562: rounded-sm 21
+    3300564: rounded-sm 22
+    3300566: rounded-sm 23
+    3300568: rounded-sm 24
+    3300570: rounded-sm 25
+    3300572: rounded-sm 26
+    3300574: rounded-sm 27
+    3300576: rounded-sm 28
+    3300578: rounded-sm 29
+    3300580: rounded-sm 3
+    3300582: rounded-sm 30
+    3300584: rounded-sm 31
+    3300586: rounded-sm 32
+    3300588: rounded-sm 33
+    3300590: rounded-sm 34
+    3300592: rounded-sm 35
+    3300594: rounded-sm 36
+    3300596: rounded-sm 37
+    3300598: rounded-sm 38
+    3300600: rounded-sm 39
+    3300602: rounded-sm 4
+    3300604: rounded-sm 40
+    3300606: rounded-sm 41
+    3300608: rounded-sm 42
+    3300610: rounded-sm 43
+    3300612: rounded-sm 44
+    3300614: rounded-sm 45
+    3300616: rounded-sm 46
+    3300618: rounded-sm 47
+    3300620: rounded-sm 48
+    3300622: rounded-sm 49
+    3300624: rounded-sm 5
+    3300626: rounded-sm 50
+    3300628: rounded-sm 51
+    3300630: rounded-sm 52
+    3300632: rounded-sm 53
+    3300634: rounded-sm 54
+    3300636: rounded-sm 55
+    3300638: rounded-sm 56
+    3300640: rounded-sm 57
+    3300642: rounded-sm 58
+    3300644: rounded-sm 59
+    3300646: rounded-sm 6
+    3300648: rounded-sm 60
+    3300650: rounded-sm 61
+    3300652: rounded-sm 62
+    3300654: rounded-sm 63
+    3300656: rounded-sm 64
+    3300658: rounded-sm 65
+    3300660: rounded-sm 66
+    3300662: rounded-sm 67
+    3300664: rounded-sm 68
+    3300666: rounded-sm 69
+    3300668: rounded-sm 7
+    3300670: rounded-sm 70
+    3300672: rounded-sm 71
+    3300674: rounded-sm 72
+    3300676: rounded-sm 73
+    3300678: rounded-sm 74
+    3300680: rounded-sm 75
+    3300682: rounded-sm 76
+    3300684: rounded-sm 77
+    3300686: rounded-sm 78
+    3300688: rounded-sm 79
+    3300690: rounded-sm 8
+    3300692: rounded-sm 80
+    3300694: rounded-sm 81
+    3300696: rounded-sm 82
+    3300698: rounded-sm 83
+    3300700: rounded-sm 84
+    3300702: rounded-sm 85
+    3300704: rounded-sm 86
+    3300706: rounded-sm 87
+    3300708: rounded-sm 88
+    3300710: rounded-sm 89
+    3300712: rounded-sm 9
+    3300714: rounded-sm 90
+    3300716: rounded-sm 91
+    3300718: rounded-sm 92
+    3300720: rounded-sm 93
+    3300722: rounded-sm 94
+    3300724: rounded-sm 95
+    3300726: rounded-sm 96
+    3300728: rounded-sm 97
+    3300730: rounded-sm 98
+    3300732: rounded-sm 99
+    4300000: Mesh 12009-00
+    4300002: Mesh Group 2
+    4300004: Mesh 12009_3d_site
+    4300006: Mesh Group 11
+    4300008: Mesh Group 16
+    4300010: Mesh Group 18
+    4300012: Mesh Group 20
+    4300014: Mesh Group 22
+    4300016: Mesh Group 24
+    4300018: Mesh Group 26
+    4300020: Mesh Group 28
+    4300022: Mesh Group 30
+    4300024: Mesh Group 32
+    4300026: Mesh Group 34
+    4300028: Mesh Group 36
+    4300030: Mesh Group 53
+    4300032: Mesh Group 57
+    4300034: Mesh Group 61
+    4300036: Mesh Group 63
+    4300038: Mesh Group 80
+    4300040: Mesh Group 82
+    4300042: Mesh Group 84
+    4300044: Mesh Group 86
+    4300046: Mesh Group 88
+    4300048: Mesh Group 105
+    4300050: Mesh Group 107
+    4300052: Mesh Group 109
+    4300054: Mesh Group 111
+    4300056: Mesh Group 113
+    4300058: Mesh Group 115
+    4300060: Mesh Group 117
+    4300062: Mesh Group 119
+    4300064: Mesh Group 121
+    4300066: Mesh Group 123
+    4300068: Mesh Group 125
+    4300070: Mesh Group 127
+    4300072: Mesh Group 129
+    4300074: Mesh Group 131
+    4300076: Mesh Group 133
+    4300078: Mesh Group 135
+    4300080: Mesh Group 137
+    4300082: Mesh Group 139
+    4300084: Mesh Group 141
+    4300086: Mesh Group 143
+    4300088: Mesh Group 155
+    4300090: Mesh Group 157
+    4300092: Mesh Group 159
+    4300094: Mesh Group 173
+    4300096: Mesh Group 175
+    4300098: Mesh Group 187
+    4300100: Mesh Group 189
+    4300102: Mesh Group 191
+    4300104: Mesh Group 195
+    4300106: Mesh Group 198
+    4300108: Mesh Group 200
+    4300110: Mesh Group 202
+    4300112: Mesh Group 204
+    4300114: Mesh Group 206
+    4300116: Mesh Group 208
+    4300118: Mesh Group 210
+    4300120: Mesh Group 212
+    4300122: Mesh Group 214
+    4300124: Mesh Group 216
+    4300126: Mesh Group 218
+    4300128: Mesh Group 220
+    4300130: Mesh Group 222
+    4300132: Mesh Group 224
+    4300134: Mesh Group 226
+    4300136: Mesh Group 228
+    4300138: Mesh Group 230
+    4300140: Mesh Group 232
+    4300142: Mesh Group 234
+    4300144: Mesh Group 236
+    4300146: Mesh Group 238
+    4300148: Mesh Group 240
+    4300150: Mesh Group 242
+    4300152: Mesh Group 244
+    4300154: Mesh Group 246
+    4300156: Mesh Group 248
+    4300158: Mesh Group 250
+    4300160: Mesh Group 252
+    4300162: Mesh Group 254
+    4300164: Mesh Group 256
+    4300166: Mesh Group 258
+    4300168: Mesh Group 260
+    4300170: Mesh Group 262
+    4300172: Mesh Group 264
+    4300174: Mesh Group 266
+    4300176: Mesh Group 268
+    4300178: Mesh Group 270
+    4300180: Mesh Group 272
+    4300182: Mesh Group 274
+    4300184: Mesh Group 276
+    4300186: Mesh Group 278
+    4300188: Mesh Group 280
+    4300190: Mesh Group 282
+    4300192: Mesh Group 284
+    4300194: Mesh Group 286
+    4300196: Mesh Group 288
+    4300198: Mesh Group 290
+    4300200: Mesh Group 292
+    4300202: Mesh Group 294
+    4300204: Mesh Group 296
+    4300206: Mesh Group 298
+    4300208: Mesh Group 300
+    4300210: Mesh Group 302
+    4300212: Mesh Group 304
+    4300214: Mesh Group 306
+    4300216: Mesh Group 308
+    4300218: Mesh Group 310
+    4300220: Mesh Group 312
+    4300222: Mesh Group 314
+    4300224: Mesh Group 316
+    4300226: Mesh Group 318
+    4300228: Mesh Group 320
+    4300230: Mesh Group 322
+    4300232: Mesh Group 324
+    4300234: Mesh Group 326
+    4300236: Mesh Group 328
+    4300238: Mesh Group 330
+    4300240: Mesh Group 332
+    4300242: Mesh Group 334
+    4300244: Mesh Group 336
+    4300246: Mesh Group 338
+    4300248: Mesh Group 340
+    4300250: Mesh Group 342
+    4300252: Mesh Group 344
+    4300254: Mesh Group 346
+    4300256: Mesh Group 350
+    4300258: Mesh Group 356
+    4300260: Mesh Group 358
+    4300262: Mesh rounded-sm
+    4300264: Mesh conifer-sm
+    6400000: 12009_3d_site
+    6400002: conifer-sm
+    6400004: conifer-sm 1
+    6400006: conifer-sm 10
+    6400008: conifer-sm 11
+    6400010: conifer-sm 12
+    6400012: conifer-sm 13
+    6400014: conifer-sm 2
+    6400016: conifer-sm 3
+    6400018: conifer-sm 4
+    6400020: conifer-sm 5
+    6400022: conifer-sm 6
+    6400024: conifer-sm 7
+    6400026: conifer-sm 8
+    6400028: conifer-sm 9
+    6400030: Group 101
+    6400032: Group 103
+    6400034: Group 105
+    6400036: Group 107
+    6400038: Group 109
+    6400040: Group 11
+    6400042: Group 111
+    6400044: Group 113
+    6400046: Group 115
+    6400048: Group 117
+    6400050: Group 119
+    6400052: Group 121
+    6400054: Group 123
+    6400056: Group 125
+    6400058: Group 127
+    6400060: Group 129
+    6400062: Group 13
+    6400064: Group 131
+    6400066: Group 133
+    6400068: Group 135
+    6400070: Group 137
+    6400072: Group 139
+    6400074: Group 141
+    6400076: Group 143
+    6400078: Group 145
+    6400080: Group 147
+    6400082: Group 149
+    6400084: Group 151
+    6400086: Group 153
+    6400088: Group 155
+    6400090: Group 157
+    6400092: Group 159
+    6400094: Group 16
+    6400096: Group 161
+    6400098: Group 163
+    6400100: Group 165
+    6400102: Group 167
+    6400104: Group 169
+    6400106: Group 171
+    6400108: Group 173
+    6400110: Group 175
+    6400112: Group 177
+    6400114: Group 179
+    6400116: Group 18
+    6400118: Group 181
+    6400120: Group 183
+    6400122: Group 185
+    6400124: Group 187
+    6400126: Group 189
+    6400128: Group 191
+    6400130: Group 193
+    6400132: Group 195
+    6400134: Group 198
+    6400136: Group 2
+    6400138: Group 20
+    6400140: Group 200
+    6400142: Group 202
+    6400144: Group 204
+    6400146: Group 206
+    6400148: Group 208
+    6400150: Group 210
+    6400152: Group 212
+    6400154: Group 214
+    6400156: Group 216
+    6400158: Group 218
+    6400160: Group 22
+    6400162: Group 220
+    6400164: Group 222
+    6400166: Group 224
+    6400168: Group 226
+    6400170: Group 228
+    6400172: Group 230
+    6400174: Group 232
+    6400176: Group 234
+    6400178: Group 236
+    6400180: Group 238
+    6400182: Group 24
+    6400184: Group 240
+    6400186: Group 242
+    6400188: Group 244
+    6400190: Group 246
+    6400192: Group 248
+    6400194: Group 250
+    6400196: Group 252
+    6400198: Group 254
+    6400200: Group 256
+    6400202: Group 258
+    6400204: Group 26
+    6400206: Group 260
+    6400208: Group 262
+    6400210: Group 264
+    6400212: Group 266
+    6400214: Group 268
+    6400216: Group 270
+    6400218: Group 272
+    6400220: Group 274
+    6400222: Group 276
+    6400224: Group 278
+    6400226: Group 28
+    6400228: Group 280
+    6400230: Group 282
+    6400232: Group 284
+    6400234: Group 286
+    6400236: Group 288
+    6400238: Group 290
+    6400240: Group 292
+    6400242: Group 294
+    6400244: Group 296
+    6400246: Group 298
+    6400248: Group 30
+    6400250: Group 300
+    6400252: Group 302
+    6400254: Group 304
+    6400256: Group 306
+    6400258: Group 308
+    6400260: Group 310
+    6400262: Group 312
+    6400264: Group 314
+    6400266: Group 316
+    6400268: Group 318
+    6400270: Group 32
+    6400272: Group 320
+    6400274: Group 322
+    6400276: Group 324
+    6400278: Group 326
+    6400280: Group 328
+    6400282: Group 330
+    6400284: Group 332
+    6400286: Group 334
+    6400288: Group 336
+    6400290: Group 338
+    6400292: Group 34
+    6400294: Group 340
+    6400296: Group 342
+    6400298: Group 344
+    6400300: Group 346
+    6400302: Group 348
+    6400304: Group 350
+    6400306: Group 352
+    6400308: Group 354
+    6400310: Group 356
+    6400312: Group 358
+    6400314: Group 36
+    6400316: Group 39
+    6400318: Group 41
+    6400320: Group 43
+    6400322: Group 45
+    6400324: Group 47
+    6400326: Group 49
+    6400328: Group 51
+    6400330: Group 53
+    6400332: Group 55
+    6400334: Group 57
+    6400336: Group 59
+    6400338: Group 61
+    6400340: Group 63
+    6400342: Group 66
+    6400344: Group 68
+    6400346: Group 70
+    6400348: Group 72
+    6400350: Group 74
+    6400352: Group 76
+    6400354: Group 78
+    6400356: Group 80
+    6400358: Group 82
+    6400360: Group 84
+    6400362: Group 86
+    6400364: Group 88
+    6400366: Group 91
+    6400368: Group 93
+    6400370: Group 95
+    6400372: Group 97
+    6400374: Group 99
+    6400376: Image 1
+    6400378: rounded-sm
+    6400380: rounded-sm 1
+    6400382: rounded-sm 10
+    6400384: rounded-sm 100
+    6400386: rounded-sm 101
+    6400388: rounded-sm 102
+    6400390: rounded-sm 103
+    6400392: rounded-sm 104
+    6400394: rounded-sm 105
+    6400396: rounded-sm 106
+    6400398: rounded-sm 107
+    6400400: rounded-sm 108
+    6400402: rounded-sm 109
+    6400404: rounded-sm 11
+    6400406: rounded-sm 110
+    6400408: rounded-sm 111
+    6400410: rounded-sm 112
+    6400412: rounded-sm 113
+    6400414: rounded-sm 114
+    6400416: rounded-sm 115
+    6400418: rounded-sm 116
+    6400420: rounded-sm 117
+    6400422: rounded-sm 118
+    6400424: rounded-sm 119
+    6400426: rounded-sm 12
+    6400428: rounded-sm 120
+    6400430: rounded-sm 121
+    6400432: rounded-sm 122
+    6400434: rounded-sm 123
+    6400436: rounded-sm 124
+    6400438: rounded-sm 125
+    6400440: rounded-sm 126
+    6400442: rounded-sm 127
+    6400444: rounded-sm 128
+    6400446: rounded-sm 129
+    6400448: rounded-sm 13
+    6400450: rounded-sm 130
+    6400452: rounded-sm 131
+    6400454: rounded-sm 132
+    6400456: rounded-sm 133
+    6400458: rounded-sm 134
+    6400460: rounded-sm 135
+    6400462: rounded-sm 136
+    6400464: rounded-sm 137
+    6400466: rounded-sm 138
+    6400468: rounded-sm 139
+    6400470: rounded-sm 14
+    6400472: rounded-sm 140
+    6400474: rounded-sm 141
+    6400476: rounded-sm 142
+    6400478: rounded-sm 143
+    6400480: rounded-sm 144
+    6400482: rounded-sm 145
+    6400484: rounded-sm 146
+    6400486: rounded-sm 147
+    6400488: rounded-sm 148
+    6400490: rounded-sm 149
+    6400492: rounded-sm 15
+    6400494: rounded-sm 150
+    6400496: rounded-sm 151
+    6400498: rounded-sm 152
+    6400500: rounded-sm 153
+    6400502: rounded-sm 154
+    6400504: rounded-sm 155
+    6400506: rounded-sm 156
+    6400508: rounded-sm 157
+    6400510: rounded-sm 158
+    6400512: rounded-sm 159
+    6400514: rounded-sm 16
+    6400516: rounded-sm 160
+    6400518: rounded-sm 161
+    6400520: rounded-sm 162
+    6400522: rounded-sm 163
+    6400524: rounded-sm 164
+    6400526: rounded-sm 165
+    6400528: rounded-sm 166
+    6400530: rounded-sm 167
+    6400532: rounded-sm 168
+    6400534: rounded-sm 169
+    6400536: rounded-sm 17
+    6400538: rounded-sm 170
+    6400540: rounded-sm 171
+    6400542: rounded-sm 172
+    6400544: rounded-sm 173
+    6400546: rounded-sm 174
+    6400548: rounded-sm 175
+    6400550: rounded-sm 176
+    6400552: rounded-sm 177
+    6400554: rounded-sm 18
+    6400556: rounded-sm 19
+    6400558: rounded-sm 2
+    6400560: rounded-sm 20
+    6400562: rounded-sm 21
+    6400564: rounded-sm 22
+    6400566: rounded-sm 23
+    6400568: rounded-sm 24
+    6400570: rounded-sm 25
+    6400572: rounded-sm 26
+    6400574: rounded-sm 27
+    6400576: rounded-sm 28
+    6400578: rounded-sm 29
+    6400580: rounded-sm 3
+    6400582: rounded-sm 30
+    6400584: rounded-sm 31
+    6400586: rounded-sm 32
+    6400588: rounded-sm 33
+    6400590: rounded-sm 34
+    6400592: rounded-sm 35
+    6400594: rounded-sm 36
+    6400596: rounded-sm 37
+    6400598: rounded-sm 38
+    6400600: rounded-sm 39
+    6400602: rounded-sm 4
+    6400604: rounded-sm 40
+    6400606: rounded-sm 41
+    6400608: rounded-sm 42
+    6400610: rounded-sm 43
+    6400612: rounded-sm 44
+    6400614: rounded-sm 45
+    6400616: rounded-sm 46
+    6400618: rounded-sm 47
+    6400620: rounded-sm 48
+    6400622: rounded-sm 49
+    6400624: rounded-sm 5
+    6400626: rounded-sm 50
+    6400628: rounded-sm 51
+    6400630: rounded-sm 52
+    6400632: rounded-sm 53
+    6400634: rounded-sm 54
+    6400636: rounded-sm 55
+    6400638: rounded-sm 56
+    6400640: rounded-sm 57
+    6400642: rounded-sm 58
+    6400644: rounded-sm 59
+    6400646: rounded-sm 6
+    6400648: rounded-sm 60
+    6400650: rounded-sm 61
+    6400652: rounded-sm 62
+    6400654: rounded-sm 63
+    6400656: rounded-sm 64
+    6400658: rounded-sm 65
+    6400660: rounded-sm 66
+    6400662: rounded-sm 67
+    6400664: rounded-sm 68
+    6400666: rounded-sm 69
+    6400668: rounded-sm 7
+    6400670: rounded-sm 70
+    6400672: rounded-sm 71
+    6400674: rounded-sm 72
+    6400676: rounded-sm 73
+    6400678: rounded-sm 74
+    6400680: rounded-sm 75
+    6400682: rounded-sm 76
+    6400684: rounded-sm 77
+    6400686: rounded-sm 78
+    6400688: rounded-sm 79
+    6400690: rounded-sm 8
+    6400692: rounded-sm 80
+    6400694: rounded-sm 81
+    6400696: rounded-sm 82
+    6400698: rounded-sm 83
+    6400700: rounded-sm 84
+    6400702: rounded-sm 85
+    6400704: rounded-sm 86
+    6400706: rounded-sm 87
+    6400708: rounded-sm 88
+    6400710: rounded-sm 89
+    6400712: rounded-sm 9
+    6400714: rounded-sm 90
+    6400716: rounded-sm 91
+    6400718: rounded-sm 92
+    6400720: rounded-sm 93
+    6400722: rounded-sm 94
+    6400724: rounded-sm 95
+    6400726: rounded-sm 96
+    6400728: rounded-sm 97
+    6400730: rounded-sm 98
+    6400732: rounded-sm 99
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 401af104fedcda5468849bad329d6e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: aab018cb0ce536c4b8f4e63e59f81982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: dbcc126a882e55a418705f8bc3f17050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 2cd485e47d68125478cbbf8b34a8ddcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: d79e91fe5e1020b4c888ec4b6743869f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving general
+    second: {fileID: 2100000, guid: 1e6eca8ee6c1e854f9913d93d09ad538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 920feaa83394fbb4eb17ff68f303c02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 074ec50a97175c24fa62829322a4a96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 74f570a72ec8b3b4ba8c539bb2ddbd2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: e81232d2da5cbe74ebf41e057baaa08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 5984d0191be168a45a8add2785ae6466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 0e8a29f2ea58918468c9b4fae1c9ab58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 96a4f1a73bab6ab40a3208848b3a3ad9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

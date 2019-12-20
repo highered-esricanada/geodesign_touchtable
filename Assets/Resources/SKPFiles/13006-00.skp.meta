@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 569dd4a82bee6314bb1d673e681dadca
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f00000050000000510000005200000054000000550000005600000057000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006200000063000000650000006600000067000000680000006a0000006b0000006d0000006e0000007000000071000000720000007300000074000000750000007600000077000000790000007a0000007b0000007c0000007e0000007f00000080000000810000008300000084000000850000008600000088000000890000008a0000008b0000008d0000008e000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009d0000009e0000009f000000a0000000a2000000a3000000a5000000a6000000a8000000a9000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b4000000b5000000b7000000b8000000ba000000bb000000bd000000be000000c0000000c1000000c3000000c4000000c6000000c7000000c8000000c9000000ca000000cb000000cd000000ce000000d0000000d1000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8bf141b8175df322fbc48f2a1ab2c843
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 117.26862, y: 73.96798, z: -189.61212}
+      lookAt: {x: 84.63504, y: 50.37939, z: -144.73921}
+      up: {x: -0.23011544, y: 0.9202851, z: 0.31642097}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 117.26862, y: 73.96798, z: -189.61212}
+        lookAt: {x: 84.63504, y: 50.37939, z: -144.73921}
+        up: {x: -0.23011544, y: 0.9202851, z: 0.31642097}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -4.085559, y: 210.49057, z: -6.0532427}
+        lookAt: {x: -4.085559, y: -30646.297, z: -6.0532427}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 9165.282
+        isPerspective: 0
+      name: plan_ov
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 11003_3d_site
+    100002: //RootNode
+    100004: bulbtree-lg
+    100006: bulbtree-lg 1
+    100008: bulbtree-lg 2
+    100010: bulbtree-lg 3
+    100012: bulbtree-lg 4
+    100014: bulbtree-med
+    100016: columnar-med
+    100018: conical-med
+    100020: conical-med 1
+    100022: conical-sm
+    100024: conical-sm 1
+    100026: conifer-med
+    100028: conifer-med 1
+    100030: conifer-med 2
+    100032: conifer-med 3
+    100034: conifer-med 4
+    100036: conifer-med 5
+    100038: conifer-sm
+    100040: conifer-sm 1
+    100042: conifer-sm 10
+    100044: conifer-sm 2
+    100046: conifer-sm 3
+    100048: conifer-sm 4
+    100050: conifer-sm 5
+    100052: conifer-sm 6
+    100054: conifer-sm 7
+    100056: conifer-sm 8
+    100058: conifer-sm 9
+    100060: Group 11
+    100062: Group 13
+    100064: Group 15
+    100066: Group 17
+    100068: Group 19
+    100070: Group 21
+    100072: Group 23
+    100074: Group 25
+    100076: Group 26
+    100078: Group 28
+    100080: Group 30
+    100082: Group 32
+    100084: Group 34
+    100086: Group 36
+    100088: Group 38
+    100090: Group 40
+    100092: Group 42
+    100094: Group 44
+    100096: Group 46
+    100098: Group 48
+    100100: Group 50
+    100102: Group 52
+    100104: Group 54
+    100106: Group 56
+    100108: Group 58
+    100110: Group 60
+    100112: Group 62
+    100114: Group 64
+    100116: Group 66
+    100118: Group 68
+    100120: Group 70
+    100122: Group 72
+    100124: Group 74
+    100126: Group 75
+    100128: Group 77
+    100130: Image 1
+    100132: Image 166
+    100134: plan_border
+    100136: rounded-lg
+    100138: rounded-lg 1
+    100140: rounded-lg 10
+    100142: rounded-lg 11
+    100144: rounded-lg 12
+    100146: rounded-lg 13
+    100148: rounded-lg 2
+    100150: rounded-lg 3
+    100152: rounded-lg 4
+    100154: rounded-lg 5
+    100156: rounded-lg 6
+    100158: rounded-lg 7
+    100160: rounded-lg 8
+    100162: rounded-lg 9
+    100164: rounded-lg#1
+    100166: rounded-lg#1 1
+    100168: rounded-lg#1 10
+    100170: rounded-lg#1 11
+    100172: rounded-lg#1 12
+    100174: rounded-lg#1 13
+    100176: rounded-lg#1 14
+    100178: rounded-lg#1 15
+    100180: rounded-lg#1 16
+    100182: rounded-lg#1 17
+    100184: rounded-lg#1 18
+    100186: rounded-lg#1 19
+    100188: rounded-lg#1 2
+    100190: rounded-lg#1 20
+    100192: rounded-lg#1 21
+    100194: rounded-lg#1 22
+    100196: rounded-lg#1 23
+    100198: rounded-lg#1 24
+    100200: rounded-lg#1 3
+    100202: rounded-lg#1 4
+    100204: rounded-lg#1 5
+    100206: rounded-lg#1 6
+    100208: rounded-lg#1 7
+    100210: rounded-lg#1 8
+    100212: rounded-lg#1 9
+    100214: rounded-med
+    100216: rounded-med 1
+    100218: rounded-med 2
+    100220: rounded-med 3
+    100222: rounded-med 4
+    100224: rounded-med 5
+    100226: rounded-med#1
+    100228: rounded-med#1 1
+    100230: rounded-med#1 2
+    100232: rounded-med#1 3
+    100234: rounded-sm
+    100236: rounded-sm 1
+    100238: rounded-sm 10
+    100240: rounded-sm 11
+    100242: rounded-sm 12
+    100244: rounded-sm 13
+    100246: rounded-sm 14
+    100248: rounded-sm 15
+    100250: rounded-sm 16
+    100252: rounded-sm 17
+    100254: rounded-sm 18
+    100256: rounded-sm 2
+    100258: rounded-sm 3
+    100260: rounded-sm 4
+    100262: rounded-sm 5
+    100264: rounded-sm 6
+    100266: rounded-sm 7
+    100268: rounded-sm 8
+    100270: rounded-sm 9
+    100272: rounded-sm#1
+    100274: scale_obq
+    400000: 11003_3d_site
+    400002: //RootNode
+    400004: bulbtree-lg
+    400006: bulbtree-lg 1
+    400008: bulbtree-lg 2
+    400010: bulbtree-lg 3
+    400012: bulbtree-lg 4
+    400014: bulbtree-med
+    400016: columnar-med
+    400018: conical-med
+    400020: conical-med 1
+    400022: conical-sm
+    400024: conical-sm 1
+    400026: conifer-med
+    400028: conifer-med 1
+    400030: conifer-med 2
+    400032: conifer-med 3
+    400034: conifer-med 4
+    400036: conifer-med 5
+    400038: conifer-sm
+    400040: conifer-sm 1
+    400042: conifer-sm 10
+    400044: conifer-sm 2
+    400046: conifer-sm 3
+    400048: conifer-sm 4
+    400050: conifer-sm 5
+    400052: conifer-sm 6
+    400054: conifer-sm 7
+    400056: conifer-sm 8
+    400058: conifer-sm 9
+    400060: Group 11
+    400062: Group 13
+    400064: Group 15
+    400066: Group 17
+    400068: Group 19
+    400070: Group 21
+    400072: Group 23
+    400074: Group 25
+    400076: Group 26
+    400078: Group 28
+    400080: Group 30
+    400082: Group 32
+    400084: Group 34
+    400086: Group 36
+    400088: Group 38
+    400090: Group 40
+    400092: Group 42
+    400094: Group 44
+    400096: Group 46
+    400098: Group 48
+    400100: Group 50
+    400102: Group 52
+    400104: Group 54
+    400106: Group 56
+    400108: Group 58
+    400110: Group 60
+    400112: Group 62
+    400114: Group 64
+    400116: Group 66
+    400118: Group 68
+    400120: Group 70
+    400122: Group 72
+    400124: Group 74
+    400126: Group 75
+    400128: Group 77
+    400130: Image 1
+    400132: Image 166
+    400134: plan_border
+    400136: rounded-lg
+    400138: rounded-lg 1
+    400140: rounded-lg 10
+    400142: rounded-lg 11
+    400144: rounded-lg 12
+    400146: rounded-lg 13
+    400148: rounded-lg 2
+    400150: rounded-lg 3
+    400152: rounded-lg 4
+    400154: rounded-lg 5
+    400156: rounded-lg 6
+    400158: rounded-lg 7
+    400160: rounded-lg 8
+    400162: rounded-lg 9
+    400164: rounded-lg#1
+    400166: rounded-lg#1 1
+    400168: rounded-lg#1 10
+    400170: rounded-lg#1 11
+    400172: rounded-lg#1 12
+    400174: rounded-lg#1 13
+    400176: rounded-lg#1 14
+    400178: rounded-lg#1 15
+    400180: rounded-lg#1 16
+    400182: rounded-lg#1 17
+    400184: rounded-lg#1 18
+    400186: rounded-lg#1 19
+    400188: rounded-lg#1 2
+    400190: rounded-lg#1 20
+    400192: rounded-lg#1 21
+    400194: rounded-lg#1 22
+    400196: rounded-lg#1 23
+    400198: rounded-lg#1 24
+    400200: rounded-lg#1 3
+    400202: rounded-lg#1 4
+    400204: rounded-lg#1 5
+    400206: rounded-lg#1 6
+    400208: rounded-lg#1 7
+    400210: rounded-lg#1 8
+    400212: rounded-lg#1 9
+    400214: rounded-med
+    400216: rounded-med 1
+    400218: rounded-med 2
+    400220: rounded-med 3
+    400222: rounded-med 4
+    400224: rounded-med 5
+    400226: rounded-med#1
+    400228: rounded-med#1 1
+    400230: rounded-med#1 2
+    400232: rounded-med#1 3
+    400234: rounded-sm
+    400236: rounded-sm 1
+    400238: rounded-sm 10
+    400240: rounded-sm 11
+    400242: rounded-sm 12
+    400244: rounded-sm 13
+    400246: rounded-sm 14
+    400248: rounded-sm 15
+    400250: rounded-sm 16
+    400252: rounded-sm 17
+    400254: rounded-sm 18
+    400256: rounded-sm 2
+    400258: rounded-sm 3
+    400260: rounded-sm 4
+    400262: rounded-sm 5
+    400264: rounded-sm 6
+    400266: rounded-sm 7
+    400268: rounded-sm 8
+    400270: rounded-sm 9
+    400272: rounded-sm#1
+    400274: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_turf_solid
+    2100010: OV_surface_other
+    2100012: OV_paving_pedestrian
+    2100014: OV_bldg_roof
+    2100016: OV_shrub_solid
+    2100018: OV_Water
+    2100020: OV_bldg_wall
+    2100022: OV_bldg_accent
+    2100024: mapletree
+    2100026: roundedtree
+    2100028: conifertree2
+    2100030: conicaltree1
+    2100032: Material 16
+    2300000: 11003_3d_site
+    2300002: bulbtree-lg
+    2300004: bulbtree-lg 1
+    2300006: bulbtree-lg 2
+    2300008: bulbtree-lg 3
+    2300010: bulbtree-lg 4
+    2300012: bulbtree-med
+    2300014: conical-med
+    2300016: conical-med 1
+    2300018: conical-sm
+    2300020: conical-sm 1
+    2300022: conifer-med
+    2300024: conifer-med 1
+    2300026: conifer-med 2
+    2300028: conifer-med 3
+    2300030: conifer-med 4
+    2300032: conifer-med 5
+    2300034: conifer-sm
+    2300036: conifer-sm 1
+    2300038: conifer-sm 10
+    2300040: conifer-sm 2
+    2300042: conifer-sm 3
+    2300044: conifer-sm 4
+    2300046: conifer-sm 5
+    2300048: conifer-sm 6
+    2300050: conifer-sm 7
+    2300052: conifer-sm 8
+    2300054: conifer-sm 9
+    2300056: Group 11
+    2300058: Group 13
+    2300060: Group 15
+    2300062: Group 17
+    2300064: Group 19
+    2300066: Group 21
+    2300068: Group 23
+    2300070: Group 26
+    2300072: Group 28
+    2300074: Group 30
+    2300076: Group 32
+    2300078: Group 34
+    2300080: Group 36
+    2300082: Group 38
+    2300084: Group 40
+    2300086: Group 42
+    2300088: Group 44
+    2300090: Group 46
+    2300092: Group 48
+    2300094: Group 50
+    2300096: Group 52
+    2300098: Group 54
+    2300100: Group 56
+    2300102: Group 58
+    2300104: Group 60
+    2300106: Group 62
+    2300108: Group 64
+    2300110: Group 66
+    2300112: Group 68
+    2300114: Group 70
+    2300116: Group 72
+    2300118: Group 75
+    2300120: Group 77
+    2300122: Image 1
+    2300124: Image 166
+    2300126: rounded-lg
+    2300128: rounded-lg 1
+    2300130: rounded-lg 10
+    2300132: rounded-lg 11
+    2300134: rounded-lg 12
+    2300136: rounded-lg 13
+    2300138: rounded-lg 2
+    2300140: rounded-lg 3
+    2300142: rounded-lg 4
+    2300144: rounded-lg 5
+    2300146: rounded-lg 6
+    2300148: rounded-lg 7
+    2300150: rounded-lg 8
+    2300152: rounded-lg 9
+    2300154: rounded-lg#1
+    2300156: rounded-lg#1 1
+    2300158: rounded-lg#1 10
+    2300160: rounded-lg#1 11
+    2300162: rounded-lg#1 12
+    2300164: rounded-lg#1 13
+    2300166: rounded-lg#1 14
+    2300168: rounded-lg#1 15
+    2300170: rounded-lg#1 16
+    2300172: rounded-lg#1 17
+    2300174: rounded-lg#1 18
+    2300176: rounded-lg#1 19
+    2300178: rounded-lg#1 2
+    2300180: rounded-lg#1 20
+    2300182: rounded-lg#1 21
+    2300184: rounded-lg#1 22
+    2300186: rounded-lg#1 23
+    2300188: rounded-lg#1 24
+    2300190: rounded-lg#1 3
+    2300192: rounded-lg#1 4
+    2300194: rounded-lg#1 5
+    2300196: rounded-lg#1 6
+    2300198: rounded-lg#1 7
+    2300200: rounded-lg#1 8
+    2300202: rounded-lg#1 9
+    2300204: rounded-med
+    2300206: rounded-med 1
+    2300208: rounded-med 2
+    2300210: rounded-med 3
+    2300212: rounded-med 4
+    2300214: rounded-med 5
+    2300216: rounded-med#1
+    2300218: rounded-med#1 1
+    2300220: rounded-med#1 2
+    2300222: rounded-med#1 3
+    2300224: rounded-sm
+    2300226: rounded-sm 1
+    2300228: rounded-sm 10
+    2300230: rounded-sm 11
+    2300232: rounded-sm 12
+    2300234: rounded-sm 13
+    2300236: rounded-sm 14
+    2300238: rounded-sm 15
+    2300240: rounded-sm 16
+    2300242: rounded-sm 17
+    2300244: rounded-sm 18
+    2300246: rounded-sm 2
+    2300248: rounded-sm 3
+    2300250: rounded-sm 4
+    2300252: rounded-sm 5
+    2300254: rounded-sm 6
+    2300256: rounded-sm 7
+    2300258: rounded-sm 8
+    2300260: rounded-sm 9
+    2300262: rounded-sm#1
+    2300264: scale_obq
+    3300000: 11003_3d_site
+    3300002: bulbtree-lg
+    3300004: bulbtree-lg 1
+    3300006: bulbtree-lg 2
+    3300008: bulbtree-lg 3
+    3300010: bulbtree-lg 4
+    3300012: bulbtree-med
+    3300014: conical-med
+    3300016: conical-med 1
+    3300018: conical-sm
+    3300020: conical-sm 1
+    3300022: conifer-med
+    3300024: conifer-med 1
+    3300026: conifer-med 2
+    3300028: conifer-med 3
+    3300030: conifer-med 4
+    3300032: conifer-med 5
+    3300034: conifer-sm
+    3300036: conifer-sm 1
+    3300038: conifer-sm 10
+    3300040: conifer-sm 2
+    3300042: conifer-sm 3
+    3300044: conifer-sm 4
+    3300046: conifer-sm 5
+    3300048: conifer-sm 6
+    3300050: conifer-sm 7
+    3300052: conifer-sm 8
+    3300054: conifer-sm 9
+    3300056: Group 11
+    3300058: Group 13
+    3300060: Group 15
+    3300062: Group 17
+    3300064: Group 19
+    3300066: Group 21
+    3300068: Group 23
+    3300070: Group 26
+    3300072: Group 28
+    3300074: Group 30
+    3300076: Group 32
+    3300078: Group 34
+    3300080: Group 36
+    3300082: Group 38
+    3300084: Group 40
+    3300086: Group 42
+    3300088: Group 44
+    3300090: Group 46
+    3300092: Group 48
+    3300094: Group 50
+    3300096: Group 52
+    3300098: Group 54
+    3300100: Group 56
+    3300102: Group 58
+    3300104: Group 60
+    3300106: Group 62
+    3300108: Group 64
+    3300110: Group 66
+    3300112: Group 68
+    3300114: Group 70
+    3300116: Group 72
+    3300118: Group 75
+    3300120: Group 77
+    3300122: Image 1
+    3300124: Image 166
+    3300126: rounded-lg
+    3300128: rounded-lg 1
+    3300130: rounded-lg 10
+    3300132: rounded-lg 11
+    3300134: rounded-lg 12
+    3300136: rounded-lg 13
+    3300138: rounded-lg 2
+    3300140: rounded-lg 3
+    3300142: rounded-lg 4
+    3300144: rounded-lg 5
+    3300146: rounded-lg 6
+    3300148: rounded-lg 7
+    3300150: rounded-lg 8
+    3300152: rounded-lg 9
+    3300154: rounded-lg#1
+    3300156: rounded-lg#1 1
+    3300158: rounded-lg#1 10
+    3300160: rounded-lg#1 11
+    3300162: rounded-lg#1 12
+    3300164: rounded-lg#1 13
+    3300166: rounded-lg#1 14
+    3300168: rounded-lg#1 15
+    3300170: rounded-lg#1 16
+    3300172: rounded-lg#1 17
+    3300174: rounded-lg#1 18
+    3300176: rounded-lg#1 19
+    3300178: rounded-lg#1 2
+    3300180: rounded-lg#1 20
+    3300182: rounded-lg#1 21
+    3300184: rounded-lg#1 22
+    3300186: rounded-lg#1 23
+    3300188: rounded-lg#1 24
+    3300190: rounded-lg#1 3
+    3300192: rounded-lg#1 4
+    3300194: rounded-lg#1 5
+    3300196: rounded-lg#1 6
+    3300198: rounded-lg#1 7
+    3300200: rounded-lg#1 8
+    3300202: rounded-lg#1 9
+    3300204: rounded-med
+    3300206: rounded-med 1
+    3300208: rounded-med 2
+    3300210: rounded-med 3
+    3300212: rounded-med 4
+    3300214: rounded-med 5
+    3300216: rounded-med#1
+    3300218: rounded-med#1 1
+    3300220: rounded-med#1 2
+    3300222: rounded-med#1 3
+    3300224: rounded-sm
+    3300226: rounded-sm 1
+    3300228: rounded-sm 10
+    3300230: rounded-sm 11
+    3300232: rounded-sm 12
+    3300234: rounded-sm 13
+    3300236: rounded-sm 14
+    3300238: rounded-sm 15
+    3300240: rounded-sm 16
+    3300242: rounded-sm 17
+    3300244: rounded-sm 18
+    3300246: rounded-sm 2
+    3300248: rounded-sm 3
+    3300250: rounded-sm 4
+    3300252: rounded-sm 5
+    3300254: rounded-sm 6
+    3300256: rounded-sm 7
+    3300258: rounded-sm 8
+    3300260: rounded-sm 9
+    3300262: rounded-sm#1
+    3300264: scale_obq
+    4300000: Mesh 13006-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 11003_3d_site
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 21
+    4300012: Mesh Group 23
+    4300014: Mesh Group 26
+    4300016: Mesh Group 28
+    4300018: Mesh Group 32
+    4300020: Mesh Group 34
+    4300022: Mesh Group 36
+    4300024: Mesh Group 38
+    4300026: Mesh Group 42
+    4300028: Mesh Group 46
+    4300030: Mesh Group 48
+    4300032: Mesh Group 54
+    4300034: Mesh Group 58
+    4300036: Mesh Group 66
+    4300038: Mesh Group 68
+    4300040: Mesh Group 70
+    4300042: Mesh Group 72
+    4300044: Mesh Group 75
+    4300046: Mesh Group 77
+    4300048: Mesh rounded-sm
+    4300050: Mesh bulbtree-lg
+    4300052: Mesh conifer-sm
+    4300054: Mesh rounded-lg
+    4300056: Mesh conifer-med
+    4300058: Mesh conical-med
+    4300060: Mesh conical-sm
+    4300062: Mesh rounded-med
+    4300064: Mesh rounded-sm
+    4300066: Mesh bulbtree-med
+    4300068: Mesh columnar-med
+    4300070: Mesh rounded-sm#1
+    4300072: Mesh rounded-lg#1
+    4300074: Mesh rounded-med#1
+    4300076: Mesh rounded-med#1
+    4300078: Mesh rounded-lg#1
+    6400000: 11003_3d_site
+    6400002: bulbtree-lg
+    6400004: bulbtree-lg 1
+    6400006: bulbtree-lg 2
+    6400008: bulbtree-lg 3
+    6400010: bulbtree-lg 4
+    6400012: bulbtree-med
+    6400014: conical-med
+    6400016: conical-med 1
+    6400018: conical-sm
+    6400020: conical-sm 1
+    6400022: conifer-med
+    6400024: conifer-med 1
+    6400026: conifer-med 2
+    6400028: conifer-med 3
+    6400030: conifer-med 4
+    6400032: conifer-med 5
+    6400034: conifer-sm
+    6400036: conifer-sm 1
+    6400038: conifer-sm 10
+    6400040: conifer-sm 2
+    6400042: conifer-sm 3
+    6400044: conifer-sm 4
+    6400046: conifer-sm 5
+    6400048: conifer-sm 6
+    6400050: conifer-sm 7
+    6400052: conifer-sm 8
+    6400054: conifer-sm 9
+    6400056: Group 11
+    6400058: Group 13
+    6400060: Group 15
+    6400062: Group 17
+    6400064: Group 19
+    6400066: Group 21
+    6400068: Group 23
+    6400070: Group 26
+    6400072: Group 28
+    6400074: Group 30
+    6400076: Group 32
+    6400078: Group 34
+    6400080: Group 36
+    6400082: Group 38
+    6400084: Group 40
+    6400086: Group 42
+    6400088: Group 44
+    6400090: Group 46
+    6400092: Group 48
+    6400094: Group 50
+    6400096: Group 52
+    6400098: Group 54
+    6400100: Group 56
+    6400102: Group 58
+    6400104: Group 60
+    6400106: Group 62
+    6400108: Group 64
+    6400110: Group 66
+    6400112: Group 68
+    6400114: Group 70
+    6400116: Group 72
+    6400118: Group 75
+    6400120: Group 77
+    6400122: Image 1
+    6400124: Image 166
+    6400126: rounded-lg
+    6400128: rounded-lg 1
+    6400130: rounded-lg 10
+    6400132: rounded-lg 11
+    6400134: rounded-lg 12
+    6400136: rounded-lg 13
+    6400138: rounded-lg 2
+    6400140: rounded-lg 3
+    6400142: rounded-lg 4
+    6400144: rounded-lg 5
+    6400146: rounded-lg 6
+    6400148: rounded-lg 7
+    6400150: rounded-lg 8
+    6400152: rounded-lg 9
+    6400154: rounded-lg#1
+    6400156: rounded-lg#1 1
+    6400158: rounded-lg#1 10
+    6400160: rounded-lg#1 11
+    6400162: rounded-lg#1 12
+    6400164: rounded-lg#1 13
+    6400166: rounded-lg#1 14
+    6400168: rounded-lg#1 15
+    6400170: rounded-lg#1 16
+    6400172: rounded-lg#1 17
+    6400174: rounded-lg#1 18
+    6400176: rounded-lg#1 19
+    6400178: rounded-lg#1 2
+    6400180: rounded-lg#1 20
+    6400182: rounded-lg#1 21
+    6400184: rounded-lg#1 22
+    6400186: rounded-lg#1 23
+    6400188: rounded-lg#1 24
+    6400190: rounded-lg#1 3
+    6400192: rounded-lg#1 4
+    6400194: rounded-lg#1 5
+    6400196: rounded-lg#1 6
+    6400198: rounded-lg#1 7
+    6400200: rounded-lg#1 8
+    6400202: rounded-lg#1 9
+    6400204: rounded-med
+    6400206: rounded-med 1
+    6400208: rounded-med 2
+    6400210: rounded-med 3
+    6400212: rounded-med 4
+    6400214: rounded-med 5
+    6400216: rounded-med#1
+    6400218: rounded-med#1 1
+    6400220: rounded-med#1 2
+    6400222: rounded-med#1 3
+    6400224: rounded-sm
+    6400226: rounded-sm 1
+    6400228: rounded-sm 10
+    6400230: rounded-sm 11
+    6400232: rounded-sm 12
+    6400234: rounded-sm 13
+    6400236: rounded-sm 14
+    6400238: rounded-sm 15
+    6400240: rounded-sm 16
+    6400242: rounded-sm 17
+    6400244: rounded-sm 18
+    6400246: rounded-sm 2
+    6400248: rounded-sm 3
+    6400250: rounded-sm 4
+    6400252: rounded-sm 5
+    6400254: rounded-sm 6
+    6400256: rounded-sm 7
+    6400258: rounded-sm 8
+    6400260: rounded-sm 9
+    6400262: rounded-sm#1
+    6400264: scale_obq
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: ffebc224cf9e0a6409d7e9fce7cda024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 3a1f815e0132a294c9ce7ed0cc887cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 16
+    second: {fileID: 2100000, guid: e87fe581cc5e4c044971a6eaf7f658a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water
+    second: {fileID: 2100000, guid: c9b1cbc41f6fac2419f1e8f982396a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 116be606c052af34ba8bf396fd3e7c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: c396a83c9d8e5774998ff5298af8880f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 77d953d2fe3ae0d4dba6a4adb7450b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 800d222d7047aca49988c416b77e8741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 654cc6980652d674eb04b88e61d0c27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 4c38e6fb4aa316640b31b7b27f9ef62d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 63a01fd058a88d94fbbb85ea57a00dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 5adb5c49e01081d43b3d3e518d3f6cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 9727b28fbeb68cd48bda9c5855dbad2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conicaltree1
+    second: {fileID: 2100000, guid: 162bfc937218b5049b697c1859a6e0cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: 300d8304a12ef054f9d3671dee99b179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 200fafc1f5c46794aba316b412e233e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roundedtree
+    second: {fileID: 2100000, guid: 8bd8915f424e2cc4db455bd7bff222be, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

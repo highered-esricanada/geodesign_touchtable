@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: 030deb929e17df3468ef6f7422597306
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000090000000a0000000b0000000c0000000d0000000e000000100000001100000013000000140000001600000017000000190000001a0000001c0000001d0000001f000000200000002200000023000000250000002600000028000000290000002b0000002c0000002e0000002f0000003100000032000000340000003500000037000000380000003a0000003b0000003d0000003e000000400000004100000043000000440000004600000047000000490000004a0000004c0000004d0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff02000000030000
+  assetHash:
+    serializedVersion: 2
+    Hash: 254d83708ff62e20b8fa237b537adb2c
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -92.028534, y: 65.218254, z: -112.760735}
+      lookAt: {x: -6.4447827, y: 13.837321, z: -14.281328}
+      up: {x: 0.24035645, y: 0.9304494, z: 0.27657306}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.1252473, y: 224.42902, z: -1.9612132}
+        lookAt: {x: 0.24172129, y: 16.354841, z: -9.4772415}
+        up: {x: -0.015484787, y: -0.036102656, z: 0.9992281}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 5169.1597
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: -92.028534, y: 65.218254, z: -112.760735}
+        lookAt: {x: -6.4447827, y: 13.837321, z: -14.281328}
+        up: {x: 0.24035645, y: 0.9304494, z: 0.27657306}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: -92.028534, y: 65.218254, z: -112.760735}
+        lookAt: {x: -82.294174, y: 59.37414, z: -101.55961}
+        up: {x: 0.24035645, y: 0.9304494, z: 0.27657306}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 63002_3d_building
+    100004: 63002_3d_site
+    100006: Door_com_double_3.55x2.60
+    100008: Door_com_double_3.55x2.60 1
+    100010: Door_com_double_3.55x2.60 2
+    100012: Door_com_double_3.55x2.60 3
+    100014: Door_plain_1.0x2.1#1
+    100016: Door_plain_1.0x2.1#1 1
+    100018: Door_plain_1.0x2.1#1 2
+    100020: Door_plain_1.0x2.1#1 3
+    100022: Door_plain_1.0x2.1#1 4
+    100024: Door_plain_1.0x2.1#1 5
+    100026: Door_plain_1.0x2.1#1 6
+    100028: Door_plain_1.0x2.1#1 7
+    100030: garage_2.85x2.35#1
+    100032: garage_2.85x2.35#2
+    100034: Image 1
+    100036: scale_obq
+    100038: tree_conifer_M
+    100040: tree_conifer_M 1
+    100042: tree_conifer_M 2
+    100044: tree_conifer_M 3
+    100046: tree_conifer_S
+    100048: tree_conifer_S 1
+    100050: tree_conifer_S 2
+    100052: tree_conifer_S 3
+    100054: tree_conifer_S 4
+    100056: tree_conifer_S 5
+    100058: tree_conifer_S 6
+    100060: tree_round_S
+    100062: tree_round_S 1
+    100064: tree_round_S 10
+    100066: tree_round_S 2
+    100068: tree_round_S 3
+    100070: tree_round_S 4
+    100072: tree_round_S 5
+    100074: tree_round_S 6
+    100076: tree_round_S 7
+    100078: tree_round_S 8
+    100080: tree_round_S 9
+    100082: Window_
+    100084: Window_ 1
+    100086: Window_#1
+    100088: Window_minframe_0.73x0.92
+    100090: Window_minframe_0.73x0.92 1
+    100092: Window_minframe_0.73x0.92 10
+    100094: Window_minframe_0.73x0.92 11
+    100096: Window_minframe_0.73x0.92 12
+    100098: Window_minframe_0.73x0.92 13
+    100100: Window_minframe_0.73x0.92 14
+    100102: Window_minframe_0.73x0.92 15
+    100104: Window_minframe_0.73x0.92 16
+    100106: Window_minframe_0.73x0.92 17
+    100108: Window_minframe_0.73x0.92 18
+    100110: Window_minframe_0.73x0.92 19
+    100112: Window_minframe_0.73x0.92 2
+    100114: Window_minframe_0.73x0.92 20
+    100116: Window_minframe_0.73x0.92 21
+    100118: Window_minframe_0.73x0.92 22
+    100120: Window_minframe_0.73x0.92 23
+    100122: Window_minframe_0.73x0.92 3
+    100124: Window_minframe_0.73x0.92 4
+    100126: Window_minframe_0.73x0.92 5
+    100128: Window_minframe_0.73x0.92 6
+    100130: Window_minframe_0.73x0.92 7
+    100132: Window_minframe_0.73x0.92 8
+    100134: Window_minframe_0.73x0.92 9
+    100136: Window_minframe_0.73x0.92#1
+    100138: Window_minframe_0.73x0.92#2
+    100140: Window_minframe_0.73x0.92#3
+    100142: Window_minframe_0.73x0.92#3 1
+    100144: Window_minframe_0.73x0.92#3 2
+    100146: Window_minframe_0.73x0.92#3 3
+    100148: Window_minframe_0.73x0.92#4
+    100150: Window_minframe_0.73x0.92#4 1
+    100152: Window_minframe_0.73x0.92#5
+    100154: Window_minframe_0.73x0.92#5 1
+    100156: Window_minframe_0.73x0.92#5 2
+    100158: Window_minframe_0.73x0.92#5 3
+    100160: Window_minframe_1.44x1.0
+    100162: Window_minframe_1.44x1.0 1
+    100164: Window_minframe_1.44x1.0 10
+    100166: Window_minframe_1.44x1.0 11
+    100168: Window_minframe_1.44x1.0 12
+    100170: Window_minframe_1.44x1.0 13
+    100172: Window_minframe_1.44x1.0 14
+    100174: Window_minframe_1.44x1.0 15
+    100176: Window_minframe_1.44x1.0 16
+    100178: Window_minframe_1.44x1.0 17
+    100180: Window_minframe_1.44x1.0 18
+    100182: Window_minframe_1.44x1.0 19
+    100184: Window_minframe_1.44x1.0 2
+    100186: Window_minframe_1.44x1.0 20
+    100188: Window_minframe_1.44x1.0 21
+    100190: Window_minframe_1.44x1.0 22
+    100192: Window_minframe_1.44x1.0 23
+    100194: Window_minframe_1.44x1.0 24
+    100196: Window_minframe_1.44x1.0 25
+    100198: Window_minframe_1.44x1.0 26
+    100200: Window_minframe_1.44x1.0 27
+    100202: Window_minframe_1.44x1.0 28
+    100204: Window_minframe_1.44x1.0 29
+    100206: Window_minframe_1.44x1.0 3
+    100208: Window_minframe_1.44x1.0 30
+    100210: Window_minframe_1.44x1.0 31
+    100212: Window_minframe_1.44x1.0 4
+    100214: Window_minframe_1.44x1.0 5
+    100216: Window_minframe_1.44x1.0 6
+    100218: Window_minframe_1.44x1.0 7
+    100220: Window_minframe_1.44x1.0 8
+    100222: Window_minframe_1.44x1.0 9
+    100224: Window_minframe_1.44x1.0#1
+    100226: Window_minframe_1.44x1.0#1 1
+    100228: Window_minframe_1.44x1.0#1 2
+    100230: Window_minframe_1.44x1.0#1 3
+    100232: Window_minframe_triple_2.1x1.0
+    100234: Window_minframe_triple_2.1x1.0 1
+    100236: Window_minframe_triple_2.1x1.0 10
+    100238: Window_minframe_triple_2.1x1.0 100
+    100240: Window_minframe_triple_2.1x1.0 101
+    100242: Window_minframe_triple_2.1x1.0 102
+    100244: Window_minframe_triple_2.1x1.0 103
+    100246: Window_minframe_triple_2.1x1.0 104
+    100248: Window_minframe_triple_2.1x1.0 105
+    100250: Window_minframe_triple_2.1x1.0 106
+    100252: Window_minframe_triple_2.1x1.0 107
+    100254: Window_minframe_triple_2.1x1.0 108
+    100256: Window_minframe_triple_2.1x1.0 109
+    100258: Window_minframe_triple_2.1x1.0 11
+    100260: Window_minframe_triple_2.1x1.0 110
+    100262: Window_minframe_triple_2.1x1.0 111
+    100264: Window_minframe_triple_2.1x1.0 112
+    100266: Window_minframe_triple_2.1x1.0 113
+    100268: Window_minframe_triple_2.1x1.0 114
+    100270: Window_minframe_triple_2.1x1.0 115
+    100272: Window_minframe_triple_2.1x1.0 116
+    100274: Window_minframe_triple_2.1x1.0 117
+    100276: Window_minframe_triple_2.1x1.0 118
+    100278: Window_minframe_triple_2.1x1.0 119
+    100280: Window_minframe_triple_2.1x1.0 12
+    100282: Window_minframe_triple_2.1x1.0 120
+    100284: Window_minframe_triple_2.1x1.0 121
+    100286: Window_minframe_triple_2.1x1.0 122
+    100288: Window_minframe_triple_2.1x1.0 123
+    100290: Window_minframe_triple_2.1x1.0 124
+    100292: Window_minframe_triple_2.1x1.0 125
+    100294: Window_minframe_triple_2.1x1.0 126
+    100296: Window_minframe_triple_2.1x1.0 127
+    100298: Window_minframe_triple_2.1x1.0 128
+    100300: Window_minframe_triple_2.1x1.0 129
+    100302: Window_minframe_triple_2.1x1.0 13
+    100304: Window_minframe_triple_2.1x1.0 130
+    100306: Window_minframe_triple_2.1x1.0 131
+    100308: Window_minframe_triple_2.1x1.0 14
+    100310: Window_minframe_triple_2.1x1.0 15
+    100312: Window_minframe_triple_2.1x1.0 16
+    100314: Window_minframe_triple_2.1x1.0 17
+    100316: Window_minframe_triple_2.1x1.0 18
+    100318: Window_minframe_triple_2.1x1.0 19
+    100320: Window_minframe_triple_2.1x1.0 2
+    100322: Window_minframe_triple_2.1x1.0 20
+    100324: Window_minframe_triple_2.1x1.0 21
+    100326: Window_minframe_triple_2.1x1.0 22
+    100328: Window_minframe_triple_2.1x1.0 23
+    100330: Window_minframe_triple_2.1x1.0 24
+    100332: Window_minframe_triple_2.1x1.0 25
+    100334: Window_minframe_triple_2.1x1.0 26
+    100336: Window_minframe_triple_2.1x1.0 27
+    100338: Window_minframe_triple_2.1x1.0 28
+    100340: Window_minframe_triple_2.1x1.0 29
+    100342: Window_minframe_triple_2.1x1.0 3
+    100344: Window_minframe_triple_2.1x1.0 30
+    100346: Window_minframe_triple_2.1x1.0 31
+    100348: Window_minframe_triple_2.1x1.0 32
+    100350: Window_minframe_triple_2.1x1.0 33
+    100352: Window_minframe_triple_2.1x1.0 34
+    100354: Window_minframe_triple_2.1x1.0 35
+    100356: Window_minframe_triple_2.1x1.0 36
+    100358: Window_minframe_triple_2.1x1.0 37
+    100360: Window_minframe_triple_2.1x1.0 38
+    100362: Window_minframe_triple_2.1x1.0 39
+    100364: Window_minframe_triple_2.1x1.0 4
+    100366: Window_minframe_triple_2.1x1.0 40
+    100368: Window_minframe_triple_2.1x1.0 41
+    100370: Window_minframe_triple_2.1x1.0 42
+    100372: Window_minframe_triple_2.1x1.0 43
+    100374: Window_minframe_triple_2.1x1.0 44
+    100376: Window_minframe_triple_2.1x1.0 45
+    100378: Window_minframe_triple_2.1x1.0 46
+    100380: Window_minframe_triple_2.1x1.0 47
+    100382: Window_minframe_triple_2.1x1.0 48
+    100384: Window_minframe_triple_2.1x1.0 49
+    100386: Window_minframe_triple_2.1x1.0 5
+    100388: Window_minframe_triple_2.1x1.0 50
+    100390: Window_minframe_triple_2.1x1.0 51
+    100392: Window_minframe_triple_2.1x1.0 52
+    100394: Window_minframe_triple_2.1x1.0 53
+    100396: Window_minframe_triple_2.1x1.0 54
+    100398: Window_minframe_triple_2.1x1.0 55
+    100400: Window_minframe_triple_2.1x1.0 56
+    100402: Window_minframe_triple_2.1x1.0 57
+    100404: Window_minframe_triple_2.1x1.0 58
+    100406: Window_minframe_triple_2.1x1.0 59
+    100408: Window_minframe_triple_2.1x1.0 6
+    100410: Window_minframe_triple_2.1x1.0 60
+    100412: Window_minframe_triple_2.1x1.0 61
+    100414: Window_minframe_triple_2.1x1.0 62
+    100416: Window_minframe_triple_2.1x1.0 63
+    100418: Window_minframe_triple_2.1x1.0 64
+    100420: Window_minframe_triple_2.1x1.0 65
+    100422: Window_minframe_triple_2.1x1.0 66
+    100424: Window_minframe_triple_2.1x1.0 67
+    100426: Window_minframe_triple_2.1x1.0 68
+    100428: Window_minframe_triple_2.1x1.0 69
+    100430: Window_minframe_triple_2.1x1.0 7
+    100432: Window_minframe_triple_2.1x1.0 70
+    100434: Window_minframe_triple_2.1x1.0 71
+    100436: Window_minframe_triple_2.1x1.0 72
+    100438: Window_minframe_triple_2.1x1.0 73
+    100440: Window_minframe_triple_2.1x1.0 74
+    100442: Window_minframe_triple_2.1x1.0 75
+    100444: Window_minframe_triple_2.1x1.0 76
+    100446: Window_minframe_triple_2.1x1.0 77
+    100448: Window_minframe_triple_2.1x1.0 78
+    100450: Window_minframe_triple_2.1x1.0 79
+    100452: Window_minframe_triple_2.1x1.0 8
+    100454: Window_minframe_triple_2.1x1.0 80
+    100456: Window_minframe_triple_2.1x1.0 81
+    100458: Window_minframe_triple_2.1x1.0 82
+    100460: Window_minframe_triple_2.1x1.0 83
+    100462: Window_minframe_triple_2.1x1.0 84
+    100464: Window_minframe_triple_2.1x1.0 85
+    100466: Window_minframe_triple_2.1x1.0 86
+    100468: Window_minframe_triple_2.1x1.0 87
+    100470: Window_minframe_triple_2.1x1.0 88
+    100472: Window_minframe_triple_2.1x1.0 89
+    100474: Window_minframe_triple_2.1x1.0 9
+    100476: Window_minframe_triple_2.1x1.0 90
+    100478: Window_minframe_triple_2.1x1.0 91
+    100480: Window_minframe_triple_2.1x1.0 92
+    100482: Window_minframe_triple_2.1x1.0 93
+    100484: Window_minframe_triple_2.1x1.0 94
+    100486: Window_minframe_triple_2.1x1.0 95
+    100488: Window_minframe_triple_2.1x1.0 96
+    100490: Window_minframe_triple_2.1x1.0 97
+    100492: Window_minframe_triple_2.1x1.0 98
+    100494: Window_minframe_triple_2.1x1.0 99
+    100496: Window_minframe_triple_2.1x1.0#1
+    100498: Window_minframe_triple_2.1x1.0#1 1
+    100500: Window_minframe_triple_2.1x1.0#1 2
+    100502: Window_minframe_triple_2.1x1.0#2
+    100504: Window_minframe_triple_2.1x1.0#3
+    100506: Window_minframe_triple_2.1x1.0#3 1
+    100508: Window_minframe_triple_2.1x1.0#3 2
+    100510: Window_minframe_triple_2.1x1.0#3 3
+    100512: Window_minframe_triple_2.1x1.0#4
+    100514: Window_minframe_triple_2.1x1.0#4 1
+    100516: Window_minframe_triple_2.1x1.0#4 2
+    100518: Window_minframe_triple_2.1x1.0#4 3
+    100520: Window_minframe_triple_2.1x1.0#5
+    100522: Window_minframe_triple_2.1x1.0#5 1
+    100524: Window_minframe_triple_2.1x1.0#5 2
+    100526: Window_minframe_triple_2.1x1.0#5 3
+    100528: Window_minframe_triple_2.1x1.0#5 4
+    100530: Window_minframe_triple_2.1x1.0#5 5
+    100532: Window_minframe_triple_2.1x1.0#5 6
+    100534: Window_minframe_triple_2.1x1.0#5 7
+    100536: Window_minframe_triple_2.1x1.0#6
+    100538: Window_sill_double_1.2x1.2#1
+    100540: Window_sill_double_1.2x1.2#1 1
+    100542: Window_sill_double_1.2x1.2#1 10
+    100544: Window_sill_double_1.2x1.2#1 11
+    100546: Window_sill_double_1.2x1.2#1 12
+    100548: Window_sill_double_1.2x1.2#1 13
+    100550: Window_sill_double_1.2x1.2#1 14
+    100552: Window_sill_double_1.2x1.2#1 15
+    100554: Window_sill_double_1.2x1.2#1 16
+    100556: Window_sill_double_1.2x1.2#1 17
+    100558: Window_sill_double_1.2x1.2#1 2
+    100560: Window_sill_double_1.2x1.2#1 3
+    100562: Window_sill_double_1.2x1.2#1 4
+    100564: Window_sill_double_1.2x1.2#1 5
+    100566: Window_sill_double_1.2x1.2#1 6
+    100568: Window_sill_double_1.2x1.2#1 7
+    100570: Window_sill_double_1.2x1.2#1 8
+    100572: Window_sill_double_1.2x1.2#1 9
+    100574: Window_square
+    100576: Window_square 1
+    100578: Window_square 10
+    100580: Window_square 11
+    100582: Window_square 12
+    100584: Window_square 13
+    100586: Window_square 14
+    100588: Window_square 15
+    100590: Window_square 16
+    100592: Window_square 17
+    100594: Window_square 18
+    100596: Window_square 19
+    100598: Window_square 2
+    100600: Window_square 20
+    100602: Window_square 21
+    100604: Window_square 22
+    100606: Window_square 23
+    100608: Window_square 24
+    100610: Window_square 25
+    100612: Window_square 26
+    100614: Window_square 27
+    100616: Window_square 28
+    100618: Window_square 29
+    100620: Window_square 3
+    100622: Window_square 30
+    100624: Window_square 31
+    100626: Window_square 32
+    100628: Window_square 33
+    100630: Window_square 34
+    100632: Window_square 35
+    100634: Window_square 36
+    100636: Window_square 37
+    100638: Window_square 38
+    100640: Window_square 39
+    100642: Window_square 4
+    100644: Window_square 40
+    100646: Window_square 41
+    100648: Window_square 42
+    100650: Window_square 43
+    100652: Window_square 44
+    100654: Window_square 45
+    100656: Window_square 46
+    100658: Window_square 47
+    100660: Window_square 48
+    100662: Window_square 49
+    100664: Window_square 5
+    100666: Window_square 50
+    100668: Window_square 51
+    100670: Window_square 52
+    100672: Window_square 53
+    100674: Window_square 54
+    100676: Window_square 55
+    100678: Window_square 56
+    100680: Window_square 57
+    100682: Window_square 58
+    100684: Window_square 59
+    100686: Window_square 6
+    100688: Window_square 60
+    100690: Window_square 61
+    100692: Window_square 62
+    100694: Window_square 63
+    100696: Window_square 64
+    100698: Window_square 65
+    100700: Window_square 66
+    100702: Window_square 67
+    100704: Window_square 68
+    100706: Window_square 69
+    100708: Window_square 7
+    100710: Window_square 70
+    100712: Window_square 71
+    100714: Window_square 72
+    100716: Window_square 73
+    100718: Window_square 74
+    100720: Window_square 75
+    100722: Window_square 76
+    100724: Window_square 77
+    100726: Window_square 78
+    100728: Window_square 79
+    100730: Window_square 8
+    100732: Window_square 80
+    100734: Window_square 81
+    100736: Window_square 82
+    100738: Window_square 83
+    100740: Window_square 84
+    100742: Window_square 9
+    400000: //RootNode
+    400002: 63002_3d_building
+    400004: 63002_3d_site
+    400006: Door_com_double_3.55x2.60
+    400008: Door_com_double_3.55x2.60 1
+    400010: Door_com_double_3.55x2.60 2
+    400012: Door_com_double_3.55x2.60 3
+    400014: Door_plain_1.0x2.1#1
+    400016: Door_plain_1.0x2.1#1 1
+    400018: Door_plain_1.0x2.1#1 2
+    400020: Door_plain_1.0x2.1#1 3
+    400022: Door_plain_1.0x2.1#1 4
+    400024: Door_plain_1.0x2.1#1 5
+    400026: Door_plain_1.0x2.1#1 6
+    400028: Door_plain_1.0x2.1#1 7
+    400030: garage_2.85x2.35#1
+    400032: garage_2.85x2.35#2
+    400034: Image 1
+    400036: scale_obq
+    400038: tree_conifer_M
+    400040: tree_conifer_M 1
+    400042: tree_conifer_M 2
+    400044: tree_conifer_M 3
+    400046: tree_conifer_S
+    400048: tree_conifer_S 1
+    400050: tree_conifer_S 2
+    400052: tree_conifer_S 3
+    400054: tree_conifer_S 4
+    400056: tree_conifer_S 5
+    400058: tree_conifer_S 6
+    400060: tree_round_S
+    400062: tree_round_S 1
+    400064: tree_round_S 10
+    400066: tree_round_S 2
+    400068: tree_round_S 3
+    400070: tree_round_S 4
+    400072: tree_round_S 5
+    400074: tree_round_S 6
+    400076: tree_round_S 7
+    400078: tree_round_S 8
+    400080: tree_round_S 9
+    400082: Window_
+    400084: Window_ 1
+    400086: Window_#1
+    400088: Window_minframe_0.73x0.92
+    400090: Window_minframe_0.73x0.92 1
+    400092: Window_minframe_0.73x0.92 10
+    400094: Window_minframe_0.73x0.92 11
+    400096: Window_minframe_0.73x0.92 12
+    400098: Window_minframe_0.73x0.92 13
+    400100: Window_minframe_0.73x0.92 14
+    400102: Window_minframe_0.73x0.92 15
+    400104: Window_minframe_0.73x0.92 16
+    400106: Window_minframe_0.73x0.92 17
+    400108: Window_minframe_0.73x0.92 18
+    400110: Window_minframe_0.73x0.92 19
+    400112: Window_minframe_0.73x0.92 2
+    400114: Window_minframe_0.73x0.92 20
+    400116: Window_minframe_0.73x0.92 21
+    400118: Window_minframe_0.73x0.92 22
+    400120: Window_minframe_0.73x0.92 23
+    400122: Window_minframe_0.73x0.92 3
+    400124: Window_minframe_0.73x0.92 4
+    400126: Window_minframe_0.73x0.92 5
+    400128: Window_minframe_0.73x0.92 6
+    400130: Window_minframe_0.73x0.92 7
+    400132: Window_minframe_0.73x0.92 8
+    400134: Window_minframe_0.73x0.92 9
+    400136: Window_minframe_0.73x0.92#1
+    400138: Window_minframe_0.73x0.92#2
+    400140: Window_minframe_0.73x0.92#3
+    400142: Window_minframe_0.73x0.92#3 1
+    400144: Window_minframe_0.73x0.92#3 2
+    400146: Window_minframe_0.73x0.92#3 3
+    400148: Window_minframe_0.73x0.92#4
+    400150: Window_minframe_0.73x0.92#4 1
+    400152: Window_minframe_0.73x0.92#5
+    400154: Window_minframe_0.73x0.92#5 1
+    400156: Window_minframe_0.73x0.92#5 2
+    400158: Window_minframe_0.73x0.92#5 3
+    400160: Window_minframe_1.44x1.0
+    400162: Window_minframe_1.44x1.0 1
+    400164: Window_minframe_1.44x1.0 10
+    400166: Window_minframe_1.44x1.0 11
+    400168: Window_minframe_1.44x1.0 12
+    400170: Window_minframe_1.44x1.0 13
+    400172: Window_minframe_1.44x1.0 14
+    400174: Window_minframe_1.44x1.0 15
+    400176: Window_minframe_1.44x1.0 16
+    400178: Window_minframe_1.44x1.0 17
+    400180: Window_minframe_1.44x1.0 18
+    400182: Window_minframe_1.44x1.0 19
+    400184: Window_minframe_1.44x1.0 2
+    400186: Window_minframe_1.44x1.0 20
+    400188: Window_minframe_1.44x1.0 21
+    400190: Window_minframe_1.44x1.0 22
+    400192: Window_minframe_1.44x1.0 23
+    400194: Window_minframe_1.44x1.0 24
+    400196: Window_minframe_1.44x1.0 25
+    400198: Window_minframe_1.44x1.0 26
+    400200: Window_minframe_1.44x1.0 27
+    400202: Window_minframe_1.44x1.0 28
+    400204: Window_minframe_1.44x1.0 29
+    400206: Window_minframe_1.44x1.0 3
+    400208: Window_minframe_1.44x1.0 30
+    400210: Window_minframe_1.44x1.0 31
+    400212: Window_minframe_1.44x1.0 4
+    400214: Window_minframe_1.44x1.0 5
+    400216: Window_minframe_1.44x1.0 6
+    400218: Window_minframe_1.44x1.0 7
+    400220: Window_minframe_1.44x1.0 8
+    400222: Window_minframe_1.44x1.0 9
+    400224: Window_minframe_1.44x1.0#1
+    400226: Window_minframe_1.44x1.0#1 1
+    400228: Window_minframe_1.44x1.0#1 2
+    400230: Window_minframe_1.44x1.0#1 3
+    400232: Window_minframe_triple_2.1x1.0
+    400234: Window_minframe_triple_2.1x1.0 1
+    400236: Window_minframe_triple_2.1x1.0 10
+    400238: Window_minframe_triple_2.1x1.0 100
+    400240: Window_minframe_triple_2.1x1.0 101
+    400242: Window_minframe_triple_2.1x1.0 102
+    400244: Window_minframe_triple_2.1x1.0 103
+    400246: Window_minframe_triple_2.1x1.0 104
+    400248: Window_minframe_triple_2.1x1.0 105
+    400250: Window_minframe_triple_2.1x1.0 106
+    400252: Window_minframe_triple_2.1x1.0 107
+    400254: Window_minframe_triple_2.1x1.0 108
+    400256: Window_minframe_triple_2.1x1.0 109
+    400258: Window_minframe_triple_2.1x1.0 11
+    400260: Window_minframe_triple_2.1x1.0 110
+    400262: Window_minframe_triple_2.1x1.0 111
+    400264: Window_minframe_triple_2.1x1.0 112
+    400266: Window_minframe_triple_2.1x1.0 113
+    400268: Window_minframe_triple_2.1x1.0 114
+    400270: Window_minframe_triple_2.1x1.0 115
+    400272: Window_minframe_triple_2.1x1.0 116
+    400274: Window_minframe_triple_2.1x1.0 117
+    400276: Window_minframe_triple_2.1x1.0 118
+    400278: Window_minframe_triple_2.1x1.0 119
+    400280: Window_minframe_triple_2.1x1.0 12
+    400282: Window_minframe_triple_2.1x1.0 120
+    400284: Window_minframe_triple_2.1x1.0 121
+    400286: Window_minframe_triple_2.1x1.0 122
+    400288: Window_minframe_triple_2.1x1.0 123
+    400290: Window_minframe_triple_2.1x1.0 124
+    400292: Window_minframe_triple_2.1x1.0 125
+    400294: Window_minframe_triple_2.1x1.0 126
+    400296: Window_minframe_triple_2.1x1.0 127
+    400298: Window_minframe_triple_2.1x1.0 128
+    400300: Window_minframe_triple_2.1x1.0 129
+    400302: Window_minframe_triple_2.1x1.0 13
+    400304: Window_minframe_triple_2.1x1.0 130
+    400306: Window_minframe_triple_2.1x1.0 131
+    400308: Window_minframe_triple_2.1x1.0 14
+    400310: Window_minframe_triple_2.1x1.0 15
+    400312: Window_minframe_triple_2.1x1.0 16
+    400314: Window_minframe_triple_2.1x1.0 17
+    400316: Window_minframe_triple_2.1x1.0 18
+    400318: Window_minframe_triple_2.1x1.0 19
+    400320: Window_minframe_triple_2.1x1.0 2
+    400322: Window_minframe_triple_2.1x1.0 20
+    400324: Window_minframe_triple_2.1x1.0 21
+    400326: Window_minframe_triple_2.1x1.0 22
+    400328: Window_minframe_triple_2.1x1.0 23
+    400330: Window_minframe_triple_2.1x1.0 24
+    400332: Window_minframe_triple_2.1x1.0 25
+    400334: Window_minframe_triple_2.1x1.0 26
+    400336: Window_minframe_triple_2.1x1.0 27
+    400338: Window_minframe_triple_2.1x1.0 28
+    400340: Window_minframe_triple_2.1x1.0 29
+    400342: Window_minframe_triple_2.1x1.0 3
+    400344: Window_minframe_triple_2.1x1.0 30
+    400346: Window_minframe_triple_2.1x1.0 31
+    400348: Window_minframe_triple_2.1x1.0 32
+    400350: Window_minframe_triple_2.1x1.0 33
+    400352: Window_minframe_triple_2.1x1.0 34
+    400354: Window_minframe_triple_2.1x1.0 35
+    400356: Window_minframe_triple_2.1x1.0 36
+    400358: Window_minframe_triple_2.1x1.0 37
+    400360: Window_minframe_triple_2.1x1.0 38
+    400362: Window_minframe_triple_2.1x1.0 39
+    400364: Window_minframe_triple_2.1x1.0 4
+    400366: Window_minframe_triple_2.1x1.0 40
+    400368: Window_minframe_triple_2.1x1.0 41
+    400370: Window_minframe_triple_2.1x1.0 42
+    400372: Window_minframe_triple_2.1x1.0 43
+    400374: Window_minframe_triple_2.1x1.0 44
+    400376: Window_minframe_triple_2.1x1.0 45
+    400378: Window_minframe_triple_2.1x1.0 46
+    400380: Window_minframe_triple_2.1x1.0 47
+    400382: Window_minframe_triple_2.1x1.0 48
+    400384: Window_minframe_triple_2.1x1.0 49
+    400386: Window_minframe_triple_2.1x1.0 5
+    400388: Window_minframe_triple_2.1x1.0 50
+    400390: Window_minframe_triple_2.1x1.0 51
+    400392: Window_minframe_triple_2.1x1.0 52
+    400394: Window_minframe_triple_2.1x1.0 53
+    400396: Window_minframe_triple_2.1x1.0 54
+    400398: Window_minframe_triple_2.1x1.0 55
+    400400: Window_minframe_triple_2.1x1.0 56
+    400402: Window_minframe_triple_2.1x1.0 57
+    400404: Window_minframe_triple_2.1x1.0 58
+    400406: Window_minframe_triple_2.1x1.0 59
+    400408: Window_minframe_triple_2.1x1.0 6
+    400410: Window_minframe_triple_2.1x1.0 60
+    400412: Window_minframe_triple_2.1x1.0 61
+    400414: Window_minframe_triple_2.1x1.0 62
+    400416: Window_minframe_triple_2.1x1.0 63
+    400418: Window_minframe_triple_2.1x1.0 64
+    400420: Window_minframe_triple_2.1x1.0 65
+    400422: Window_minframe_triple_2.1x1.0 66
+    400424: Window_minframe_triple_2.1x1.0 67
+    400426: Window_minframe_triple_2.1x1.0 68
+    400428: Window_minframe_triple_2.1x1.0 69
+    400430: Window_minframe_triple_2.1x1.0 7
+    400432: Window_minframe_triple_2.1x1.0 70
+    400434: Window_minframe_triple_2.1x1.0 71
+    400436: Window_minframe_triple_2.1x1.0 72
+    400438: Window_minframe_triple_2.1x1.0 73
+    400440: Window_minframe_triple_2.1x1.0 74
+    400442: Window_minframe_triple_2.1x1.0 75
+    400444: Window_minframe_triple_2.1x1.0 76
+    400446: Window_minframe_triple_2.1x1.0 77
+    400448: Window_minframe_triple_2.1x1.0 78
+    400450: Window_minframe_triple_2.1x1.0 79
+    400452: Window_minframe_triple_2.1x1.0 8
+    400454: Window_minframe_triple_2.1x1.0 80
+    400456: Window_minframe_triple_2.1x1.0 81
+    400458: Window_minframe_triple_2.1x1.0 82
+    400460: Window_minframe_triple_2.1x1.0 83
+    400462: Window_minframe_triple_2.1x1.0 84
+    400464: Window_minframe_triple_2.1x1.0 85
+    400466: Window_minframe_triple_2.1x1.0 86
+    400468: Window_minframe_triple_2.1x1.0 87
+    400470: Window_minframe_triple_2.1x1.0 88
+    400472: Window_minframe_triple_2.1x1.0 89
+    400474: Window_minframe_triple_2.1x1.0 9
+    400476: Window_minframe_triple_2.1x1.0 90
+    400478: Window_minframe_triple_2.1x1.0 91
+    400480: Window_minframe_triple_2.1x1.0 92
+    400482: Window_minframe_triple_2.1x1.0 93
+    400484: Window_minframe_triple_2.1x1.0 94
+    400486: Window_minframe_triple_2.1x1.0 95
+    400488: Window_minframe_triple_2.1x1.0 96
+    400490: Window_minframe_triple_2.1x1.0 97
+    400492: Window_minframe_triple_2.1x1.0 98
+    400494: Window_minframe_triple_2.1x1.0 99
+    400496: Window_minframe_triple_2.1x1.0#1
+    400498: Window_minframe_triple_2.1x1.0#1 1
+    400500: Window_minframe_triple_2.1x1.0#1 2
+    400502: Window_minframe_triple_2.1x1.0#2
+    400504: Window_minframe_triple_2.1x1.0#3
+    400506: Window_minframe_triple_2.1x1.0#3 1
+    400508: Window_minframe_triple_2.1x1.0#3 2
+    400510: Window_minframe_triple_2.1x1.0#3 3
+    400512: Window_minframe_triple_2.1x1.0#4
+    400514: Window_minframe_triple_2.1x1.0#4 1
+    400516: Window_minframe_triple_2.1x1.0#4 2
+    400518: Window_minframe_triple_2.1x1.0#4 3
+    400520: Window_minframe_triple_2.1x1.0#5
+    400522: Window_minframe_triple_2.1x1.0#5 1
+    400524: Window_minframe_triple_2.1x1.0#5 2
+    400526: Window_minframe_triple_2.1x1.0#5 3
+    400528: Window_minframe_triple_2.1x1.0#5 4
+    400530: Window_minframe_triple_2.1x1.0#5 5
+    400532: Window_minframe_triple_2.1x1.0#5 6
+    400534: Window_minframe_triple_2.1x1.0#5 7
+    400536: Window_minframe_triple_2.1x1.0#6
+    400538: Window_sill_double_1.2x1.2#1
+    400540: Window_sill_double_1.2x1.2#1 1
+    400542: Window_sill_double_1.2x1.2#1 10
+    400544: Window_sill_double_1.2x1.2#1 11
+    400546: Window_sill_double_1.2x1.2#1 12
+    400548: Window_sill_double_1.2x1.2#1 13
+    400550: Window_sill_double_1.2x1.2#1 14
+    400552: Window_sill_double_1.2x1.2#1 15
+    400554: Window_sill_double_1.2x1.2#1 16
+    400556: Window_sill_double_1.2x1.2#1 17
+    400558: Window_sill_double_1.2x1.2#1 2
+    400560: Window_sill_double_1.2x1.2#1 3
+    400562: Window_sill_double_1.2x1.2#1 4
+    400564: Window_sill_double_1.2x1.2#1 5
+    400566: Window_sill_double_1.2x1.2#1 6
+    400568: Window_sill_double_1.2x1.2#1 7
+    400570: Window_sill_double_1.2x1.2#1 8
+    400572: Window_sill_double_1.2x1.2#1 9
+    400574: Window_square
+    400576: Window_square 1
+    400578: Window_square 10
+    400580: Window_square 11
+    400582: Window_square 12
+    400584: Window_square 13
+    400586: Window_square 14
+    400588: Window_square 15
+    400590: Window_square 16
+    400592: Window_square 17
+    400594: Window_square 18
+    400596: Window_square 19
+    400598: Window_square 2
+    400600: Window_square 20
+    400602: Window_square 21
+    400604: Window_square 22
+    400606: Window_square 23
+    400608: Window_square 24
+    400610: Window_square 25
+    400612: Window_square 26
+    400614: Window_square 27
+    400616: Window_square 28
+    400618: Window_square 29
+    400620: Window_square 3
+    400622: Window_square 30
+    400624: Window_square 31
+    400626: Window_square 32
+    400628: Window_square 33
+    400630: Window_square 34
+    400632: Window_square 35
+    400634: Window_square 36
+    400636: Window_square 37
+    400638: Window_square 38
+    400640: Window_square 39
+    400642: Window_square 4
+    400644: Window_square 40
+    400646: Window_square 41
+    400648: Window_square 42
+    400650: Window_square 43
+    400652: Window_square 44
+    400654: Window_square 45
+    400656: Window_square 46
+    400658: Window_square 47
+    400660: Window_square 48
+    400662: Window_square 49
+    400664: Window_square 5
+    400666: Window_square 50
+    400668: Window_square 51
+    400670: Window_square 52
+    400672: Window_square 53
+    400674: Window_square 54
+    400676: Window_square 55
+    400678: Window_square 56
+    400680: Window_square 57
+    400682: Window_square 58
+    400684: Window_square 59
+    400686: Window_square 6
+    400688: Window_square 60
+    400690: Window_square 61
+    400692: Window_square 62
+    400694: Window_square 63
+    400696: Window_square 64
+    400698: Window_square 65
+    400700: Window_square 66
+    400702: Window_square 67
+    400704: Window_square 68
+    400706: Window_square 69
+    400708: Window_square 7
+    400710: Window_square 70
+    400712: Window_square 71
+    400714: Window_square 72
+    400716: Window_square 73
+    400718: Window_square 74
+    400720: Window_square 75
+    400722: Window_square 76
+    400724: Window_square 77
+    400726: Window_square 78
+    400728: Window_square 79
+    400730: Window_square 8
+    400732: Window_square 80
+    400734: Window_square 81
+    400736: Window_square 82
+    400738: Window_square 83
+    400740: Window_square 84
+    400742: Window_square 9
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: 0_label
+    2100006: OV_shrub_texture
+    2100008: OV_turf_solid
+    2100010: OV_shrub_solid
+    2100012: OV_paving_general
+    2100014: OV_paving_pedestrian
+    2100016: OV_Water1
+    2100018: OV_paving_vehicle
+    2100020: mapletree
+    2100022: conifertree2
+    2100024: OV_bldg_wall
+    2100026: OV_bldg_accent
+    2100028: OV_bldg_roof
+    2100030: ApertureGlass
+    2300000: 63002_3d_building
+    2300002: 63002_3d_site
+    2300004: Door_com_double_3.55x2.60
+    2300006: Door_com_double_3.55x2.60 1
+    2300008: Door_com_double_3.55x2.60 2
+    2300010: Door_com_double_3.55x2.60 3
+    2300012: Door_plain_1.0x2.1#1
+    2300014: Door_plain_1.0x2.1#1 1
+    2300016: Door_plain_1.0x2.1#1 2
+    2300018: Door_plain_1.0x2.1#1 3
+    2300020: Door_plain_1.0x2.1#1 4
+    2300022: Door_plain_1.0x2.1#1 5
+    2300024: Door_plain_1.0x2.1#1 6
+    2300026: Door_plain_1.0x2.1#1 7
+    2300028: garage_2.85x2.35#1
+    2300030: garage_2.85x2.35#2
+    2300032: Image 1
+    2300034: scale_obq
+    2300036: tree_conifer_M
+    2300038: tree_conifer_M 1
+    2300040: tree_conifer_M 2
+    2300042: tree_conifer_M 3
+    2300044: tree_conifer_S
+    2300046: tree_conifer_S 1
+    2300048: tree_conifer_S 2
+    2300050: tree_conifer_S 3
+    2300052: tree_conifer_S 4
+    2300054: tree_conifer_S 5
+    2300056: tree_conifer_S 6
+    2300058: tree_round_S
+    2300060: tree_round_S 1
+    2300062: tree_round_S 10
+    2300064: tree_round_S 2
+    2300066: tree_round_S 3
+    2300068: tree_round_S 4
+    2300070: tree_round_S 5
+    2300072: tree_round_S 6
+    2300074: tree_round_S 7
+    2300076: tree_round_S 8
+    2300078: tree_round_S 9
+    2300080: Window_
+    2300082: Window_ 1
+    2300084: Window_#1
+    2300086: Window_minframe_0.73x0.92
+    2300088: Window_minframe_0.73x0.92 1
+    2300090: Window_minframe_0.73x0.92 10
+    2300092: Window_minframe_0.73x0.92 11
+    2300094: Window_minframe_0.73x0.92 12
+    2300096: Window_minframe_0.73x0.92 13
+    2300098: Window_minframe_0.73x0.92 14
+    2300100: Window_minframe_0.73x0.92 15
+    2300102: Window_minframe_0.73x0.92 16
+    2300104: Window_minframe_0.73x0.92 17
+    2300106: Window_minframe_0.73x0.92 18
+    2300108: Window_minframe_0.73x0.92 19
+    2300110: Window_minframe_0.73x0.92 2
+    2300112: Window_minframe_0.73x0.92 20
+    2300114: Window_minframe_0.73x0.92 21
+    2300116: Window_minframe_0.73x0.92 22
+    2300118: Window_minframe_0.73x0.92 23
+    2300120: Window_minframe_0.73x0.92 3
+    2300122: Window_minframe_0.73x0.92 4
+    2300124: Window_minframe_0.73x0.92 5
+    2300126: Window_minframe_0.73x0.92 6
+    2300128: Window_minframe_0.73x0.92 7
+    2300130: Window_minframe_0.73x0.92 8
+    2300132: Window_minframe_0.73x0.92 9
+    2300134: Window_minframe_0.73x0.92#1
+    2300136: Window_minframe_0.73x0.92#2
+    2300138: Window_minframe_0.73x0.92#3
+    2300140: Window_minframe_0.73x0.92#3 1
+    2300142: Window_minframe_0.73x0.92#3 2
+    2300144: Window_minframe_0.73x0.92#3 3
+    2300146: Window_minframe_0.73x0.92#4
+    2300148: Window_minframe_0.73x0.92#4 1
+    2300150: Window_minframe_0.73x0.92#5
+    2300152: Window_minframe_0.73x0.92#5 1
+    2300154: Window_minframe_0.73x0.92#5 2
+    2300156: Window_minframe_0.73x0.92#5 3
+    2300158: Window_minframe_1.44x1.0
+    2300160: Window_minframe_1.44x1.0 1
+    2300162: Window_minframe_1.44x1.0 10
+    2300164: Window_minframe_1.44x1.0 11
+    2300166: Window_minframe_1.44x1.0 12
+    2300168: Window_minframe_1.44x1.0 13
+    2300170: Window_minframe_1.44x1.0 14
+    2300172: Window_minframe_1.44x1.0 15
+    2300174: Window_minframe_1.44x1.0 16
+    2300176: Window_minframe_1.44x1.0 17
+    2300178: Window_minframe_1.44x1.0 18
+    2300180: Window_minframe_1.44x1.0 19
+    2300182: Window_minframe_1.44x1.0 2
+    2300184: Window_minframe_1.44x1.0 20
+    2300186: Window_minframe_1.44x1.0 21
+    2300188: Window_minframe_1.44x1.0 22
+    2300190: Window_minframe_1.44x1.0 23
+    2300192: Window_minframe_1.44x1.0 24
+    2300194: Window_minframe_1.44x1.0 25
+    2300196: Window_minframe_1.44x1.0 26
+    2300198: Window_minframe_1.44x1.0 27
+    2300200: Window_minframe_1.44x1.0 28
+    2300202: Window_minframe_1.44x1.0 29
+    2300204: Window_minframe_1.44x1.0 3
+    2300206: Window_minframe_1.44x1.0 30
+    2300208: Window_minframe_1.44x1.0 31
+    2300210: Window_minframe_1.44x1.0 4
+    2300212: Window_minframe_1.44x1.0 5
+    2300214: Window_minframe_1.44x1.0 6
+    2300216: Window_minframe_1.44x1.0 7
+    2300218: Window_minframe_1.44x1.0 8
+    2300220: Window_minframe_1.44x1.0 9
+    2300222: Window_minframe_1.44x1.0#1
+    2300224: Window_minframe_1.44x1.0#1 1
+    2300226: Window_minframe_1.44x1.0#1 2
+    2300228: Window_minframe_1.44x1.0#1 3
+    2300230: Window_minframe_triple_2.1x1.0
+    2300232: Window_minframe_triple_2.1x1.0 1
+    2300234: Window_minframe_triple_2.1x1.0 10
+    2300236: Window_minframe_triple_2.1x1.0 100
+    2300238: Window_minframe_triple_2.1x1.0 101
+    2300240: Window_minframe_triple_2.1x1.0 102
+    2300242: Window_minframe_triple_2.1x1.0 103
+    2300244: Window_minframe_triple_2.1x1.0 104
+    2300246: Window_minframe_triple_2.1x1.0 105
+    2300248: Window_minframe_triple_2.1x1.0 106
+    2300250: Window_minframe_triple_2.1x1.0 107
+    2300252: Window_minframe_triple_2.1x1.0 108
+    2300254: Window_minframe_triple_2.1x1.0 109
+    2300256: Window_minframe_triple_2.1x1.0 11
+    2300258: Window_minframe_triple_2.1x1.0 110
+    2300260: Window_minframe_triple_2.1x1.0 111
+    2300262: Window_minframe_triple_2.1x1.0 112
+    2300264: Window_minframe_triple_2.1x1.0 113
+    2300266: Window_minframe_triple_2.1x1.0 114
+    2300268: Window_minframe_triple_2.1x1.0 115
+    2300270: Window_minframe_triple_2.1x1.0 116
+    2300272: Window_minframe_triple_2.1x1.0 117
+    2300274: Window_minframe_triple_2.1x1.0 118
+    2300276: Window_minframe_triple_2.1x1.0 119
+    2300278: Window_minframe_triple_2.1x1.0 12
+    2300280: Window_minframe_triple_2.1x1.0 120
+    2300282: Window_minframe_triple_2.1x1.0 121
+    2300284: Window_minframe_triple_2.1x1.0 122
+    2300286: Window_minframe_triple_2.1x1.0 123
+    2300288: Window_minframe_triple_2.1x1.0 124
+    2300290: Window_minframe_triple_2.1x1.0 125
+    2300292: Window_minframe_triple_2.1x1.0 126
+    2300294: Window_minframe_triple_2.1x1.0 127
+    2300296: Window_minframe_triple_2.1x1.0 128
+    2300298: Window_minframe_triple_2.1x1.0 129
+    2300300: Window_minframe_triple_2.1x1.0 13
+    2300302: Window_minframe_triple_2.1x1.0 130
+    2300304: Window_minframe_triple_2.1x1.0 131
+    2300306: Window_minframe_triple_2.1x1.0 14
+    2300308: Window_minframe_triple_2.1x1.0 15
+    2300310: Window_minframe_triple_2.1x1.0 16
+    2300312: Window_minframe_triple_2.1x1.0 17
+    2300314: Window_minframe_triple_2.1x1.0 18
+    2300316: Window_minframe_triple_2.1x1.0 19
+    2300318: Window_minframe_triple_2.1x1.0 2
+    2300320: Window_minframe_triple_2.1x1.0 20
+    2300322: Window_minframe_triple_2.1x1.0 21
+    2300324: Window_minframe_triple_2.1x1.0 22
+    2300326: Window_minframe_triple_2.1x1.0 23
+    2300328: Window_minframe_triple_2.1x1.0 24
+    2300330: Window_minframe_triple_2.1x1.0 25
+    2300332: Window_minframe_triple_2.1x1.0 26
+    2300334: Window_minframe_triple_2.1x1.0 27
+    2300336: Window_minframe_triple_2.1x1.0 28
+    2300338: Window_minframe_triple_2.1x1.0 29
+    2300340: Window_minframe_triple_2.1x1.0 3
+    2300342: Window_minframe_triple_2.1x1.0 30
+    2300344: Window_minframe_triple_2.1x1.0 31
+    2300346: Window_minframe_triple_2.1x1.0 32
+    2300348: Window_minframe_triple_2.1x1.0 33
+    2300350: Window_minframe_triple_2.1x1.0 34
+    2300352: Window_minframe_triple_2.1x1.0 35
+    2300354: Window_minframe_triple_2.1x1.0 36
+    2300356: Window_minframe_triple_2.1x1.0 37
+    2300358: Window_minframe_triple_2.1x1.0 38
+    2300360: Window_minframe_triple_2.1x1.0 39
+    2300362: Window_minframe_triple_2.1x1.0 4
+    2300364: Window_minframe_triple_2.1x1.0 40
+    2300366: Window_minframe_triple_2.1x1.0 41
+    2300368: Window_minframe_triple_2.1x1.0 42
+    2300370: Window_minframe_triple_2.1x1.0 43
+    2300372: Window_minframe_triple_2.1x1.0 44
+    2300374: Window_minframe_triple_2.1x1.0 45
+    2300376: Window_minframe_triple_2.1x1.0 46
+    2300378: Window_minframe_triple_2.1x1.0 47
+    2300380: Window_minframe_triple_2.1x1.0 48
+    2300382: Window_minframe_triple_2.1x1.0 49
+    2300384: Window_minframe_triple_2.1x1.0 5
+    2300386: Window_minframe_triple_2.1x1.0 50
+    2300388: Window_minframe_triple_2.1x1.0 51
+    2300390: Window_minframe_triple_2.1x1.0 52
+    2300392: Window_minframe_triple_2.1x1.0 53
+    2300394: Window_minframe_triple_2.1x1.0 54
+    2300396: Window_minframe_triple_2.1x1.0 55
+    2300398: Window_minframe_triple_2.1x1.0 56
+    2300400: Window_minframe_triple_2.1x1.0 57
+    2300402: Window_minframe_triple_2.1x1.0 58
+    2300404: Window_minframe_triple_2.1x1.0 59
+    2300406: Window_minframe_triple_2.1x1.0 6
+    2300408: Window_minframe_triple_2.1x1.0 60
+    2300410: Window_minframe_triple_2.1x1.0 61
+    2300412: Window_minframe_triple_2.1x1.0 62
+    2300414: Window_minframe_triple_2.1x1.0 63
+    2300416: Window_minframe_triple_2.1x1.0 64
+    2300418: Window_minframe_triple_2.1x1.0 65
+    2300420: Window_minframe_triple_2.1x1.0 66
+    2300422: Window_minframe_triple_2.1x1.0 67
+    2300424: Window_minframe_triple_2.1x1.0 68
+    2300426: Window_minframe_triple_2.1x1.0 69
+    2300428: Window_minframe_triple_2.1x1.0 7
+    2300430: Window_minframe_triple_2.1x1.0 70
+    2300432: Window_minframe_triple_2.1x1.0 71
+    2300434: Window_minframe_triple_2.1x1.0 72
+    2300436: Window_minframe_triple_2.1x1.0 73
+    2300438: Window_minframe_triple_2.1x1.0 74
+    2300440: Window_minframe_triple_2.1x1.0 75
+    2300442: Window_minframe_triple_2.1x1.0 76
+    2300444: Window_minframe_triple_2.1x1.0 77
+    2300446: Window_minframe_triple_2.1x1.0 78
+    2300448: Window_minframe_triple_2.1x1.0 79
+    2300450: Window_minframe_triple_2.1x1.0 8
+    2300452: Window_minframe_triple_2.1x1.0 80
+    2300454: Window_minframe_triple_2.1x1.0 81
+    2300456: Window_minframe_triple_2.1x1.0 82
+    2300458: Window_minframe_triple_2.1x1.0 83
+    2300460: Window_minframe_triple_2.1x1.0 84
+    2300462: Window_minframe_triple_2.1x1.0 85
+    2300464: Window_minframe_triple_2.1x1.0 86
+    2300466: Window_minframe_triple_2.1x1.0 87
+    2300468: Window_minframe_triple_2.1x1.0 88
+    2300470: Window_minframe_triple_2.1x1.0 89
+    2300472: Window_minframe_triple_2.1x1.0 9
+    2300474: Window_minframe_triple_2.1x1.0 90
+    2300476: Window_minframe_triple_2.1x1.0 91
+    2300478: Window_minframe_triple_2.1x1.0 92
+    2300480: Window_minframe_triple_2.1x1.0 93
+    2300482: Window_minframe_triple_2.1x1.0 94
+    2300484: Window_minframe_triple_2.1x1.0 95
+    2300486: Window_minframe_triple_2.1x1.0 96
+    2300488: Window_minframe_triple_2.1x1.0 97
+    2300490: Window_minframe_triple_2.1x1.0 98
+    2300492: Window_minframe_triple_2.1x1.0 99
+    2300494: Window_minframe_triple_2.1x1.0#1
+    2300496: Window_minframe_triple_2.1x1.0#1 1
+    2300498: Window_minframe_triple_2.1x1.0#1 2
+    2300500: Window_minframe_triple_2.1x1.0#2
+    2300502: Window_minframe_triple_2.1x1.0#3
+    2300504: Window_minframe_triple_2.1x1.0#3 1
+    2300506: Window_minframe_triple_2.1x1.0#3 2
+    2300508: Window_minframe_triple_2.1x1.0#3 3
+    2300510: Window_minframe_triple_2.1x1.0#4
+    2300512: Window_minframe_triple_2.1x1.0#4 1
+    2300514: Window_minframe_triple_2.1x1.0#4 2
+    2300516: Window_minframe_triple_2.1x1.0#4 3
+    2300518: Window_minframe_triple_2.1x1.0#5
+    2300520: Window_minframe_triple_2.1x1.0#5 1
+    2300522: Window_minframe_triple_2.1x1.0#5 2
+    2300524: Window_minframe_triple_2.1x1.0#5 3
+    2300526: Window_minframe_triple_2.1x1.0#5 4
+    2300528: Window_minframe_triple_2.1x1.0#5 5
+    2300530: Window_minframe_triple_2.1x1.0#5 6
+    2300532: Window_minframe_triple_2.1x1.0#5 7
+    2300534: Window_minframe_triple_2.1x1.0#6
+    2300536: Window_sill_double_1.2x1.2#1
+    2300538: Window_sill_double_1.2x1.2#1 1
+    2300540: Window_sill_double_1.2x1.2#1 10
+    2300542: Window_sill_double_1.2x1.2#1 11
+    2300544: Window_sill_double_1.2x1.2#1 12
+    2300546: Window_sill_double_1.2x1.2#1 13
+    2300548: Window_sill_double_1.2x1.2#1 14
+    2300550: Window_sill_double_1.2x1.2#1 15
+    2300552: Window_sill_double_1.2x1.2#1 16
+    2300554: Window_sill_double_1.2x1.2#1 17
+    2300556: Window_sill_double_1.2x1.2#1 2
+    2300558: Window_sill_double_1.2x1.2#1 3
+    2300560: Window_sill_double_1.2x1.2#1 4
+    2300562: Window_sill_double_1.2x1.2#1 5
+    2300564: Window_sill_double_1.2x1.2#1 6
+    2300566: Window_sill_double_1.2x1.2#1 7
+    2300568: Window_sill_double_1.2x1.2#1 8
+    2300570: Window_sill_double_1.2x1.2#1 9
+    2300572: Window_square
+    2300574: Window_square 1
+    2300576: Window_square 10
+    2300578: Window_square 11
+    2300580: Window_square 12
+    2300582: Window_square 13
+    2300584: Window_square 14
+    2300586: Window_square 15
+    2300588: Window_square 16
+    2300590: Window_square 17
+    2300592: Window_square 18
+    2300594: Window_square 19
+    2300596: Window_square 2
+    2300598: Window_square 20
+    2300600: Window_square 21
+    2300602: Window_square 22
+    2300604: Window_square 23
+    2300606: Window_square 24
+    2300608: Window_square 25
+    2300610: Window_square 26
+    2300612: Window_square 27
+    2300614: Window_square 28
+    2300616: Window_square 29
+    2300618: Window_square 3
+    2300620: Window_square 30
+    2300622: Window_square 31
+    2300624: Window_square 32
+    2300626: Window_square 33
+    2300628: Window_square 34
+    2300630: Window_square 35
+    2300632: Window_square 36
+    2300634: Window_square 37
+    2300636: Window_square 38
+    2300638: Window_square 39
+    2300640: Window_square 4
+    2300642: Window_square 40
+    2300644: Window_square 41
+    2300646: Window_square 42
+    2300648: Window_square 43
+    2300650: Window_square 44
+    2300652: Window_square 45
+    2300654: Window_square 46
+    2300656: Window_square 47
+    2300658: Window_square 48
+    2300660: Window_square 49
+    2300662: Window_square 5
+    2300664: Window_square 50
+    2300666: Window_square 51
+    2300668: Window_square 52
+    2300670: Window_square 53
+    2300672: Window_square 54
+    2300674: Window_square 55
+    2300676: Window_square 56
+    2300678: Window_square 57
+    2300680: Window_square 58
+    2300682: Window_square 59
+    2300684: Window_square 6
+    2300686: Window_square 60
+    2300688: Window_square 61
+    2300690: Window_square 62
+    2300692: Window_square 63
+    2300694: Window_square 64
+    2300696: Window_square 65
+    2300698: Window_square 66
+    2300700: Window_square 67
+    2300702: Window_square 68
+    2300704: Window_square 69
+    2300706: Window_square 7
+    2300708: Window_square 70
+    2300710: Window_square 71
+    2300712: Window_square 72
+    2300714: Window_square 73
+    2300716: Window_square 74
+    2300718: Window_square 75
+    2300720: Window_square 76
+    2300722: Window_square 77
+    2300724: Window_square 78
+    2300726: Window_square 79
+    2300728: Window_square 8
+    2300730: Window_square 80
+    2300732: Window_square 81
+    2300734: Window_square 82
+    2300736: Window_square 83
+    2300738: Window_square 84
+    2300740: Window_square 9
+    3300000: 63002_3d_building
+    3300002: 63002_3d_site
+    3300004: Door_com_double_3.55x2.60
+    3300006: Door_com_double_3.55x2.60 1
+    3300008: Door_com_double_3.55x2.60 2
+    3300010: Door_com_double_3.55x2.60 3
+    3300012: Door_plain_1.0x2.1#1
+    3300014: Door_plain_1.0x2.1#1 1
+    3300016: Door_plain_1.0x2.1#1 2
+    3300018: Door_plain_1.0x2.1#1 3
+    3300020: Door_plain_1.0x2.1#1 4
+    3300022: Door_plain_1.0x2.1#1 5
+    3300024: Door_plain_1.0x2.1#1 6
+    3300026: Door_plain_1.0x2.1#1 7
+    3300028: garage_2.85x2.35#1
+    3300030: garage_2.85x2.35#2
+    3300032: Image 1
+    3300034: scale_obq
+    3300036: tree_conifer_M
+    3300038: tree_conifer_M 1
+    3300040: tree_conifer_M 2
+    3300042: tree_conifer_M 3
+    3300044: tree_conifer_S
+    3300046: tree_conifer_S 1
+    3300048: tree_conifer_S 2
+    3300050: tree_conifer_S 3
+    3300052: tree_conifer_S 4
+    3300054: tree_conifer_S 5
+    3300056: tree_conifer_S 6
+    3300058: tree_round_S
+    3300060: tree_round_S 1
+    3300062: tree_round_S 10
+    3300064: tree_round_S 2
+    3300066: tree_round_S 3
+    3300068: tree_round_S 4
+    3300070: tree_round_S 5
+    3300072: tree_round_S 6
+    3300074: tree_round_S 7
+    3300076: tree_round_S 8
+    3300078: tree_round_S 9
+    3300080: Window_
+    3300082: Window_ 1
+    3300084: Window_#1
+    3300086: Window_minframe_0.73x0.92
+    3300088: Window_minframe_0.73x0.92 1
+    3300090: Window_minframe_0.73x0.92 10
+    3300092: Window_minframe_0.73x0.92 11
+    3300094: Window_minframe_0.73x0.92 12
+    3300096: Window_minframe_0.73x0.92 13
+    3300098: Window_minframe_0.73x0.92 14
+    3300100: Window_minframe_0.73x0.92 15
+    3300102: Window_minframe_0.73x0.92 16
+    3300104: Window_minframe_0.73x0.92 17
+    3300106: Window_minframe_0.73x0.92 18
+    3300108: Window_minframe_0.73x0.92 19
+    3300110: Window_minframe_0.73x0.92 2
+    3300112: Window_minframe_0.73x0.92 20
+    3300114: Window_minframe_0.73x0.92 21
+    3300116: Window_minframe_0.73x0.92 22
+    3300118: Window_minframe_0.73x0.92 23
+    3300120: Window_minframe_0.73x0.92 3
+    3300122: Window_minframe_0.73x0.92 4
+    3300124: Window_minframe_0.73x0.92 5
+    3300126: Window_minframe_0.73x0.92 6
+    3300128: Window_minframe_0.73x0.92 7
+    3300130: Window_minframe_0.73x0.92 8
+    3300132: Window_minframe_0.73x0.92 9
+    3300134: Window_minframe_0.73x0.92#1
+    3300136: Window_minframe_0.73x0.92#2
+    3300138: Window_minframe_0.73x0.92#3
+    3300140: Window_minframe_0.73x0.92#3 1
+    3300142: Window_minframe_0.73x0.92#3 2
+    3300144: Window_minframe_0.73x0.92#3 3
+    3300146: Window_minframe_0.73x0.92#4
+    3300148: Window_minframe_0.73x0.92#4 1
+    3300150: Window_minframe_0.73x0.92#5
+    3300152: Window_minframe_0.73x0.92#5 1
+    3300154: Window_minframe_0.73x0.92#5 2
+    3300156: Window_minframe_0.73x0.92#5 3
+    3300158: Window_minframe_1.44x1.0
+    3300160: Window_minframe_1.44x1.0 1
+    3300162: Window_minframe_1.44x1.0 10
+    3300164: Window_minframe_1.44x1.0 11
+    3300166: Window_minframe_1.44x1.0 12
+    3300168: Window_minframe_1.44x1.0 13
+    3300170: Window_minframe_1.44x1.0 14
+    3300172: Window_minframe_1.44x1.0 15
+    3300174: Window_minframe_1.44x1.0 16
+    3300176: Window_minframe_1.44x1.0 17
+    3300178: Window_minframe_1.44x1.0 18
+    3300180: Window_minframe_1.44x1.0 19
+    3300182: Window_minframe_1.44x1.0 2
+    3300184: Window_minframe_1.44x1.0 20
+    3300186: Window_minframe_1.44x1.0 21
+    3300188: Window_minframe_1.44x1.0 22
+    3300190: Window_minframe_1.44x1.0 23
+    3300192: Window_minframe_1.44x1.0 24
+    3300194: Window_minframe_1.44x1.0 25
+    3300196: Window_minframe_1.44x1.0 26
+    3300198: Window_minframe_1.44x1.0 27
+    3300200: Window_minframe_1.44x1.0 28
+    3300202: Window_minframe_1.44x1.0 29
+    3300204: Window_minframe_1.44x1.0 3
+    3300206: Window_minframe_1.44x1.0 30
+    3300208: Window_minframe_1.44x1.0 31
+    3300210: Window_minframe_1.44x1.0 4
+    3300212: Window_minframe_1.44x1.0 5
+    3300214: Window_minframe_1.44x1.0 6
+    3300216: Window_minframe_1.44x1.0 7
+    3300218: Window_minframe_1.44x1.0 8
+    3300220: Window_minframe_1.44x1.0 9
+    3300222: Window_minframe_1.44x1.0#1
+    3300224: Window_minframe_1.44x1.0#1 1
+    3300226: Window_minframe_1.44x1.0#1 2
+    3300228: Window_minframe_1.44x1.0#1 3
+    3300230: Window_minframe_triple_2.1x1.0
+    3300232: Window_minframe_triple_2.1x1.0 1
+    3300234: Window_minframe_triple_2.1x1.0 10
+    3300236: Window_minframe_triple_2.1x1.0 100
+    3300238: Window_minframe_triple_2.1x1.0 101
+    3300240: Window_minframe_triple_2.1x1.0 102
+    3300242: Window_minframe_triple_2.1x1.0 103
+    3300244: Window_minframe_triple_2.1x1.0 104
+    3300246: Window_minframe_triple_2.1x1.0 105
+    3300248: Window_minframe_triple_2.1x1.0 106
+    3300250: Window_minframe_triple_2.1x1.0 107
+    3300252: Window_minframe_triple_2.1x1.0 108
+    3300254: Window_minframe_triple_2.1x1.0 109
+    3300256: Window_minframe_triple_2.1x1.0 11
+    3300258: Window_minframe_triple_2.1x1.0 110
+    3300260: Window_minframe_triple_2.1x1.0 111
+    3300262: Window_minframe_triple_2.1x1.0 112
+    3300264: Window_minframe_triple_2.1x1.0 113
+    3300266: Window_minframe_triple_2.1x1.0 114
+    3300268: Window_minframe_triple_2.1x1.0 115
+    3300270: Window_minframe_triple_2.1x1.0 116
+    3300272: Window_minframe_triple_2.1x1.0 117
+    3300274: Window_minframe_triple_2.1x1.0 118
+    3300276: Window_minframe_triple_2.1x1.0 119
+    3300278: Window_minframe_triple_2.1x1.0 12
+    3300280: Window_minframe_triple_2.1x1.0 120
+    3300282: Window_minframe_triple_2.1x1.0 121
+    3300284: Window_minframe_triple_2.1x1.0 122
+    3300286: Window_minframe_triple_2.1x1.0 123
+    3300288: Window_minframe_triple_2.1x1.0 124
+    3300290: Window_minframe_triple_2.1x1.0 125
+    3300292: Window_minframe_triple_2.1x1.0 126
+    3300294: Window_minframe_triple_2.1x1.0 127
+    3300296: Window_minframe_triple_2.1x1.0 128
+    3300298: Window_minframe_triple_2.1x1.0 129
+    3300300: Window_minframe_triple_2.1x1.0 13
+    3300302: Window_minframe_triple_2.1x1.0 130
+    3300304: Window_minframe_triple_2.1x1.0 131
+    3300306: Window_minframe_triple_2.1x1.0 14
+    3300308: Window_minframe_triple_2.1x1.0 15
+    3300310: Window_minframe_triple_2.1x1.0 16
+    3300312: Window_minframe_triple_2.1x1.0 17
+    3300314: Window_minframe_triple_2.1x1.0 18
+    3300316: Window_minframe_triple_2.1x1.0 19
+    3300318: Window_minframe_triple_2.1x1.0 2
+    3300320: Window_minframe_triple_2.1x1.0 20
+    3300322: Window_minframe_triple_2.1x1.0 21
+    3300324: Window_minframe_triple_2.1x1.0 22
+    3300326: Window_minframe_triple_2.1x1.0 23
+    3300328: Window_minframe_triple_2.1x1.0 24
+    3300330: Window_minframe_triple_2.1x1.0 25
+    3300332: Window_minframe_triple_2.1x1.0 26
+    3300334: Window_minframe_triple_2.1x1.0 27
+    3300336: Window_minframe_triple_2.1x1.0 28
+    3300338: Window_minframe_triple_2.1x1.0 29
+    3300340: Window_minframe_triple_2.1x1.0 3
+    3300342: Window_minframe_triple_2.1x1.0 30
+    3300344: Window_minframe_triple_2.1x1.0 31
+    3300346: Window_minframe_triple_2.1x1.0 32
+    3300348: Window_minframe_triple_2.1x1.0 33
+    3300350: Window_minframe_triple_2.1x1.0 34
+    3300352: Window_minframe_triple_2.1x1.0 35
+    3300354: Window_minframe_triple_2.1x1.0 36
+    3300356: Window_minframe_triple_2.1x1.0 37
+    3300358: Window_minframe_triple_2.1x1.0 38
+    3300360: Window_minframe_triple_2.1x1.0 39
+    3300362: Window_minframe_triple_2.1x1.0 4
+    3300364: Window_minframe_triple_2.1x1.0 40
+    3300366: Window_minframe_triple_2.1x1.0 41
+    3300368: Window_minframe_triple_2.1x1.0 42
+    3300370: Window_minframe_triple_2.1x1.0 43
+    3300372: Window_minframe_triple_2.1x1.0 44
+    3300374: Window_minframe_triple_2.1x1.0 45
+    3300376: Window_minframe_triple_2.1x1.0 46
+    3300378: Window_minframe_triple_2.1x1.0 47
+    3300380: Window_minframe_triple_2.1x1.0 48
+    3300382: Window_minframe_triple_2.1x1.0 49
+    3300384: Window_minframe_triple_2.1x1.0 5
+    3300386: Window_minframe_triple_2.1x1.0 50
+    3300388: Window_minframe_triple_2.1x1.0 51
+    3300390: Window_minframe_triple_2.1x1.0 52
+    3300392: Window_minframe_triple_2.1x1.0 53
+    3300394: Window_minframe_triple_2.1x1.0 54
+    3300396: Window_minframe_triple_2.1x1.0 55
+    3300398: Window_minframe_triple_2.1x1.0 56
+    3300400: Window_minframe_triple_2.1x1.0 57
+    3300402: Window_minframe_triple_2.1x1.0 58
+    3300404: Window_minframe_triple_2.1x1.0 59
+    3300406: Window_minframe_triple_2.1x1.0 6
+    3300408: Window_minframe_triple_2.1x1.0 60
+    3300410: Window_minframe_triple_2.1x1.0 61
+    3300412: Window_minframe_triple_2.1x1.0 62
+    3300414: Window_minframe_triple_2.1x1.0 63
+    3300416: Window_minframe_triple_2.1x1.0 64
+    3300418: Window_minframe_triple_2.1x1.0 65
+    3300420: Window_minframe_triple_2.1x1.0 66
+    3300422: Window_minframe_triple_2.1x1.0 67
+    3300424: Window_minframe_triple_2.1x1.0 68
+    3300426: Window_minframe_triple_2.1x1.0 69
+    3300428: Window_minframe_triple_2.1x1.0 7
+    3300430: Window_minframe_triple_2.1x1.0 70
+    3300432: Window_minframe_triple_2.1x1.0 71
+    3300434: Window_minframe_triple_2.1x1.0 72
+    3300436: Window_minframe_triple_2.1x1.0 73
+    3300438: Window_minframe_triple_2.1x1.0 74
+    3300440: Window_minframe_triple_2.1x1.0 75
+    3300442: Window_minframe_triple_2.1x1.0 76
+    3300444: Window_minframe_triple_2.1x1.0 77
+    3300446: Window_minframe_triple_2.1x1.0 78
+    3300448: Window_minframe_triple_2.1x1.0 79
+    3300450: Window_minframe_triple_2.1x1.0 8
+    3300452: Window_minframe_triple_2.1x1.0 80
+    3300454: Window_minframe_triple_2.1x1.0 81
+    3300456: Window_minframe_triple_2.1x1.0 82
+    3300458: Window_minframe_triple_2.1x1.0 83
+    3300460: Window_minframe_triple_2.1x1.0 84
+    3300462: Window_minframe_triple_2.1x1.0 85
+    3300464: Window_minframe_triple_2.1x1.0 86
+    3300466: Window_minframe_triple_2.1x1.0 87
+    3300468: Window_minframe_triple_2.1x1.0 88
+    3300470: Window_minframe_triple_2.1x1.0 89
+    3300472: Window_minframe_triple_2.1x1.0 9
+    3300474: Window_minframe_triple_2.1x1.0 90
+    3300476: Window_minframe_triple_2.1x1.0 91
+    3300478: Window_minframe_triple_2.1x1.0 92
+    3300480: Window_minframe_triple_2.1x1.0 93
+    3300482: Window_minframe_triple_2.1x1.0 94
+    3300484: Window_minframe_triple_2.1x1.0 95
+    3300486: Window_minframe_triple_2.1x1.0 96
+    3300488: Window_minframe_triple_2.1x1.0 97
+    3300490: Window_minframe_triple_2.1x1.0 98
+    3300492: Window_minframe_triple_2.1x1.0 99
+    3300494: Window_minframe_triple_2.1x1.0#1
+    3300496: Window_minframe_triple_2.1x1.0#1 1
+    3300498: Window_minframe_triple_2.1x1.0#1 2
+    3300500: Window_minframe_triple_2.1x1.0#2
+    3300502: Window_minframe_triple_2.1x1.0#3
+    3300504: Window_minframe_triple_2.1x1.0#3 1
+    3300506: Window_minframe_triple_2.1x1.0#3 2
+    3300508: Window_minframe_triple_2.1x1.0#3 3
+    3300510: Window_minframe_triple_2.1x1.0#4
+    3300512: Window_minframe_triple_2.1x1.0#4 1
+    3300514: Window_minframe_triple_2.1x1.0#4 2
+    3300516: Window_minframe_triple_2.1x1.0#4 3
+    3300518: Window_minframe_triple_2.1x1.0#5
+    3300520: Window_minframe_triple_2.1x1.0#5 1
+    3300522: Window_minframe_triple_2.1x1.0#5 2
+    3300524: Window_minframe_triple_2.1x1.0#5 3
+    3300526: Window_minframe_triple_2.1x1.0#5 4
+    3300528: Window_minframe_triple_2.1x1.0#5 5
+    3300530: Window_minframe_triple_2.1x1.0#5 6
+    3300532: Window_minframe_triple_2.1x1.0#5 7
+    3300534: Window_minframe_triple_2.1x1.0#6
+    3300536: Window_sill_double_1.2x1.2#1
+    3300538: Window_sill_double_1.2x1.2#1 1
+    3300540: Window_sill_double_1.2x1.2#1 10
+    3300542: Window_sill_double_1.2x1.2#1 11
+    3300544: Window_sill_double_1.2x1.2#1 12
+    3300546: Window_sill_double_1.2x1.2#1 13
+    3300548: Window_sill_double_1.2x1.2#1 14
+    3300550: Window_sill_double_1.2x1.2#1 15
+    3300552: Window_sill_double_1.2x1.2#1 16
+    3300554: Window_sill_double_1.2x1.2#1 17
+    3300556: Window_sill_double_1.2x1.2#1 2
+    3300558: Window_sill_double_1.2x1.2#1 3
+    3300560: Window_sill_double_1.2x1.2#1 4
+    3300562: Window_sill_double_1.2x1.2#1 5
+    3300564: Window_sill_double_1.2x1.2#1 6
+    3300566: Window_sill_double_1.2x1.2#1 7
+    3300568: Window_sill_double_1.2x1.2#1 8
+    3300570: Window_sill_double_1.2x1.2#1 9
+    3300572: Window_square
+    3300574: Window_square 1
+    3300576: Window_square 10
+    3300578: Window_square 11
+    3300580: Window_square 12
+    3300582: Window_square 13
+    3300584: Window_square 14
+    3300586: Window_square 15
+    3300588: Window_square 16
+    3300590: Window_square 17
+    3300592: Window_square 18
+    3300594: Window_square 19
+    3300596: Window_square 2
+    3300598: Window_square 20
+    3300600: Window_square 21
+    3300602: Window_square 22
+    3300604: Window_square 23
+    3300606: Window_square 24
+    3300608: Window_square 25
+    3300610: Window_square 26
+    3300612: Window_square 27
+    3300614: Window_square 28
+    3300616: Window_square 29
+    3300618: Window_square 3
+    3300620: Window_square 30
+    3300622: Window_square 31
+    3300624: Window_square 32
+    3300626: Window_square 33
+    3300628: Window_square 34
+    3300630: Window_square 35
+    3300632: Window_square 36
+    3300634: Window_square 37
+    3300636: Window_square 38
+    3300638: Window_square 39
+    3300640: Window_square 4
+    3300642: Window_square 40
+    3300644: Window_square 41
+    3300646: Window_square 42
+    3300648: Window_square 43
+    3300650: Window_square 44
+    3300652: Window_square 45
+    3300654: Window_square 46
+    3300656: Window_square 47
+    3300658: Window_square 48
+    3300660: Window_square 49
+    3300662: Window_square 5
+    3300664: Window_square 50
+    3300666: Window_square 51
+    3300668: Window_square 52
+    3300670: Window_square 53
+    3300672: Window_square 54
+    3300674: Window_square 55
+    3300676: Window_square 56
+    3300678: Window_square 57
+    3300680: Window_square 58
+    3300682: Window_square 59
+    3300684: Window_square 6
+    3300686: Window_square 60
+    3300688: Window_square 61
+    3300690: Window_square 62
+    3300692: Window_square 63
+    3300694: Window_square 64
+    3300696: Window_square 65
+    3300698: Window_square 66
+    3300700: Window_square 67
+    3300702: Window_square 68
+    3300704: Window_square 69
+    3300706: Window_square 7
+    3300708: Window_square 70
+    3300710: Window_square 71
+    3300712: Window_square 72
+    3300714: Window_square 73
+    3300716: Window_square 74
+    3300718: Window_square 75
+    3300720: Window_square 76
+    3300722: Window_square 77
+    3300724: Window_square 78
+    3300726: Window_square 79
+    3300728: Window_square 8
+    3300730: Window_square 80
+    3300732: Window_square 81
+    3300734: Window_square 82
+    3300736: Window_square 83
+    3300738: Window_square 84
+    3300740: Window_square 9
+    4300000: Mesh 63002-00
+    4300002: Mesh scale_obq
+    4300004: Mesh 63002_3d_site
+    4300006: Mesh garage_2.85x2.35#2
+    4300008: Mesh tree_round_S
+    4300010: Mesh tree_conifer_S
+    4300012: Mesh tree_conifer_M
+    4300014: Mesh 63002_3d_building
+    4300016: Mesh Window_minframe_triple_2.1x1.0
+    4300018: Mesh Window_minframe_1.44x1.0
+    4300020: Mesh Window_minframe_0.73x0.92
+    4300022: Mesh Window_minframe_0.73x0.92#3
+    4300024: Mesh Window_minframe_triple_2.1x1.0#2
+    4300026: Mesh Door_com_double_3.55x2.60
+    4300028: Mesh Window_minframe_0.73x0.92#1
+    4300030: Mesh Door_plain_1.0x2.1#1
+    4300032: Mesh Window_minframe_triple_2.1x1.0#1
+    4300034: Mesh Window_minframe_0.73x0.92#2
+    4300036: Mesh Window_sill_double_1.2x1.2#1
+    4300038: Mesh garage_2.85x2.35#1
+    4300040: Mesh Window_minframe_0.73x0.92#4
+    4300042: Mesh Window_minframe_triple_2.1x1.0#5
+    4300044: Mesh Window_minframe_triple_2.1x1.0#6
+    4300046: Mesh Window_minframe_triple_2.1x1.0#3
+    4300048: Mesh Window_minframe_0.73x0.92#5
+    4300050: Mesh Window_minframe_1.44x1.0#1
+    4300052: Mesh Window_#1
+    4300054: Mesh Window_minframe_triple_2.1x1.0#4
+    4300056: Mesh Window_square
+    4300058: Mesh Window_
+    6400000: 63002_3d_building
+    6400002: 63002_3d_site
+    6400004: Door_com_double_3.55x2.60
+    6400006: Door_com_double_3.55x2.60 1
+    6400008: Door_com_double_3.55x2.60 2
+    6400010: Door_com_double_3.55x2.60 3
+    6400012: Door_plain_1.0x2.1#1
+    6400014: Door_plain_1.0x2.1#1 1
+    6400016: Door_plain_1.0x2.1#1 2
+    6400018: Door_plain_1.0x2.1#1 3
+    6400020: Door_plain_1.0x2.1#1 4
+    6400022: Door_plain_1.0x2.1#1 5
+    6400024: Door_plain_1.0x2.1#1 6
+    6400026: Door_plain_1.0x2.1#1 7
+    6400028: garage_2.85x2.35#1
+    6400030: garage_2.85x2.35#2
+    6400032: Image 1
+    6400034: scale_obq
+    6400036: tree_conifer_M
+    6400038: tree_conifer_M 1
+    6400040: tree_conifer_M 2
+    6400042: tree_conifer_M 3
+    6400044: tree_conifer_S
+    6400046: tree_conifer_S 1
+    6400048: tree_conifer_S 2
+    6400050: tree_conifer_S 3
+    6400052: tree_conifer_S 4
+    6400054: tree_conifer_S 5
+    6400056: tree_conifer_S 6
+    6400058: tree_round_S
+    6400060: tree_round_S 1
+    6400062: tree_round_S 10
+    6400064: tree_round_S 2
+    6400066: tree_round_S 3
+    6400068: tree_round_S 4
+    6400070: tree_round_S 5
+    6400072: tree_round_S 6
+    6400074: tree_round_S 7
+    6400076: tree_round_S 8
+    6400078: tree_round_S 9
+    6400080: Window_
+    6400082: Window_ 1
+    6400084: Window_#1
+    6400086: Window_minframe_0.73x0.92
+    6400088: Window_minframe_0.73x0.92 1
+    6400090: Window_minframe_0.73x0.92 10
+    6400092: Window_minframe_0.73x0.92 11
+    6400094: Window_minframe_0.73x0.92 12
+    6400096: Window_minframe_0.73x0.92 13
+    6400098: Window_minframe_0.73x0.92 14
+    6400100: Window_minframe_0.73x0.92 15
+    6400102: Window_minframe_0.73x0.92 16
+    6400104: Window_minframe_0.73x0.92 17
+    6400106: Window_minframe_0.73x0.92 18
+    6400108: Window_minframe_0.73x0.92 19
+    6400110: Window_minframe_0.73x0.92 2
+    6400112: Window_minframe_0.73x0.92 20
+    6400114: Window_minframe_0.73x0.92 21
+    6400116: Window_minframe_0.73x0.92 22
+    6400118: Window_minframe_0.73x0.92 23
+    6400120: Window_minframe_0.73x0.92 3
+    6400122: Window_minframe_0.73x0.92 4
+    6400124: Window_minframe_0.73x0.92 5
+    6400126: Window_minframe_0.73x0.92 6
+    6400128: Window_minframe_0.73x0.92 7
+    6400130: Window_minframe_0.73x0.92 8
+    6400132: Window_minframe_0.73x0.92 9
+    6400134: Window_minframe_0.73x0.92#1
+    6400136: Window_minframe_0.73x0.92#2
+    6400138: Window_minframe_0.73x0.92#3
+    6400140: Window_minframe_0.73x0.92#3 1
+    6400142: Window_minframe_0.73x0.92#3 2
+    6400144: Window_minframe_0.73x0.92#3 3
+    6400146: Window_minframe_0.73x0.92#4
+    6400148: Window_minframe_0.73x0.92#4 1
+    6400150: Window_minframe_0.73x0.92#5
+    6400152: Window_minframe_0.73x0.92#5 1
+    6400154: Window_minframe_0.73x0.92#5 2
+    6400156: Window_minframe_0.73x0.92#5 3
+    6400158: Window_minframe_1.44x1.0
+    6400160: Window_minframe_1.44x1.0 1
+    6400162: Window_minframe_1.44x1.0 10
+    6400164: Window_minframe_1.44x1.0 11
+    6400166: Window_minframe_1.44x1.0 12
+    6400168: Window_minframe_1.44x1.0 13
+    6400170: Window_minframe_1.44x1.0 14
+    6400172: Window_minframe_1.44x1.0 15
+    6400174: Window_minframe_1.44x1.0 16
+    6400176: Window_minframe_1.44x1.0 17
+    6400178: Window_minframe_1.44x1.0 18
+    6400180: Window_minframe_1.44x1.0 19
+    6400182: Window_minframe_1.44x1.0 2
+    6400184: Window_minframe_1.44x1.0 20
+    6400186: Window_minframe_1.44x1.0 21
+    6400188: Window_minframe_1.44x1.0 22
+    6400190: Window_minframe_1.44x1.0 23
+    6400192: Window_minframe_1.44x1.0 24
+    6400194: Window_minframe_1.44x1.0 25
+    6400196: Window_minframe_1.44x1.0 26
+    6400198: Window_minframe_1.44x1.0 27
+    6400200: Window_minframe_1.44x1.0 28
+    6400202: Window_minframe_1.44x1.0 29
+    6400204: Window_minframe_1.44x1.0 3
+    6400206: Window_minframe_1.44x1.0 30
+    6400208: Window_minframe_1.44x1.0 31
+    6400210: Window_minframe_1.44x1.0 4
+    6400212: Window_minframe_1.44x1.0 5
+    6400214: Window_minframe_1.44x1.0 6
+    6400216: Window_minframe_1.44x1.0 7
+    6400218: Window_minframe_1.44x1.0 8
+    6400220: Window_minframe_1.44x1.0 9
+    6400222: Window_minframe_1.44x1.0#1
+    6400224: Window_minframe_1.44x1.0#1 1
+    6400226: Window_minframe_1.44x1.0#1 2
+    6400228: Window_minframe_1.44x1.0#1 3
+    6400230: Window_minframe_triple_2.1x1.0
+    6400232: Window_minframe_triple_2.1x1.0 1
+    6400234: Window_minframe_triple_2.1x1.0 10
+    6400236: Window_minframe_triple_2.1x1.0 100
+    6400238: Window_minframe_triple_2.1x1.0 101
+    6400240: Window_minframe_triple_2.1x1.0 102
+    6400242: Window_minframe_triple_2.1x1.0 103
+    6400244: Window_minframe_triple_2.1x1.0 104
+    6400246: Window_minframe_triple_2.1x1.0 105
+    6400248: Window_minframe_triple_2.1x1.0 106
+    6400250: Window_minframe_triple_2.1x1.0 107
+    6400252: Window_minframe_triple_2.1x1.0 108
+    6400254: Window_minframe_triple_2.1x1.0 109
+    6400256: Window_minframe_triple_2.1x1.0 11
+    6400258: Window_minframe_triple_2.1x1.0 110
+    6400260: Window_minframe_triple_2.1x1.0 111
+    6400262: Window_minframe_triple_2.1x1.0 112
+    6400264: Window_minframe_triple_2.1x1.0 113
+    6400266: Window_minframe_triple_2.1x1.0 114
+    6400268: Window_minframe_triple_2.1x1.0 115
+    6400270: Window_minframe_triple_2.1x1.0 116
+    6400272: Window_minframe_triple_2.1x1.0 117
+    6400274: Window_minframe_triple_2.1x1.0 118
+    6400276: Window_minframe_triple_2.1x1.0 119
+    6400278: Window_minframe_triple_2.1x1.0 12
+    6400280: Window_minframe_triple_2.1x1.0 120
+    6400282: Window_minframe_triple_2.1x1.0 121
+    6400284: Window_minframe_triple_2.1x1.0 122
+    6400286: Window_minframe_triple_2.1x1.0 123
+    6400288: Window_minframe_triple_2.1x1.0 124
+    6400290: Window_minframe_triple_2.1x1.0 125
+    6400292: Window_minframe_triple_2.1x1.0 126
+    6400294: Window_minframe_triple_2.1x1.0 127
+    6400296: Window_minframe_triple_2.1x1.0 128
+    6400298: Window_minframe_triple_2.1x1.0 129
+    6400300: Window_minframe_triple_2.1x1.0 13
+    6400302: Window_minframe_triple_2.1x1.0 130
+    6400304: Window_minframe_triple_2.1x1.0 131
+    6400306: Window_minframe_triple_2.1x1.0 14
+    6400308: Window_minframe_triple_2.1x1.0 15
+    6400310: Window_minframe_triple_2.1x1.0 16
+    6400312: Window_minframe_triple_2.1x1.0 17
+    6400314: Window_minframe_triple_2.1x1.0 18
+    6400316: Window_minframe_triple_2.1x1.0 19
+    6400318: Window_minframe_triple_2.1x1.0 2
+    6400320: Window_minframe_triple_2.1x1.0 20
+    6400322: Window_minframe_triple_2.1x1.0 21
+    6400324: Window_minframe_triple_2.1x1.0 22
+    6400326: Window_minframe_triple_2.1x1.0 23
+    6400328: Window_minframe_triple_2.1x1.0 24
+    6400330: Window_minframe_triple_2.1x1.0 25
+    6400332: Window_minframe_triple_2.1x1.0 26
+    6400334: Window_minframe_triple_2.1x1.0 27
+    6400336: Window_minframe_triple_2.1x1.0 28
+    6400338: Window_minframe_triple_2.1x1.0 29
+    6400340: Window_minframe_triple_2.1x1.0 3
+    6400342: Window_minframe_triple_2.1x1.0 30
+    6400344: Window_minframe_triple_2.1x1.0 31
+    6400346: Window_minframe_triple_2.1x1.0 32
+    6400348: Window_minframe_triple_2.1x1.0 33
+    6400350: Window_minframe_triple_2.1x1.0 34
+    6400352: Window_minframe_triple_2.1x1.0 35
+    6400354: Window_minframe_triple_2.1x1.0 36
+    6400356: Window_minframe_triple_2.1x1.0 37
+    6400358: Window_minframe_triple_2.1x1.0 38
+    6400360: Window_minframe_triple_2.1x1.0 39
+    6400362: Window_minframe_triple_2.1x1.0 4
+    6400364: Window_minframe_triple_2.1x1.0 40
+    6400366: Window_minframe_triple_2.1x1.0 41
+    6400368: Window_minframe_triple_2.1x1.0 42
+    6400370: Window_minframe_triple_2.1x1.0 43
+    6400372: Window_minframe_triple_2.1x1.0 44
+    6400374: Window_minframe_triple_2.1x1.0 45
+    6400376: Window_minframe_triple_2.1x1.0 46
+    6400378: Window_minframe_triple_2.1x1.0 47
+    6400380: Window_minframe_triple_2.1x1.0 48
+    6400382: Window_minframe_triple_2.1x1.0 49
+    6400384: Window_minframe_triple_2.1x1.0 5
+    6400386: Window_minframe_triple_2.1x1.0 50
+    6400388: Window_minframe_triple_2.1x1.0 51
+    6400390: Window_minframe_triple_2.1x1.0 52
+    6400392: Window_minframe_triple_2.1x1.0 53
+    6400394: Window_minframe_triple_2.1x1.0 54
+    6400396: Window_minframe_triple_2.1x1.0 55
+    6400398: Window_minframe_triple_2.1x1.0 56
+    6400400: Window_minframe_triple_2.1x1.0 57
+    6400402: Window_minframe_triple_2.1x1.0 58
+    6400404: Window_minframe_triple_2.1x1.0 59
+    6400406: Window_minframe_triple_2.1x1.0 6
+    6400408: Window_minframe_triple_2.1x1.0 60
+    6400410: Window_minframe_triple_2.1x1.0 61
+    6400412: Window_minframe_triple_2.1x1.0 62
+    6400414: Window_minframe_triple_2.1x1.0 63
+    6400416: Window_minframe_triple_2.1x1.0 64
+    6400418: Window_minframe_triple_2.1x1.0 65
+    6400420: Window_minframe_triple_2.1x1.0 66
+    6400422: Window_minframe_triple_2.1x1.0 67
+    6400424: Window_minframe_triple_2.1x1.0 68
+    6400426: Window_minframe_triple_2.1x1.0 69
+    6400428: Window_minframe_triple_2.1x1.0 7
+    6400430: Window_minframe_triple_2.1x1.0 70
+    6400432: Window_minframe_triple_2.1x1.0 71
+    6400434: Window_minframe_triple_2.1x1.0 72
+    6400436: Window_minframe_triple_2.1x1.0 73
+    6400438: Window_minframe_triple_2.1x1.0 74
+    6400440: Window_minframe_triple_2.1x1.0 75
+    6400442: Window_minframe_triple_2.1x1.0 76
+    6400444: Window_minframe_triple_2.1x1.0 77
+    6400446: Window_minframe_triple_2.1x1.0 78
+    6400448: Window_minframe_triple_2.1x1.0 79
+    6400450: Window_minframe_triple_2.1x1.0 8
+    6400452: Window_minframe_triple_2.1x1.0 80
+    6400454: Window_minframe_triple_2.1x1.0 81
+    6400456: Window_minframe_triple_2.1x1.0 82
+    6400458: Window_minframe_triple_2.1x1.0 83
+    6400460: Window_minframe_triple_2.1x1.0 84
+    6400462: Window_minframe_triple_2.1x1.0 85
+    6400464: Window_minframe_triple_2.1x1.0 86
+    6400466: Window_minframe_triple_2.1x1.0 87
+    6400468: Window_minframe_triple_2.1x1.0 88
+    6400470: Window_minframe_triple_2.1x1.0 89
+    6400472: Window_minframe_triple_2.1x1.0 9
+    6400474: Window_minframe_triple_2.1x1.0 90
+    6400476: Window_minframe_triple_2.1x1.0 91
+    6400478: Window_minframe_triple_2.1x1.0 92
+    6400480: Window_minframe_triple_2.1x1.0 93
+    6400482: Window_minframe_triple_2.1x1.0 94
+    6400484: Window_minframe_triple_2.1x1.0 95
+    6400486: Window_minframe_triple_2.1x1.0 96
+    6400488: Window_minframe_triple_2.1x1.0 97
+    6400490: Window_minframe_triple_2.1x1.0 98
+    6400492: Window_minframe_triple_2.1x1.0 99
+    6400494: Window_minframe_triple_2.1x1.0#1
+    6400496: Window_minframe_triple_2.1x1.0#1 1
+    6400498: Window_minframe_triple_2.1x1.0#1 2
+    6400500: Window_minframe_triple_2.1x1.0#2
+    6400502: Window_minframe_triple_2.1x1.0#3
+    6400504: Window_minframe_triple_2.1x1.0#3 1
+    6400506: Window_minframe_triple_2.1x1.0#3 2
+    6400508: Window_minframe_triple_2.1x1.0#3 3
+    6400510: Window_minframe_triple_2.1x1.0#4
+    6400512: Window_minframe_triple_2.1x1.0#4 1
+    6400514: Window_minframe_triple_2.1x1.0#4 2
+    6400516: Window_minframe_triple_2.1x1.0#4 3
+    6400518: Window_minframe_triple_2.1x1.0#5
+    6400520: Window_minframe_triple_2.1x1.0#5 1
+    6400522: Window_minframe_triple_2.1x1.0#5 2
+    6400524: Window_minframe_triple_2.1x1.0#5 3
+    6400526: Window_minframe_triple_2.1x1.0#5 4
+    6400528: Window_minframe_triple_2.1x1.0#5 5
+    6400530: Window_minframe_triple_2.1x1.0#5 6
+    6400532: Window_minframe_triple_2.1x1.0#5 7
+    6400534: Window_minframe_triple_2.1x1.0#6
+    6400536: Window_sill_double_1.2x1.2#1
+    6400538: Window_sill_double_1.2x1.2#1 1
+    6400540: Window_sill_double_1.2x1.2#1 10
+    6400542: Window_sill_double_1.2x1.2#1 11
+    6400544: Window_sill_double_1.2x1.2#1 12
+    6400546: Window_sill_double_1.2x1.2#1 13
+    6400548: Window_sill_double_1.2x1.2#1 14
+    6400550: Window_sill_double_1.2x1.2#1 15
+    6400552: Window_sill_double_1.2x1.2#1 16
+    6400554: Window_sill_double_1.2x1.2#1 17
+    6400556: Window_sill_double_1.2x1.2#1 2
+    6400558: Window_sill_double_1.2x1.2#1 3
+    6400560: Window_sill_double_1.2x1.2#1 4
+    6400562: Window_sill_double_1.2x1.2#1 5
+    6400564: Window_sill_double_1.2x1.2#1 6
+    6400566: Window_sill_double_1.2x1.2#1 7
+    6400568: Window_sill_double_1.2x1.2#1 8
+    6400570: Window_sill_double_1.2x1.2#1 9
+    6400572: Window_square
+    6400574: Window_square 1
+    6400576: Window_square 10
+    6400578: Window_square 11
+    6400580: Window_square 12
+    6400582: Window_square 13
+    6400584: Window_square 14
+    6400586: Window_square 15
+    6400588: Window_square 16
+    6400590: Window_square 17
+    6400592: Window_square 18
+    6400594: Window_square 19
+    6400596: Window_square 2
+    6400598: Window_square 20
+    6400600: Window_square 21
+    6400602: Window_square 22
+    6400604: Window_square 23
+    6400606: Window_square 24
+    6400608: Window_square 25
+    6400610: Window_square 26
+    6400612: Window_square 27
+    6400614: Window_square 28
+    6400616: Window_square 29
+    6400618: Window_square 3
+    6400620: Window_square 30
+    6400622: Window_square 31
+    6400624: Window_square 32
+    6400626: Window_square 33
+    6400628: Window_square 34
+    6400630: Window_square 35
+    6400632: Window_square 36
+    6400634: Window_square 37
+    6400636: Window_square 38
+    6400638: Window_square 39
+    6400640: Window_square 4
+    6400642: Window_square 40
+    6400644: Window_square 41
+    6400646: Window_square 42
+    6400648: Window_square 43
+    6400650: Window_square 44
+    6400652: Window_square 45
+    6400654: Window_square 46
+    6400656: Window_square 47
+    6400658: Window_square 48
+    6400660: Window_square 49
+    6400662: Window_square 5
+    6400664: Window_square 50
+    6400666: Window_square 51
+    6400668: Window_square 52
+    6400670: Window_square 53
+    6400672: Window_square 54
+    6400674: Window_square 55
+    6400676: Window_square 56
+    6400678: Window_square 57
+    6400680: Window_square 58
+    6400682: Window_square 59
+    6400684: Window_square 6
+    6400686: Window_square 60
+    6400688: Window_square 61
+    6400690: Window_square 62
+    6400692: Window_square 63
+    6400694: Window_square 64
+    6400696: Window_square 65
+    6400698: Window_square 66
+    6400700: Window_square 67
+    6400702: Window_square 68
+    6400704: Window_square 69
+    6400706: Window_square 7
+    6400708: Window_square 70
+    6400710: Window_square 71
+    6400712: Window_square 72
+    6400714: Window_square 73
+    6400716: Window_square 74
+    6400718: Window_square 75
+    6400720: Window_square 76
+    6400722: Window_square 77
+    6400724: Window_square 78
+    6400726: Window_square 79
+    6400728: Window_square 8
+    6400730: Window_square 80
+    6400732: Window_square 81
+    6400734: Window_square 82
+    6400736: Window_square 83
+    6400738: Window_square 84
+    6400740: Window_square 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 57afd87272a6c184dad3cb61255151f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApertureGlass
+    second: {fileID: 2100000, guid: d406eb5d286989b45846ee421a5a2a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: 6f7868385f83591449426f40c051f20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_Water1
+    second: {fileID: 2100000, guid: dc9d4876dc226c7489f6a60e2f95eb06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_accent
+    second: {fileID: 2100000, guid: 8b943e0ccc39aa044af1a1de919758db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 386c43cf62cc08c42b94f3ec1226bb7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: 5d639e90f2301ac43a843b288874210a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_general
+    second: {fileID: 2100000, guid: 5534febfe9e466448a7494934d9f1d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 4452cb2af1b7e26409ef0da7d6d81040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: cd5cf6d36faddca4e90e1a5a3c424206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: f842249f99ae22947a95a06e053683ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture
+    second: {fileID: 2100000, guid: 286bd55c99c6c004bb9d3716c7e00d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_turf_solid
+    second: {fileID: 2100000, guid: 2dbcbc8730ab2d447a7ddb3a86800844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 8c57282e13ea9d44da92e4e660c157ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree2
+    second: {fileID: 2100000, guid: b06ce6e8d57c3cb42b13e1710eb5e540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 0d5cbfa5101ecb54ab24151cd2304991, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

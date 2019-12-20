@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: f7a5f0009038b26428082c0941d2420c
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6d999267d96a095403068bc613f20dfe
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 302.2211, y: 183.85959, z: -281.53253}
+      lookAt: {x: -4240.649, y: -2756.4097, z: 5132.7607}
+      up: {x: -0.2468884, y: 0.92329025, z: 0.29424706}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 38.89941, y: 98.48532, z: 51.122196}
+        lookAt: {x: 38.89941, y: 4.8022, z: 51.122196}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 9197.015
+        isPerspective: 0
+      name: plan_ov
+    - camera:
+        position: {x: 302.2211, y: 183.85959, z: -281.53253}
+        lookAt: {x: -4240.649, y: -2756.4097, z: 5132.7607}
+        up: {x: -0.2468884, y: 0.92329025, z: 0.29424706}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_ov
+    - camera:
+        position: {x: 302.2211, y: 183.85959, z: -281.53253}
+        lookAt: {x: -4240.649, y: -2756.4097, z: 5132.7607}
+        up: {x: -0.2468884, y: 0.92329025, z: 0.29424706}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: obq_massing
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#1
+    100004: Component#1 1
+    100006: Component#1 10
+    100008: Component#1 100
+    100010: Component#1 101
+    100012: Component#1 102
+    100014: Component#1 103
+    100016: Component#1 104
+    100018: Component#1 105
+    100020: Component#1 106
+    100022: Component#1 107
+    100024: Component#1 108
+    100026: Component#1 109
+    100028: Component#1 11
+    100030: Component#1 110
+    100032: Component#1 111
+    100034: Component#1 112
+    100036: Component#1 113
+    100038: Component#1 114
+    100040: Component#1 115
+    100042: Component#1 116
+    100044: Component#1 117
+    100046: Component#1 118
+    100048: Component#1 119
+    100050: Component#1 12
+    100052: Component#1 120
+    100054: Component#1 121
+    100056: Component#1 122
+    100058: Component#1 123
+    100060: Component#1 124
+    100062: Component#1 125
+    100064: Component#1 126
+    100066: Component#1 127
+    100068: Component#1 128
+    100070: Component#1 129
+    100072: Component#1 13
+    100074: Component#1 130
+    100076: Component#1 131
+    100078: Component#1 132
+    100080: Component#1 133
+    100082: Component#1 134
+    100084: Component#1 135
+    100086: Component#1 136
+    100088: Component#1 137
+    100090: Component#1 138
+    100092: Component#1 14
+    100094: Component#1 15
+    100096: Component#1 16
+    100098: Component#1 17
+    100100: Component#1 18
+    100102: Component#1 19
+    100104: Component#1 2
+    100106: Component#1 20
+    100108: Component#1 21
+    100110: Component#1 22
+    100112: Component#1 23
+    100114: Component#1 24
+    100116: Component#1 25
+    100118: Component#1 26
+    100120: Component#1 27
+    100122: Component#1 28
+    100124: Component#1 29
+    100126: Component#1 3
+    100128: Component#1 30
+    100130: Component#1 31
+    100132: Component#1 32
+    100134: Component#1 33
+    100136: Component#1 34
+    100138: Component#1 35
+    100140: Component#1 36
+    100142: Component#1 37
+    100144: Component#1 38
+    100146: Component#1 39
+    100148: Component#1 4
+    100150: Component#1 40
+    100152: Component#1 41
+    100154: Component#1 42
+    100156: Component#1 43
+    100158: Component#1 44
+    100160: Component#1 45
+    100162: Component#1 46
+    100164: Component#1 47
+    100166: Component#1 48
+    100168: Component#1 49
+    100170: Component#1 5
+    100172: Component#1 50
+    100174: Component#1 51
+    100176: Component#1 52
+    100178: Component#1 53
+    100180: Component#1 54
+    100182: Component#1 55
+    100184: Component#1 56
+    100186: Component#1 57
+    100188: Component#1 58
+    100190: Component#1 59
+    100192: Component#1 6
+    100194: Component#1 60
+    100196: Component#1 61
+    100198: Component#1 62
+    100200: Component#1 63
+    100202: Component#1 64
+    100204: Component#1 65
+    100206: Component#1 66
+    100208: Component#1 67
+    100210: Component#1 68
+    100212: Component#1 69
+    100214: Component#1 7
+    100216: Component#1 70
+    100218: Component#1 71
+    100220: Component#1 72
+    100222: Component#1 73
+    100224: Component#1 74
+    100226: Component#1 75
+    100228: Component#1 76
+    100230: Component#1 77
+    100232: Component#1 78
+    100234: Component#1 79
+    100236: Component#1 8
+    100238: Component#1 80
+    100240: Component#1 81
+    100242: Component#1 82
+    100244: Component#1 83
+    100246: Component#1 84
+    100248: Component#1 85
+    100250: Component#1 86
+    100252: Component#1 87
+    100254: Component#1 88
+    100256: Component#1 89
+    100258: Component#1 9
+    100260: Component#1 90
+    100262: Component#1 91
+    100264: Component#1 92
+    100266: Component#1 93
+    100268: Component#1 94
+    100270: Component#1 95
+    100272: Component#1 96
+    100274: Component#1 97
+    100276: Component#1 98
+    100278: Component#1 99
+    100280: Component#3
+    100282: Component#3 1
+    100284: Component#3 2
+    100286: Component#3 3
+    100288: conifer-lg
+    100290: conifer-lg 1
+    100292: conifer-lg 2
+    100294: conifer-lg 3
+    100296: conifer-lg 4
+    100298: conifer-lg 5
+    100300: conifer-med
+    100302: conifer-med 1
+    100304: conifer-med 2
+    100306: conifer-med 3
+    100308: conifier-sm
+    100310: conifier-sm 1
+    100312: conifier-sm 10
+    100314: conifier-sm 11
+    100316: conifier-sm 12
+    100318: conifier-sm 13
+    100320: conifier-sm 2
+    100322: conifier-sm 3
+    100324: conifier-sm 4
+    100326: conifier-sm 5
+    100328: conifier-sm 6
+    100330: conifier-sm 7
+    100332: conifier-sm 8
+    100334: conifier-sm 9
+    100336: Group 12
+    100338: Group 14
+    100340: Group 16
+    100342: Group 18
+    100344: Group 20
+    100346: Group 22
+    100348: Group 24
+    100350: Group 26
+    100352: Group 28
+    100354: Group 30
+    100356: Group 32
+    100358: Group 49
+    100360: Image 1
+    100362: rounded-med
+    100364: rounded-med 1
+    100366: rounded-med 2
+    100368: rounded-med 3
+    100370: rounded-med 4
+    100372: rounded-med 5
+    100374: rounded-med 6
+    100376: rounded-med 7
+    100378: rounded-med 8
+    100380: rounded-sm
+    100382: rounded-sm 1
+    100384: rounded-sm 10
+    100386: rounded-sm 11
+    100388: rounded-sm 12
+    100390: rounded-sm 13
+    100392: rounded-sm 14
+    100394: rounded-sm 15
+    100396: rounded-sm 16
+    100398: rounded-sm 17
+    100400: rounded-sm 18
+    100402: rounded-sm 19
+    100404: rounded-sm 2
+    100406: rounded-sm 20
+    100408: rounded-sm 21
+    100410: rounded-sm 22
+    100412: rounded-sm 23
+    100414: rounded-sm 24
+    100416: rounded-sm 25
+    100418: rounded-sm 26
+    100420: rounded-sm 27
+    100422: rounded-sm 28
+    100424: rounded-sm 29
+    100426: rounded-sm 3
+    100428: rounded-sm 30
+    100430: rounded-sm 31
+    100432: rounded-sm 32
+    100434: rounded-sm 33
+    100436: rounded-sm 34
+    100438: rounded-sm 35
+    100440: rounded-sm 36
+    100442: rounded-sm 37
+    100444: rounded-sm 38
+    100446: rounded-sm 39
+    100448: rounded-sm 4
+    100450: rounded-sm 40
+    100452: rounded-sm 5
+    100454: rounded-sm 6
+    100456: rounded-sm 7
+    100458: rounded-sm 8
+    100460: rounded-sm 9
+    100462: scale_obq
+    400000: //RootNode
+    400002: Component#1
+    400004: Component#1 1
+    400006: Component#1 10
+    400008: Component#1 100
+    400010: Component#1 101
+    400012: Component#1 102
+    400014: Component#1 103
+    400016: Component#1 104
+    400018: Component#1 105
+    400020: Component#1 106
+    400022: Component#1 107
+    400024: Component#1 108
+    400026: Component#1 109
+    400028: Component#1 11
+    400030: Component#1 110
+    400032: Component#1 111
+    400034: Component#1 112
+    400036: Component#1 113
+    400038: Component#1 114
+    400040: Component#1 115
+    400042: Component#1 116
+    400044: Component#1 117
+    400046: Component#1 118
+    400048: Component#1 119
+    400050: Component#1 12
+    400052: Component#1 120
+    400054: Component#1 121
+    400056: Component#1 122
+    400058: Component#1 123
+    400060: Component#1 124
+    400062: Component#1 125
+    400064: Component#1 126
+    400066: Component#1 127
+    400068: Component#1 128
+    400070: Component#1 129
+    400072: Component#1 13
+    400074: Component#1 130
+    400076: Component#1 131
+    400078: Component#1 132
+    400080: Component#1 133
+    400082: Component#1 134
+    400084: Component#1 135
+    400086: Component#1 136
+    400088: Component#1 137
+    400090: Component#1 138
+    400092: Component#1 14
+    400094: Component#1 15
+    400096: Component#1 16
+    400098: Component#1 17
+    400100: Component#1 18
+    400102: Component#1 19
+    400104: Component#1 2
+    400106: Component#1 20
+    400108: Component#1 21
+    400110: Component#1 22
+    400112: Component#1 23
+    400114: Component#1 24
+    400116: Component#1 25
+    400118: Component#1 26
+    400120: Component#1 27
+    400122: Component#1 28
+    400124: Component#1 29
+    400126: Component#1 3
+    400128: Component#1 30
+    400130: Component#1 31
+    400132: Component#1 32
+    400134: Component#1 33
+    400136: Component#1 34
+    400138: Component#1 35
+    400140: Component#1 36
+    400142: Component#1 37
+    400144: Component#1 38
+    400146: Component#1 39
+    400148: Component#1 4
+    400150: Component#1 40
+    400152: Component#1 41
+    400154: Component#1 42
+    400156: Component#1 43
+    400158: Component#1 44
+    400160: Component#1 45
+    400162: Component#1 46
+    400164: Component#1 47
+    400166: Component#1 48
+    400168: Component#1 49
+    400170: Component#1 5
+    400172: Component#1 50
+    400174: Component#1 51
+    400176: Component#1 52
+    400178: Component#1 53
+    400180: Component#1 54
+    400182: Component#1 55
+    400184: Component#1 56
+    400186: Component#1 57
+    400188: Component#1 58
+    400190: Component#1 59
+    400192: Component#1 6
+    400194: Component#1 60
+    400196: Component#1 61
+    400198: Component#1 62
+    400200: Component#1 63
+    400202: Component#1 64
+    400204: Component#1 65
+    400206: Component#1 66
+    400208: Component#1 67
+    400210: Component#1 68
+    400212: Component#1 69
+    400214: Component#1 7
+    400216: Component#1 70
+    400218: Component#1 71
+    400220: Component#1 72
+    400222: Component#1 73
+    400224: Component#1 74
+    400226: Component#1 75
+    400228: Component#1 76
+    400230: Component#1 77
+    400232: Component#1 78
+    400234: Component#1 79
+    400236: Component#1 8
+    400238: Component#1 80
+    400240: Component#1 81
+    400242: Component#1 82
+    400244: Component#1 83
+    400246: Component#1 84
+    400248: Component#1 85
+    400250: Component#1 86
+    400252: Component#1 87
+    400254: Component#1 88
+    400256: Component#1 89
+    400258: Component#1 9
+    400260: Component#1 90
+    400262: Component#1 91
+    400264: Component#1 92
+    400266: Component#1 93
+    400268: Component#1 94
+    400270: Component#1 95
+    400272: Component#1 96
+    400274: Component#1 97
+    400276: Component#1 98
+    400278: Component#1 99
+    400280: Component#3
+    400282: Component#3 1
+    400284: Component#3 2
+    400286: Component#3 3
+    400288: conifer-lg
+    400290: conifer-lg 1
+    400292: conifer-lg 2
+    400294: conifer-lg 3
+    400296: conifer-lg 4
+    400298: conifer-lg 5
+    400300: conifer-med
+    400302: conifer-med 1
+    400304: conifer-med 2
+    400306: conifer-med 3
+    400308: conifier-sm
+    400310: conifier-sm 1
+    400312: conifier-sm 10
+    400314: conifier-sm 11
+    400316: conifier-sm 12
+    400318: conifier-sm 13
+    400320: conifier-sm 2
+    400322: conifier-sm 3
+    400324: conifier-sm 4
+    400326: conifier-sm 5
+    400328: conifier-sm 6
+    400330: conifier-sm 7
+    400332: conifier-sm 8
+    400334: conifier-sm 9
+    400336: Group 12
+    400338: Group 14
+    400340: Group 16
+    400342: Group 18
+    400344: Group 20
+    400346: Group 22
+    400348: Group 24
+    400350: Group 26
+    400352: Group 28
+    400354: Group 30
+    400356: Group 32
+    400358: Group 49
+    400360: Image 1
+    400362: rounded-med
+    400364: rounded-med 1
+    400366: rounded-med 2
+    400368: rounded-med 3
+    400370: rounded-med 4
+    400372: rounded-med 5
+    400374: rounded-med 6
+    400376: rounded-med 7
+    400378: rounded-med 8
+    400380: rounded-sm
+    400382: rounded-sm 1
+    400384: rounded-sm 10
+    400386: rounded-sm 11
+    400388: rounded-sm 12
+    400390: rounded-sm 13
+    400392: rounded-sm 14
+    400394: rounded-sm 15
+    400396: rounded-sm 16
+    400398: rounded-sm 17
+    400400: rounded-sm 18
+    400402: rounded-sm 19
+    400404: rounded-sm 2
+    400406: rounded-sm 20
+    400408: rounded-sm 21
+    400410: rounded-sm 22
+    400412: rounded-sm 23
+    400414: rounded-sm 24
+    400416: rounded-sm 25
+    400418: rounded-sm 26
+    400420: rounded-sm 27
+    400422: rounded-sm 28
+    400424: rounded-sm 29
+    400426: rounded-sm 3
+    400428: rounded-sm 30
+    400430: rounded-sm 31
+    400432: rounded-sm 32
+    400434: rounded-sm 33
+    400436: rounded-sm 34
+    400438: rounded-sm 35
+    400440: rounded-sm 36
+    400442: rounded-sm 37
+    400444: rounded-sm 38
+    400446: rounded-sm 39
+    400448: rounded-sm 4
+    400450: rounded-sm 40
+    400452: rounded-sm 5
+    400454: rounded-sm 6
+    400456: rounded-sm 7
+    400458: rounded-sm 8
+    400460: rounded-sm 9
+    400462: scale_obq
+    2100000: _defaultMat
+    2100002: Material 1
+    2100004: OV_paving_vehicle
+    2100006: OV_shrub_solid
+    2100008: OV_paving_pedestrian
+    2100010: 0_label
+    2100012: OV_shrub_texture1
+    2100014: OV_surface_other
+    2100016: OV_shrub_texture16
+    2100018: OV_shrub_texture6
+    2100020: OV_shrub_texture7
+    2100022: OV_shrub_texture18
+    2100024: OV_shrub_texture4
+    2100026: OV_shrub_texture2
+    2100028: OV_shrub_texture3
+    2100030: OV_shrub_texture10
+    2100032: OV_shrub_texture9
+    2100034: OV_shrub_texture11
+    2100036: OV_shrub_texture12
+    2100038: OV_shrub_texture13
+    2100040: OV_shrub_texture14
+    2100042: OV_shrub_texture17
+    2100044: LightCaseApertureGlass
+    2100046: OV_bldg_wall
+    2100048: OV_bldg_roof
+    2100050: conifertree1
+    2100052: mapletree
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 10
+    2300006: Component#1 100
+    2300008: Component#1 101
+    2300010: Component#1 102
+    2300012: Component#1 103
+    2300014: Component#1 104
+    2300016: Component#1 105
+    2300018: Component#1 106
+    2300020: Component#1 107
+    2300022: Component#1 108
+    2300024: Component#1 109
+    2300026: Component#1 11
+    2300028: Component#1 110
+    2300030: Component#1 111
+    2300032: Component#1 112
+    2300034: Component#1 113
+    2300036: Component#1 114
+    2300038: Component#1 115
+    2300040: Component#1 116
+    2300042: Component#1 117
+    2300044: Component#1 118
+    2300046: Component#1 119
+    2300048: Component#1 12
+    2300050: Component#1 120
+    2300052: Component#1 121
+    2300054: Component#1 122
+    2300056: Component#1 123
+    2300058: Component#1 124
+    2300060: Component#1 125
+    2300062: Component#1 126
+    2300064: Component#1 127
+    2300066: Component#1 128
+    2300068: Component#1 129
+    2300070: Component#1 13
+    2300072: Component#1 130
+    2300074: Component#1 131
+    2300076: Component#1 132
+    2300078: Component#1 133
+    2300080: Component#1 134
+    2300082: Component#1 135
+    2300084: Component#1 136
+    2300086: Component#1 137
+    2300088: Component#1 138
+    2300090: Component#1 14
+    2300092: Component#1 15
+    2300094: Component#1 16
+    2300096: Component#1 17
+    2300098: Component#1 18
+    2300100: Component#1 19
+    2300102: Component#1 2
+    2300104: Component#1 20
+    2300106: Component#1 21
+    2300108: Component#1 22
+    2300110: Component#1 23
+    2300112: Component#1 24
+    2300114: Component#1 25
+    2300116: Component#1 26
+    2300118: Component#1 27
+    2300120: Component#1 28
+    2300122: Component#1 29
+    2300124: Component#1 3
+    2300126: Component#1 30
+    2300128: Component#1 31
+    2300130: Component#1 32
+    2300132: Component#1 33
+    2300134: Component#1 34
+    2300136: Component#1 35
+    2300138: Component#1 36
+    2300140: Component#1 37
+    2300142: Component#1 38
+    2300144: Component#1 39
+    2300146: Component#1 4
+    2300148: Component#1 40
+    2300150: Component#1 41
+    2300152: Component#1 42
+    2300154: Component#1 43
+    2300156: Component#1 44
+    2300158: Component#1 45
+    2300160: Component#1 46
+    2300162: Component#1 47
+    2300164: Component#1 48
+    2300166: Component#1 49
+    2300168: Component#1 5
+    2300170: Component#1 50
+    2300172: Component#1 51
+    2300174: Component#1 52
+    2300176: Component#1 53
+    2300178: Component#1 54
+    2300180: Component#1 55
+    2300182: Component#1 56
+    2300184: Component#1 57
+    2300186: Component#1 58
+    2300188: Component#1 59
+    2300190: Component#1 6
+    2300192: Component#1 60
+    2300194: Component#1 61
+    2300196: Component#1 62
+    2300198: Component#1 63
+    2300200: Component#1 64
+    2300202: Component#1 65
+    2300204: Component#1 66
+    2300206: Component#1 67
+    2300208: Component#1 68
+    2300210: Component#1 69
+    2300212: Component#1 7
+    2300214: Component#1 70
+    2300216: Component#1 71
+    2300218: Component#1 72
+    2300220: Component#1 73
+    2300222: Component#1 74
+    2300224: Component#1 75
+    2300226: Component#1 76
+    2300228: Component#1 77
+    2300230: Component#1 78
+    2300232: Component#1 79
+    2300234: Component#1 8
+    2300236: Component#1 80
+    2300238: Component#1 81
+    2300240: Component#1 82
+    2300242: Component#1 83
+    2300244: Component#1 84
+    2300246: Component#1 85
+    2300248: Component#1 86
+    2300250: Component#1 87
+    2300252: Component#1 88
+    2300254: Component#1 89
+    2300256: Component#1 9
+    2300258: Component#1 90
+    2300260: Component#1 91
+    2300262: Component#1 92
+    2300264: Component#1 93
+    2300266: Component#1 94
+    2300268: Component#1 95
+    2300270: Component#1 96
+    2300272: Component#1 97
+    2300274: Component#1 98
+    2300276: Component#1 99
+    2300278: Component#3
+    2300280: Component#3 1
+    2300282: Component#3 2
+    2300284: Component#3 3
+    2300286: conifer-lg
+    2300288: conifer-lg 1
+    2300290: conifer-lg 2
+    2300292: conifer-lg 3
+    2300294: conifer-lg 4
+    2300296: conifer-lg 5
+    2300298: conifer-med
+    2300300: conifer-med 1
+    2300302: conifer-med 2
+    2300304: conifer-med 3
+    2300306: conifier-sm
+    2300308: conifier-sm 1
+    2300310: conifier-sm 10
+    2300312: conifier-sm 11
+    2300314: conifier-sm 12
+    2300316: conifier-sm 13
+    2300318: conifier-sm 2
+    2300320: conifier-sm 3
+    2300322: conifier-sm 4
+    2300324: conifier-sm 5
+    2300326: conifier-sm 6
+    2300328: conifier-sm 7
+    2300330: conifier-sm 8
+    2300332: conifier-sm 9
+    2300334: Group 12
+    2300336: Group 14
+    2300338: Group 16
+    2300340: Group 18
+    2300342: Group 20
+    2300344: Group 22
+    2300346: Group 24
+    2300348: Group 26
+    2300350: Group 28
+    2300352: Group 30
+    2300354: Image 1
+    2300356: rounded-med
+    2300358: rounded-med 1
+    2300360: rounded-med 2
+    2300362: rounded-med 3
+    2300364: rounded-med 4
+    2300366: rounded-med 5
+    2300368: rounded-med 6
+    2300370: rounded-med 7
+    2300372: rounded-med 8
+    2300374: rounded-sm
+    2300376: rounded-sm 1
+    2300378: rounded-sm 10
+    2300380: rounded-sm 11
+    2300382: rounded-sm 12
+    2300384: rounded-sm 13
+    2300386: rounded-sm 14
+    2300388: rounded-sm 15
+    2300390: rounded-sm 16
+    2300392: rounded-sm 17
+    2300394: rounded-sm 18
+    2300396: rounded-sm 19
+    2300398: rounded-sm 2
+    2300400: rounded-sm 20
+    2300402: rounded-sm 21
+    2300404: rounded-sm 22
+    2300406: rounded-sm 23
+    2300408: rounded-sm 24
+    2300410: rounded-sm 25
+    2300412: rounded-sm 26
+    2300414: rounded-sm 27
+    2300416: rounded-sm 28
+    2300418: rounded-sm 29
+    2300420: rounded-sm 3
+    2300422: rounded-sm 30
+    2300424: rounded-sm 31
+    2300426: rounded-sm 32
+    2300428: rounded-sm 33
+    2300430: rounded-sm 34
+    2300432: rounded-sm 35
+    2300434: rounded-sm 36
+    2300436: rounded-sm 37
+    2300438: rounded-sm 38
+    2300440: rounded-sm 39
+    2300442: rounded-sm 4
+    2300444: rounded-sm 40
+    2300446: rounded-sm 5
+    2300448: rounded-sm 6
+    2300450: rounded-sm 7
+    2300452: rounded-sm 8
+    2300454: rounded-sm 9
+    2300456: scale_obq
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 10
+    3300006: Component#1 100
+    3300008: Component#1 101
+    3300010: Component#1 102
+    3300012: Component#1 103
+    3300014: Component#1 104
+    3300016: Component#1 105
+    3300018: Component#1 106
+    3300020: Component#1 107
+    3300022: Component#1 108
+    3300024: Component#1 109
+    3300026: Component#1 11
+    3300028: Component#1 110
+    3300030: Component#1 111
+    3300032: Component#1 112
+    3300034: Component#1 113
+    3300036: Component#1 114
+    3300038: Component#1 115
+    3300040: Component#1 116
+    3300042: Component#1 117
+    3300044: Component#1 118
+    3300046: Component#1 119
+    3300048: Component#1 12
+    3300050: Component#1 120
+    3300052: Component#1 121
+    3300054: Component#1 122
+    3300056: Component#1 123
+    3300058: Component#1 124
+    3300060: Component#1 125
+    3300062: Component#1 126
+    3300064: Component#1 127
+    3300066: Component#1 128
+    3300068: Component#1 129
+    3300070: Component#1 13
+    3300072: Component#1 130
+    3300074: Component#1 131
+    3300076: Component#1 132
+    3300078: Component#1 133
+    3300080: Component#1 134
+    3300082: Component#1 135
+    3300084: Component#1 136
+    3300086: Component#1 137
+    3300088: Component#1 138
+    3300090: Component#1 14
+    3300092: Component#1 15
+    3300094: Component#1 16
+    3300096: Component#1 17
+    3300098: Component#1 18
+    3300100: Component#1 19
+    3300102: Component#1 2
+    3300104: Component#1 20
+    3300106: Component#1 21
+    3300108: Component#1 22
+    3300110: Component#1 23
+    3300112: Component#1 24
+    3300114: Component#1 25
+    3300116: Component#1 26
+    3300118: Component#1 27
+    3300120: Component#1 28
+    3300122: Component#1 29
+    3300124: Component#1 3
+    3300126: Component#1 30
+    3300128: Component#1 31
+    3300130: Component#1 32
+    3300132: Component#1 33
+    3300134: Component#1 34
+    3300136: Component#1 35
+    3300138: Component#1 36
+    3300140: Component#1 37
+    3300142: Component#1 38
+    3300144: Component#1 39
+    3300146: Component#1 4
+    3300148: Component#1 40
+    3300150: Component#1 41
+    3300152: Component#1 42
+    3300154: Component#1 43
+    3300156: Component#1 44
+    3300158: Component#1 45
+    3300160: Component#1 46
+    3300162: Component#1 47
+    3300164: Component#1 48
+    3300166: Component#1 49
+    3300168: Component#1 5
+    3300170: Component#1 50
+    3300172: Component#1 51
+    3300174: Component#1 52
+    3300176: Component#1 53
+    3300178: Component#1 54
+    3300180: Component#1 55
+    3300182: Component#1 56
+    3300184: Component#1 57
+    3300186: Component#1 58
+    3300188: Component#1 59
+    3300190: Component#1 6
+    3300192: Component#1 60
+    3300194: Component#1 61
+    3300196: Component#1 62
+    3300198: Component#1 63
+    3300200: Component#1 64
+    3300202: Component#1 65
+    3300204: Component#1 66
+    3300206: Component#1 67
+    3300208: Component#1 68
+    3300210: Component#1 69
+    3300212: Component#1 7
+    3300214: Component#1 70
+    3300216: Component#1 71
+    3300218: Component#1 72
+    3300220: Component#1 73
+    3300222: Component#1 74
+    3300224: Component#1 75
+    3300226: Component#1 76
+    3300228: Component#1 77
+    3300230: Component#1 78
+    3300232: Component#1 79
+    3300234: Component#1 8
+    3300236: Component#1 80
+    3300238: Component#1 81
+    3300240: Component#1 82
+    3300242: Component#1 83
+    3300244: Component#1 84
+    3300246: Component#1 85
+    3300248: Component#1 86
+    3300250: Component#1 87
+    3300252: Component#1 88
+    3300254: Component#1 89
+    3300256: Component#1 9
+    3300258: Component#1 90
+    3300260: Component#1 91
+    3300262: Component#1 92
+    3300264: Component#1 93
+    3300266: Component#1 94
+    3300268: Component#1 95
+    3300270: Component#1 96
+    3300272: Component#1 97
+    3300274: Component#1 98
+    3300276: Component#1 99
+    3300278: Component#3
+    3300280: Component#3 1
+    3300282: Component#3 2
+    3300284: Component#3 3
+    3300286: conifer-lg
+    3300288: conifer-lg 1
+    3300290: conifer-lg 2
+    3300292: conifer-lg 3
+    3300294: conifer-lg 4
+    3300296: conifer-lg 5
+    3300298: conifer-med
+    3300300: conifer-med 1
+    3300302: conifer-med 2
+    3300304: conifer-med 3
+    3300306: conifier-sm
+    3300308: conifier-sm 1
+    3300310: conifier-sm 10
+    3300312: conifier-sm 11
+    3300314: conifier-sm 12
+    3300316: conifier-sm 13
+    3300318: conifier-sm 2
+    3300320: conifier-sm 3
+    3300322: conifier-sm 4
+    3300324: conifier-sm 5
+    3300326: conifier-sm 6
+    3300328: conifier-sm 7
+    3300330: conifier-sm 8
+    3300332: conifier-sm 9
+    3300334: Group 12
+    3300336: Group 14
+    3300338: Group 16
+    3300340: Group 18
+    3300342: Group 20
+    3300344: Group 22
+    3300346: Group 24
+    3300348: Group 26
+    3300350: Group 28
+    3300352: Group 30
+    3300354: Image 1
+    3300356: rounded-med
+    3300358: rounded-med 1
+    3300360: rounded-med 2
+    3300362: rounded-med 3
+    3300364: rounded-med 4
+    3300366: rounded-med 5
+    3300368: rounded-med 6
+    3300370: rounded-med 7
+    3300372: rounded-med 8
+    3300374: rounded-sm
+    3300376: rounded-sm 1
+    3300378: rounded-sm 10
+    3300380: rounded-sm 11
+    3300382: rounded-sm 12
+    3300384: rounded-sm 13
+    3300386: rounded-sm 14
+    3300388: rounded-sm 15
+    3300390: rounded-sm 16
+    3300392: rounded-sm 17
+    3300394: rounded-sm 18
+    3300396: rounded-sm 19
+    3300398: rounded-sm 2
+    3300400: rounded-sm 20
+    3300402: rounded-sm 21
+    3300404: rounded-sm 22
+    3300406: rounded-sm 23
+    3300408: rounded-sm 24
+    3300410: rounded-sm 25
+    3300412: rounded-sm 26
+    3300414: rounded-sm 27
+    3300416: rounded-sm 28
+    3300418: rounded-sm 29
+    3300420: rounded-sm 3
+    3300422: rounded-sm 30
+    3300424: rounded-sm 31
+    3300426: rounded-sm 32
+    3300428: rounded-sm 33
+    3300430: rounded-sm 34
+    3300432: rounded-sm 35
+    3300434: rounded-sm 36
+    3300436: rounded-sm 37
+    3300438: rounded-sm 38
+    3300440: rounded-sm 39
+    3300442: rounded-sm 4
+    3300444: rounded-sm 40
+    3300446: rounded-sm 5
+    3300448: rounded-sm 6
+    3300450: rounded-sm 7
+    3300452: rounded-sm 8
+    3300454: rounded-sm 9
+    3300456: scale_obq
+    4300000: Mesh 51009-00
+    4300002: Mesh Group 12
+    4300004: Mesh Group 14
+    4300006: Mesh Group 16
+    4300008: Mesh Group 18
+    4300010: Mesh Group 20
+    4300012: Mesh Group 22
+    4300014: Mesh Group 24
+    4300016: Mesh Group 26
+    4300018: Mesh Group 28
+    4300020: Mesh Component#1
+    4300022: Mesh Component#3
+    4300024: Mesh scale_obq
+    4300026: Mesh conifer-lg
+    4300028: Mesh rounded-med
+    4300030: Mesh conifer-med
+    4300032: Mesh rounded-sm
+    4300034: Mesh conifier-sm
+    6400000: Component#1
+    6400002: Component#1 1
+    6400004: Component#1 10
+    6400006: Component#1 100
+    6400008: Component#1 101
+    6400010: Component#1 102
+    6400012: Component#1 103
+    6400014: Component#1 104
+    6400016: Component#1 105
+    6400018: Component#1 106
+    6400020: Component#1 107
+    6400022: Component#1 108
+    6400024: Component#1 109
+    6400026: Component#1 11
+    6400028: Component#1 110
+    6400030: Component#1 111
+    6400032: Component#1 112
+    6400034: Component#1 113
+    6400036: Component#1 114
+    6400038: Component#1 115
+    6400040: Component#1 116
+    6400042: Component#1 117
+    6400044: Component#1 118
+    6400046: Component#1 119
+    6400048: Component#1 12
+    6400050: Component#1 120
+    6400052: Component#1 121
+    6400054: Component#1 122
+    6400056: Component#1 123
+    6400058: Component#1 124
+    6400060: Component#1 125
+    6400062: Component#1 126
+    6400064: Component#1 127
+    6400066: Component#1 128
+    6400068: Component#1 129
+    6400070: Component#1 13
+    6400072: Component#1 130
+    6400074: Component#1 131
+    6400076: Component#1 132
+    6400078: Component#1 133
+    6400080: Component#1 134
+    6400082: Component#1 135
+    6400084: Component#1 136
+    6400086: Component#1 137
+    6400088: Component#1 138
+    6400090: Component#1 14
+    6400092: Component#1 15
+    6400094: Component#1 16
+    6400096: Component#1 17
+    6400098: Component#1 18
+    6400100: Component#1 19
+    6400102: Component#1 2
+    6400104: Component#1 20
+    6400106: Component#1 21
+    6400108: Component#1 22
+    6400110: Component#1 23
+    6400112: Component#1 24
+    6400114: Component#1 25
+    6400116: Component#1 26
+    6400118: Component#1 27
+    6400120: Component#1 28
+    6400122: Component#1 29
+    6400124: Component#1 3
+    6400126: Component#1 30
+    6400128: Component#1 31
+    6400130: Component#1 32
+    6400132: Component#1 33
+    6400134: Component#1 34
+    6400136: Component#1 35
+    6400138: Component#1 36
+    6400140: Component#1 37
+    6400142: Component#1 38
+    6400144: Component#1 39
+    6400146: Component#1 4
+    6400148: Component#1 40
+    6400150: Component#1 41
+    6400152: Component#1 42
+    6400154: Component#1 43
+    6400156: Component#1 44
+    6400158: Component#1 45
+    6400160: Component#1 46
+    6400162: Component#1 47
+    6400164: Component#1 48
+    6400166: Component#1 49
+    6400168: Component#1 5
+    6400170: Component#1 50
+    6400172: Component#1 51
+    6400174: Component#1 52
+    6400176: Component#1 53
+    6400178: Component#1 54
+    6400180: Component#1 55
+    6400182: Component#1 56
+    6400184: Component#1 57
+    6400186: Component#1 58
+    6400188: Component#1 59
+    6400190: Component#1 6
+    6400192: Component#1 60
+    6400194: Component#1 61
+    6400196: Component#1 62
+    6400198: Component#1 63
+    6400200: Component#1 64
+    6400202: Component#1 65
+    6400204: Component#1 66
+    6400206: Component#1 67
+    6400208: Component#1 68
+    6400210: Component#1 69
+    6400212: Component#1 7
+    6400214: Component#1 70
+    6400216: Component#1 71
+    6400218: Component#1 72
+    6400220: Component#1 73
+    6400222: Component#1 74
+    6400224: Component#1 75
+    6400226: Component#1 76
+    6400228: Component#1 77
+    6400230: Component#1 78
+    6400232: Component#1 79
+    6400234: Component#1 8
+    6400236: Component#1 80
+    6400238: Component#1 81
+    6400240: Component#1 82
+    6400242: Component#1 83
+    6400244: Component#1 84
+    6400246: Component#1 85
+    6400248: Component#1 86
+    6400250: Component#1 87
+    6400252: Component#1 88
+    6400254: Component#1 89
+    6400256: Component#1 9
+    6400258: Component#1 90
+    6400260: Component#1 91
+    6400262: Component#1 92
+    6400264: Component#1 93
+    6400266: Component#1 94
+    6400268: Component#1 95
+    6400270: Component#1 96
+    6400272: Component#1 97
+    6400274: Component#1 98
+    6400276: Component#1 99
+    6400278: Component#3
+    6400280: Component#3 1
+    6400282: Component#3 2
+    6400284: Component#3 3
+    6400286: conifer-lg
+    6400288: conifer-lg 1
+    6400290: conifer-lg 2
+    6400292: conifer-lg 3
+    6400294: conifer-lg 4
+    6400296: conifer-lg 5
+    6400298: conifer-med
+    6400300: conifer-med 1
+    6400302: conifer-med 2
+    6400304: conifer-med 3
+    6400306: conifier-sm
+    6400308: conifier-sm 1
+    6400310: conifier-sm 10
+    6400312: conifier-sm 11
+    6400314: conifier-sm 12
+    6400316: conifier-sm 13
+    6400318: conifier-sm 2
+    6400320: conifier-sm 3
+    6400322: conifier-sm 4
+    6400324: conifier-sm 5
+    6400326: conifier-sm 6
+    6400328: conifier-sm 7
+    6400330: conifier-sm 8
+    6400332: conifier-sm 9
+    6400334: Group 12
+    6400336: Group 14
+    6400338: Group 16
+    6400340: Group 18
+    6400342: Group 20
+    6400344: Group 22
+    6400346: Group 24
+    6400348: Group 26
+    6400350: Group 28
+    6400352: Group 30
+    6400354: Image 1
+    6400356: rounded-med
+    6400358: rounded-med 1
+    6400360: rounded-med 2
+    6400362: rounded-med 3
+    6400364: rounded-med 4
+    6400366: rounded-med 5
+    6400368: rounded-med 6
+    6400370: rounded-med 7
+    6400372: rounded-med 8
+    6400374: rounded-sm
+    6400376: rounded-sm 1
+    6400378: rounded-sm 10
+    6400380: rounded-sm 11
+    6400382: rounded-sm 12
+    6400384: rounded-sm 13
+    6400386: rounded-sm 14
+    6400388: rounded-sm 15
+    6400390: rounded-sm 16
+    6400392: rounded-sm 17
+    6400394: rounded-sm 18
+    6400396: rounded-sm 19
+    6400398: rounded-sm 2
+    6400400: rounded-sm 20
+    6400402: rounded-sm 21
+    6400404: rounded-sm 22
+    6400406: rounded-sm 23
+    6400408: rounded-sm 24
+    6400410: rounded-sm 25
+    6400412: rounded-sm 26
+    6400414: rounded-sm 27
+    6400416: rounded-sm 28
+    6400418: rounded-sm 29
+    6400420: rounded-sm 3
+    6400422: rounded-sm 30
+    6400424: rounded-sm 31
+    6400426: rounded-sm 32
+    6400428: rounded-sm 33
+    6400430: rounded-sm 34
+    6400432: rounded-sm 35
+    6400434: rounded-sm 36
+    6400436: rounded-sm 37
+    6400438: rounded-sm 38
+    6400440: rounded-sm 39
+    6400442: rounded-sm 4
+    6400444: rounded-sm 40
+    6400446: rounded-sm 5
+    6400448: rounded-sm 6
+    6400450: rounded-sm 7
+    6400452: rounded-sm 8
+    6400454: rounded-sm 9
+    6400456: scale_obq
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0_label
+    second: {fileID: 2100000, guid: 4f86cc3446bf337499fbcdb32e66f79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightCaseApertureGlass
+    second: {fileID: 2100000, guid: 8a354d8f48be22c41a2fac2e8ca24c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 1
+    second: {fileID: 2100000, guid: bbbfe5dba98d35448bfc47c1303b94d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_roof
+    second: {fileID: 2100000, guid: 21434122005723347b8393ccd395295e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_bldg_wall
+    second: {fileID: 2100000, guid: b9b7100dc05f78349a3aa78aa3a35bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_pedestrian
+    second: {fileID: 2100000, guid: 3cd9f4b4ef7d4484893f6faf53c48ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_paving_vehicle
+    second: {fileID: 2100000, guid: 54d56e50a2164a34581aab8446851156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_solid
+    second: {fileID: 2100000, guid: 36570e7d7481f0841a0dad37aea62f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture1
+    second: {fileID: 2100000, guid: 640d3200f88d5bf489028a6bc4e2cbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture10
+    second: {fileID: 2100000, guid: 24c738afc332b854e94e7dec7c573c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture11
+    second: {fileID: 2100000, guid: fa24ce6299811ed4c94d985f3459f13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture12
+    second: {fileID: 2100000, guid: f746f20aa9edee04d8ef0fe4e486b72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture13
+    second: {fileID: 2100000, guid: 846a16814f2c81e49b2bc8f9a12a72ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture14
+    second: {fileID: 2100000, guid: c0ad9abc6e29304459bc7d265361f746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture16
+    second: {fileID: 2100000, guid: 7ad83bca4d516fa4ca54e3ec78fc5b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture17
+    second: {fileID: 2100000, guid: ff24aecda47e1724fb9d7dd145f8fafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture18
+    second: {fileID: 2100000, guid: db119852d9cda064796e9244fe1a16db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture2
+    second: {fileID: 2100000, guid: 3ec1476de9d1b18418eb75865530fb32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture3
+    second: {fileID: 2100000, guid: edcac959b1a4b314baabd9f4b03166b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture4
+    second: {fileID: 2100000, guid: 8ccf4856ad339484ea71bcb2022ec0ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture6
+    second: {fileID: 2100000, guid: dd701beb58f89b64f904eec3684021eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture7
+    second: {fileID: 2100000, guid: ed4aad18728408244a0cbb1d6f1f588b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_shrub_texture9
+    second: {fileID: 2100000, guid: 840fdce855d01714dbb8bee98eab653c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OV_surface_other
+    second: {fileID: 2100000, guid: 3d64225221a82214c9e0cfe8c12bdbbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: cd3b5c3935fcfb846a0f427cf37824a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conifertree1
+    second: {fileID: 2100000, guid: 5406fcd0fdba5804b9d0ef42857c7242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mapletree
+    second: {fileID: 2100000, guid: 5d8eac200dfa1fa49aeb69bf17577311, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
