@@ -27,5 +27,5 @@ The application takes advantage of several tools meant to enhance the design pro
 
 **To learn more about the project, visit the [Esri Canada Centres of Excellence Blog Post](bit.ly/geodesign_touchtable)**
 
-**To see the features in use, [watch the YouTube video](https://www.youtube.com/watch?v=sTMbcXf5gr4&feature=youtu.be)**
+**To see the features in use, [watch the YouTube video](https://www.youtube.com/watch?v=sTMbcXf5gr4)**
 
